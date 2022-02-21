@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = c0b2ef1091bd10027937d8f9d9623128
+download = 94352aa670351a6e357546c79c1d3ee0
+install = 2995501b1abb7b2383a7ff71c92b3e0c
+encoding = 42edb8fc4b9bd4d34664a35694764657 ed58957c8777add5285a04ebfc4a78bf
+encoding-size = 51464103 51418563
+build-name = WOW-19802patch6.1.2_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = 1174dd198bc5f7648839d18f321b7ed8
+patch-size = 14376335
+patch-config = d0810dc666492b125ff0b4e919bc57ce
+

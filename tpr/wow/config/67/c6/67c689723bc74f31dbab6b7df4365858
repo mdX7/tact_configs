@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 585dfd1de756e3e80428a8e70f1254f6
+download = 071a54ce7a4143ec0e16f1a493968d56
+install = f628872232e6bc60eafee25911a8ed11
+encoding = c72136bd47d3ae2b6a89e647dd8c48fd 1734f2f5b530d65ac2336e062423187c
+encoding-size = 52536975 52486031
+build-name = WOW-20141patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = c8ee0d3dcb7bf07980dee74750198b78
+patch-size = 14918431
+patch-config = d30668571bc24f8ab01e5e5c2163cc21
+

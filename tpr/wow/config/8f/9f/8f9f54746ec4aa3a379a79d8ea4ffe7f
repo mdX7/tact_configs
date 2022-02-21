@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = fc676d02a4c2c3bfc2598d4d59e28791
+download = 15a66ab01a6b1bd2321bf1fbf6f10461
+install = c8fb0512ae04273ab1e00e57b0255931
+encoding = bbcc2ead82ee6ff5c0c8c5c75dd77f8c 68c387e2880a02bccfaaca0bf4e303cd
+encoding-size = 52526301 52479487
+build-name = WOW-20104patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = 53fae7d464ac9e6f5f279ed1999ae00b
+patch-size = 14918135
+patch-config = b5943076953a86bc60e7273d56fab85b
+

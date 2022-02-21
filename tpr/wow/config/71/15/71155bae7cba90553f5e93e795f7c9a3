@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = eba54d1bcd5f0e0c470e278cb362fa73
+install = ce386e24fa85da8295870d0b62049856 5216dff3c256643ff43b90acb3a4e8d1
+install-size = 10563 10302
+download = f520d52b97876590bb5243e9d86ab1ae 7e0d736fe338b8292e94304fd8a6c8a6
+download-size = 6102751 5519446
+size = 409b3a38ea8163339f06c94fdc92c22b f6a8568acd5c91e3d6e2b5da11a7639f
+size-size = 3242970 2873926
+encoding = d2d1f89dbc0eecc6463b01ca8ab3a8b0 e6ca7a98dd35b620ebab72eca3286dd1
+encoding-size = 13063548 13061895
+patch = 81ea694b5b1e502f7351ed42810c1a5c
+patch-size = 3330087
+patch-config = 845614da2c02d7773278792a167a0a95
+build-name = WOW-31043patch1.13.2_Beta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

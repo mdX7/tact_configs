@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 4e8def48b9fefe34dcbee29c37e6a83e
+download = dc80d6e44fba489cca321b55c843e675
+install = c0e6079bac7c0f6f7f54a58058d1f929
+encoding = e22c8253f4d698cfeca2631f12fe99d1 00cd417f9bea1627cf679d5cb1060e54
+encoding-size = 51719386 51676860
+build-name = WOW-18989patch6.0.2_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+

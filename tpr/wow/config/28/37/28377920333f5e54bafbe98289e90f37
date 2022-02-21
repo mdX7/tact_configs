@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 7f969b0cf6df5f363bf520c04bd5bcf3
+download = 5105c7bdb897b8a9b5cff639a2fe6f88
+install = c96ba1f4eefb48ebede33c56c24e7528
+encoding = ca9633fc202091b701257b29ffad7d0c 3d7bb95f0b7e0131869f3267b954c894
+encoding-size = 52526323 52479495
+build-name = WOW-20076patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = 586b33e1a11b8ece728b16c8956df9dc
+patch-size = 14917127
+patch-config = f75cb83a72ca3f5f81ed74a15be1fff1
+

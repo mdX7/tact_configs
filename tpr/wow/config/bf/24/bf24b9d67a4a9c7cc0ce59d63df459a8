@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 31cfaab2d6ed33af1d70b5aa74c6a976
+install = 48f6d77a358865c86c46b8195a8283ae 889011bbdda033839c371c13454585cf
+install-size = 16345 15929
+download = 90157d3133d28aeb73cb485f855eb7ae abb349db049707a86b418caa2ff378e1
+download-size = 28336746 25512496
+size = 3192621f57b0c571e1f479c7df97b4bd 742c8ca9df3c48dcb048d498f572b67e
+size-size = 15113017 13503522
+encoding = df28d6e3edda99ec225f5d13d7d8a047 ee5d921c6554e646b81bb6a223b83c31
+encoding-size = 60382940 60367229
+build-name = WOW-28211patch1.13.0_Retail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

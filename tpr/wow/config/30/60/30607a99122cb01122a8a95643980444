@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 5030b625c9d0262d45eae097170f52b1
+download = 042d5570a4bd269f01cfaa45d2e8501b
+install = c446a0a21c4435cc61a444e42c672717
+encoding = a69a28a24fedaeb8ae8567cbfc7483fc f15e68c2bb01e1fbb711e9a60270f8c4
+encoding-size = 52636066 52585092
+build-name = WOW-20574patch6.2.2_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = bd260d7f3a9008620a90033b561a6289
+patch-size = 15003887
+patch-config = a2b6f2f658a49159890309bf2d2dd62d
+

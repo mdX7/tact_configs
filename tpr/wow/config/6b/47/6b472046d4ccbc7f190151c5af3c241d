@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = c7fb8cc01e997d4efcfe83413562f702
+install = 9a51cd7deabcd22928d7099f0d28f9b0
+install-size = 18637
+download = 46b2decdfef09bf7d951dca52ce8ec24
+download-size = 32679133
+partial-priority = ea0d5b151e2f32dacb48517dd1565a65
+partial-priority-size = 0
+encoding = bda603c0daef140173541c682706b7bc 7fb6c3ff1fa61aeee9c8a63ebd35376e
+encoding-size = 72074635 72051840
+build-name = WOW-23530patch7.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+

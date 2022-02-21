@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 5f872fe79211a0f754bbe8ec44a95494
+download = c9ebe4dd9679fa70015bd63b703a5f2b
+install = 50179be2d31403c9f7f785628b5a44fa
+encoding = 3a67e1c78159c8a073b2b88332817493 e89e236a4501a9eaa7281a0cee1e7c96
+encoding-size = 51464103 51418561
+build-name = WOW-19702patch6.1.0_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = 482a1fde144f6eea574b6ee826204747
+patch-size = 14374353
+patch-config = 0cdc67001828a517c4bb57dcf4e0868e
+

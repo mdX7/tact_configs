@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 549c4d27d5d333daf261f0f0713b4f5c
+download = ad9ae11430c9209794ea8db2cbba14c9
+install = 121080c0fa50ce210c5f0f1ded778168
+encoding = e9519b4b64a83ee19b8d6a8cbb661c19 d25df0b0cbacb8d3f250e3b5f6d7e6db
+encoding-size = 52640302 52589216
+build-name = WOW-21253patch6.2.4_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = b1db6a1f9e3b11ea9474174ad6eefccb
+patch-size = 171953
+patch-config = 06323655193e947801a0ce9997faee0a
+

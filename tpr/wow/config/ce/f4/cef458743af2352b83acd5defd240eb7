@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = dd7138e6ca0a64d87bf49c1895d6bd75
+download = a5cb7eb579f6e4a2702e804c878a68f4
+install = 329d3faad7904fd4ac9c58176cb0d383
+encoding = 7aa9eeb752cebba845f4441c33693d19 5ef7f31841c942b3a749897dd705649d
+encoding-size = 64256564 64243743
+build-name = WOW-22045patch7.0.3_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = e5d14b864dcdf83497008ec1354abf13
+patch-size = 1076737
+patch-config = f18fb55c264b554971431a559f601dab
+

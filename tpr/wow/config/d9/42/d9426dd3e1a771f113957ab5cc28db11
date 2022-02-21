@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 969c1696d52eb95449724de5639ebede
+install = 0d1085559e0475dad3e495a2c6f90504
+install-size = 22672
+download = 5fd128191b1ebf4204fc2693bb96c7b8
+download-size = 31438319
+partial-priority = ea0d5b151e2f32dacb48517dd1565a65
+partial-priority-size = 0
+encoding = 22e2e38857d34a19d81920df7528fb53 6b80f3550e7f8919850cdb4aafb380cc
+encoding-size = 69332696 69314124
+patch = 49750294b6bcbdc37c6cdfd525ea8c06
+patch-size = 2382785
+

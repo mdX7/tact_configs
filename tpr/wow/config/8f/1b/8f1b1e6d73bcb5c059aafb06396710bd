@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 8ea39221252eace9a42987b0403e8e0e
+download = b9a338fc3b323e0f23ced3352cf389b1
+install = 47606e8288f7406292a56f2b9e7ef627
+encoding = 759eea85c523f2a261607d0cc65f6921 95f7b19c35729da32d43e09fbc6a347a
+encoding-size = 66545775 66531046
+build-name = WOW-22133patch7.0.3_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = cf119155d2644489ce4c22366f98f1b2
+patch-size = 1687745
+patch-config = fb1cca3309bfc2b434a85625fec346ce
+

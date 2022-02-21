@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 33b0bfa2369adfb00048ac8c2f21853c
+download = 8e074401ce39cde118d566087c58b624
+install = ed1de9fde75a4a94eb28bd83074079f6
+encoding = d0c1247f1c7975756bfe716ff4c686f1 6f33e3c9e95828113ee1a778ac016335
+encoding-size = 11698361 11655870
+build-name = WOW-18996patch6.0.2_BGDL
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+

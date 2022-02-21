@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = dbb3ced3071f6c0614e5e8237e545cab
+download = f4efba65e300f82ba67bdbd2070551aa
+install = 8b9ac120c8025aa66c8041d29404f02b
+encoding = 1c120b710c7c598eda25d7307d475f5e 9a13f70dfd1e453103121c953727cbff
+encoding-size = 52586511 52535566
+build-name = WOW-20182patch6.2.0a_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = 9e28d3870ace9b11278f17980b8f0a1b
+patch-size = 14722361
+patch-config = 4ba644e9cdb53b5529ce090cabd87a83
+

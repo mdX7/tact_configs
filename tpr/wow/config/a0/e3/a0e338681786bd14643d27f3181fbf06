@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 1ef7ed9b16b6ec55ca891187ce90e142
+download = ed1a018eb09311aeaa6316870303bea0
+install = 33e205c2d289ffd70254290c646f0746
+encoding = 475d0ef699ce59fe6ebdaacc1aceea5f be2b6a8f66f0cc3abfc5809e511ccceb
+encoding-size = 51409786 51367252
+build-name = WOW-19057patch6.0.3_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+patch = ddcb82fcfcb7fef3b6dcfba7db8d823e
+patch-size = 13080897
+patch-config = 6c4ecdb85f8551643b67b0031e170a29
+

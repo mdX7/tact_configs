@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = c4923d9adf1b7416309aecfc806ac5b6
+download = dbcdbb603f812074668d0740d244864a
+install = 6eb9bed0c492f2e9c44da6a82e2c9b4b
+encoding = 749cb78aed697bcd9819ff44ad5ed811 a1dbc52e4da219d5320e0ecf76e5de4d
+encoding-size = 52526301 52479484
+build-name = WOW-20130patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = 8f4b0c1fb8722dd14aef8b4a092555b0
+patch-size = 14918601
+patch-config = 8d4943abe702bcc012ef8f9758158962
+

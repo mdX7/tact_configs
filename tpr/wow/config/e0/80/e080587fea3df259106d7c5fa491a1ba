@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 4bf7d6ad55e69d77d55fc16d0358de78
+download = 218c550e09b297031d50a3200eaa24b9
+install = a5fe6d7e97d8fc2753c9583a6df05a7b
+encoding = 1da0c4830bd2a0736e6d594b441b7b59 e6bd1663f26104746517adf6bac633d9
+encoding-size = 62829900 62819017
+build-name = WOW-21992patch7.0.3_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = dfd095b1e5299f0b296ad31d599ce975
+patch-size = 9174739
+patch-config = b4a814a894ff62b53666ede989f26e98
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 0316664b84c08f330bb63dd00df80cd4
+install = e5deda03fdba8b420e09a2387a77b38a 72ee1fcd4d08a6bfe66fa69af0882eb4
+install-size = 10563 10302
+download = e3481a685659a13109db8af5aa354e9f be33796fb6205035e9fd5843a8e52cb9
+download-size = 24398733 22058857
+size = bac752420bcaac2fc72083cf6c045b52 1cefbfbed2c1dc3069b0c7ba504fe8bc
+size-size = 12965100 11618554
+encoding = 02a2fdfa5d76d6d0a30db0e31c86934c 521668cee5560a318c9deaa4651ed23f
+encoding-size = 52213161 52197881
+patch = 79cdd1d2ab1ece1feaf1c11baf061cdd
+patch-size = 53121
+patch-config = 1156774b28f2950b28a29c0ebb14fb16
+build-name = WOW-30172patch1.13.2_Beta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

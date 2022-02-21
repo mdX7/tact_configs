@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 15ccd97085dad3aff6128e59739d5ba7
+download = b2f9d7ccdc6001408b4ac0c51844630e
+install = 3e5e83532745723db929233c75c8c4e9
+encoding = b20774606f6077aa655a3b4ba1a0ac19 e4ab632e937ba4600368e5e7ddf3a77d
+encoding-size = 51464103 51418563
+build-name = WOW-19769patch6.1.2_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = c7e71614c84a0bfd11ce1ac7e376f0c2
+patch-size = 14556769
+patch-config = becfaa35d59ac24cb93d09da3efe176e
+

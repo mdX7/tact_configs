@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 589bb5e7cc5d45914aede46e49127a8b
+download = ece53ca817759299636c8d8c8511d705
+install = 127eff7f60a65efdb0d8f68b5eed8310
+encoding = 0d31f24cd2cc7015c2e061612bd3ea1a 1fb7c2306387506677bf8f83aeba0221
+encoding-size = 62816304 62809768
+build-name = WOW-21935patch7.0.3_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+patch = 0648de52613996b565a5e916282d7fa6
+patch-size = 1050517
+patch-config = 9b4dd892ef15a9adf3317ce2a23cf894
+

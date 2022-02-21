@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = e12303b81aabdc47412fc29e6c42508a
+download = d876b75dba53edbc567fedf5bd97a918
+install = f0246f842010a25a196fa8f183605864
+encoding = 71a28de7ae40577d56d1b04484f61c0d 8e1dc66345fcc33638e2e621fe975112
+encoding-size = 52640302 52589215
+build-name = WOW-21343patch6.2.4_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = 746ee3c446553534c4ce276f0e1318d0
+patch-size = 132471
+patch-config = 59c17b9979657ee5f4602566e9a9dabd
+

@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = d322f35a82ed5f97266624f47a2d9589
+download = d4f77a65c765f4f75f8d2de720fbdcd0
+install = 23bb1db3a72b23cd6f4d3700c66148a0
+encoding = 6dcca38821ad15f96ea8c1db661dfb5c 8296746f7c36c3b785db4a085d57074f
+encoding-size = 51393274 51350741
+build-name = WOW-19175patch6.0.3_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = 92bd8909f7eeb6c9cd7b03f1461c83df
+patch-size = 13080833
+patch-config = ff1d2184a7af8b3b240590352752cb1f
+

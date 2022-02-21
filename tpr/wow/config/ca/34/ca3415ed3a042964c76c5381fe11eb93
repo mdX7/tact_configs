@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8c1df447260e43fc23be96c6aab9153b
+install = 03fb40c380218d046296f54f5702c863
+install-size = 17497
+download = bb73944034c249bcfea7b0197dfbf8e7
+download-size = 33446357
+partial-priority = ea0d5b151e2f32dacb48517dd1565a65
+partial-priority-size = 0
+encoding = 72ec19e35978e94287a7388239e2b2c7 df97ed64953ef6cef1f423d13a0bb102
+encoding-size = 73769869 73744857
+patch = f786a11dcb8b247279cc78af24249188
+patch-size = 1880949
+patch-config = cce57e716b452cea0dc005c7af39434e
+build-name = WOW-23826patch7.2.0_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+

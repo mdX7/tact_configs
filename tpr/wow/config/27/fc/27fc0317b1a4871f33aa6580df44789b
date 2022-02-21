@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6e5b9c41a4c5a726791a77fe7185ffaa
+install = aa9e5665db8ceb85c82912176047d5f4 461e99e8483e0eb44f9bac09873b77c6
+install-size = 14034 13657
+download = 07065fbb12946534c004d135dcc744fe 203818ec21bd5a1e6832411c67a5d3be
+download-size = 45415132 40550280
+size = 31ff01662555d35b5b870a0b89ac59de f63896580b7aba3c5596d10d31b45103
+size-size = 24396651 21443595
+encoding = 571ce3ca2684a376e06136cf218c93a2 af2a354097c8a39277010d03c429bc4c
+encoding-size = 95992149 95956487
+patch = c812514dd04846a3160a627d81be2fcd
+patch-size = 3848
+patch-config = df298d79dfda12d93fa24313c886e253
+build-name = WOW-29482patch8.1.0_Retail
+build-uid = wow
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

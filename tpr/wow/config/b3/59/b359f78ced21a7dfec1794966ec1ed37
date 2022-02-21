@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 425169c4381294580fe9014801715bbb
+download = fe682483f063032e7ed5bbce541b7b5a
+install = ffe96a96391d5d588fc1b38cb64b8110
+encoding = 190bbe770f0ef8bf5b4ca90bd86a0eea 86ceac119f3f82001656a2c59b74cee5
+encoding-size = 52640302 52589225
+build-name = WOW-20691patch6.2.3_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = c1359f803a28fe1c8d011c133ff893e9
+patch-size = 15210211
+patch-config = ec5c3815d45cefa70a1bab9af0627f51
+

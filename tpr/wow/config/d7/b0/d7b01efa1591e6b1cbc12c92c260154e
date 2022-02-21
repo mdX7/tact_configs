@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ccd21b042a9fdc1570460c8ab5306fdb
+install = b0b975a9bb951c0e2ea244f34a212b12 028fef31bdfc216b7ca58e93fdac44c9
+install-size = 1433 1389
+download = a6574d5a3efec7411f7a877b710ebe52 ee5e84bd28be236ca2268e58becb6d5d
+download-size = 44875437 40401807
+size = b25757b511cddf92f24b6a973dc93a74 21115c5d0e472f426be944a936b15fad
+size-size = 23933662 21358437
+encoding = 86506435cdc50f611da12819bb794517 f7df2ac9206aedce6c645f1b75631355
+encoding-size = 95642530 95609189
+patch = c09c432cbdd2f5e032dbc6d2d6bf1103
+patch-size = 4507937
+patch-config = 6c3a476a0efef0372900edfe01a8639a
+build-name = WOW-28366patch8.1.0_PTR
+build-uid = wowt
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

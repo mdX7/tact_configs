@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 8b52d1a07fcb15f6307ce52d5fffb3e8
+download = ec1436d91713fe52227a06e938e2ed42
+install = c03a39f3e871851cc6433f0859b77dc5
+encoding = 7f4cbf232e56968234780e135ecb98ca 02db86b1bb8da2dbcf2b58bcfd724dd8
+encoding-size = 51707002 51664483
+build-name = WOW-18967patch6.0.2_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+

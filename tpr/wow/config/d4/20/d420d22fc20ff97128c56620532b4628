@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 72868c732efa9d779bb8b4a741066626
+download = 1891eb50ad0dbdb674408e771691b9ad
+install = 1c8c727ccb75b2bf5da5bd9c986a81fe
+encoding = 727ad3e4889a7904feb6d3c45499d65f b13b9c416f6296a0eb21289825d085bd
+encoding-size = 57424269 57401741
+build-name = WOW-21021patch7.0.1_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+patch = c082f088758f98f9056a5a5c1e127055
+patch-size = 962433
+patch-config = 96b6fabbb9d599d78f9ad24f04adf8c1
+

@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 8ea39221252eace9a42987b0403e8e0e
+download = 93990714746fce609ad14ec5079964c3
+install = e7031969e0a872e1bba262c270c4d094
+encoding = 47bd0c10cc8c4db776c30b8d4cbacf20 9b738e841724594cbfb911587f6892ee
+encoding-size = 66545775 66531045
+build-name = WOW-22141patch7.0.3_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+patch = cc3494d19cd7e69cfd00e815a1b55ad4
+patch-size = 1687553
+patch-config = 299fc1539483c6f9290bf4dbb598e2ff
+

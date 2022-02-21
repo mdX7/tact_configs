@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f425a907331f5a88e4b25823414c61ea
+install = 73b936e17a9cc657f0d8b09d51650e9a
+install-size = 18579
+download = 22097d001616762947a8fe493d642031
+download-size = 32140945
+partial-priority = ea0d5b151e2f32dacb48517dd1565a65
+partial-priority-size = 0
+encoding = cfbd49878475eb4cb2da65ca3979e1b7 844295c190fe4fd1e0784ff4865e5c14
+encoding-size = 70889899 70867108
+patch = af3ae170074459587be8ba1f8ca36ccc
+patch-size = 2254081
+patch-config = 169dffc67941ac4b20c7e424463979f7
+build-name = WOW-22995patch7.1.0_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+

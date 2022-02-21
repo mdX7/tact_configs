@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = aa9d5e7be67460b22b79214ba169fe91
+download = 203caa5ae40eba5d3cae73241b792ee5
+install = 0bb029d605d01ec303663d6cbda27634
+encoding = 578e3aac8c9b2725ea71254749fc0c3c 8526f7e9770684e8ac076f86f71bc228
+encoding-size = 52536975 52486031
+build-name = WOW-20157patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = 75a4f081dd8e3d90e2c3d6c6ee214ad6
+patch-size = 14918773
+patch-config = e61090b862e35b0cba9cea760c2a2e80
+

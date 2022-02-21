@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 1703902dd4ec881c1e495c2425a08406
+download = 039e31904805d02786024092b91f8868
+install = 2adb6b3ccf4eb21b75e0a3abdbe30fe5
+encoding = 9791fe09a3be11502073e925912bf161 710efbf5ea71e1b878f7f57f6aa9e014
+encoding-size = 56926629 56902667
+build-name = WOW-20810patch7.0.1_Beta
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+patch = 1d7a2266e7904f2086fdad30fed8879c
+patch-size = 4539649
+patch-config = be5c40abf05bb12712c6eaf079cb672a
+

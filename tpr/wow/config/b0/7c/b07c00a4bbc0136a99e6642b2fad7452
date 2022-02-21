@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = c4923d9adf1b7416309aecfc806ac5b6
+download = 9bc58ab8c74694ed652f494cdeec2fff
+install = df2c87743c969d332b6af8e86cef9db6
+encoding = 39d7bfb506c07ed930b7603fa5c2f7d2 7e0dd0428ab22bb546aa7b268e33df06
+encoding-size = 52526301 52479484
+build-name = WOW-20111patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = da8ac0b3942bc94da1085769a285235b
+patch-size = 14918921
+patch-config = 2adc89b7c727e6e722f6e36fad655e04
+

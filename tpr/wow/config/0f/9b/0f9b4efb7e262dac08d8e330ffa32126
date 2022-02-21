@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 65e9fd64c91db472703b67e487f85f75
+install = b0887eb54f185950787ddf996c6c3393 048d835318920b128f906f02728c7d01
+install-size = 10236 9958
+download = 4c6034716e669bea6d293a8f9d6712e0 1662497b57052eed7cd2ecb1f8fefa5e
+download-size = 6104239 5520796
+size = 652f150ba4b6a516cfaba968d0f75e2c ae4c2bbc86efdaef7bd26427d7896d05
+size-size = 3243758 2874638
+encoding = df7e7b49923d95d3e6d3b527b60e81f4 d1b2d1349297898ffbe01e3962e17104
+encoding-size = 13063628 13061901
+patch = bd4be387c582bd2b04c8e0531ddd4d58
+patch-size = 3246401
+patch-config = 3003ac3b4291fa896d868636ac04da48
+build-name = WOW-31727patch1.13.2_Retail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

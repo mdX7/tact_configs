@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = e762f3efded211ee8c97ef98398a0d65
+install = 5b8bc47c6f5b4ae4d5a13eb1bf53dbc8 1ce84ac546c123d586c3fa477be52a9f
+install-size = 10563 10302
+download = aff0ff1a3702f175caa3d493131b13c3 2d2391a94ba7001a921731e9659687d3
+download-size = 24390260 22051115
+size = 4522db0f019a383959f733eb35bb1549 9ce07ed18f6cabbfae3c9307f9d9b9da
+size-size = 12960603 11614237
+encoding = 2369132bc2feb47dfa67b6fe66a17274 3dd9dd78cb97a3faaf4f4f8cc67569b9
+encoding-size = 52192530 52177243
+build-name = WOW-30073patch1.13.2_Beta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

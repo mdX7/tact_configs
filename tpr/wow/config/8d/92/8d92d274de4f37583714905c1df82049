@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 08529999f4d8c08a4f86ca3ea2ebe42f
+download = f9207b98074772dc3d9ec4a590f0af81
+install = d5fad6296af292d3c428c5e1543309e0
+encoding = 41ecd0f61883348f4caaea2a6e374cf2 1217e4ed4a9e055685b0726e107d339c
+encoding-size = 52513928 52467108
+build-name = WOW-20033patch6.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+patch = bfc7e85c8eadcb7ccebb9016b6b20e5a
+patch-size = 14904697
+patch-config = e799f66ba171412c2d09c0ca52acf216
+

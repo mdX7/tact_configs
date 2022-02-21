@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 7a9bacff4e87b289c6bdb7ecf10ae350
+download = 3f0938c4efc01fb3d3d039c1f2b53bbc
+install = 719e75ca9aa7351e2841baa9fc11c24f
+encoding = 515165d1a96170f695de6f697f0b0534 d2e3ca37e624ae17557c029873fc4744
+encoding-size = 52586511 52535566
+build-name = WOW-20338patch6.2.0_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = a55a872f9e6b2fa77084c9e8f7324d8d
+patch-size = 14722489
+patch-config = 6f7e85f763c1bc8279c72b19c8f0d584
+

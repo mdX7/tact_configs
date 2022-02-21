@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 9dbb8f253aa765f9917e5e18d1944e8f
+download = 4be29cc75389643fea84eecfa385edd7
+install = 858d4ea62cb94ae0a10f371c7b55bad9
+encoding = c69f0d4523ddc1a073e260f772c6b206 847c11e63a6fd074eb956f161861d07d
+encoding-size = 52636066 52585092
+build-name = WOW-20490patch6.2.2_Retail
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow
+patch = 2f59610262cfb4d6c77071d92329d56b
+patch-size = 15002503
+patch-config = e24305f9404e8462c96529f73758e857
+

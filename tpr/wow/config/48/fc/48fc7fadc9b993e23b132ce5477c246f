@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f82a7088d2ff334df661b56301f149ff
+install = ffdd9569e0b997b6294db0390312dff4
+install-size = 18637
+download = dc93d142ab5ca127cf741160f311ee39
+download-size = 32531039
+partial-priority = ea0d5b151e2f32dacb48517dd1565a65
+partial-priority-size = 0
+encoding = 4ba2063d68ac45ec56c61a08126b47a4 79885f6f72f4f77ffc0469798f39274b
+encoding-size = 71748523 71725733
+patch = 03c7d5715b3035e28a9e1d76ff401a58
+patch-size = 635155
+patch-config = 09c0a754a0d9ec4a36792b6b4a108ef9
+build-name = WOW-23470patch7.2.0_PTR
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wowt
+
