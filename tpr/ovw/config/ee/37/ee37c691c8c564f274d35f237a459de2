@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = ecb853b5328366adb7393e3d16626beb
+install = ad74f3d962f213035ee018c303afc441 6d4f85c09361b91b3a86dd0f1b0af7bb
+install-size = 4410 4242
+download = dd688342b3397c648d62230597196fa2 1a65250d63d47f69cee5120191f31bbc
+download-size = 13064718 11874234
+size = 5ecef459f5fd1e00edf70e129bfd0c50 976e23339f99c0e2c418711830952f1e
+size-size = 7131478 6583844
+encoding = 803b22de17dcc6630954503a8a43b1af 15fde9d02557227b8f7fe9a94dba310b
+encoding-size = 29229664 29181177
+build-name = prometheus-1_61_1_0-85110-PROCR2
+build-number = 85110
+build-branch = 1_61_1_0
+build-product = Prometheus
+build-uid = procr2
+

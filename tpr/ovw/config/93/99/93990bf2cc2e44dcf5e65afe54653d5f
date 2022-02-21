@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2982db8261f7dfa9b260834cef8faaa9
+install = cd86939e0030e9f1f615c15de0327b63 6127562f357e6829d36c302ca657eacb
+install-size = 7350 7100
+download = 2a0d867375a08cebab423864ea68e282 062554efc35767a1b14be6a835dbfecd
+download-size = 28729118 26245212
+encoding = 379b9cd364850df930e8f9fdb749839e bc384abe668f269f266b2ed5f9ebabfc
+encoding-size = 89597490 67112018
+build-name = prometheus-1_27_0_1_PWX-49707-PROC
+build-number = 49707
+build-branch = 1_27_0_1_PWX
+build-product = Prometheus
+build-uid = proc
+build-experimental = 1
+

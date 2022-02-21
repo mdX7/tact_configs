@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 86aee1f6fbef8756758ef0f05e05faed
+install = cbc12853a0e64e031aef377bbdbaa20a bcbe6a2dedf36800fbdc9e8667610ecb
+install-size = 40307 39314
+download = a2e3c3f1e0fbaf98510fe2db74feb95a ec4c9a71c821ec495f444b384a530947
+download-size = 7834348 7283517
+size = 55bafa6f7147d1b47fec8efb6790adeb 1b2616ceca11cfb46d56ee57842905df
+size-size = 4197038 3899197
+encoding = 26ff8b7f5026a822e82c2b0a5422d235 c83f1a20472a7f1bec7ebb2dfc78d39a
+encoding-size = 17882709 17882853
+patch = 7dc1745742646af218232ec026824dbf
+patch-size = 69509
+patch-config = 36dd3d91025073b7ee587db491aade03
+build-product = Diablo3
+build-name = 66666_Win32_2_6_8_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = mgrenewetzki
+build-comments = PC/Mac 2.6.8 RC1
+build-branch = 2_6_8
+

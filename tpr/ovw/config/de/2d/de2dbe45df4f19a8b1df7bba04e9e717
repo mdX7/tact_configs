@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 08aa4d81fa7d05ee5ce686b647174077
+install = 68cb7fa9327075e08b53b980c651cf99 724cf154a8eefce2025c629ae4345236
+install-size = 4391 4238
+download = b17bf539d121d4096925342c395abe4f 7255f9a195182ac558b8e440b58a8181
+download-size = 16357486 14985632
+size = 38b693b1bd742b0728db7f501a630d28 20a3ecb9bb90a0c93564452e436e7f9a
+size-size = 8896252 8150026
+encoding = 5e3944d790357df4ae405b2f13eb396e f49b08e4446ea86c0884cf68fc57cb1d
+encoding-size = 40173049 37082470
+patch = 503e1884439fd02837d6fc232909c56e
+patch-size = 615937
+patch-config = f2a3afaa67f1bf18fb009cb8868e2355
+build-name = prometheus-1_43_0_0-64719-BlizzardBrowser
+build-number = 64719
+build-branch = 1_43_0_0
+build-product = Prometheus
+build-uid = pro
+

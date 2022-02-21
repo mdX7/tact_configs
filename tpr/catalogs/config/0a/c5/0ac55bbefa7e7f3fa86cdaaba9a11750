@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 26f81a40a8f66c4613c4327f65818113
+build-version = 29
+build-num = 2013
+build-name = 26f81a40a8f66c4613c4327f65818113-2013
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 70f25265fc06afdad8fd108d5a00ab95
+

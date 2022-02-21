@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = f1a5af7803329a70d931ed0f02b1c21e
+install = 07bf36124f19fb1a53a9551d2f93c04c bc9912de06b61a0fdffdb2202faaea31
+install-size = 255170 229911
+download = 57bfcb59a7cc2f3d1e06196c38fc76cc 04be10085dd7b65c01700409bb86ff1c
+download-size = 84313 66796
+size = c6a5d61ef7cd7acffe0079b219115c7e d16af77ec9ae42dbf89bd11cbf4fe8f4
+size-size = 51682 37360
+encoding = c4ac97b21d57e1a7bf07a7e454e9c5b9 3b52f74a273a738f06f0619bf07f24df
+encoding-size = 165270 165445
+patch = 34eb8b2aa30c58d320ad572582124f26
+patch-size = 116545
+patch-config = 8fd5288d5ae3b321d43bb96c85286ac6
+build-name = 54613_18.0.0-hsc
+build-product = Hearthstone
+build-uid = hsc
+

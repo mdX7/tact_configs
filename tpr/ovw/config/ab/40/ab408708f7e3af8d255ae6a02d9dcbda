@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = c5f8c4cfece9a4b1c05c5035f843c3fd
+install = 79a6a048d1bc023dc9930ed71fd5d636 11607297f17bf173c02d79b481f38d6c
+install-size = 7374 7103
+download = aef9e9cdf8b26c6f2002f5f80a1f4c2d ef79800909ea3eec2c1d5f8bcec39d58
+download-size = 16279649 14865332
+size = ecb5eebf1f988079b80385ce653abce7 ee2d97682be92b07b944115c02e5f37c
+size-size = 8886353 8118748
+encoding = 851296b01ef047db0086cf9fdaca307c 33fe49590cf478c829a42bda9df3d821
+encoding-size = 39750535 36742813
+build-name = prometheus-1_32_1_0-54892-PROC2-EU
+build-number = 54892
+build-branch = 1_32_1_0
+build-product = Prometheus
+build-uid = proc2_eu
+

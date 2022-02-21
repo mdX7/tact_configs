@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 3bc00ca9411237faa8928a7a8a6f5376
+install = 0af23b2b1d0c6a4039ad0a9f0ebfc213 5a77c4dbbc33eb391b0deaeb56b3cf8c
+install-size = 118069 115727
+download = c4e6251f1a5e1685f954924b49cfcedf 65e18e5fd23721e0fac4a06d31fc28b7
+download-size = 27894 25676
+size = aa748facdd2924cb540ca520454451e2 597c3725dfb6a808affba9e3b3ed42ec
+size-size = 15192 13066
+encoding = 3ef92dc7785487a3caf0d4512f6c81d4 03b01468698adf2ce4fead97b7fb6056
+encoding-size = 70314 70492
+patch = 244e0f9e70df395f3e3f992655e575d3
+patch-size = 38385
+patch-config = 69211b432fbe2c95a722b8f91c27f0da
+build-num = 13099
+build-name = 13099_2.5.0
+build-branch = 2.5.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

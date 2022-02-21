@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = ea85827e8039aa5b03f6dfe738f623e6
+install = 0302c8882886fd714a1c4b8f5730bfe2 3e8e3b11854adc2176bff519d3e4ac57
+install-size = 229941 225352
+download = ed74d1e4b12c99cc7a027145833cbfba ff07e0cd6350e88c7d7b408997752a5d
+download-size = 28601 26327
+size = 3f30e44bcbf5d404fffed7104ac846af 4c248042899f9b26d5a63ba6cc0be84b
+size-size = 15574 13390
+encoding = fdd0c76716ec943dab79fc9fdac983ce 90646e2706c2ab5424535f38bdd11ec7
+encoding-size = 70314 70492
+patch = 077a92be1a7ac9144a072777aca9ddeb
+patch-size = 15349
+patch-config = 5ab0562df4853b546cbc8c15b604ac2f
+build-num = 11019
+build-name = 11019_1.13.1
+build-branch = 1.13.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2b6f91db2c7f08b61eb7ae67acd3fc4d
+install = a22c02c42d0a7de6731240dda4c838df a42aab2059b2cc5a2310f0487fba14b0
+install-size = 230637 226030
+download = 45c1e7980353ee3dd27a9d3f1e6cc137 f76bdc524178167930e9318cb37bfbc1
+download-size = 28757 26488
+size = 4e282d0935e9ade18a66e67aa1804219 206efa9fc14af0fbea72da947509d0cc
+size-size = 15652 13477
+encoding = a3d8ae1dda423bece89d98aed062d465 35abbb1902714f886ed89ee00cfb91f8
+encoding-size = 70314 70492
+build-num = 11538
+build-name = 11538_1.15.5
+build-branch = 1.15.5
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

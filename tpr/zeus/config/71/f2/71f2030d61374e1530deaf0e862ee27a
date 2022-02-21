@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 5b2a757393e5c415119f02c2f19a999a
+install = a0e612c140706a371f881f997ca8f70a 8835ba686e42e399f4d0d3a517d1d766
+install-size = 5066 4632
+download = 208cccea417ab03159cffc0f64ab47fe 7f13a1deb01f8d837d52e34ca90d73a8
+download-size = 98517 85752
+size = 360fba778bddb93b3452b1ba77f93684 dface8a306583446324687d04fb0fa00
+size-size = 56136 48057
+encoding = b19e0dceecd5c6be3b9ab382f63d43f3 ba4c0642e726c4f677643da9f3776e28
+encoding-size = 8404 8567
+build-name = TU4_8305760B_R_signed_ship
+build-product = zeus
+vfs-root = 5ffcbfa91e7f53addb253b9d9affd9ed 921135a024fdd63b9388c3b0c5c1e669
+vfs-root-size = 146058 78708
+vfs-1 = 5ffcbfa91e7f53addb253b9d9affd9ed 921135a024fdd63b9388c3b0c5c1e669
+vfs-1-size = 146058 78708
+

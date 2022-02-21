@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 60ee0347fc2afea2cc856c02eea05701
+install = 097c3a650dd8da81901be55a0f7d2f4a 589ba15638a5e7922c2dcb3b3fb9898f
+install-size = 4094 4152
+download = ab4fd5949ebf1d91acacebbfe6e742b0 0ab6ac2723d5b5c12e4957397e451d69
+download-size = 1127 1217
+size = ec5991c7247ece672ea352b849de20cc 44f446465410518d35bfd397363fb56a
+size-size = 593 686
+encoding = a4c9a27caecd5f48b340d66e232e72bb 53c3d38996c0a8310255d2ffbd86d0d3
+encoding-size = 8381 8556
+patch = b86700119740e9fdc8185e84ba4a758f
+patch-size = 1649
+patch-config = 50717cb2c576d729f9442245bd9b658c
+build-num = 6517
+build-name = 6517-agent-2.16.0
+build-product = Agent
+build-uid = agent
+

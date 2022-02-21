@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 66630693afc58d1521df7bddf725cedb
+install = 9f814b823cec885c668cda9a3e2f20c0 58152fea5305ef83cbe2c3b63222350a
+install-size = 232577 227946
+download = 703717dcdeb9ce0a80d78a3c58481142 c6fed3b08352d8a1b53c7b6ce30ae2af
+download-size = 28958 26669
+size = 79de7df226218b7908edf024a3a9f548 7e2a9ce2713c4246eddd4c3599390bcc
+size-size = 15762 13567
+encoding = 8476766a53d1d0f3983da2478741db2e bf6fec6206c0b7a145321c26c05df61e
+encoding-size = 70314 70492
+patch = bb559a1fd496f6dab20b067c062b6605
+patch-size = 19089
+patch-config = c88592597d97fb2e1a8d9f30ce151014
+build-num = 11624
+build-name = 11624_1.17.0
+build-branch = 1.17.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

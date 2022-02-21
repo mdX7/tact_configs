@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = b04725f6772e7197f3023ef7887322d7
+build-version = 27
+build-num = 1408
+build-name = b04725f6772e7197f3023ef7887322d7-1408
+build-branch = 1.12.9
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dfb0c24af8861887e5808152d48f879f
+

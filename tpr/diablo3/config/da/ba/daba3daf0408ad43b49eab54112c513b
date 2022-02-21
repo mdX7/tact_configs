@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 4dd3b4152e106811888389131210512c
+install = e3f9d2a9cbe0a2f2886351d34c6aefe0 c7b3f9304a0e5a899f484a566c03db73
+install-size = 40307 39314
+download = aa87958d1f950b82da0668d24d7a0296 9a857fb75232327bafebb22d03af8c26
+download-size = 7863426 7310400
+size = f0ddd7dfeb09b2fa90b052d74884ade5 8229e682101f9d97b7eca5433baad9c5
+size-size = 4212609 3912088
+encoding = a48e6210df7274476ce0a13369c4086b 7a62a36ce119cbe3ad4e93d05770ea13
+encoding-size = 17948757 17948899
+patch = 04421346294b1b2c53be84581af5a28d
+patch-size = 421649
+patch-config = aa64e983348f73e7d292917eefea7bc1
+build-product = Diablo3
+build-name = 76761_Win32_2_7_1_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = gelmendorf
+build-comments = PC RC4 with fmod logging
+build-branch = 2_7_1
+

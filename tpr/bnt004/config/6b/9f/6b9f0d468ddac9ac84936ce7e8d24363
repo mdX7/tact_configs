@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 84b1b5e42d15538f52ea79654c8836ae
+install = f7046cc1eca982ea61ad43a1d7363bba 7a8ad2f05080155267536caf811cac10
+install-size = 82 149
+download = 9454f8f317430a37f8bdb9d1936412d6 4ed41fca97603412e5dc371c95ce3933
+download-size = 112 206
+size = 4f2a512bd8ba7ba351ab8a5025da57f4 169193bac0f29bceb70ca5b45bbd7bc5
+size-size = 72 166
+encoding = 930b1c06af34539a44363da3deed914d 73e8ebfa391e8405721bac2220f897ef
+encoding-size = 8377 8551
+build-num = 3086
+build-name = 3086_lazr
+build-product = Bootstrapper
+build-uid = bts
+

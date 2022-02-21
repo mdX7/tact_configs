@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = f22a5fec4d1cd12c4e33afee20a95795
+install = bbe7c7d09a9f67cdc11a0661265203b9 a1d0e3044e7bd839839ab4465c9c85ec
+install-size = 3801 3865
+download = d1d7a25d7f10278e293a61b300b8f7ff bfeb50e6c5c40e1a12d88f467d530933
+download-size = 1209 1299
+encoding = e117173448b9c913129b2f5ab3de2b86 3e168236644bcc73001959f2004381fb
+encoding-size = 8360 8545
+build-num = 2916
+build-name = 2916_wow
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 44c151ad74a69dbbb1f0c8126f60936b
+install = 3718ae2db13f57b76177863099d0ed57 a141def47d838a8c7989975c9415a49a
+install-size = 407471 362640
+download = 58e12d24134e6a86259738b99647bb96 13f70d39fdfdc8c6100c104ad5773c46
+download-size = 152924 117869
+size = 230f9ce8f4b4c729e45494fb901e8ab6 3f4d7fa5679afc8a5444b4cd26ff2ed9
+size-size = 94891 65922
+encoding = abaa072bdf3e6c8f1580073f7a476ff1 605067e6f74c4a61ee6353c977ec5f57
+encoding-size = 289114 289286
+patch = c01e147349e0bdaf467b412408f6181f
+patch-size = 331947
+patch-config = 4905adec841ace25aeb073deb3d5ad94
+build-name = 91456_21.2.0-hsc
+build-product = Hearthstone
+build-uid = hsc
+

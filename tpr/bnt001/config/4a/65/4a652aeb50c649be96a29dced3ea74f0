@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = cb29a2e678ec07f2431fd5ede67ab8e0
+install = 73478a4a831246e7094f2a751e132415 a181fcfca831896273155cc9e1fcbf11
+install-size = 4014 4072
+download = 59d03fd6ee962332f2b613770eb2fef9 935f3322bde6799484c3bb1b2b1aad61
+download-size = 1072 1162
+size = 21164a7dcf8b2bd15c74af581f449516 7f32a3f009506147f4ad5016df55e6e1
+size-size = 564 658
+encoding = 88c841335448d26c630bd0d9478e3175 5c6c1964d9a6ed4538bcfbb733d26036
+encoding-size = 8381 8556
+patch = f8a5bc9fad4ea1a8bf5ebf96dc451e9f
+patch-size = 1969
+patch-config = 94c57ba1e1349a9e846bf2fe0ffc33a7
+build-num = 7094
+build-name = 7094-no-branch
+build-product = Agent
+build-uid = agent
+

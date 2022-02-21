@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = ce56759aa3360ee89000f48c86a0fe3a
+install = 9d7f1d2a63b1f77e96d941ec2cbe6f88 480081b07e70e8beffc9bbd8d6a30465
+install-size = 115046 112742
+download = 6fd9238f9ab23197320480430eaf908f fc243fd850ae1924600d9ad4c8c63282
+download-size = 27570 25386
+size = efad43f95a563a46e6a1a73f76eda027 e4a32fc451d515e19ff6e2af7f5e5c91
+size-size = 15011 12912
+encoding = 0a675e43fcce57416441eda40e075a5e e49ee90118c6527a98532811b4066343
+encoding-size = 66186 66365
+patch = ac6503a5a8b25c46cf88622afde648ea
+patch-size = 15649
+patch-config = 83e045bfa9cae48f7ac2db955179a7c5
+build-num = 10733
+build-name = 10733_1.12.5
+build-branch = 1.12.5
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 2
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 8f4832e2766c04776923d97a9e37aea9
+install = 0340c48240dd0e6f7cb08be83e3919d6 17bb4da20de4a5e07bceb8e01213c483
+install-size = 229941 225352
+download = 74fa7a2809ecf574c37e8e15565be23f 6b0586e07de20b015b07f25f2e7dabfc
+download-size = 28601 26327
+size = 2c9fc9d50a97142c1c629619a007a4f4 c82cb792e4f9e8a9c75b9b5718cbee7c
+size-size = 15574 13395
+encoding = 9068d95941885a4f3f3adc0857760aae d48d1c375b6a520986837c59dde20ac8
+encoding-size = 70314 70492
+patch = 23be6a12e0c5209f6dbd9f5915248acc
+patch-size = 25329
+patch-config = a809145b7f26f55f1de79a75b1a475b2
+build-num = 10840
+build-name = 10840_1.12.7-beta
+build-branch = 1.12.7-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 3
+

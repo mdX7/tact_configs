@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 56b15694da88bb514549d27670e8e95d
+install = 50107c4bac700ee95209eeb7cc85aa83 b98ca131408e806fef3d806c7e11467f
+install-size = 40835 39842
+download = bdf16d2eaff901d26c6bcb12c1453c03 7c25b10e8a56e455bf1b0cdeab97ff48
+download-size = 18465096 17169533
+size = 01cd89e78924030cbc87847f493546cd e1f31508a6221777f0e56a9ea34b8ab7
+size-size = 9892076 9543871
+encoding = 04ca7283b644a1b713a7930ce856730c fd5d484bb55c10a63fefa6006323b1da
+encoding-size = 42147099 42147241
+patch = b75fd4debff7fb06567ae510971c62f4
+patch-size = 104793
+patch-config = e41fb0a5960c50dc3208e91b515fcc84
+build-product = Diablo3
+build-name = 66344_Win32_2_6_8_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = mgrenewetzki
+build-comments = 2.6.8 PTR Potential RC1
+build-branch = 2_6_8
+

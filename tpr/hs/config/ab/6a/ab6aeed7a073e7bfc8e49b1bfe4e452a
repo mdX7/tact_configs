@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 62638f51e2aab634bf44bee97fbb17c8
+install = ae7e962e040ed2c1f91b5b9919988fee bf883d8286a3e23eebcb86390cc339d4
+install-size = 381912 340475
+download = 3b10698ae22d57358c6baaa0bcf9f083 7ca4016353a92cddd898f3a5f5558fe1
+download-size = 143497 111037
+size = c52045c05b1157abc3ae90c7b53fcf7d 5fd8c96b87f4d1839a299a6e180882d2
+size-size = 88870 62146
+encoding = f7ac617701e4991a26ed50565c3a6939 3c2efe26d60747a2424b39614c8ea9e7
+encoding-size = 272602 272776
+patch = 3d1803a0058365b20dc43e7b7791990e
+patch-size = 71845
+patch-config = bbc9055a768102f6ae49ef790fad69d7
+build-name = 84593_20.4.0
+build-product = Hearthstone
+build-uid = hsb
+build-token = 80707490-be90-11eb-b257-005056bc715c
+

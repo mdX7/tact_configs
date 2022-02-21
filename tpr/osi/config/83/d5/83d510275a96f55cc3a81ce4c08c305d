@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 90f337ecf60b06241dcf5c689df9f365
+install = f8cc12490df178e8a5bd44603573ef44 6c15714fb2153ef06403a4855142bcf8
+install-size = 315 341
+download = ee9c4eeca54867b81b3a9fec489d07e9 e2ec2df4d3d994d7d30ddcc35ae847e0
+download-size = 4653632 4302809
+size = 48768387753345f6bde7370b604e2dda c350dd5d60a2fa3360c32a34c63960ec
+size-size = 2502690 2251478
+encoding = 49b2337f7ea49e0f468df067c5c2cf2e 18aaaafc69a0d73a5fc547964097327e
+encoding-size = 10580238 10580399
+patch = ff95494ffbfcc8e6b2c9305448e964ee
+patch-size = 119239
+patch-config = f4750e23f8876af16e31f89ece668eea
+build-name = 68075
+build-uid = osit
+build-product = Fenway
+build-comments = PTR boss fix 14.54 01/26
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = fb41b67e72a02ddb0b2c554252e902f5333e6231
+build-source-branch = release_2_4_ptr
+build-changelist = 208333
+build-stream = //diablo2_stream/release_2_4_ptr
+build-has-data = True
+build-target-platform = win
+vfs-root = 82f22ec2c3c45f5a3f2b986be1ffda3d 40ee9c86560b2a4bd61e2b6bb4e1749e
+vfs-root-size = 629 606
+vfs-1 = 82f22ec2c3c45f5a3f2b986be1ffda3d 40ee9c86560b2a4bd61e2b6bb4e1749e
+vfs-1-size = 629 606
+vfs-2 = 77444279b877b0a3474beb8e1c813ac5 e2580ce05c4de3be060ff19dd4ef6e53
+vfs-2-size = 11304252 7251674
+

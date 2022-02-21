@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 66e34b9568ad19dc4a2a7057fa552177
+build-version = 29
+build-num = 1803
+build-name = 66e34b9568ad19dc4a2a7057fa552177-1803
+build-branch = 1.26.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 15647de7f3616e35b3ada3baef4d0b62
+

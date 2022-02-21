@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 229dff4553e830327b39b02810221f31
+install = cb07ef7028ddda21142d8967532f943d b0dcefa1c45eb176a23f16ee6bf220be
+install-size = 17520 16990
+download = ab1fc7e83d3752af3a2f5d0583b079d9 d2f929b0f6f870ca436bd59fdc01f6ae
+download-size = 8088461 7225586
+size = 5b0cb1a0d8caec85a2358971b65ffc8a 0964578ed4419b79a480404d3f3be6c6
+size-size = 4345140 3786110
+encoding = 904571a3f2bcdbdc463094e5c42beebf b968446ff31cb6f65e8bc1d39e619f30
+encoding-size = 17092741 17090914
+patch = 68e82fe6b6641108504e0b0639aa7c21
+patch-size = 83017
+patch-config = 8a5d2fbaf247a597e8a6625263abe519
+build-name = WOW-40011patch2.5.2_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

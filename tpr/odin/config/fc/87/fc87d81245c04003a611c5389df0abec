@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5ccdac00a515aea87253b51798b700fe
+install = ac5fc781760170dbae6bb644f7f99953 97d0feab9a37757027362d662d517054
+install-size = 6222 5895
+download = f95450b155053c6657d7da7251b9041b 140a43e6335d10d9070d26fd076541bf
+download-size = 1866169 1675405
+size = c698cbada92bc1239c198decfdf2073a 0b5daa66e3126b0190f9c6bafad956fd
+size-size = 1029701 857770
+encoding = 8bece3a884d1c5c5dab6a974c6df3163 953dd09fa3214a3dff8d8f65c6116a39
+encoding-size = 12541 12707
+patch-index = 6ec3c16e6c9d1c366e6ce74f81597731 57897bae8c63ad1d72d2cd359a728868
+patch-index-size = 3462 2305
+patch-config = f4660caa276247071d42ccc049879bc6
+build-name = sub_10762123_12_3_3101B_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 92f6d89f158b8291e537c35cf81bf534 cd7c1211daa509c5712bd71d73950454
+vfs-root-size = 3240889 1315026
+vfs-1 = 92f6d89f158b8291e537c35cf81bf534 cd7c1211daa509c5712bd71d73950454
+vfs-1-size = 3240889 1315026
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = c84f1654538ea693c92c8502f2873b7f
+install = 2b6bf1efc71b6e2e70e2220a23f9244e 4aba2aeaee852b91f3c3eecd8dba9c83
+install-size = 4524 4337
+download = 6b79a97efaa2fa8477b67c203d4699ea 83f2c01338b109b5968b9e6d9093d37f
+download-size = 13094691 11901106
+size = 5835b1d77e4849c16e840a9e5ed294dd 90b1e510ba96ddf7c4c4cfbf6988365c
+size-size = 7147840 6597763
+encoding = 783c2c5ffa441ae808ec00673c479d10 a2d3d387eccbde592185c76b1296e977
+encoding-size = 29249218 29240490
+build-name = prometheus-1_66_0_0-89353
+build-number = 89353
+build-branch = 1_66_0_0
+build-product = Prometheus
+build-uid = pro
+

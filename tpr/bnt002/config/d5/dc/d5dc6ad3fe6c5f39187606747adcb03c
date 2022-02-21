@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 1deb5380b39a64cad0a4118f1bfe0723
+install = bb2d4cb4e2cb4d961afc709c4473252a 5e26878d4ba6e538cffacf06be30f635
+install-size = 118069 115727
+download = 936c581efc44272b1a0b70b85f2cd359 b16d1cb4778220e5b6aa57811ab0d025
+download-size = 27894 25676
+size = ff7510e01014930400b89fee84afb484 7876ba9e321690bf34568d43128b2afa
+size-size = 15192 13067
+encoding = fb1f68e13bf43168be086f34777dd076 6e18f9faba1194942730b396250ffd73
+encoding-size = 70314 70492
+patch = 7124a93dad7c5e27302f50ed48a62976
+patch-size = 37041
+patch-config = aab9af4961d3a06e5e638fbf2d419af4
+build-num = 13065
+build-name = 13065_2.4.0
+build-branch = 2.4.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

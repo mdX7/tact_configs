@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 890e3244730cb8745c19fedb43611910
+install = 71d909ce15826f57a4a1a91ad5e59d4f b0a11b201194d773dd84835e35f48090
+install-size = 373934 334020
+download = 629c5d2a9601706f8db581c2bdc16299 48d823d40c6bbbf00caedddd8a540ca9
+download-size = 141089 109606
+size = ec746a134b989df7e4de4fb1ebfc7a8f 7af069f1bf6283378a757192df4d5513
+size-size = 87177 61301
+encoding = eb7ff571ee9ce6402e73d395c43afd8f a1cea4491943c02c18b9320f0dd79308
+encoding-size = 268474 268647
+patch = b41c88f40ba26784a11e4d4324c33543
+patch-size = 267257
+patch-config = 1f7b2ed580c12ad158c3a0bba16c1b07
+build-name = 79904_20.0.2-hsc
+build-product = Hearthstone
+build-uid = hsc
+

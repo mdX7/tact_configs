@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 4dc54607efafd8a2b88f3a9e7b530f15
+install = 247d9ae2718255940fc4f23af02a2eab 16dac45d9da6d588336c56ff55fbec25
+install-size = 224365 219927
+download = cc72cfc8d30df7d1007be339adf68683 9cc7a262ec313e2fb760c75c8786226c
+download-size = 46463 42721
+size = c17645e899c17596f07d8c5d1af87c64 f32a6f75bb2d09adce26e0b045531573
+size-size = 25246 21618
+encoding = d9be2a266fa7559e5f207325f4b7d05b f5e766c485a06ddb7eac5501cd96a29f
+encoding-size = 111594 111771
+patch = a3656d3fa8852e79981630051564964a
+patch-size = 47795
+patch-config = 5d72f633f27776ebc487f1b63d3f5733
+build-num = 13100
+build-name = 13100_2.5.0-beta
+build-branch = 2.5.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

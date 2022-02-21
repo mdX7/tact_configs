@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 97a93b0af4cf508f3223002de6d31981
+install = c0e24af949b8f125ab3c796e1814d79a eaed9d415109964247cdf7818b74e414
+install-size = 187693 173222
+download = 3b7b4becc1c5e1667f526721759d5538 bdf1a910dc519109011449bc0699977f
+download-size = 67624 57266
+size = 88766beea668779700df4823e239492d 8db41c77d0b52815d860a1a22bc90b0c
+size-size = 39660 31026
+encoding = 304fab7987e0f2127b00d0b04fe54d4b d2eea20b932d685db01698816e61f6df
+encoding-size = 144630 144801
+patch = 15cc9c56016e65866b152ca77d96b5fe
+patch-size = 189963
+patch-config = 00b3c526e6eb8a31f4b43e16723a5f1d
+build-name = 35057_15.4.0
+build-product = Hearthstone
+build-uid = hsb
+

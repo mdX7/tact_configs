@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5822fd3c3c93b9c68034ffc628199c7d
+install = 340e572336dd9cdeeac3c5417c9ee177 573bd4991560cba189804ac5dc27b46f
+install-size = 6298 5972
+download = ee7254dcf3370110247cac82c8c2f08e 8ee4ecb69bf033fe231e6c9b42cb0900
+download-size = 1797083 1613446
+size = aa9aa8bd2e02487f4acf7732a2b457f4 aa9e88b1e1e8cf8f3b49c7a0bbf65e03
+size-size = 991594 828958
+encoding = ce2d1d89bbeee4e234ec239059362c27 d909753401aa62f032be96780536f648
+encoding-size = 12541 12705
+patch-index = cc1d9303530673a80c0f1ee3686c1c38 34b8bb57c7324dadd7b024cc6b3f58b1
+patch-index-size = 9206 6638
+patch-config = b8dbb4ab0e975e7279d09c7c4e3ebbc3
+build-name = sub_10923266B2_WZ316_1_16_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 4e54a1c91da04f0c9cc2f9a4bf7e79e7 bc7dfeb7572e5ba3d5c4c662e33eb6d3
+vfs-root-size = 3129811 1268162
+vfs-1 = 4e54a1c91da04f0c9cc2f9a4bf7e79e7 bc7dfeb7572e5ba3d5c4c662e33eb6d3
+vfs-1-size = 3129811 1268162
+

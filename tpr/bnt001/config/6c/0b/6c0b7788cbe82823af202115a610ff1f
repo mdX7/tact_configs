@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 1d2247b3a0601cb19fdd54cd1fa06b0c
+install = 52072e030f90b4dd20e170a778be0be1 6ffbf9347a219f09336dff9a220fbc83
+install-size = 4092 4151
+download = cd874c75e83ae4961e24085f8fc3835c d12a156c346c472ea9a082ed86476848
+download-size = 1098 1189
+size = eb2951781fcae1920b342f9c3e411ab7 1a79287c2198495e99b593d7ac3e5a8f
+size-size = 577 671
+encoding = f9b72837807fe091bd180e6f4900262b 5f43010232b44b4285fdad1e8ac22483
+encoding-size = 8381 8556
+patch = bcacc50bb5b458e0b944beb1b8d4dd91
+patch-size = 1713
+patch-config = df579c4ba417625c0e6fc0675c2ff8c7
+build-num = 6825
+build-name = 6825-no-branch
+build-product = Agent
+build-uid = agent
+

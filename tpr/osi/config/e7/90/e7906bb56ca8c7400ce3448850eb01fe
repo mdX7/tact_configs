@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = a565e312d9e970a8bc8c371fb4891dca
+install = 7af181b449f8a2c310d89f097d80674d 0df875aeae285cf1c38b246bfa41a25d
+install-size = 315 341
+download = 4e7a0327745251cba5da230d823894f5 90be659805ca8a723febdd92586de122
+download-size = 4653632 4302809
+size = d998dc1a346c8562558512e86b139936 9f4d2e20502b8ad2026dc159820812e0
+size-size = 2502690 2251543
+encoding = 97c563b489068e639bda5d7cc93d3478 9f23f078083e6b17b2e7738e3a47c7c1
+encoding-size = 10580238 10580399
+patch = 12a032903d5de49a43197cf90c1de2ac
+patch-size = 85697
+patch-config = 03736db995fe29f0a435409799353041
+build-name = 68051
+build-uid = osit
+build-product = Fenway
+build-comments = PTR amazon dodge fix 08.54 01/24
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = fb41b67e72a02ddb0b2c554252e902f5333e6231
+build-source-branch = release_2_4_ptr
+build-changelist = 208302
+build-stream = //diablo2_stream/release_2_4_ptr
+build-has-data = True
+build-target-platform = win
+vfs-root = c31dc4205ef0c46a9a29d3bacfc40112 6ac31c60a0e0d9adf9325d10ab37a71f
+vfs-root-size = 602 583
+vfs-1 = c31dc4205ef0c46a9a29d3bacfc40112 6ac31c60a0e0d9adf9325d10ab37a71f
+vfs-1-size = 602 583
+vfs-2 = 0ee0b5f35c04f831104c173a6ed61a1c 90a5541dfd6499b0013be5f94d5d8bef
+vfs-2-size = 11286999 7236475
+

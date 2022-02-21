@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 299a233de581b4744b6d73e1ed9fc9dd
+install = 5a3e06c9a97da6a3574582c6c14db80d 6cdab2e7bbe5e686d1dc85b6d798a8b5
+install-size = 115117 112812
+download = 90855ceff907659d1552b70b314f8c07 3de830bfba4e4d9e300f9873282422d3
+download-size = 27596 25411
+size = 40f4a4d6ce42346f0f5c2a6091956955 c44032eefd6cfe3f3c5ff26552934e59
+size-size = 15024 12931
+encoding = 384de2bcf482da8c9c47d8eb41bad7ac b7721a58f90479e0bab7967dc6a5fec3
+encoding-size = 66186 66365
+patch = 630d15b532ea16cb1af4dda2a7565e12
+patch-size = 13087
+patch-config = 09dc263c0ac54385b64bec5f30f33ae0
+build-num = 11010
+build-name = 11010_1.13.0
+build-branch = 1.13.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

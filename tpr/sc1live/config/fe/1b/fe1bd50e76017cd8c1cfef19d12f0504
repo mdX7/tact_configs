@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 50fa42e925dcd205e2991a939efeb31d
+install = 1f7fc266d59c0e68736292f1cc91487d 26995a80c0de9af09571433aadbd5478
+install-size = 102898 98632
+download = b351eb901cacf7bbc5d5f28640124a8a 8c66073e8f1b61fa6c715da7cd19c27f
+download-size = 1265134 1120689
+size = ba9a273b6829850f48590b045533a586 dc20936b89f67c5651b085ef7f298c91
+size-size = 705353 616575
+encoding = a10be18bb64335ede75ac24f6a094515 8cb0d00836a7a168515b1bbde4c43da5
+encoding-size = 2757663 2757834
+patch = 4ae6864b569b43320c169b3787cf1f5c
+patch-size = 13295
+patch-config = 819ed491d46fdd3983cce8a14fd8770b
+build-name = 1.23.8.9588-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Release Hotfix RC 0
+build-playbuild-installer = ngdptool_casc2
+

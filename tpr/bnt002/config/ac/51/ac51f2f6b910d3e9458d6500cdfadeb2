@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = e67f47c8cf4b70b1497145a078d0c86d
+install = 5f2996e83ee053e73bb1a23a1d83996f 8d15159fddfc666bdd29d2a04b4a1324
+install-size = 118069 115727
+download = f66c79b8408446bdeec5c4ba79087962 20cff6fc24de27a86941397bf82cff07
+download-size = 27894 25676
+size = 17310e17f5c93580462c9bd9a20f99ea f5536064aeaef39e7a5e17b4efeaf0e8
+size-size = 15192 13065
+encoding = c7c942ed672f972313455471e642cc3e 7597cb1d723ffb159216be8c2831d623
+encoding-size = 70314 70492
+patch = a5b629aa2f0ec7723c183ab435f19320
+patch-size = 38449
+patch-config = 5a99587ca2928c92f7b359756881edba
+build-num = 13147
+build-name = 13147_2.6.0
+build-branch = 2.6.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

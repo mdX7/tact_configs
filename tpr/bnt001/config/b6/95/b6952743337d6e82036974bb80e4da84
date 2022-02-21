@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 9c465e8e335d09dfbf3784ca638cd647
+install = 1f994c722deb4c65adc6c708229cc12d 8bee6bdb4b78a381202aa129b307482a
+install-size = 4092 4150
+download = 8d7ab588db74c55b047c70651005231a cc6bc4c676cf6ac3057ac85fd6ac0e08
+download-size = 1098 1188
+size = 2e8b2d0e143a5ffab436bb699ac1e13c 2b442b8f5f82168f55c9b58347336fa9
+size-size = 577 671
+encoding = a8e19accf69ace9c2830d24d1791da2e c4e3e625fbf109049666019e083e9ae4
+encoding-size = 8381 8556
+patch = 3c1577b302af8bc33592345ee76e2540
+patch-size = 1713
+patch-config = e14046b8c2de70e909a6b23fbefc86f4
+build-num = 6833
+build-name = 6833-agent-2.18.6
+build-product = Agent
+build-uid = agent
+

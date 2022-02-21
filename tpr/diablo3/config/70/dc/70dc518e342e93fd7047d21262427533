@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 35baecdc55e22b18fcae75ece1a0c28d
+install = b599602ac3656bad34cdfd3bf61027c8 582be9791d80c19ae846c30c2934f566
+install-size = 40835 39842
+download = d106b1cafb4437e7c6559960258849c8 31c5f8dbadcaf5b79f84ee3e0fe49ed0
+download-size = 18493664 17196066
+size = b38be78afde476f60c882b39b19edd4b ba2ccda9eee8910cef583dbedb9b217c
+size-size = 9907384 9556692
+encoding = 9f8352d96e7b53f5c10840fa8eea15c0 fc7c369cac7dc47d28982ff12596d53b
+encoding-size = 42213147 42213290
+patch = 6f3ac4ed5fcb51c6196f819fa5e7bfb6
+patch-size = 28027
+patch-config = 3aca1325470715a82e0a8cd7f8982835
+build-product = Diablo3
+build-name = 77383_Win32_2_7_1a_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = mgrenewetzki
+build-comments = PTR FMOD Patch 5 RC1
+build-branch = 2_7_1a
+

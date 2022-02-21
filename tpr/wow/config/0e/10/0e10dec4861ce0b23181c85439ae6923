@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 07ae08ccb4acbc2c92a0a1dd2db0283a
+install = 6031c4a161e2b23fd79955fdba1dbbc4 f8a01cf15c36900e7df64c73cc23c1ab
+install-size = 17787 17257
+download = b9e505ef6e3308b583793a698263c334 8c2f482a25e09969b4b7ed32cbb1e2b8
+download-size = 6211697 5548918
+size = 23175c1fbf7d1923c5d6d652a1c62aaf 6c791cd87b6f02f58dd94e90f5abd025
+size-size = 3336964 2892204
+encoding = 04bc2a0f05f57b10cf4fb4c758cdc866 8021d34dedef88bc0d233bc87dd00184
+encoding-size = 13129518 13127937
+patch = 3e2f7d2de9561c386fc626f9c01283f7
+patch-size = 2043113
+patch-config = 7c10c364e1950b9e32599d54dbcb003a
+build-name = WOW-41959patch1.14.2_Submission
+build-uid = wowz
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

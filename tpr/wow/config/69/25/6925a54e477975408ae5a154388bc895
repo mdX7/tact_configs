@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 74f371cc6995e88083ec4eb5cd346990
+install = a336f43358f1a33b12d77af48f137fee bedcf23acfa63dd1dfd0ff1bf4dbf1bc
+install-size = 15633 15240
+download = d78c3fdc9e7a18e2c343f2a80d34b814 87e70074c8dcfe43bca1280ec2f06549
+download-size = 6111806 5527558
+size = fb8d1f5a69d22552005a03673f1ccc06 cd76a6dcc30c1309e7f18bbbb999c9eb
+size-size = 3247783 2878588
+encoding = 2536565170e0a70eba73fb9be136e4e3 28e77b567094cbf1f8c243066ea243f5
+encoding-size = 13080152 13078405
+build-name = WOW-36714patch1.13.6_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

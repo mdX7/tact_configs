@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ff476cc560d038aa3d5383296aba6e6f
+build-version = 29
+build-num = 1855
+build-name = ff476cc560d038aa3d5383296aba6e6f-1855
+build-branch = 1.30.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = d3255eab56112c8c929a4767a9a36167
+

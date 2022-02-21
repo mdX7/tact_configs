@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 040fd956457d7b4f17f903d3ee3eeda8
+build-version = 29
+build-num = 2000
+build-name = 040fd956457d7b4f17f903d3ee3eeda8-2000
+build-branch = 2.4.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 86245a0ea18244cdbee37da1c3d21ca8
+

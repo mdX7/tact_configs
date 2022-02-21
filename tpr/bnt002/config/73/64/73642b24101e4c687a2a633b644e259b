@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 65cac6a306059458b0ba1dfb7dacdbcf
+install = f3568d11bfbe51e76ad22d0d8b3e9d3c bcee4946a055a40d1d2ebdec382381f3
+install-size = 115007 112703
+download = 9d154e970d6565fb256c8143680d99aa 3e269fcafeddea16a3f8fda99c977a11
+download-size = 27544 25361
+size = c658e9af0392e2b0a99b8c1619b38738 186426bf837610dd7fd9b23ccaaa0e91
+size-size = 14998 12902
+encoding = 699730900fbed89d7901879ef5227df7 9bedbe704f04f747709467c8b786671e
+encoding-size = 66186 66365
+patch = 9575df7a953ab1540905921f969b83b2
+patch-size = 13237
+patch-config = ac5652d2df1f1575f39b1f2081c1e1ef
+build-num = 11474
+build-name = 11474_1.15.3
+build-branch = 1.15.3
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

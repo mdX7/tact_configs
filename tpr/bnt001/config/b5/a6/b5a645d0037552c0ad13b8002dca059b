@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 226a48cab1a7e4e211e1318b3496f9d4
+install = a5f5a3c1bfebba8efbb2c78e34f4bd92 ae48b51cfcc5ea5ec6736bc6c4918832
+install-size = 4094 4153
+download = eb9ca706d004b9700f4dc8dce06f2b5f 0467956d4c3601d88e6691cfd8f79aeb
+download-size = 1153 1244
+size = 8e88d6c55fb89fa0db2350abf4e95fb4 79d7eb596041643b2c9b346452e995e7
+size-size = 606 698
+encoding = 2022a0ee7eb9efc69dda3cc0454fab33 686cb94561f9159acbc458540611b7c1
+encoding-size = 8381 8556
+patch = 40bdf8d27c8542bf5a963590598e2ef5
+patch-size = 1649
+patch-config = e09c6c0abe093b878d91683a5fe6ba72
+build-num = 6518
+build-name = 6518-no-branch
+build-product = Agent
+build-uid = agent
+

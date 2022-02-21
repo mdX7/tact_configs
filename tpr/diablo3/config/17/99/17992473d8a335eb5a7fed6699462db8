@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = dcf2cd583720eb0c7fc90c0a84ee3f7c
+install = fb0750294ea6dab2129923c8276d8b93 85923bd6ef7153fa24395f4e7fdcc9b3
+install-size = 40307 39314
+download = d85100005d9150d42621ccbacc92d03b df97a8f2f6215c2bc591bde01a1f9c3a
+download-size = 18469826 17173814
+size = 38a7da0b71c0db5cb962e8e8270d9209 3ac230f0d122444617e5fbc030fe7f01
+size-size = 9894609 9548319
+encoding = e8ff30810b5ac40aaf20ba123969f3e5 d5e8d2e2cbe572b6fac62034cffe3b26
+encoding-size = 42155355 42155497
+patch = 073072ee0aad7161a501fd29dace2524
+patch-size = 47263
+patch-config = 8a164873c2ddb62ce30395f3afd90470
+build-product = Diablo3
+build-name = 68722_Win32_2_6_9_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = MCederquist
+build-comments = Patch 2.6.9 RC1 Retry
+build-branch = 2_6_9
+

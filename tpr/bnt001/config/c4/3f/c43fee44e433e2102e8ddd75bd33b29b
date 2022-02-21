@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = b4a2156b059382ca1a11b2558998356c
+install = 300290795a2d3a7c4842df912a3d4f21 7d2b89cf88990166ef648ed33e078528
+install-size = 4094 4153
+download = ab55d66ce1f8f909e59da03f0ee3fa22 257c8729cad63288a170078a43d75c66
+download-size = 1127 1218
+size = 416b174d4e63e160462539e76170d541 923b2fc80ef8a756c7dfe875218026ad
+size-size = 593 686
+encoding = b2d87034e543ecaff0a40866a68b8e42 d0a734e5aa168405dec0d2b25ba30ce5
+encoding-size = 8381 8556
+patch = 40072583b8a2aac01addf2bbb8597eac
+patch-size = 1585
+patch-config = bb56612719cb6a7c0083ca5c2e12ae6f
+build-num = 6441
+build-name = 6441-agent-2.15.3
+build-product = Agent
+build-uid = agent
+

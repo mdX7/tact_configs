@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = d1762e86df6936281981e9d05e7a8f04
+install = 96d91a28b2a7de1b9e096294843a6d08 309b7f7a0ae3009731891a0e3a8aed63
+install-size = 6229 5902
+download = 616b065454961f15fba970253f215890 3394fc16da141da44a3b661b5abcb4ba
+download-size = 1620687 1455412
+size = 3e08ccb7cab2ed6a353075aae9994f09 6190afdd8b734c9c4b4fd344a6c167b2
+size-size = 894264 746960
+encoding = 28c5c253e02ccbea44cd9989e7040173 667bf9ef03334a21092b308d57c82450
+encoding-size = 12541 12706
+patch-index = effe21c13cd2e0ac0d202e100e68c1a6 df04f0b28ca6478fed528c7295c82332
+patch-index-size = 7056 4547
+patch-config = 024192da0f2f45d6b45168f6c37fa405
+build-name = rel_9601651_TU_ACTOR_7_7_dwl_signed_R_ship
+build-product = odin
+build-uid = odin
+vfs-root = 3f09cb7435749c57331072dbfdd0509e 2fdc0b10c4914c3c91d54a47ae6287a8
+vfs-root-size = 2790476 1131118
+vfs-1 = 3f09cb7435749c57331072dbfdd0509e 2fdc0b10c4914c3c91d54a47ae6287a8
+vfs-1-size = 2790476 1131118
+

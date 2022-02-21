@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 4b1ea122b2036c59b8a22e24b375723f
+install = 26ddd138b488548562502c56d12f16f6 3403341c5b590d1491e1b8d04533f6d8
+install-size = 122827 118887
+download = 98b6c91151e67b8d5e930e253f563637 b96174fa57b4e0cc7218d9b013c7d470
+download-size = 54773 51176
+encoding = c8fd6bba9640bca7ed4bb268a96c6967 333adb0853bcbcd00a3b05939ba66504
+encoding-size = 128090 128281
+build-name = 1.29.2.9231-retail
+build-uid = w3
+build-product = War3
+build-playbuild-installer = ngdptool_casc2
+

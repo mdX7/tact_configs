@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 68093e59d15bfeddf4e0f62fc188241b
+build-version = 29
+build-num = 2043
+build-name = 68093e59d15bfeddf4e0f62fc188241b-2043
+build-branch = 2.7.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 8e29a28937f7a0478c097388e6b9aae5
+

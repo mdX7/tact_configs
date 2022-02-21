@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 8626c2a5e40d949d2ada146db5c19f11
+install = 3a64e6f6c3d81ac35f9bf6d7c86e6a00 9f86d96c2ae820eb5164d6e12f95ebf6
+install-size = 663 670
+download = bc3d2dac6d95016c64426a691a7d1202 d4dff048fb5276ae63daed495f40163e
+download-size = 25276 23586
+size = df1679bf67ce77c2c964b96ba8536e3c 3fb68dee06e6d25775525b5cd95c7779
+size-size = 13666 12769
+encoding = 2c21d1f61485a9569bf2f7878422cdb8 5299bb04b05efbc749cb24d4fa6d0d29
+encoding-size = 8402 8562
+build-name = CRC_1279292A_retail_signed_ship
+build-product = lazr
+vfs-root = 2ef5b3818d20176f9c191156c1b1a50a 669cd685bcdd0641b325680c28aa6e03
+vfs-root-size = 57384 27106
+vfs-1 = 2ef5b3818d20176f9c191156c1b1a50a 669cd685bcdd0641b325680c28aa6e03
+vfs-1-size = 57384 27106
+

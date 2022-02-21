@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = cc8aa2e8e9eef4ed203ca21a2bd6ab20
+install = d1d24ffeed0ad8747cf9377ba5909e64 3b03c82ce52b860f5ef83186160f43dd
+install-size = 85 152
+download = c090b4e6ae1e2ab67e6195c14d70ea62 aad6f49fee1e5c90de163eaefea2348f
+download-size = 112 206
+size = 82e11ea112e36b1e2958ae4530d7a248 ac06b9d0bc66ba1f6753ca6b4ff85684
+size-size = 72 166
+encoding = de1843f2b7f9882b0a50c38547113311 0d2a132ae3e6dc9f26358a1b0ee4c16b
+encoding-size = 8377 8551
+build-num = 3064
+build-name = 3064_rtro
+build-product = Bootstrapper
+build-uid = bts
+

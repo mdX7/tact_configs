@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 3a011ae8054dce07846a1b95302b8e3c
+install = 61301a9050b650ea9a4c03936bf18c95 8b5538a2288ab84fe3f75c39523b0dd5
+install-size = 185867 171483
+download = 2ba9484476eff76878df8f19d990d15d 8022ff4e02c5e41fc3d34629a7d1e545
+download-size = 66098 55949
+size = a5bdb4487a96115069a9113ab0f00b84 9b5a8bfd00862f09469ead71aa5031e8
+size-size = 38771 30253
+encoding = e34bb3003ff38b7c48aa8ddc9b666d61 d03af0619e5fa7e6808e56d6a1b1bcd3
+encoding-size = 136374 136546
+patch = c5a9e9bb82d19b6b64acd8fdc3ad870f
+patch-size = 201809
+patch-config = 514fa0ebebca59ec88d2c5a92d562ac6
+build-name = 39282_16.0.8
+build-product = Hearthstone
+build-uid = hsb
+

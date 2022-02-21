@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 4795b3beb83ef0c61bbd1d30a9743f26
+install = fa9548ecd03c717d7c752fff40e2c4c9 291b723cba80dd1c1325691b4b93d2f6
+install-size = 76 143
+download = 1d26a5ea516a2e90e8e0f2702c14e042 5932a33daa4cb71ccd065e8aba3b9208
+download-size = 112 206
+size = ec194cbf70f307029e4a508b798eff2f 9ea17f914b9e2695a80be807cf27501f
+size-size = 72 166
+encoding = 6822c2c99d82fa0e103b98620a6354cd e6245fd7801fbc2bc849c3cda13e8031
+encoding-size = 8377 8551
+build-num = 3086
+build-name = 3086_wlby
+build-product = Bootstrapper
+build-uid = bts
+

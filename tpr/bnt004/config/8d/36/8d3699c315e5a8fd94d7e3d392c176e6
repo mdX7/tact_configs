@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = f2aef4583c2253927cc2f9aa884bdbeb
+install = 6c4ea2f6381cc90015ebd0efe8d528a6 e010a86247b0797e5fde48d0fed2c225
+install-size = 67 134
+download = 19e35352e1ce0c41521de70da6f0ce5f e9c1f54e2226707a520da2e274827df4
+download-size = 112 206
+size = 020f7a704ee858bdbcf1ed829c744614 9a2c4bb0dae782aaa1be101c508c4fa0
+size-size = 72 166
+encoding = 5d3f1a67f3082130521f022438c9d471 ed0151264f574e3bcceffa6af1900ac4
+encoding-size = 8377 8551
+build-num = 3094
+build-name = 3094_fore
+build-product = Bootstrapper
+build-uid = bts
+

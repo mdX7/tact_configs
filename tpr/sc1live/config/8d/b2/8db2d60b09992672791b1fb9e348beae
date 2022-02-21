@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 88fb2be8608b4d48c77ff2d28f4fedbf
+install = 86294a93a9c162580d9aecb4b4e99eb5 9155e6f84c8275d8305975e2540bf79e
+install-size = 93565 90004
+download = b66ab3c6a8a636d02b8e7bac27161547 ac9a709f13fca3380067f10258fd7850
+download-size = 1186654 1060663
+encoding = 368607c1869c3383fa59769d67609047 bcea98e36178b69586dfd769f113b49b
+encoding-size = 2604902 2605089
+build-name = 1.22.0.4589-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = CN prepatch 1 RC 2
+build-playbuild-installer = ngdptool_casc2
+

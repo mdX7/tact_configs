@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = d3c08d755c622a93e98cdf929a6fc6b7
+install = b3180d969a02f4184e61ba5921f52690 a137450902b5e825a85a7c7dd182ea68
+install-size = 84683 84615
+download = ba6f47e444595c3872f8effd6c5063ae 61eb817f1a24890a13507a86c1fa06ac
+download-size = 29253 29211
+size = 3b5b75f6b85c4ff1d47796c230e47591 91eb66de43d38cdbe9f46c75217b795f
+size-size = 14710 14668
+encoding = faa5095f28c8563860d20a9d1d428349 ddd2226efee556e6494ea35e65d24f97
+encoding-size = 74444 74620
+build-name = RC2b_03_22_2021_R
+build-product = wlby
+

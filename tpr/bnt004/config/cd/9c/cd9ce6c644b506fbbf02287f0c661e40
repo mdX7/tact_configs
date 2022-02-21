@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2923dae999c336a90332e63d4b47cf61
+install = af75447c1ce497ba364373e0268fdeea c3b3eb1939ee43c8350760ae7ba69051
+install-size = 80 147
+download = f1588afc115d2739620e652693971a3f 78f01336a185a08fe169f85bf32769b0
+download-size = 112 206
+size = 4ef38dabf85674e585ca92382834de79 8fb811bd5a57be8629d03dfbb3db2009
+size-size = 72 166
+encoding = 731ad973966ed730f1820d82c42dbd1b 0fb186781b0973c938fb2e6c1b19403d
+encoding-size = 8377 8551
+build-num = 3091
+build-name = 3091_osi
+build-product = Bootstrapper
+build-uid = bts
+

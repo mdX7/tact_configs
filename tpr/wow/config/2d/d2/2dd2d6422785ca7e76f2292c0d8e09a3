@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f21bfd525b110a95276b300ecfc6cc9b
+install = 0fc5e0b9de2b3e6e71a8a88e1e97dafb 2fc0eb6312c0ec8cf48e389d3d2df6e1
+install-size = 17473 16944
+download = 3959a27ddf8b82bcf2a2190b7a38e6e9 a7fecb5a6cb8637bd418093408dc4606
+download-size = 6211617 5548892
+size = c9b5caa5c8ca908c76bac9d74b034e91 bc9e58bb303e883c183522496a68faa1
+size-size = 3336912 2892467
+encoding = 39e7b95ae27429fad3c96fea349147dc 0a414d24a8a4256a7094e75d064913bc
+encoding-size = 13129517 13127931
+patch = 797c8be9f3d5ab0817bf067c9bfaa21a
+patch-size = 85329
+patch-config = 5d1891d2c73d0fa735497aaaab415897
+build-name = WOW-41137patch1.14.1_ClassicRetail
+build-uid = wow_classic_era
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

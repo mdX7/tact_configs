@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5c789595c30fdc64036c998b356cae98
+install = 8adf5fb4910c3d2cd17f07002fcae837 1e3f00b7239f1cc3e5ce18bbf0a335e9
+install-size = 116369 114027
+download = baa5db688f833e371d864780ecf51305 2db35b4a4202144181fe107d076965ca
+download-size = 27894 25675
+size = 3009785ba4d269576e348ab78a45eab2 28bcadac1f5e28b245d1cc00671399e5
+size-size = 15192 13066
+encoding = 7e78a0e1372d34d16801c31c70f057c4 90f24229872b8afe7ab1ee2d8aaeeee0
+encoding-size = 70314 70492
+patch = 7e4856385e786f2372e84d37a3b428cd
+patch-size = 16721
+patch-config = e32754ac54a76fcec6f15b386a0472eb
+build-num = 11646
+build-name = 11646_1.16.0
+build-branch = 1.16.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

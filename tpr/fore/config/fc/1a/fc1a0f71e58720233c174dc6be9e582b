@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 7384ff2ab93ef1584cff31c2e78e7827
+install = 40671b68fbfb62f4f26a43d0eae98c58 a731e7db62a04a43d40a81400c149e5d
+install-size = 5868 5574
+download = fcfce00591ed59dd9a9124a4d6fc99d2 927220c9f01272ff17611de7ce22af54
+download-size = 205548 186046
+size = fcc448e08c86a5f26de0c25a1db9b139 9bf0e87f86185c0bbe306deadf0f29f2
+size-size = 113096 97146
+encoding = 01c86577860308c2249835e591e07d54 294b6d57e45ab10ae3246bfced703f0a
+encoding-size = 12538 12706
+patch-index = 50dbabe4aa91da9e0068d769f27ea65d 8850247dc61bd6721167c32ddc266641
+patch-index-size = 10720 7146
+patch-config = 6b2f3fa21b2dfc15ecdb78a7cc8841e9
+build-name = s4rel_11056445_tu13_colorado_signed_r_ship
+build-product = fore
+vfs-root = 1d253fd1427d9a29da6b38388312f573 696e3cdfa0f19abc02474545b1403d96
+vfs-root-size = 373581 160680
+vfs-1 = 1d253fd1427d9a29da6b38388312f573 696e3cdfa0f19abc02474545b1403d96
+vfs-1-size = 373581 160680
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 51d1352ed2f3c4e809ff9543d2b2d5b7
+install = 6334ab985ecce6e5cebf68efdd587bdd 79344c6ad26a71a77c85e35d5576a3f2
+install-size = 17740 17211
+download = 23f5ca5f4f603bed9110fd204a91abee 7b9e66d3013044ef5c075dcc2f921363
+download-size = 6257919 5590293
+size = 8681815e990de6af97fc7e45080db4ab 5b2a4fd5651a63fb6a91285207843932
+size-size = 3361794 2914304
+encoding = 901d140f22b4a01b31035af022e8c1c0 e461ce5bf4d7729455932e26f4508e3f
+encoding-size = 13228585 13227012
+patch = 109dc63673f84c603b41a7a329b47ef0
+patch-size = 34583
+patch-config = 3cd029692e9c35ba742248b40c80b4cd
+build-name = WOW-42214patch1.14.2_ClassicPTR
+build-uid = wow_classic_era_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

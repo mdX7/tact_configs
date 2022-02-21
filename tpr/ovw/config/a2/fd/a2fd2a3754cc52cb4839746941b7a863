@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 09606930010d9e37c427690bd2ae5023
+install = 90797c31a4604d2d1c1c89c84bd759b0 e3669a1bb029aa2219423ebe54abab3f
+install-size = 7350 7100
+download = 604d10dc3baed250374140bd0897c6df 4ab74fe5b4038c309e9a6a6103e281d9
+download-size = 28091330 25663129
+size = d50c6513ed0ddcc96dae3c98c33e342d 787050e822b8ace61df9e0336611412b
+size-size = 15277814 13670717
+encoding = 4436b96775978418e3e58ef1b2d0443b c50e2ad0e0d427894ee8fbfee30cb482
+encoding-size = 87212216 65585844
+build-name = prometheus-1_28_0_1_PWX-50951-PROC-KR
+build-number = 50951
+build-branch = 1_28_0_1_PWX
+build-product = Prometheus
+build-uid = proc_kr
+

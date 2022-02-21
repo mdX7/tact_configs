@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = d63848ec0b3cf166752aa6cf1e876ccf
+build-version = 29
+build-num = 2040
+build-name = d63848ec0b3cf166752aa6cf1e876ccf-2040
+build-branch = no-branch
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = eac63e3c12fbd1fc659b88570220a3d0
+

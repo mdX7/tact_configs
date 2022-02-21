@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = d1e3a9bb9eebc5196902cf156c44f167
+install = 98bbfa8161e19bdaa5824ae67f615876 384ba8d0064eb608b423765b8ea584cf
+install-size = 228845 212187
+download = 222c2457849ce9a72a3ec357c8ef0c6e a3a4549230c95a423ea9843cbd208dc8
+download-size = 72468 62653
+size = 2c37717247b10126e157eefb917883b7 34aa1fd8288a7f3baef19812f2e64259
+size-size = 41852 34407
+encoding = c48d0d74c7c88c9fc771b5c4d1945de1 ac37fb02b41cb2421e31d1168cfb7134
+encoding-size = 157012 157185
+patch = cdb0598ca9da3a76017cd8d6adaacd5e
+patch-size = 98187
+patch-config = 60d69f1e5fc7a4025dad58a269476350
+build-name = 28855_13.2.0
+build-product = Hearthstone
+build-uid = hsb
+

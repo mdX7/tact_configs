@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 2aa0a9df7616eb512fe52b32035b0875
+install = 56f37cdf0effa5d3dfbfbe32e302590d ff3450b96fd729d8946d089b49b94092
+install-size = 6229 5902
+download = 3db80849fd782a45977d7153e05bcb3b 495eceb16183f9a5847566bee38e3b18
+download-size = 1575421 1414755
+size = 9589a1754fc9233a2d2c7d9056a71145 0fb69fe5dd1cee9be6fbd562fdd8dde0
+size-size = 869291 726509
+encoding = 7807490637cd1540812d2231ef0e177e 12a35b861231e74a47a3c7a994be0804
+encoding-size = 12541 12706
+patch-index = 721a89723f0134fd315eef281652daf8 df5f5d843dbcd07728f1090f8944651f
+patch-index-size = 106 103
+patch-config = 654405e1917556add5bee6aaf80a55a8
+build-name = live_9348574_TUY_5_13_G_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 490d4efa7e67a3d54c658545fb09a8ad fab333642e3205e28440dc9889b77cd4
+vfs-root-size = 2717395 1098555
+vfs-1 = 490d4efa7e67a3d54c658545fb09a8ad fab333642e3205e28440dc9889b77cd4
+vfs-1-size = 2717395 1098555
+

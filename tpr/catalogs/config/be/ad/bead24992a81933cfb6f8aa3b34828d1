@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = b69024408d3bca516073878f0976b3b6
+build-version = 29
+build-num = 2008
+build-name = b69024408d3bca516073878f0976b3b6-2008
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = f6a84092c5244c92315c396286c4de87
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = b366c8887ca0f8d46565089280856a60
+build-version = 27
+build-num = 1504
+build-name = b366c8887ca0f8d46565089280856a60-1504
+build-branch = 1.15.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = edefb7bf8c42e93ac16be6f591e6deb4
+

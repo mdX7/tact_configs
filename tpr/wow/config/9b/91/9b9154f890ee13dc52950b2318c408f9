@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = d8cb0b141b0746c2a57cc388738ecd25
+install = ee46581514863594ac80b4713d276a9a e7e8c7dfbbe9d9cd0c9b5c4f88731a74
+install-size = 17787 17257
+download = 737580c1d82ce2b67976475d4b1972aa 71e62000e6cb1211f309cc1631ecdcc3
+download-size = 6212800 5549959
+size = 39eed81e848645926a40e41487e65763 e1a94d0bc2482eccbfb27a2d847662f6
+size-size = 3337549 2892931
+encoding = d18df9cc9dbd71c208c061d2566664b5 0576e0c6c1d30b9f21b679155f49ed8d
+encoding-size = 13129518 13127937
+patch = c4b968551819246b6be263e88ab31702
+patch-size = 39833
+patch-config = 550df673ef81d9ccaa04575be6111c76
+build-name = WOW-40441patch1.14.0_ClassicPTR
+build-uid = wow_classic_era_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

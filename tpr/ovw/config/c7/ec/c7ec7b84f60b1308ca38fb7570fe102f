@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 72bc0940a154b68414299c5e2b9505da
+install = 985696da76993ca825926c1cba24127c a19f050e037325bf2a8f8c40ca4c9164
+install-size = 7350 7100
+download = 25faeb107ef06725681c0bc13819beb2 5c9286aa3305617b0d97300f72f20584
+download-size = 17576042 16112910
+size = 918e99eeed48bc90472e2c315df64c2e 4fc219423a8f681f6f2a74f8e1846d02
+size-size = 9558980 8740088
+encoding = f7bb31135afb1a20ae313c5f496b50ac 767912d977fd01096b345be396d4f23a
+encoding-size = 43680223 39912640
+build-name = prometheus-1_36_0_1_PWX-59007-PROCR2
+build-number = 59007
+build-branch = 1_36_0_1_PWX
+build-product = Prometheus
+build-uid = procr2
+

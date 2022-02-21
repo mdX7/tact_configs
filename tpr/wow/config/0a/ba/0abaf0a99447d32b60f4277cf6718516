@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = da1e864a6fa5405d0bf121bcf957e3bc
+install = 854967affce7aea497363e8399c2c819 703428f7165ff42a86beb8b4608ddd4e
+install-size = 17787 17257
+download = 4a04826b4f4cbdaf206cef84640812d4 da16857fcaee402a61c08728f2cb7538
+download-size = 8083836 7221476
+size = 8f11277cc1b19239b144bfc99bba537e 7a0a2f25c79cc79a9a9697f0d49e1f22
+size-size = 4342657 3783578
+encoding = 5429b7473a16ace9ae9b0e61646a4740 f441fc8eec47f1d9efd87bebae837b92
+encoding-size = 17084487 17082650
+patch = 0ca84214f199ebbf2a8a3c08873aef5e
+patch-size = 140943
+patch-config = b00bf2a4b27583c6ac9510f6684b85f3
+build-name = WOW-41750patch2.5.3_ClassicPTR
+build-uid = wow_classic_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

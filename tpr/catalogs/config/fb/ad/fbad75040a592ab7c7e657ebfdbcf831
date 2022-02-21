@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = fdad625b236e480a8bb9e022e2178b8d
+build-version = 29
+build-num = 1924
+build-name = fdad625b236e480a8bb9e022e2178b8d-1924
+build-branch = 1.33.7
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 6817d5b0766052a5324d75a0471ca56d
+

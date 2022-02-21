@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4f5f5c7023089231606bbc371404c6eb
+install = c3679ce7661836cbfc8369719b5640b0 ea19f0149516701d1ed8d180da8ce1b2
+install-size = 4410 4242
+download = d73872a5f1217f91984c7c6437b30ed1 9ebcec02186f6c5aab6702d0ddedba12
+download-size = 12999354 11816112
+size = 254cf6fab554626faf23794acdfd6d9b ad72891bad5baeda5c9a33d5f1ee67c7
+size-size = 7095793 6550320
+encoding = bf53843b59b8536370c5697156b8c69b 290c757ce540cb1f1d972fbe34dea147
+encoding-size = 29158517 29046793
+build-name = prometheus-1_57_1_0-79731-PROEV
+build-number = 79731
+build-branch = 1_57_1_0
+build-product = Prometheus
+build-uid = proev
+

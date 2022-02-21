@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 31cc9016497c08d805436644c4b5358e
+install = ef5b1d0c036990db6392025584bb7e3d cea8206345ef9f8fb96b683898a951c9
+install-size = 373934 334020
+download = 3402a07351f986b64c3cb08f48467da7 94e11a8f1d75b9775cc6837230637df8
+download-size = 141089 109606
+size = 6d3eac2b6a28d2c828076310d68f93c9 9ec427f3037c84c65ea9de2ee05db179
+size-size = 87177 61308
+encoding = b969b343407abd605179ae0e5b7865f1 e7b7e1490257f69553bb84d5c7094793
+encoding-size = 268474 268647
+patch = 786c78f3ed9d0d41b2ce9abd5ed814a5
+patch-size = 278891
+patch-config = 70e4d8052e4d45fa3ec59af64a5824b6
+build-name = 77662_20.0.0-hse
+build-product = Hearthstone
+build-uid = hse
+

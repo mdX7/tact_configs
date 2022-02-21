@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b3a48c66511ec7e1d2e1fb58650fa44b
+install = f84d47363eb80b7b64dc1d168f3c83e1 a1d98830b8682e54d28d167fdb4aec39
+install-size = 115145 112839
+download = 1e58d75bc2ba0fc88f2d523eb88fe3e1 725ff46bbab2bb6e4accf65a8b0dc277
+download-size = 27596 25413
+size = 7e8ccd75e0c2e85854481f31e6259e10 2bff0156a91db5a2cf16c4418219410a
+size-size = 15024 12929
+encoding = 3ea383ed80fb205a6a07021bda6c2fe7 860bd9238e0b5884987b325238ab4f36
+encoding-size = 66186 66365
+patch = a937b53d88e0cc3bcf6ab14c0b650390
+patch-size = 13765
+patch-config = 29fec85f4ccc94a3d76b4cecb9863097
+build-num = 10549
+build-name = 10549_1.12.4
+build-branch = 1.12.4
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 1
+

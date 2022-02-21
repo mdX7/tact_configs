@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = b4745d6a4f982a3143c183d8acb6c3e3
+install = 9bbc96578a3de0302cad3ca2eb91a8f9 0f68e8c250d93e736f88b199b3699a3e
+install-size = 59171 57335
+download = 6acb3adf060e0efcf6853cfa9518b12b 024e63f74ac2d97ca541dac12eefb78e
+download-size = 17642666 15839299
+size = ee02ed4839689a38d64d76eb2fdf9bcd 0dc1393a864cc34c26703e14d0c9f31f
+size-size = 9733972 8730728
+encoding = a8d2479e32deb91d8fc9044320b2f772 92de5030a0c9e8857c058ef2bf4db91c
+encoding-size = 46279556 46127445
+patch = f290a975dda2c20a15cb7e3879a7b978
+patch-size = 35455
+patch-config = a9f3379aba5dc69775695d88e74f2f26
+build-name = B83830
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = ed05f0db335d003fbc3c7def69911114
+build-replay-hash = 7d9ee968aad81761334bd9076bfd9eff
+

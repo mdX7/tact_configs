@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 34f1a28ffc670de5a7aa9d59e48ed1ff
+install = e1ac02b02e3bc5802f4ac041c983b6ef 80b3f1bebd4e316f87ec3cf4ed24b123
+install-size = 4206 4046
+download = 815d0aac752168960270456ff4675cf5 712d75ad3147aea26e6075aa66120115
+download-size = 169280 156832
+size = 3f907988459e3fdc076b3ade74f65041 5dd2c20b7a43c2b9a55356d2e7ce94e6
+size-size = 91799 83760
+encoding = 6505f9b438f0571ba579a13300a5fa41 7b9e1cf51c02730d4ee4fb6fe7aa4248
+encoding-size = 8406 8567
+build-name = live_8612345_tu23_exe_patch_signed_ship
+build-product = viper
+build-uid = viper
+vfs-root = c51d5cf754a153998376c693f78ff350 27dbe8ec7e041cade7ff48cfa39fb5c7
+vfs-root-size = 356740 152846
+vfs-1 = c51d5cf754a153998376c693f78ff350 27dbe8ec7e041cade7ff48cfa39fb5c7
+vfs-1-size = 356740 152846
+

@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 325ac1841bfa3ce1e866f6b9c7c5bdc8
+install = 8b2298e58922dea638cb030e31b2abb1 75ed74d7ba800d4c54defe3c6cfc82ce
+install-size = 5066 4632
+download = 9cc9ee160786cfa41194869ace71db72 b805ace8ee3c90efe3911f20b3a88f8c
+download-size = 99403 86450
+size = e0733ae32850945da298c09480ed3b20 d578798d8341b1e64daeda1124743fbd
+size-size = 56645 48396
+encoding = 4e8e4a873960ee39e49a8c36640de899 ddc02c3da3d71572bf11eff6d6d5919c
+encoding-size = 8406 8565
+build-name = TU5_8350305B_sign_blk_zc_ship
+build-product = zeusc
+vfs-root = cedf343935162471f0ef5f506fce9ceb ab8c98529d83abed2432c7f6be48264b
+vfs-root-size = 148228 79974
+vfs-1 = cedf343935162471f0ef5f506fce9ceb ab8c98529d83abed2432c7f6be48264b
+vfs-1-size = 148228 79974
+

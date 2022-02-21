@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = ce4364546eefb04df7591c8ef1ec34a3
+install = f88801cd4725129449a6cfb4af6f2120 359badec98cca4f58c99220649f192a1
+install-size = 4014 4073
+download = f6e05d4def485e803912226c1057afa5 ab9db365cfc1d3eda71d7d94c7b83904
+download-size = 1072 1163
+size = 1a1c2bb7ed0206a1965475419c90f5e5 763b42a9657bb954c8143a39b6c8de38
+size-size = 564 658
+encoding = 69bf12d1a04e1b00ec57a38606aadda0 dc38878725543142d335b7a7dbd258f9
+encoding-size = 8381 8556
+build-num = 7085
+build-name = 7085-agent-2.20.0
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 7da18e1a166f3310099e12795deb1fce
+install = dcfa03f0d6f96d4f7857f1206562cb3b 5202a4c201e0617176fbf809fd144bca
+install-size = 118069 115727
+download = 85b3cf6d538e502b3cf6f567029ad6aa 5a3a61d7ab10d218d68c31fc2adbefe5
+download-size = 27894 25676
+size = e8c1a79e2e51e84a327d386f2033c941 28b21b3234bfe5b3444e2c34ce3a8833
+size-size = 15192 13065
+encoding = 4331138b15075c0bf8bf3637b96006db 7dd3c05182be40bb0a5f7a57a5d5c6ec
+encoding-size = 70314 70492
+patch = 7b5a498af132eaa2d5c5047ec155a1f7
+patch-size = 37105
+patch-config = 3a0811357e8cf97ef691e418e605b898
+build-num = 13242
+build-name = 13242_2.8.1
+build-branch = 2.8.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

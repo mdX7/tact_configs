@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = a5f252201a33677333cbc5b6b86bbb21
+build-version = 28
+build-num = 1594
+build-name = a5f252201a33677333cbc5b6b86bbb21-1594
+build-branch = 1.16.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 4c0552368d21cd46ac75b89a617a8f15
+

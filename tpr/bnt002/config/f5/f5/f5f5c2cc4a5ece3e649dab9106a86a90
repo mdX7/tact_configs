@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 929029443a0fecb709f16f22f0a8eadc
+install = c9baacc770d055775317e6c9dab719aa 32b155f54a891d5be1d4d10c8927ab77
+install-size = 229941 225352
+download = fad3c76c726bc8f4b1384e48b9ddbc2d ddca12a1e8e618ea63ea137e0db302de
+download-size = 28504 26248
+size = e829d0646744a112fbcfee8cc0ad5a9b 5d38382149177dcac91aee289b06b5d3
+size-size = 15516 13354
+encoding = 02ec64e129de6da6c00f9fb36c3f9b4e 2bf74f4ba35659eb4c665d4d45a91156
+encoding-size = 70314 70491
+patch = a5220e538199b01507ad7f48feb6c335
+patch-size = 14923
+patch-config = 896712346950a403fbfc4174d0e6b3bb
+build-num = 10950
+build-name = 10950_1.12.8
+build-branch = 1.12.8
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

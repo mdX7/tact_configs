@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = cf8dd57e055a90c1b165ecd7e45eef67
+install = 8ca936bf67b28f58f2adf87fbc0f08bf a97cfbb9f339447a27108a41d6d9db50
+install-size = 15565 15197
+download = f9da2877d6c7f8ac550cf0b526f19ff1 5242d6d8b26f800f4e4159be6fc1c0a5
+download-size = 6105434 5521840
+size = 7486a498d8be921907106f5bab60c6c4 bbc703e215e0c1cd693866b907ab0bae
+size-size = 3244393 2875272
+encoding = a9b5f9ae90f96fe841cd89d5394266f8 7b02c4a9d3be4af2da94f9c0821fc9b9
+encoding-size = 13063629 13061900
+patch = 8e1a1666588ec05ae4405bafaac1041c
+patch-size = 3495925
+patch-config = 261b104749629792dfce2fa8420d88a3
+build-name = WOW-32836patch1.13.3_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ebc2bba1769205a193e080c87669ebad
+install = d5669b6d9505a6f5dc7100689e14af31 4a2d998fe023800ffc27f2fb5895fb3b
+install-size = 4092 4152
+download = 135dc4cba7c0eda5d8fca90b19e99bd8 5540630442d2026e687a2887bcd0a464
+download-size = 1098 1189
+size = 6ec8fc6f82ea1ccaa201a79aa952e5ca e05097fc71c4df1fcc41cabbfb1d09de
+size-size = 577 671
+encoding = 5cd0bd68906ecfb55c259fc6c097d981 d7855b0b97aaf61047b266710912c41e
+encoding-size = 8381 8556
+patch = 3651c92f865dbc044a6cec98709f1fd9
+patch-size = 2203
+patch-config = 21b38e762fff63abb37a1de26873e534
+build-num = 6675
+build-name = 6675-agent-2.17.0
+build-product = Agent
+build-uid = agent
+

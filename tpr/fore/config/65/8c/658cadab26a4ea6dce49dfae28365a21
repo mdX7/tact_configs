@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 068455a336b30dc2197a9b1956e6028d
+install = 1109228c97798788d8885814c76d1a6a 92eb3141f86363f369e3e3e45eed2612
+install-size = 5868 5574
+download = 408568d67c96a48dcf090da607339a55 54c5342a675a619b62f0bf89af81cbfe
+download-size = 165507 149928
+size = c90e809570df5bfe39e7aa3a813557c1 01b4b7f19c6a52e4ce82b3db2a6482ee
+size-size = 91086 78710
+encoding = b0d5056fa1cedfab5d93c7210add2f14 b47d3ca56c45a2ea2cef275c58f0d2fc
+encoding-size = 12534 12700
+build-name = s4rel_10520076C_tu4_signed_r_cln_ship
+build-product = fore
+vfs-root = 5c15cc6e7e4cb340c1ba35e9a30f3d45 f1dbdd892a89749beef38fa32fcbe4aa
+vfs-root-size = 300989 129116
+vfs-1 = 5c15cc6e7e4cb340c1ba35e9a30f3d45 f1dbdd892a89749beef38fa32fcbe4aa
+vfs-1-size = 300989 129116
+

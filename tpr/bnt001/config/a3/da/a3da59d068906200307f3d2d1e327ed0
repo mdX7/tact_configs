@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = fe18c840a216f841f42e9f344e3a5aa8
+install = 64207dd7130744bdc08029650a3018d5 c1fec55cf3ef537c7c485ff0f48add90
+install-size = 4092 4150
+download = 8e5f6f700d67450626d54706ebecdae2 c7207c369529fc210d78e37235f2690a
+download-size = 1127 1217
+size = 27e2a756d6c261958a939da0dd835633 8b42986bce342dbfbcddb42646b2230e
+size-size = 593 685
+encoding = 570d5f18791fa6a74d683ac21b4d8f58 e7c842f4569a57462eb7f538ea26eb61
+encoding-size = 8381 8556
+patch = af5a166bfb35dd63356be5ac918d8789
+patch-size = 1777
+patch-config = 13770a3e04bc93b06992dc142b560328
+build-num = 6821
+build-name = 6821-no-branch
+build-product = Agent
+build-uid = agent
+

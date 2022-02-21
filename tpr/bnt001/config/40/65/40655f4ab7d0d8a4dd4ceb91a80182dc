@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f605b3bb4fde09708d5504affce48722
+install = c34cbdd038b013ac35d7d6bdd9724854 bd36b2924873dc80f0f974a28fac707f
+install-size = 4014 4073
+download = 5f4be25dda1bb60a3a368053da926cd9 d41a65d1b22413604ad0fa5c1ffe45ca
+download-size = 1072 1163
+size = 34a12c47dd4dbaa65b52536b90f10596 3ed74fc34cab21023e9027d5eb15baab
+size-size = 564 658
+encoding = b4ddf6c2976849030688093fba11709e 50a51555b3c7664f09d3d417b3b05ab6
+encoding-size = 8381 8556
+patch = 4370edd07d25fa8bf361adb46b3d8595
+patch-size = 2033
+patch-config = 229efae89f75279d3c3b2e7aea0c1e2e
+build-num = 6919
+build-name = 6919-agent-2.19.2
+build-product = Agent
+build-uid = agent
+

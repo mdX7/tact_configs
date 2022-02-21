@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 7de8dce5dc1b611e0daf0f27346a8a57
+build-version = 29
+build-num = 2059
+build-name = 7de8dce5dc1b611e0daf0f27346a8a57-2059
+build-branch = 2.8.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 883fdb4f68026239810396a70b7f7568
+

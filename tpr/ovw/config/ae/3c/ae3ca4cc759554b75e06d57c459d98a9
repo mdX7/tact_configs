@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 202f4b833b6a169259c7bd3cda9a1b23
+install = b3ac3b0dafef223b4f9d3fc18e538e9f 154e47792a55981f48fcb602284fa39d
+install-size = 4391 4238
+download = d57a49a67a0d0f0dd0ffc50eca4239b0 06150972789b7c9c9d004ad2ad5a8d3b
+download-size = 17399622 15954249
+size = 7eefa88048ad84cd669cb25d26a8675f 8be105aa2f4dc57da1ac016594511d20
+size-size = 9463030 8647908
+encoding = dedd180dfb8d92a0cd3b4be595ad45c1 19a0474a41973be0c7aea6045fdd7910
+encoding-size = 42590725 39427659
+build-name = prometheus-1_38_0_2_PWX-60433-PROC-EU
+build-number = 60433
+build-branch = 1_38_0_2_PWX
+build-product = Prometheus
+build-uid = proc_eu
+

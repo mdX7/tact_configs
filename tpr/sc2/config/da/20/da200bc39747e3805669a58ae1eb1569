@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 5fd8d4b6b52723b44862df29f232cf31
+install = 439e58d78fa168e367cfdfed119776dc 8d6f33b1023b39a66bf62ffd2b251c64
+install-size = 59171 57335
+download = a8f8d622cc7a4845f48bf693cd9b0695 8e517663af2e9d2ac85fca1aa82d56e0
+download-size = 17642460 15839517
+size = f5fccb9582e657ee582a541cff055f5c d8e556771866eff6f683694800acdf68
+size-size = 9733857 8730710
+encoding = d03c1bcace821cbcd61b6802d4e7b05b 23ec5b30bda9b9b062f178e108b65527
+encoding-size = 46271300 46119192
+patch = f04cc6fea4dea86dc36611ae24d41c2c
+patch-size = 106755
+patch-config = c1b4928d2167d012336c308ae29a622f
+build-name = B81433
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = 4fc35cea63509ab06aa80aacc1b3b700
+build-replay-hash = 0920f1bd722655b41da096b98cc0912d
+

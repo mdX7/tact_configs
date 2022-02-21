@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = d0938b274eeea92cee2ced963b4586e9
+install = 56234975a0bce69c01e988e76d0dec5c 76fd4405aa1b9ea18f9c4598cb785982
+install-size = 4014 4072
+download = a69d7ba3536df95ae8b481977469f6c3 c0fd25ebbd9bef04b893ea4ed700d3e9
+download-size = 1072 1162
+size = 6e79da5f5abb4761bfb5b11b927f3153 eaeef9b49f5a3721ffaf3aaa59fc3af2
+size-size = 564 658
+encoding = 14365f3aad593aa38d536c35b5d6280c 19620fe1bd4b706234a6923ad23488be
+encoding-size = 8381 8556
+patch = 7b2938698761fdf06d61552e7fad7910
+patch-size = 1521
+patch-config = 4a792fdb3d77f5b2b38a529baa5ad626
+build-num = 7661
+build-name = 7661-agent-2.26.0
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 496234973a39753f9e44dc1392f4c1fd
+build-version = 29
+build-num = 2020
+build-name = 496234973a39753f9e44dc1392f4c1fd-2020
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 570786135021eb38dfb58c56a0f1e010
+

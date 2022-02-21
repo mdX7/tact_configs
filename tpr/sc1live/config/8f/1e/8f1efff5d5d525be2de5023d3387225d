@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d783ad2fa473362cb03a9f5159b9d386
+install = 0fe13e70b9634121b5a0e33e209507d5 b44eab62fbdc6ca14057fe0e95ff9cae
+install-size = 101004 96824
+download = e3bc133caf0c829cac201cc83065299f eba29ed5aad6fa288e46125bdc17aac4
+download-size = 1264638 1120674
+size = 9b11e48ebb5c6ba02c1afa76fe2bbb5d 26c1fbf6594c6754a015405c65ff5070
+size-size = 705078 615432
+encoding = 2d366e12dede75a6a429f2ba88cc9e84 de6adad100b3230ae96eb9e264cd7198
+encoding-size = 2757663 2757834
+build-name = 1.23.4.8352-ptr
+build-uid = s1t
+build-product = StarCraft1
+build-comments = Prism PTR: Release 1 RC 3
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ea244dddef1e027500819bd261b83d83
+build-version = 29
+build-num = 1841
+build-name = ea244dddef1e027500819bd261b83d83-1841
+build-branch = 1.29.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 478492b966d5c545c5e385409eb7a07f
+

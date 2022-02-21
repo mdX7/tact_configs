@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 25de391dc87043500c0134b5595e3c43
+install = 51c9c4cc06e90a59c7414368cc47274f 87f82ca33b4568e0dfee0b4f47b1ca06
+install-size = 231579 214116
+download = 3fc01886ccbaf97f1dd894268dc2cbfb da5a3005f153ef4b7ccd876f957dea30
+download-size = 73705 62887
+size = 8f373096797516725da82e2fafd5471a 6897c25034153c6f921056ff76b8511f
+size-size = 42959 34674
+encoding = 06e1e1267cd2c3db41707bde37cc3b6c d4e9853727d0565db469829664323729
+encoding-size = 157014 157186
+patch = bb8da8665f40795743bc13742400c7c1
+patch-size = 121897
+patch-config = c4a440d90ddcff4b42f2e5a4ce572a5e
+build-name = 31022_14.2.2
+build-product = Hearthstone
+build-uid = hsb
+

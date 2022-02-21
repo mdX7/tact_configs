@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 98d6bb5c12673faf6d929c1695a1d34a
+install = 3dd4cbab4eeee1a7e0c69b1b4a2aefb2 c7a6adfdc9fe76663babf59f5f8be01a
+install-size = 4014 4072
+download = ebf93c271ff6df4c6bea9a396143f172 94ec98683faae3d9553c7314f1713e53
+download-size = 1072 1162
+size = 19b09eb23f3a65cc46d368f979ecc065 a3497930b4ce60e284a6509f26d97a21
+size-size = 564 658
+encoding = bbcd2d7e02016188258e0f4b99472df7 baab81b7d549df668c8e3313e1aa982a
+encoding-size = 8381 8556
+patch = 089b94fbbd3fd262c7762e36bc0492c4
+patch-size = 1521
+patch-config = 81ea0a80ab25be6c079aaff494baaf49
+build-num = 7342
+build-name = 7342-agent-2.24.1
+build-product = Agent
+build-uid = agent
+

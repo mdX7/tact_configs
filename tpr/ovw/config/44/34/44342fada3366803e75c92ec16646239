@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = da46aa1d68e01acdd58a8e72ed3171d9
+install = 9e58c2c9294333f79e38b0e9ff88224f 6939ef2279b1a43f053dc4635695c1c8
+install-size = 7374 7103
+download = a2bde86cf52e7c40e4da813a03620f89 f53310436c4406b941864fdab3103789
+download-size = 16279649 14865332
+size = e847c23ffdf21d18bea3f77c986a5754 e046d49cc5a8005586f2e24f39c8c642
+size-size = 8886353 8119365
+encoding = 3a04623b7e24a53a70746b74c82c6432 7bb3bdb20bf757815723fab21e58b1ab
+encoding-size = 39750535 36742815
+build-name = prometheus-1_32_1_1_PWX-54255-PROC2-KR
+build-number = 54255
+build-branch = 1_32_1_1_PWX
+build-product = Prometheus
+build-uid = proc2_kr
+

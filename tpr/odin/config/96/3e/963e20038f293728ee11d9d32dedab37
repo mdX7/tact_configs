@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = ae787b87bf19eabc59dc1baa4afb7c80
+install = 7fc556a9ccd455fd1b68e0b33cbf9e4a 74cd3ae346aa6d9154d4fb203a0408ae
+install-size = 6298 5972
+download = 88b05a5147d26225ce660137e8c20b39 3ee18d0dd00a795e79c3b7c18ec7deca
+download-size = 1823789 1637389
+size = 74f6ef1dd53e369b991a796eae447a1d a4a8a024deaa7dac99bbe3e775a81dae
+size-size = 1006327 839532
+encoding = 162fefe7b97e72ad176e2f77a31f2bd0 59c328d09345ff3d79c4fe4b6593627f
+encoding-size = 12541 12707
+patch-index = 206bee63a05e1acdae80281201720cfb 544d3277b8f1b3a811460fbef616b710
+patch-index-size = 5598 3782
+patch-config = b76558f1db2ff9dfbc45232abb33711c
+build-name = live_11076943_WZ320_2_7_A_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = f706a68c9a3f9af19f026f6b1c7dfdaf d1fa0dea76bcc0e7d58d656670bc7f60
+vfs-root-size = 3183087 1290600
+vfs-1 = f706a68c9a3f9af19f026f6b1c7dfdaf d1fa0dea76bcc0e7d58d656670bc7f60
+vfs-1-size = 3183087 1290600
+

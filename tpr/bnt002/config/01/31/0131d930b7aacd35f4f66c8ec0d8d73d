@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 1a6d8e105cdcdffeaa88c07a97765fad
+install = b08821cfdf1bfdfac82547079a0b28a6 4ed9c93ff5909a52fc3df3a8b9976806
+install-size = 229775 225199
+download = c4244be6c62901e1ee83c3623ba9185e c89bb1f0b416b82f5be2a0bb6b92dbaf
+download-size = 28478 26224
+size = d43a7f03a899255ad02e5059edfa26ff d7015dec88736d5f29d7c49363a1b4ea
+size-size = 15503 13339
+encoding = 5cd14570a8bfc126034c4be5b1302ac7 288cdff3d7525b1adfa044d777859a74
+encoding-size = 70314 70491
+patch = 5dd0f563183d953361c53dd51e312b20
+patch-size = 17633
+patch-config = f9ef9496f55c55ee59ffac81ac70d2ad
+build-num = 10734
+build-name = 10734_1.12.5
+build-branch = 1.12.5
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 2
+

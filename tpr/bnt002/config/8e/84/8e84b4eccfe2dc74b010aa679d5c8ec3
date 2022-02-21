@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 9d570440635c3d555f82c161f2cd773b
+install = e28217a02bf5a32ff5bf053ba1abe36f 3189445b186a2366cbe688525add1186
+install-size = 116840 114500
+download = 61c05cd677e9b7950bad060fe0ba876e 06feb971914e13e6a0882b1cbd4924b2
+download-size = 27823 25624
+size = 3a520dbe5564ba8956f92ccc600dcfbc c1ad5a6804d09de5a4ffc2c4f3744004
+size-size = 15147 13038
+encoding = 0ba191dbcb58144d98ff9972c295c40b 938a153545c4cd1e884ea89d528ed54b
+encoding-size = 66186 66365
+patch = 2afd16602a69cfcdd2df934779c35491
+patch-size = 18213
+patch-config = 71cf6d3e72b10b79faab7e6af5247db9
+build-num = 12315
+build-name = 12315_1.25.0
+build-branch = 1.25.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 7
+

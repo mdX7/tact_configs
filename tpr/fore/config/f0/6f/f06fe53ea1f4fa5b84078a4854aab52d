@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 7701964c3d158c5bd4028c6770cd5499
+install = 94ea217e04a9da05c6c9a9f88aca6cad 23f14b08e21bfdd41b6419c16d828ebe
+install-size = 5868 5574
+download = 9b2df3f43b07e476f453a055a81a5d99 1a683c7c5f7d01fb16ec828c03b58076
+download-size = 178417 161629
+size = 39ba9e72a6590677f7b3a17175f9e0f8 7b997f24ffc5e2a90da54efb3f6a4998
+size-size = 98185 84597
+encoding = cd4236c0182af2c7a99ac36630a50315 07866d650f14fca4107d22a1fdf063ff
+encoding-size = 12536 12702
+build-name = s4rel_10667221B2_tu8_alpha_s4_signed_r_ship2
+build-product = fore
+vfs-root = 25653b95f176ab36caa55b13314c751c d6df723446848c811930fa6eb72b67e6
+vfs-root-size = 321036 139308
+vfs-1 = 25653b95f176ab36caa55b13314c751c d6df723446848c811930fa6eb72b67e6
+vfs-1-size = 321036 139308
+

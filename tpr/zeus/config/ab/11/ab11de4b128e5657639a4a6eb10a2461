@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = e9cc8e0dd21414489b6861d13d42805a
+install = 2e0654b7e70f4672ed1dc00c7a6ceef4 3c56b6253afee8a412e73b0871a09b75
+install-size = 5066 4632
+download = 7900c095d42927d0d62388920870e804 a2cdeaef152ea3b10d88cf51847fad5b
+download-size = 98035 85336
+size = 98483de8c7d0d50ddc2786e02adf1e3d 0c86b7127d440c3c9bb47276366646b6
+size-size = 55862 47732
+encoding = 8cff8a608989ec826f7209701d138e4c e48cdbab0d8977a329093ea948fc7f1e
+encoding-size = 8404 8567
+build-name = QA_bo5_2_Raw_8279943D_zc_signed_ship
+build-product = zeusc
+vfs-root = 36c649f7b0bf66305c78ce1d328e81e3 64eb8dd3593a20836fc82c574fc9c4ca
+vfs-root-size = 145190 78185
+vfs-1 = 36c649f7b0bf66305c78ce1d328e81e3 64eb8dd3593a20836fc82c574fc9c4ca
+vfs-1-size = 145190 78185
+

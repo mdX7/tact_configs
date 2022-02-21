@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = d433f3fca8720455558ef368f24dd1d1
+install = f0fa33c677133bcfe4870e01cfaf3253 86a007428a4bdc772a4ca6cb47d93c4f
+install-size = 4094 4152
+download = d6807eb47790980fd502e8225d9ffed7 21a8cd29d01b611b9eb653d769cdef96
+download-size = 1153 1243
+size = 5dcfe385af0eb47e95973b46c63e7226 99152f5fa297da857ca8c3c1cc1dbfbd
+size-size = 606 698
+encoding = ae036d4cd3bdafe1e4652fbb2ee1a4f2 1c6281be07c65c0d3898b523642c416f
+encoding-size = 8381 8556
+patch = 70023c520ee41cf9f6ef0a65cbbaef8b
+patch-size = 1691
+patch-config = ab9746d89ddc818547d1b373d3455dfa
+build-num = 6563
+build-name = 6563-agent-2.16.2
+build-product = Agent
+build-uid = agent
+

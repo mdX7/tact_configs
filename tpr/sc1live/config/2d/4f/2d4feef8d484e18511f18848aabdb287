@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4c9e9ee46bdca58d05ce4d508f300e8e
+install = 1e73762d1196c8f5f3fcc2b61bcbb3c9 aa6a219902a4d578bd227a2ff7efc939
+install-size = 63744 61305
+download = f6550b84e4c370e928c6cfb3dab34ca0 6616ccdd803f0aead1f4d5afb4a21f4d
+download-size = 1160977 1028746
+size = 541cd0966ee6cbf6cf3192daea5b4440 2f956d9a5b6f1427526d826bb6bd607b
+size-size = 647294 559861
+encoding = b066309c82e539a5d590ec19362dfd48 f0d454ff04f5caef4b5ad6d6f0453f4d
+encoding-size = 2530622 2530793
+build-name = 1.23.0.6342-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.0 RC7 (rebuild)
+build-playbuild-installer = ngdptool_casc2
+

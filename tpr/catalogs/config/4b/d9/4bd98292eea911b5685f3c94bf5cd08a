@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = fe80093306eedf7ad5d7a112c46097ae
+build-version = 29
+build-num = 2019
+build-name = fe80093306eedf7ad5d7a112c46097ae-2019
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 7039b555a201658635070892b2611018
+

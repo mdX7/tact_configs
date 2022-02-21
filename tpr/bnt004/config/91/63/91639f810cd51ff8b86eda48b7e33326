@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 7bb62cadd2b67bfa79db66c8b7ef0036
+install = cd94042aee69b4ebe10cdd124246439a 8b88cbe05522440dc6b9e676ea17bf2f
+install-size = 3906 3970
+download = 81f782f54ca07abad310766bee44aea0 c10b4b7469429c865b930f8425af2fa8
+download-size = 1346 1434
+size = 28bce7c87c418405ae6a247d0b48489a 4ec445b9863c83df304042dc81abc71d
+size-size = 695 784
+encoding = 960fb09c675a270ac1079691488166af 51fbbed616da849e07b20cf5a33c6a2e
+encoding-size = 8381 8556
+build-num = 3013
+build-name = 3013_w3
+build-product = Bootstrapper
+build-uid = bts
+

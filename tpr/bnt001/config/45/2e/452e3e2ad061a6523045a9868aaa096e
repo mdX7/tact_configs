@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 8fca3cf8023ebf561507c1c1ec1852e0
+install = 29ef4cf708bd890527c447719638c89a 4f460d6f6766548561d99e29df17b702
+install-size = 4014 4073
+download = 19a017bba08e3ede71eb11d87e484f12 7a1cb3b25e340d3fe5ce898a86d8b251
+download-size = 1072 1163
+size = 3f79dfd5bfd0214f092c87a879de6061 68d307cd2909db710b3a8799e3dd6cd0
+size-size = 564 658
+encoding = a5bdacd8341de45a7a51c17df56b1e36 e5583f651fd7c605d0a6046b20ccbdfa
+encoding-size = 8381 8556
+build-num = 7269
+build-name = 7269-agent-2.23.0
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 5c9197e5df2ce185d8def08c81184962
+build-version = 27
+build-num = 1491
+build-name = 5c9197e5df2ce185d8def08c81184962-1491
+build-branch = 1.15.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 19479c0ba60711b0de47b665fc6e240d
+

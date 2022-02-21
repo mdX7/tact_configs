@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 6a84649b68a8aafd13034df7b7557589
+install = 5c5f72bd5ac2c9f026b6f9b027bd48f0 4c5f29a670061b3068ef6b2cd8e26d3a
+install-size = 81 148
+download = 5d689abcae4633b45ef84393ae47f4c3 a5547a58c149507c4e3adf420da498ea
+download-size = 81 175
+encoding = d934a3b2466d1d8d6f30b5aa5061be8d cc15609d9ecff8e6defa091b60021ccd
+encoding-size = 8356 8542
+build-num = 2916
+build-name = 2916_owc
+build-product = Bootstrapper
+build-uid = bts
+

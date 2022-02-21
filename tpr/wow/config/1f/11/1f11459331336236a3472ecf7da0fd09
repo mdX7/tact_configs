@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 483555fbaf2366df0ba752319bd39aed
+install = 5677f002ff3bda5797138e3618531449 925d642cbb5b9880a06e37b54b70bd51
+install-size = 15966 15598
+download = 791b1ec3df6dba3a4f758239bc1afdc7 fcf1826986764167aa0b273e2681b656
+download-size = 6107504 5523713
+size = 27c9d5252b7ab7609dbda7f61f82817a 57083090d0368cc4d30fa0bbc344fbce
+size-size = 3245497 2875928
+encoding = 6e8bbe46a9b57bf4dbc1c74cac1a81e0 7a147a37237318ab17176b83d107d6d7
+encoding-size = 13071894 13070161
+build-name = WOW-33598patch1.13.4_ClassicPTR
+build-uid = wow_classic_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

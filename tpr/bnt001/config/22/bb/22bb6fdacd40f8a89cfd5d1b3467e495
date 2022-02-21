@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = a3f4e5533d103b943747c325a726b4b5
+install = b53d1c44e90b0848e55d73722d077160 ce6893751f83f43583ba7592d2ee9ae6
+install-size = 4092 4150
+download = a6c905042b0bc1a77493e6fa9b75252f 0f765c184263c424c12663b84e9f39d5
+download-size = 1098 1188
+size = 2d01ff9e498987034f2ec9717113205a 1fc5d60af7299ca12ff451d42b256fee
+size-size = 577 671
+encoding = 9910e8cfd6b28d6c6da59412cf0ca907 d63ff15db212c5fe66c9aea7c0b10d49
+encoding-size = 8381 8556
+patch = 0d8a6eab861f5088d479b9f03377579b
+patch-size = 1585
+patch-config = c62e21eb2c038bdab61063cc88da480d
+build-num = 6788
+build-name = 6788-agent-2.18.1
+build-product = Agent
+build-uid = agent
+

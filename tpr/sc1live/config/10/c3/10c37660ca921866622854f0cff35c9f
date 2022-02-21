@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4173880721c4a25d44ca47212fb65865
+install = cd22e155b08cc9639fbda01b30005d6b 782b47baf39f2a3a9d4c8d004bba58d7
+install-size = 101426 97216
+download = b5e1b47e7fcb2a46e1fc3852995c9e5f d88d2c5ba07755f674759e635c68c95f
+download-size = 1264821 1120338
+size = a44b20603a70bdadf9be50092da50072 2d7b188c86a79fc24c755f77f810d033
+size-size = 705183 615524
+encoding = 2458c2e7adf6982657282f5c37340866 225073a0da2b30cb5030c8db51fb2f2d
+encoding-size = 2757663 2757834
+build-name = 1.23.6.8974-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.6 HF1 RC1 | Original Eclipse and Polypoid maps
+build-playbuild-installer = ngdptool_casc2
+

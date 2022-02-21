@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 229dff4553e830327b39b02810221f31
+install = d3a4e0849b42a63eb7657065877a4d12 06ba49a18e2e2fae98b716abd5f46eba
+install-size = 17520 16990
+download = 9e8e899560d646e245285b40c0bfb443 30bece8f060b324129a651cd5cbd456b
+download-size = 8088461 7225586
+size = d4b33dac50216eb347ec7d87734e327f d82ef315cee2b6fa9d1b1d9dbcb7a491
+size-size = 4345140 3786110
+encoding = dc87570a97a169fc1fede112ed3c932a 76a6e9902d648263ef934c49c1cf8be2
+encoding-size = 17092741 17090914
+patch = e33f042a6bb9a501b093cdefe5b3706a
+patch-size = 80893
+patch-config = 18802022c5af18e0c4e774261924fcf3
+build-name = WOW-40045patch2.5.2_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

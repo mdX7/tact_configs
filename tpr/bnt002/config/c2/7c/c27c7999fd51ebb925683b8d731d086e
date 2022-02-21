@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b41c6f824f920a12a0ce6b40930de1d2
+install = 7e609961a5bb652b16cfc76a20440a2f b467302b639ae07faf2858067f7f4e43
+install-size = 118069 115727
+download = 5a25a095e5c256b84a3bfad2286405c7 6a4f47b9ea49fbd4709d99e911ea7ff0
+download-size = 27894 25676
+size = 23870730e570b0ec93ebdbe17c862efa d387854d1a9e9b85690ae9be0520f3a8
+size-size = 15192 13065
+encoding = e24500819e94343cf3cf09e078e92277 d02643c555a3d3db0172b7359711bea7
+encoding-size = 70314 70492
+patch = 7c5fc820e687c2bb4414bbb7988dad98
+patch-size = 38449
+patch-config = 01f1b3102e59b331515fd29ea41a0ece
+build-num = 13177
+build-name = 13177_2.7.0
+build-branch = 2.7.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

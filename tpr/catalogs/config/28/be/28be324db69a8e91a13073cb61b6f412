@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 98cd26c4b9eaea1659079bd85ad66b1e
+build-version = 27
+build-num = 1506
+build-name = 98cd26c4b9eaea1659079bd85ad66b1e-1506
+build-branch = 1.15.2
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 66feeb83878f7b3a563e7d1db2b6ae03
+

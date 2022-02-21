@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = d659246a925c494d4828836318c21b62
+install = 66f70d58b7734bf7326b69ec410c0b88 64925ccd4c095564e83e8ce69e3cdd71
+install-size = 115898 113574
+download = 4ea3fbaec1f4cc4d99d1614595437b1b c83bedffca7be41ac3a2a1038415204c
+download-size = 27622 25438
+size = 3f5ba189afb4d2523f5a0acda14d7027 39be44a66d03777db2fcd2ebe3a0b2fb
+size-size = 15037 12942
+encoding = 2cda2d663899d3c8cd9eea444292b44e a55762c023ea88d4b2e71d0ac1dbf624
+encoding-size = 66186 66365
+patch = e866bf3c431d29f85818f78a9dc09b3d
+patch-size = 14225
+patch-config = 1400eaf324fee1c669825382e6f39273
+build-num = 12008
+build-name = 12008_1.21.2
+build-branch = 1.21.2
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 7
+

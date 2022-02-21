@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = afbcbc75215576d01e4f47c904453c5a
+install = 76a93b719d35dbf0342cbd9a91782651 2e3ad473fbe02b5c69532d4a483b1894
+install-size = 115898 113574
+download = 732d6688decb7edcd7b11d64817ca9b2 16232f267cba326e85359376e150902d
+download-size = 27622 25438
+size = 943f5d1d8b51b6240e05c52177908def 9174e43f4a07cfaf45b690ca1c07d0ee
+size-size = 15037 12942
+encoding = 208e8abbb022bb1d2249cfc9790eea15 ce3b9b17a08726f45e2f2afdc1e7d1cf
+encoding-size = 66186 66365
+patch = 4665506e2334bbac5092d4e16f62c805
+patch-size = 14225
+patch-config = 405374fad032617139a78b9b13dd42b6
+build-num = 12040
+build-name = 12040_1.22.0
+build-branch = 1.22.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 7
+

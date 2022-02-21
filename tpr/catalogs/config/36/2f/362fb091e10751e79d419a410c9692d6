@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 4dd0235e3ce314acbfa16b9450a280d8
+build-version = 29
+build-num = 2023
+build-name = 4dd0235e3ce314acbfa16b9450a280d8-2023
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = bf17e3ac98121b9a120cb131a4ddf461
+

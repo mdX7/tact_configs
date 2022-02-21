@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 6e87511516a9939c4b97996f2c70c07c
+install = d3a8631ebd507059c06ec3939e85ab07 1f131077a8e41e49f28ee58d8918f755
+install-size = 4829 4891
+download = 62a316d3bc949a6e1fd69f6f99b5e70b 0a8713651abd8fa448bc0b2f94b09cc5
+download-size = 1424 1512
+size = 77f76e3b57f820cd020bb447339f7a25 4457b856c952261d01597d3b7d25536b
+size-size = 734 823
+encoding = c5299d0efba0396ab69f77b1ab6a43ff 327e3e8a8c740b30e76ab9d1a21fc05b
+encoding-size = 8381 8555
+build-num = 3086
+build-name = 3086_hero
+build-product = Bootstrapper
+build-uid = bts
+

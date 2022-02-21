@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = fb1724de88c44dbb348ee45ca1153d15
+install = 37234b04ec28758afa8f14ff5ea3208b 96c40ea62461fc5fc05f866f3a696380
+install-size = 4014 4072
+download = 98d43754b902653c4fb6ea28d6038073 2d5dc744129c94768f3199204fdfcd47
+download-size = 1072 1162
+size = c08eb846ee2388ed5ad79df2d2a6fab3 d3af21349b080c0a0fa9960d5f80b0ff
+size-size = 564 658
+encoding = cf8db8c3c5ca5779b39d829c29b63b4e f20f2a5f5cf4cfd0b6b6148e13e887fb
+encoding-size = 8381 8556
+patch = 370f5363b4109b8bd0af1f4baf711cf3
+patch-size = 1649
+patch-config = 496bba067990cfdfec16da008fd4e6e8
+build-num = 7589
+build-name = 7589-agent-2.25.3
+build-product = Agent
+build-uid = agent
+

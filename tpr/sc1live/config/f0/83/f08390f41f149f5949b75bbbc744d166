@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = f0e345c3734a3346e0f62a975e984931
+install = 6b7b4c767922d672def0d522e613f871 27f81959a0aa21387740d3aaeb2dbacb
+install-size = 101889 97648
+download = ed4fed7501e2212a90458216ec7df0b9 2f40b8a5926455d2347cfb39b82862c7
+download-size = 1264951 1120471
+size = 039ffa5279a14ad16315770845be9602 31a16c2b4ea7c544bd6f4d9b44d7bd94
+size-size = 705248 615572
+encoding = 9fe391cdb06301c04e9f4788542dca83 ed867d016f461b9b5ad1fecc83104768
+encoding-size = 2757663 2757834
+patch = 9a77f07a4a748d4202e184c0e5714c2d
+patch-size = 13509
+patch-config = a9fc03c7e58059b9237a946974c98aa0
+build-name = 1.23.8.9411-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Building another RC with map pool modal change
+build-playbuild-installer = ngdptool_casc2
+

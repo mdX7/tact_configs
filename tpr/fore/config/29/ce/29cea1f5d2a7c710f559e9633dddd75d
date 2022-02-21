@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 01187b5edbddace55b2c320dc7ad1db9
+install = b527ef63c99eef122814821755b939fd ef35f74c3ef7d56db364309ce6817004
+install-size = 5868 5574
+download = 8b1b5450e3c44f17f375f9e06ecd1cbb 5d454818e2186ef20d08930602138dce
+download-size = 204494 185094
+size = e5a187bf6706a65254ef709f8df92b8c 7dc29f0455b71c7925f4290e2c2e1ed3
+size-size = 112523 96676
+encoding = c6a02faa64fbe88b40b1aadddc5a46fe 95218797ae64d844e067517510bab60c
+encoding-size = 12538 12706
+patch-index = d40ea8e74903b6aee4da0b098f82768f cd108e890395468b607109cd55b7f909
+patch-index-size = 9199 5851
+patch-config = f799b76a4d71f5b31e757edcb38a5914
+build-name = s4live_10985554B_tu12_charlie_s4_signed_r_ship
+build-product = fore
+vfs-root = 299d3ccf67b353c72153fed206948975 dde26839642f635d1d8b18649adffb34
+vfs-root-size = 370477 159859
+vfs-1 = 299d3ccf67b353c72153fed206948975 dde26839642f635d1d8b18649adffb34
+vfs-1-size = 370477 159859
+

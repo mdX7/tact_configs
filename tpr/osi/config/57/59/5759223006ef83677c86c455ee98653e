@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = a412556733a943685e848070bf163d6f
+install = be813357642e48a6d7c4b6d50509533e 1460c81b21a8d644c46ad62b2e0d7eae
+install-size = 315 341
+download = 09e763618a7402f07fa43581a44f14aa 53ace2dd87200aa7664dc736a7554f2d
+download-size = 4653684 4302865
+size = 2c08bd685429a0e7902fe0be5715af9b 04638c688662ae131ccb50ecbd9e4c23
+size-size = 2502716 2251575
+encoding = acf85961b1952885abce784db79d2e5c 3eabc31455c55ae1a6091717f92d240d
+encoding-size = 10580238 10580399
+build-name = 67889
+build-uid = osit
+build-product = Fenway
+build-comments = 2.3.2 PC - PTR with New NVidia dll
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 1c08a90c95537edf0ee0703c10653b0a9d7199b1
+build-source-branch = release_2_3_0
+build-changelist = 207787
+build-stream = //diablo2_stream/release_2_3_0
+build-has-data = True
+build-target-platform = win
+vfs-root = 37ded1e758bb72fa8ad4f992f5dccdaa 501970584976591eb06698052abfc834
+vfs-root-size = 386 363
+vfs-1 = 37ded1e758bb72fa8ad4f992f5dccdaa 501970584976591eb06698052abfc834
+vfs-1-size = 386 363
+vfs-2 = 0b3a2703520de34a05b0008727f369d3 2f296727c5118fecb9a6be173e0cfbc2
+vfs-2-size = 8274570 4315522
+

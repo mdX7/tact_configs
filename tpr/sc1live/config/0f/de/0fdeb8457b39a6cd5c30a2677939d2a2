@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 401c93e67a7b6e8393fcc679a28a9fdb
+install = 464a0f957667b533e7147979614eb087 7fe178aad86b7d352b848327dff3ce04
+install-size = 101889 97648
+download = 7c63d93980e4bf79eb355d38f75a457a 5f47dce99443781c066619551ae474b2
+download-size = 1264951 1120471
+size = f76f0ab0f67202a08c1f740ca32fdac3 af5118b8f6133042885fe075085fcab7
+size-size = 705248 615573
+encoding = 4cb271b436815b1f17294852eb354eac 934f822e390ec43bdf376fcee13097ca
+encoding-size = 2757663 2757834
+patch = 46931606fc87f39867a4e9eb2fb15937
+patch-size = 10985
+patch-config = d68e25f55f8a2921c9ef8cb21b085c5c
+build-name = 1.23.8.9713-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Hotfix for flying SCV
+build-playbuild-installer = ngdptool_casc2
+

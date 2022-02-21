@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = f5f055c7df3052ef279bb01e6e343764
+install = 066a565285f4e29bcc97c336ef6490bb 922500eed377b40bd7232a03a60221bd
+install-size = 245 242
+download = a9fcf1be14e0254e9cddf48e2a7df78a 0ab3b56d4f921fdc92f80e4a4d32b41c
+download-size = 238 261
+size = 06e94a22eaa30f4dea19c0a8fe374030 9e823f72edff395e4a8beffc807bb2f0
+size-size = 229 252
+encoding = 12ffa1b106d2588ed1114f50cb0dcef5 fdd42c6f346784347821db74b31d1337
+encoding-size = 8396 8557
+build-name = submission_10753157_valkyrie_brynhildr_r_ship
+build-product = brynhildr_odin
+vfs-root = d771a9fc293274e9914acb9b5a672112 63da22c08e64122e96e0b522be159f28
+vfs-root-size = 108 132
+vfs-1 = d771a9fc293274e9914acb9b5a672112 63da22c08e64122e96e0b522be159f28
+vfs-1-size = 108 132
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 353f03c8ce283d91fd0b77a6a36ccf3e
+install = 3f4eb00152d6b5eac9eb69fb218a9927 aa1acb29c98748adf2302cd307de833b
+install-size = 93851 90268
+download = 5b19f934bcc8eeab136b701304a05b39 7e573c45e37ef86b294872e295a916ef
+download-size = 1187482 1061396
+size = 02b1faadfc398e27a954dda4a524739b 7e300fdc245f23e0bb7e94529e9a9b58
+size-size = 657549 584546
+encoding = 463656864ac30c295280b0a10e3dc317 92b4de11576ea896507e80f53736c17c
+encoding-size = 2609055 2609223
+build-name = 1.22.2.5147-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.22.2 HF 3 RC 6 (create game screen crash)
+build-playbuild-installer = ngdptool_casc2
+

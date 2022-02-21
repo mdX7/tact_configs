@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 8a76228edee9885f552a08d844f94d2e
+install = 4a2578348a9e082f8853dfb96a6e2731 ee34f56b953bacf1c83b0317c4478b54
+install-size = 217 243
+download = 4849c85fc20e82bbb994d19699f98762 5751b7c2a4854a1c7985204ec9673513
+download-size = 3575813 3306037
+size = eeed3e6a38e0c91d9031cd78ba343834 0b2c4fccb7753245669a5daec9b0e9e4
+size-size = 1923057 1653917
+encoding = 3d87c7f9ca2be32f46729865e4ebebcb 4ccc61649b2ba206eb7479170934756b
+encoding-size = 8128196 8128366
+patch = 18778fb134eb664ba7b6729c5ccb30c8
+patch-size = 812855
+patch-config = 7ca95578bda95b97513b99b3fea9b0f5
+build-name = 64913
+build-uid = osib
+build-product = Fenway
+build-comments = MP OPEN BETA PC PATCH 1.3
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = df2bf23ffee9be39641c6f4b43964a6611742eab
+build-source-branch = mp_beta
+build-changelist = 203480
+build-stream = //diablo2_stream/mp_beta
+build-has-data = True
+build-target-platform = win
+vfs-root = d20ead53d73759bf17fcf27bc79f7a9f 0df7ef035c28e74d4b5ef165245197a8
+vfs-root-size = 515 523
+vfs-1 = d20ead53d73759bf17fcf27bc79f7a9f 0df7ef035c28e74d4b5ef165245197a8
+vfs-1-size = 515 523
+vfs-2 = 810a09412bbdb1b00a87548da0998e0a 5e2f6e1ed78b4d57f58fc16473e6c412
+vfs-2-size = 9506195 6038558
+

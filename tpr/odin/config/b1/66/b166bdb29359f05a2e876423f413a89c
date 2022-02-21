@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c52d4860acaee0fbf6d57f8dfb36ca27
+install = 7215989aeb6c0ce0e284413e50dfdd0b 681fb20d6bbd9d8726a60b229fe2a9a9
+install-size = 6069 5743
+download = 6870736cfeeeb844691edb9519e1e577 073d313b9f3ac168d4fee0eee6ce55a4
+download-size = 1490173 1338333
+size = 0d90b77bcdc1a8c9da0169aa4051fab3 9338de8e44dd33823477aad0891f4080
+size-size = 822263 687015
+encoding = b0cbd8da2cacbedb27bb8cf118b584d4 43936185629aa826e8454c45fde06caf
+encoding-size = 12537 12703
+build-name = rel_8403677_TU_T_12_10_DWL_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 303e053d97f459b6433782ffdbb3605e aec938401512796ebba538342bc4c143
+vfs-root-size = 2537540 1028596
+vfs-1 = 303e053d97f459b6433782ffdbb3605e aec938401512796ebba538342bc4c143
+vfs-1-size = 2537540 1028596
+

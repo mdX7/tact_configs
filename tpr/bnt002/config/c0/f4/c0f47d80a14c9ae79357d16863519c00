@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 7810bd511c82d2dec1359abb5fd6bb21
+install = 5c0851dbe046aabfc9df555ecdaa138a 07b526ca8cd77d260ecd0f8fed95b56f
+install-size = 115117 112812
+download = 18df54b0346d0392c53eab8febf7c689 636bd4776a0e699da0330107c8c59779
+download-size = 27596 25411
+size = 4aabac0d4020611aa7e68a4946493db5 7517e7c17cbdab27c4f482dcafa16797
+size-size = 15024 12931
+encoding = 5e9d94e564773cb7a516f08f703b0860 6ff3855b911747401cc2dd4d919a2dbe
+encoding-size = 66186 66365
+patch = 3bc16bce0adc51c441a04af5b9dfa557
+patch-size = 12705
+patch-config = 8f00317c080c5cb9d0f065fbd3748497
+build-num = 11346
+build-name = 11346_1.15.1
+build-branch = 1.15.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

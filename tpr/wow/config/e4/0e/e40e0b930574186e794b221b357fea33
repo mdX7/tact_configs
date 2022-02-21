@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 5978f011b7200192a64a78ef07f16f7e
+install = c45ed90c653f0e4ac24ebcc4f3f1b7dc 1a41950cedc201956fa99c339e8e693d
+install-size = 24960 24200
+download = 683151f628f4f2b5f09583b62708cf3e 27f46a0213a9a2bf035ce8e7f291003a
+download-size = 8083917 7221599
+size = 0f9ac83365ff9a623c82f7a0de5bbc7b 0818e5628f10dd9ec11a0dcf832c0dda
+size-size = 4342696 3784098
+encoding = 1f2ca3740070bdbc3e33d657f45f88f6 0b9190e16370cf5ccdafa85c37a0ae66
+encoding-size = 17084484 17082653
+patch = f06ffb246a7a55b369549c0c26d567d6
+patch-size = 29797
+patch-config = c067b01b44023adc2b6eafd2326af8d6
+build-name = WOW-38835patch2.5.1_ClassicBeta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

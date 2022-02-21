@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = c803dbaabecd247f3e309c2797d10380
+install = ce6b62184df11248552d03bee82c0a58 c280c313edee01c722c9e388cd1fcb5c
+install-size = 115898 113574
+download = de22fd50e6ae1bd90842dd4b4fc5257f cabde5e9c46899249ec2c339507a5dca
+download-size = 27622 25438
+size = f462187e59e60fdbdabf79992d2d5fc8 cf6bd0f1622f19b3d31cc81119df2713
+size-size = 15037 12942
+encoding = d0557c51c06f330d1019cf7cd025a73b 6ca2c98f988b478b8743182716e07771
+encoding-size = 66186 66365
+patch = f4e0744a8036646eeff459b08cd26031
+patch-size = 14225
+patch-config = b03eba9e6c04c5f05708c63af2850938
+build-num = 11914
+build-name = 11914_1.20.3
+build-branch = 1.20.3
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 7
+

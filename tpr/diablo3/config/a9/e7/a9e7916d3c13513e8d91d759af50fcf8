@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 17c2e6f3dcbc2ebdbe1aac2743e14a51
+install = cefe9a0c75958707b419d79ea2a0f94e deb391c00bc40b82d0841d5eb98c17a7
+install-size = 40835 39842
+download = f0c74362fe188d99aff3698de4b5edd7 71e3795fb6c89bffd614bfde2c53b294
+download-size = 18473780 17177599
+size = 39d1d02265aa7f24decd4d6e4e9b3771 a6768e19d236d82a216d46e8957cf023
+size-size = 9896730 9545906
+encoding = 70a20e46a5dc75cbfbffaca256896f52 2d7cfe8d30ca72845852bd4a3a538f89
+encoding-size = 42167739 42167880
+patch = 35b27e21b345db18cabeac2fd7893f0b
+patch-size = 1534885
+patch-config = f71f33f549b74926e0cb07b993d964fa
+build-product = Diablo3
+build-name = 71042_Win32_2_6_10_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = flee
+build-comments = PTR#3 RC2? Not sure if we need to make one, but making one just in case.
+build-branch = 2_6_10
+

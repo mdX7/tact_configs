@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 5afe7604f69fcca7f0b83aa6b6ee80cb
+install = 4e727d0f49bfdcdb34a191ca94c0cedc 59f29e32eb38328f5214431737ab2d6d
+install-size = 30742 29976
+download = ba6de5640e676a6eb15b4216a827e1aa d4bd45f59e857033975242e1da497281
+download-size = 3449 3316
+size = 6b6ce213d957d34af50b10c0db7cf5f3 6e15a09909adeebb23e0fdec2e402242
+size-size = 1953 1880
+encoding = dcdbcd53c94498d761079cd6d8ec9611 206b0e9a9cc2039d1081d4330b216360
+encoding-size = 12514 12693
+build-num = 3065
+build-name = 3065_launcher_merged
+build-product = Bootstrapper
+build-uid = bts
+

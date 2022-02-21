@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = ddc608c9ed5e305f67ecdb71f1ffb99f
+install = ecd3f5bba81d673e1fa6ddf59fdc2928 f664668efd707e46ae125bd8043496d1
+install-size = 5833 5544
+download = 938be192da536823e96f8a81638faa3d 63aa1c5ade22735db8edfae5e02dcd9b
+download-size = 85477 77283
+size = da52dd5962a6721940a51056e1c751e9 6f4fac6aaea54ab087faaa544ba4d700
+size-size = 47092 40396
+encoding = 954c6061ba498cbb42fe39103e5dad2b 7566e7d7ce75edc206acb1411031ceec
+encoding-size = 12531 12699
+build-name = s4cert_10140263_TU2G_signed_fb_ship
+build-product = foreb
+vfs-root = f6fa6cb87c8606731485900f96d6256d e83726b41eb15dd872ae8932a874914b
+vfs-root-size = 168636 67583
+vfs-1 = f6fa6cb87c8606731485900f96d6256d e83726b41eb15dd872ae8932a874914b
+vfs-1-size = 168636 67583
+

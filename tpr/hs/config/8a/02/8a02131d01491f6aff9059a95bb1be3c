@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 6031c64f0be70026894308a0d5c189d8
+install = c4da74c6ed1914bf4838509b5f81ef07 da22726110f785c58fd86b726ced8933
+install-size = 318222 285018
+download = ea035f2576303d4eb7e6060e66bd7766 ea968ed1c0439e4b14814b2c591c2d3c
+download-size = 114451 89413
+size = 2a6af40c7a47abaa03f0d9327dc719ab 3a404492151a79d4e7b7534713e4a19e
+size-size = 70588 50178
+encoding = 327d07b06c441cce7a4301a256cf3dcb c0a8d803747aa8b5c73c7295e2d9217c
+encoding-size = 218936 219108
+patch = 340f5bd6128baec02f4befe6041157e1
+patch-size = 312571
+patch-config = 4c2ce5c022cd86618ee15c1dcf8282bb
+build-name = 65152_19.0.0-hse
+build-product = Hearthstone
+build-uid = hse
+

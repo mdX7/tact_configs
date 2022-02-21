@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c036363c41c2db11fe81221ac1f9a84c
+install = 767d4f95cd41cab470b52b50bee1aba3 7a000c971987959f4dfe6bb6fbd99dd4
+install-size = 5850 5594
+download = eaa2da3345bb865f44ffa9f32c46acaa 47cc73109a83abff9ec38770b702919b
+download-size = 1080316 983006
+size = aff91f2975f7e94cb7fef2ed93d1afdb 8fc6e0b7ddb00f47e8054990c9a6a79c
+size-size = 589773 506055
+encoding = e6182504f9cb20a11f96512bfcad881c 6e30863790c53da41c47dce8c8532f1e
+encoding-size = 12534 12701
+build-name = tu_kilo_exe_patch_4_29_ETU_R_signed_ship
+build-product = Odin
+build-uid = odin
+vfs-root = 354baec507fe09ff8e0b6170da414051 810795d43769ca0a8d7337b635c9486b
+vfs-root-size = 1830004 758262
+vfs-1 = 354baec507fe09ff8e0b6170da414051 810795d43769ca0a8d7337b635c9486b
+vfs-1-size = 1830004 758262
+

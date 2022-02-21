@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 54c50ac7590bc900c371a9b27322d932
+install = b4396308b6e091caef497cf0f062b23f 9a46d1a1c0ecfb3228a143c42bd510d8
+install-size = 15633 15240
+download = 7184124bdc9efd05e6b5c11213cb121e 0a2ce9c83479e651012de53816d41521
+download-size = 6107531 5523697
+size = 3d0247ad9955395e9c2f9cc523bcea9a f90168832ca22b645dbc5c2b8bb83e0e
+size-size = 3245510 2876150
+encoding = ba866491e74e9791978b09f0016513be db905dece4e33f7ded16d9b9355afa9d
+encoding-size = 13071894 13070156
+patch = 419faf2e082476880a3dd4c1052da775
+patch-size = 3261761
+patch-config = 49eb39a03597086257f6b5b45ff23504
+build-name = WOW-34600patch1.13.4_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

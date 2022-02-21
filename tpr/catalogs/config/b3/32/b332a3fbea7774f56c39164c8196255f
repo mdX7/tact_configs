@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = c412d5d9c1e4e7e7f2e3935bccc618f7
+build-version = 29
+build-num = 1999
+build-name = c412d5d9c1e4e7e7f2e3935bccc618f7-1999
+build-branch = 2.4.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = e9bc3e69a1ff8dc2c80a075b8f6faf32
+

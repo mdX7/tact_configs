@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = c68b1629bac0eaed28ffeec1a27ab9b6
+install = 3a018c43276250ac05c11c25216e552c 8c7f9f58a84d02b551dcfe46999b151a
+install-size = 101428 97218
+download = 9c398acc8e6266c945f5c3be51109406 e8f59d6cee7aa44ef9ad6d215d65ebf6
+download-size = 1264873 1120384
+size = 5c2e23672b2e778f8a76e2138219b4cf 9ea9af87a086974f1b010b6945e4c3bb
+size-size = 705209 615583
+encoding = 95515806a686e286d3990352887c1645 785866634c35b09ba3b9964520a80a67
+encoding-size = 2757663 2757834
+build-name = 1.23.6.8929-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.6 RC 2 | CB/FS maps are back
+build-playbuild-installer = ngdptool_casc2
+

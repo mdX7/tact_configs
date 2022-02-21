@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 40b17d4462ffecb9c764eef76a1f2ee5
+install = 7aa490eb857e9e5c1178ef8962c1c345 c7293e179aa8461dd73746bb14eb4461
+install-size = 236040 231377
+download = 482453fd165e202bb9433dda1cd3289e 2f73bcee4ed0f44d9bb91e8d362f3b84
+download-size = 29081 26777
+size = 1c6d4c56f742dd7000512d06e5e75b74 4b193f26fe5e8c7acb3cc8d734af427b
+size-size = 15833 13620
+encoding = 9836d53e936ddef6ee914c1d9973f12c 1f202da11eefae936b3e3387cfcca295
+encoding-size = 70314 70492
+patch = 0f530ce79ee806d0eb6637f6daad1b98
+patch-size = 28121
+patch-config = 9da1b021a0fb25b0615933848b73345a
+build-num = 12804
+build-name = 12804_1.33.7
+build-branch = 1.33.7
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 10
+

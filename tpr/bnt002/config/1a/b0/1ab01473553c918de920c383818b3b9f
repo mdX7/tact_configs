@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8c7c26b91eedb7be24192b346d5a40dc
+install = a35b662832d034930ea7a5e554014475 1e08fd114920ec37a7e1de3db53c1b42
+install-size = 59526 58170
+download = 76d79370b7d361954e4f6ec99e7d9339 8c4fc68d75c8e09531bd32551609a3d8
+download-size = 9554 8873
+encoding = dc7048eb7e9de10fd923d2535d00b435 88ab35f3129af76661f06a9106df313f
+encoding-size = 29007 29200
+patch = dbe519c5b83e1a12f355e1872b82e504
+patch-size = 14201
+patch-config = 3a1fb6700d2c6a6e714cde94009ae9d4
+build-num = 10253
+build-name = 10253_1.12.1
+build-branch = 1.12.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

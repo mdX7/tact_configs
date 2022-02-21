@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 4faf1e75806291f9c0634b6b467e13c5
+install = f779eae6f251952bdc4736e9e31dfc75 ecef09deff5d40bd7322625d848eb9ca
+install-size = 7374 7103
+download = c5f9e0d93eb63241bf06340c5ca99be7 da39bdcdf565c7c18e800c4426c2a5be
+download-size = 44127501 40131643
+size = c7ff576ef4d2644cef0d47b55c505569 3e30517e171317819ad936ad164a7aeb
+size-size = 24087142 21265974
+encoding = 6e74e51478e62ac00f6467709e35c8fe edc4530551b44398c47925cec58be4a0
+encoding-size = 145913426 103397668
+patch = 0c01ad1c4746448f9a3c1a367ecb59b9
+patch-size = 279
+patch-config = 81c4ea1bdc0145061a5a151f292c71de
+build-name = prometheus-1_29_0_2-52647-WCV
+build-number = 52647
+build-branch = 1_29_0_2
+build-product = Prometheus
+build-uid = proms
+

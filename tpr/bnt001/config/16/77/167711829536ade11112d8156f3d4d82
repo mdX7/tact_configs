@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 3f82ef1cc24cf326d7da1de1bc7c2a4e
+install = ec389aad2358f1ed6a0bb76a27f8fe2e 71477e7fbc1741ae4b3f8f32faecf13b
+install-size = 4014 4072
+download = 3ccb98f06d2894a94dcce656026b86c5 4632c2dc2fcd7e24d2b65e821b99e39f
+download-size = 1072 1162
+size = 19048a31b518797614d53efae8f7b1a3 5512648694beb502bc539dbba40eeaad
+size-size = 564 658
+encoding = 194f2a963c764643ace48542b6b5816b 04979accde8a540d42c9c7aa5742822f
+encoding-size = 8381 8556
+patch = a1ddc059dea00e5576d1cc3fe1c8f949
+patch-size = 1521
+patch-config = c07a4a09176e898e1aa68896ed5856ec
+build-num = 7338
+build-name = 7338-agent-2.24.0
+build-product = Agent
+build-uid = agent
+

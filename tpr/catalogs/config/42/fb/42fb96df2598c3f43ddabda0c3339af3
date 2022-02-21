@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = db3714044a851ef1ee3e0c0cc9ea9f27
+build-version = 29
+build-num = 2026
+build-name = db3714044a851ef1ee3e0c0cc9ea9f27-2026
+build-branch = 2.5.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 31be2ef3d9a40bfe72a31b097e572980
+

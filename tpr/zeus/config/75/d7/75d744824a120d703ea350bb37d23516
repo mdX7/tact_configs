@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 21c904d94b183a7b42870683d38086ea
+install = b26f62ef53a8c99af8c7289c43f3ceff 9ac7ae4482870533ceddfaa6926a14da
+install-size = 287 185
+download = ffaf3d0e2b6b71fba492620b5a846df6 7c371a3e4d103264a2634c9786af7ae7
+download-size = 98009 85313
+size = 0ecc3d7d37df88dc08d2ba3fdbae0105 752d36e9f2e3ccbc49b6b6e8bbab565d
+size-size = 55849 47766
+encoding = eb7470d7e61c72a196f84d293b6d889a 4168e6e1fb5ada8e03003f0ac52eccea
+encoding-size = 8380 8555
+build-name = bo5_2_raw_8279943_preload
+build-product = zeus
+vfs-root = 9b8f4091b11841871a27803a11ae7c9e 90cecc08fb6505b9bd4498613eae8283
+vfs-root-size = 145146 78156
+vfs-1 = 9b8f4091b11841871a27803a11ae7c9e 90cecc08fb6505b9bd4498613eae8283
+vfs-1-size = 145146 78156
+

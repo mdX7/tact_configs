@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 68738e4f7c30a6fb3842f61058a46d7a
+install = b0035cde057fe17098bc5ec4e2428d9c cdc8ac3bdbb7bd2e09fba82a38be3d4f
+install-size = 229997 225408
+download = 378405e5a8f9702b2838bd53ff125098 cd64b1b04fb23f7e015722cbd0feba25
+download-size = 28627 26356
+encoding = d1a875d33d6f5494dc7d3df08801d982 d7c6aa285e071a731d1b5f82acfe1a8a
+encoding-size = 70291 70482
+patch = e12c778d42bf2fdc8f6b8b2cc1dd40ed
+patch-size = 17529
+patch-config = f41ec36f1ac5070e13e09443bb75e35f
+build-num = 10426
+build-name = 10426_1.12.2-beta
+build-branch = 1.12.2-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 1
+

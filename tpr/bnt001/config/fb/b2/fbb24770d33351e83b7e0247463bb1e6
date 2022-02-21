@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 0d51a867b7de9affa5c41dce62f27991
+install = 7f01a60a064402f19d9726cd5f122fba 98bf34bde2319ccd3ae6d5c1e2043274
+install-size = 4014 4072
+download = 1f949e50b47cc965a74039e143f253c6 ac7c245a937d03020c86fedf4c06210d
+download-size = 1072 1162
+size = abc6fdb32c52413779473de4502957be 269aebe0d82756d4b2da199fd1735492
+size-size = 564 658
+encoding = ff43db48e25ccc9897cbd7b8a8b7fa69 a1407d6a51828acd0e3d205cbd43b414
+encoding-size = 8381 8556
+patch = 52dc35c394c9b76795da3062630108f2
+patch-size = 1521
+patch-config = 86de7bdce6c7e9ffc5fec8bffdee5435
+build-num = 7600
+build-name = 7600-agent-2.25.4
+build-product = Agent
+build-uid = agent
+

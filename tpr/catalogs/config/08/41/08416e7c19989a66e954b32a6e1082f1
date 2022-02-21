@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 14faf867cf02f0ef683052db15e8d22e
+build-version = 29
+build-num = 1990
+build-name = 14faf867cf02f0ef683052db15e8d22e-1990
+build-branch = 2.4.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 9f332a89bdc366886e21447743dfdae0
+

@@ -1,0 +1,26 @@
+# Build Configuration
+
+root = 0f0e80d5e318d76973b48b29eeb09345
+install = 4cb8e8a1dd9260bf4aa1ceea6c842f1a 1925695bf2891fe4e8e52c66912ec69f
+install-size = 54726 53056
+download = 38904ecfb3b3cfd8e8b540229628a811 c6a85075b1838082da303bfca26adb83
+download-size = 28564660 25649248
+size = 1f07c4c60551eeec5c079fd0be69fbf2 00ad866ab4929eadf5e9f9a97fda73c5
+size-size = 15759893 13948582
+encoding = fb0c85d97cff60962a58f307548b6bad 53a6ba72dc5e346c93a809b882c9e2f1
+encoding-size = 87894944 87826128
+patch = bf4a10da64735ec5aa9325536cf72595
+patch-size = 1422653
+patch-config = 8e4e93295d9853519323d3f433b93f79
+build-name = B81376
+build-t1-manifest-version = 2
+build-base-content-release-manifest-file-id = BaseContentReleaseManifest.xml
+build-base-content-release-manifest-hash = c5930ed34a4895e3c7ba91a42c416cba
+build-content-release-manifest-file-id = ContentReleaseManifest.xml
+build-content-release-manifest-hash = aa7ee1c011dbc47d75b8528c32537004
+build-release-name = Heroes.51
+build-uid = hero
+build-product = Hero
+build-fixed-hash = 2441e635d666a3cbc4df5e06297904e3
+build-replay-hash = 1c60ecc372db24433877e05f4a9996b2
+

@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = b2b603086ee638dfe073d02abb01dea4
+install = d9d64c25c09a45c9af397a7e62674749 b1e5eec2860295f83441c0bb33a9d067
+install-size = 84683 84615
+download = 0cc7adc519d5cdd9fad8c70f6b32613a 9ffd96cf53e2df8bab7eefd90f7f7c45
+download-size = 29253 29211
+size = 18d8a2e5fee453114a4b1b5197a2afc5 28089dcb882ebcf44759c1e38d08967a
+size-size = 14710 14668
+encoding = cd0b244b6e18b47ba63efdf11d9e6e61 a355a0008f1f4146a41d01f799e2e831
+encoding-size = 74444 74620
+build-name = P1e_04_06_2021_R
+build-product = wlby
+

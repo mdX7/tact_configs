@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 93c2bd8f591b8074c24984459de707e6
+install = 1ef5aa2be47d11d49e1b43c0a2a36926 fcd24b49b9baeb4c2f18811eb45cdd1b
+install-size = 4014 4073
+download = 7aaa3d62544312f603059ebf57144507 75a05c0eeaafde439bca16211aa8bf26
+download-size = 1072 1163
+size = 9f612a06c93c32b501ea612fc1546fd2 18ccbfc8a3c8865259b13bf385996744
+size-size = 564 658
+encoding = b5c32659c6faf8d2219e4e92d7852cd9 05fef6c0a03b87b4db1dbded8d33d6e3
+encoding-size = 8381 8556
+build-num = 7010
+build-name = 7010-agent-2.19.4
+build-product = Agent
+build-uid = agent
+

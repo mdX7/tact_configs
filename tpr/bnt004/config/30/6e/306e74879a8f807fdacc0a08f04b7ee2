@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2288b7d6657c5059d4c98ba4bf699d2c
+install = e1585bdf4753f82bf21bf5bd129e959c 626e81ab57e0e3d0966a90e00d716359
+install-size = 4273 4335
+download = 66f1bcef4ce67002d1883a5f7a6c7af1 71775516b4339c97e032bbb7fea6b988
+download-size = 1424 1512
+size = 6bddf95ae4bc2b3207d7527a3ae91144 84e3c2028614a472406aed0350487b8e
+size-size = 734 823
+encoding = 22cd16a3de319de03949d8d7829cd6f8 6dda1744f29032a6800df54a6159c0fe
+encoding-size = 8381 8555
+build-num = 3086
+build-name = 3086_s1
+build-product = Bootstrapper
+build-uid = bts
+

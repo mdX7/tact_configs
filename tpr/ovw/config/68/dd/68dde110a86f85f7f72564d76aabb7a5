@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 41c98c3886ff807ad100ae6e823067d4
+install = afcf4d5114707d1ce0ad0eababf6f460 fc18a582416598d6ca5389de8c2ce144
+install-size = 7374 7103
+download = 6e377997bbffa79a2e27860ea575495d 1b7400340ffc72272e647143581a6ed5
+download-size = 16748844 15293856
+size = 511c15040a48ddefed44112c9afe7996 8328ef3e6c5a0f5999a86cbbce98e288
+size-size = 9142465 8356372
+encoding = 645fc9216747265034e1b4bd32cc3a53 ea27a0e7fa1204beace6e0077ed65381
+encoding-size = 41028607 37816640
+build-name = prometheus-1_34_0_1_PWX-55918-PROC-CN
+build-number = 55918
+build-branch = 1_34_0_1_PWX
+build-product = Prometheus
+build-uid = proc_cn
+

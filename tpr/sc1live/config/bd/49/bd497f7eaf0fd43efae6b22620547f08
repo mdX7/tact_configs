@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 50fa42e925dcd205e2991a939efeb31d
+install = cc06b652d266310784560dc48f78e5b6 cf271765ad4378345aac61ffff36a2df
+install-size = 102898 98632
+download = f249f81d5cf37815e85b40fd270ec5a0 a70172c07a130dafd8b426b1c37cebe0
+download-size = 1265134 1120689
+size = 69f7424fcfa73595f9c8b95ff4783b6e 79f70629f28fc98cfa021e34fa7aa902
+size-size = 705353 616565
+encoding = b66df306697d369be28150b138f67fce 7eb81f988ba006fcf9ae7d2ea16a53ee
+encoding-size = 2757663 2757834
+patch = 8bc7fec497baa94cf3a0834553456710
+patch-size = 10731
+patch-config = 9a102c7c3fcd32bcdb737cbbfe2a9e15
+build-name = 1.23.8.9651-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Retail RC again
+build-playbuild-installer = ngdptool_casc2
+

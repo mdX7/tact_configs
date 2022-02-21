@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = e01bf21d01937716e9bb54af7db13079
+build-version = 24
+build-num = 977
+build-name = e01bf21d01937716e9bb54af7db13079-977
+build-branch = 1.8.6
+build-product = Catalogs
+build-uid = catalogs
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = b94649d98ce8d59ae69a6a63dee7a3d1
+install = 1c628921a8d840616a4f4839b1f17792 cd4bbcd08dec95c3760409d1ed57df47
+install-size = 4092 4150
+download = 140f0ac5cb7bf04c9832fcf5267a6003 1d8a227986ac3451b0c84093574eda13
+download-size = 1127 1217
+size = 6ba9219ee0e863437321ada6ad5ab6e1 3470e8e41e2d56048d555c0fd09aa83c
+size-size = 593 685
+encoding = c55ef91db70a3c890857814dd57369f6 624d9a7c093e8b3b7265b13b26e4a1c4
+encoding-size = 8381 8556
+patch = 95ba97b6e1f738246927e319814bbe3e
+patch-size = 1777
+patch-config = 1409a1215fd3d25b4d26db6224c0a988
+build-num = 6820
+build-name = 6820-agent-2.18.4
+build-product = Agent
+build-uid = agent
+

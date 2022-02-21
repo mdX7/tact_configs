@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 96ccaf36e443d7e52c3211e3285c8cca
+build-version = 29
+build-num = 2010
+build-name = 96ccaf36e443d7e52c3211e3285c8cca-2010
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = c64f5a8fdba52ab5d3b1c98c27fb2a44
+

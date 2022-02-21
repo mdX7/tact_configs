@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2eea9ced9760f05a66964a048ec14c7d
+install = 916126048fa76ddcf6bad4283aef5322 2051cbfca4ed18ca6188ac2792ae57af
+install-size = 16617 16043
+download = 0d31ea68394c9730453eb79cb827ac1e d61e555bb656ce6001ea319cdbdc25ed
+download-size = 8082384 7220166
+size = 1eaaa8217a406b7351604b529b2fbafc a17bb7f5a04e6abf55088a77ad62699b
+size-size = 4341877 3783311
+encoding = 11880de6120322d594779fc9c9f48492 cf920247bdb4792878c675205bd614ff
+encoding-size = 17084483 17082653
+patch = 14772a81782c972b970d9b4a82cda165
+patch-size = 2188545
+patch-config = 9672d8803a91cc96739d9359baead828
+build-name = WOW-38707patch2.5.1_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

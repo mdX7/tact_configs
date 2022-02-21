@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = b832ea25e281a1245d1ae37422f3c542
+install = 5cb6273c662dcb1966b217843c021d0b 2edc3f21087f3e88537400ded4e166e5
+install-size = 4014 4074
+download = c1d97801ab7f396af461ef46ae7eac9c 6585826e871b1bfe23982972817415e7
+download-size = 1072 1163
+size = 85f9cdd2beb882afc832257dff2e15b3 ab3b788f42c0352fbad36b3b1bc186c8
+size-size = 564 658
+encoding = 9119ef2ec9e195dfbdef8455dff6d5ad 6fc95c0938a8244a4401b12522a183c6
+encoding-size = 8381 8556
+build-num = 7220
+build-name = 7220-agent-2.22.3
+build-product = Agent
+build-uid = agent
+

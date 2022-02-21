@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = d617acb00aaf00eb5e8bf4a66e743bf1
+install = 35d28accd21311be090edf0556328d4b fa931a68b3cde84c19ceff59dc3249b3
+install-size = 229941 225352
+download = 9a2c13753d4e9f7d6004edf2227f55fd 25f5b494c7e7c161bd5c6d1e0a418bfb
+download-size = 28504 26248
+size = 1cfadcee5650d02c588c7bb8ae982828 97d4c6c3362425fec87580751826b026
+size-size = 15516 13353
+encoding = 729f660f0122f51591d1a3c9b9f5a4e4 530ce7261184303b77511d44c8d13866
+encoding-size = 70314 70491
+patch = 3b68f8ccd06759f9aeda7dc11a777a82
+patch-size = 14987
+patch-config = eb9b36318c94067e6adb4de1329f0de1
+build-num = 11061
+build-name = 11061_1.13.2
+build-branch = 1.13.2
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

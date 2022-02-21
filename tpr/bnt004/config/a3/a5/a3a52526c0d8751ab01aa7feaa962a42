@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 1ce19a9d6e50d7291d2061935c540fa7
+install = 6c464f55df3a80a0926f277f3ca9c574 a4e152be0aab265cba7224e602bc5253
+install-size = 3897 3961
+download = f18465c66de41dfbb0be5b5a440eefde abdf1b10c619b6423638fb4a00327762
+download-size = 1209 1299
+encoding = 99079a82fe72e160f9b1eab7a5d94ed0 adc1384953b3ba12d71dda3f05ec70e2
+encoding-size = 8360 8545
+build-num = 2916
+build-name = 2916_hero
+build-product = Bootstrapper
+build-uid = bts
+

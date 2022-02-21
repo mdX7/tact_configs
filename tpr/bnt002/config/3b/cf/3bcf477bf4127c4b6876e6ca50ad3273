@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 18ed6206b244af25897ad201032690a7
+install = a8d14cd38c194eed14fe01cced7b2979 804cca76e1dfbcc0e2bb9c651df655bf
+install-size = 118069 115727
+download = a1d287e9d95ea9a2ec13dea2e862a78f 621eb1884aba43aa7e36643023fde9e4
+download-size = 27894 25676
+size = 73f94b1e3a21a86d0c2024c43260067a 0ee3100456f51eae86aae071aabc9fd0
+size-size = 15192 13067
+encoding = db0b07be3c8aa28233b0479349fb9835 2360031817a7173cfd67ec9c3329cd59
+encoding-size = 70314 70492
+patch = a5e11fe20339495b2a97c488fea4edb9
+patch-size = 38385
+patch-config = 46bf198466cfe5af9b69b75b26f75fe6
+build-num = 13121
+build-name = 13121_2.5.1
+build-branch = 2.5.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

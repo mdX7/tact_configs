@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 872b85a5b93fc8cd55ad94a9ec91679a
+install = c27b1c320babf858ad2238cab6e78d5d 0ca4adc621f8fa101dde5f37e336cee0
+install-size = 4014 4072
+download = a9c4b2d6c2171ce2120d4fef527faa2d 5b8607c2c79c77b5476180198cc1bd2f
+download-size = 1072 1162
+size = ac99f3f9fed988a6daa24be49f70f10c 3e8d6b23d0932a7caac00b9f2c766622
+size-size = 564 658
+encoding = c38c6deabe1a3762832cb35b564dbc4d d4fdc4307cd9049b353dc710e6163b6c
+encoding-size = 8381 8556
+patch = 6473a7c45442284cd3e93f998d6dc5b2
+patch-size = 1521
+patch-config = 1b9ad3e10db44748cb83dba8b48ecd90
+build-num = 7614
+build-name = 7614-agent-2.25.5
+build-product = Agent
+build-uid = agent
+

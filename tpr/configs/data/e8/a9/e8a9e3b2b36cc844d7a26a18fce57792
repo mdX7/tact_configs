@@ -1,0 +1,1 @@
+{"all":{"config":{"casc_language_agnostic":true,"containerless_do_clean_up":true,"containerless_do_real_cancel":true,"product":"bts","supports_multibox":false,"supports_offline":false,"update_method":"containerless ngdp"}},"platform":{"mac":{"config":{"tags":["OSX"]}},"win":{"config":{"tags":["Windows"]}}}}

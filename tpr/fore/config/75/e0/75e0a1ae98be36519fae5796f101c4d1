@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = e741f5ee995e8467349d2833b6c60710
+install = 9b6b309a54dbb8bfabc94f9c0f8e87a2 e533aebee53010d3e1320e48144b9ccc
+install-size = 5868 5574
+download = ceb54a8a52e27a2c3308184ea6b0c901 681dc87c6f5261f6d175f06bd0919360
+download-size = 190250 172263
+size = 6ef400e92ab3583849f7026148ac7201 e6a65bbf98172e41c36cdad839b9c719
+size-size = 104688 90121
+encoding = d81293d525308c2fd3488636cabc1a63 9446d2bd01d084d5b67043506047c85a
+encoding-size = 12538 12705
+patch-index = e7a4e4ea49d7c302bb27aed4c9d1febb 63160f1b92b2560cd8739632d41e86a6
+patch-index-size = 5100 3650
+patch-config = bcf352eefc45cc1f4b71992edb275880
+build-name = s4rel_10819777C_tu10_bravo_signed_vc_ship
+build-product = forec
+vfs-root = 5b8c03ca8a033b26c3e2f2c35b147571 56dae0d586fdd1694607ad7a9eead07d
+vfs-root-size = 340945 147658
+vfs-1 = 5b8c03ca8a033b26c3e2f2c35b147571 56dae0d586fdd1694607ad7a9eead07d
+vfs-1-size = 340945 147658
+

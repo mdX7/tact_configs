@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 04b706bbcf435f5ec4c285a041c3d7ba
+install = c26041e3ecfdc320313b4f034f78ed67 0819230d925a696d376d361b7d03cbf0
+install-size = 6229 5902
+download = 1185819806eef602423d951a4880494a f187ca4aab1fd966a1ba51a964b2ba99
+download-size = 1606793 1442946
+size = c1caf1d8edf7c3a264588fb367a2e7b6 bea6f0c346f6da0731aec76647cf7442
+size-size = 886597 740419
+encoding = 9b95b2131e567d7bf76060a8a8691d44 54fbcf9e81ceef626deafdcfd7e7248d
+encoding-size = 12541 12706
+patch-index = 542ebc5c4b6362080ec8dac9d78f1513 6c15c632abf0d92acc6ecf3d34f64460
+patch-index-size = 7705 4846
+patch-config = 9d34cd92c94038d4aac681d4bec06f79
+build-name = rel_9353153_TUZ_6_9_DWL_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 3628a2e33fb66765466e9ec7a3e28105 419b62da40e5e422661a4ea07e4f16fa
+vfs-root-size = 2765199 1120912
+vfs-1 = 3628a2e33fb66765466e9ec7a3e28105 419b62da40e5e422661a4ea07e4f16fa
+vfs-1-size = 2765199 1120912
+

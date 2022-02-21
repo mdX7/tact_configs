@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = e00c5f669b6c28d6bd1bc26ecb0a2dd1
+install = 467b82c26b452bd9c4733284806eb548 2c5da480299b05b12399fe3bf2704a1b
+install-size = 357660 319481
+download = 457a9bb88cbcfb9a6f0a27412d04c7f7 fdd8b457fdf3929e48545ae0ed474c1f
+download-size = 133824 103992
+size = 0b602469ec99fa6203b369284b6d8ea8 c807ff20664427a0e77a53bfb80f63d3
+size-size = 82694 58184
+encoding = 3f42ee48a0dc5884795038db30d57a00 3656072391204fda2a1ec2d1b6a1b4f5
+encoding-size = 256090 256261
+patch = 2bbf9b8fe82d7c27559b95bb1d6d3e48
+patch-size = 110887
+patch-config = 3705f59b6c2398a1851498a583c2e2a2
+build-name = 71003_19.4.0-hsc
+build-product = Hearthstone
+build-uid = hsc
+

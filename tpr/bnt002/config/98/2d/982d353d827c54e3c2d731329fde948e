@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = dc55f15201e361fa35874e37abc56a43
+install = 0fded729c055ec421c8b013e43a4d285 388f51bffbbe00410ca516b1fc73a720
+install-size = 234589 229959
+download = 7a974426b5212545caab8908ec14eb24 1fe6570ba13195882f70abc125bad4fe
+download-size = 30670 28235
+size = 8b080692e5cc7bba795f22f53c56a02e ec1b584afda583cdebfb2bd58d9d8518
+size-size = 16694 14366
+encoding = 047013423d8bbdb028f5077e2ab1a8a7 39aa55baa679c9deda93152715f30831
+encoding-size = 74442 74619
+patch = 71cdca6a87b929ccaa95950cc5e22180
+patch-size = 20259
+patch-config = 7f3022dd0e8c4ab20d728d0ba8a6a4b9
+build-num = 12484
+build-name = 12484_1.28.0-beta
+build-branch = 1.28.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 8
+

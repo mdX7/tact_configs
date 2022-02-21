@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = eaeb1263be080ecd1b168a402fa1b653
+build-version = 27
+build-num = 1494
+build-name = eaeb1263be080ecd1b168a402fa1b653-1494
+build-branch = 1.15.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 5af1008bbc4e6cbf9beda33b65cb32bd
+

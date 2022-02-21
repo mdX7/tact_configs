@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 4ac95a8ea15ad2474cefd00660591a84
+install = 2b4763cbb42f1f36d111e64a538d2e20 1f6af20c9c72235498e9c1251cb1a0c8
+install-size = 4014 4072
+download = 9a1f49ce0dd55ba063683a5f50fb5f80 204c16b51ab2ddcfd6693b352ef75e54
+download-size = 1072 1162
+size = 1ecd1d0fbee7c68cacf384df18d7b4db 0c09c865d630d7216cefa0f077ebc543
+size-size = 564 658
+encoding = d0048b70c45d56ae9c44cd884cdd7d78 c3727e8528c51c20f1a9ee323d11048b
+encoding-size = 8381 8556
+build-num = 7205
+build-name = 7205-agent-2.22.1
+build-product = Agent
+build-uid = agent
+

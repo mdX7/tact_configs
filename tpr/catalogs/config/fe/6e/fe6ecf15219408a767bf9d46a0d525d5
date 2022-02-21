@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = f13790bfbd278358148cad86321bb64e
+build-version = 29
+build-num = 1834
+build-name = f13790bfbd278358148cad86321bb64e-1834
+build-branch = 1.28.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 17d6873ac01a9334c1808e9971363351
+

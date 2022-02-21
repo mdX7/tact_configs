@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b96c7276b3f60213f6d656e3f705daf6
+install = 3017234905053f6c7749626052f46fc0 aab8fdade4399c435e031054381bf504
+install-size = 224365 219927
+download = 860b3392e60f1602be64b9ae53534f25 3e52dea2e5a4e3d72f202b5f87646f9f
+download-size = 46463 42721
+size = 89119cd4b6a818eac292371d8eb51b31 72c7a987d45792f880beb0c0bd53128a
+size-size = 25246 21618
+encoding = b32a458a2e8520f458538f4c9f0e20c3 8766f7751a1c49e1b56bec84101470fb
+encoding-size = 111594 111771
+patch = 6f9e7645829111c7eb6d97442085414f
+patch-size = 44507
+patch-config = 152ed745e0ec168cb99314134a55cc58
+build-num = 13243
+build-name = 13243_2.8.1-beta
+build-branch = 2.8.1-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

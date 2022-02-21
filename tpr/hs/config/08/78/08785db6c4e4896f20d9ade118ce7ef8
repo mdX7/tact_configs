@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 0b540df5e6b35b0da72bfe47dad0c47b
+install = fa513363a0dc16d721a4c36c6d6dfc58 b7f3820cd88c2e9aeccb2b4f0a3d267a
+install-size = 166296 147518
+download = b74ed0b470254b4023b61bc9b2c06df7 75273adf358c390ae9230cffc2d8ebb3
+download-size = 63017 48577
+size = 0197891eb13f29c00c15126b5d803a5b ad46535c683685f9bbe2f1556ed5cf7f
+size-size = 39330 26909
+encoding = 26aec20af2b021aabf4875700d0a0473 ccbe37b6d2e046ad1970c0e3cd32535a
+encoding-size = 123990 124165
+patch = 31a59ba203a68e4ff9c26c38c853445b
+patch-size = 73437
+patch-config = e8279e2bf13f08f59896a9f20bb01967
+build-name = 126661_21.8.0
+build-product = Hearthstone
+build-uid = hsb
+build-token = 3bf6c7ce-4897-11ec-a1a9-005056bc23d2
+

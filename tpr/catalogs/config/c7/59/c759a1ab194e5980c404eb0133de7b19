@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = b40e5452051ef856a7741cd5a95e31b1
+build-version = 28
+build-num = 1621
+build-name = b40e5452051ef856a7741cd5a95e31b1-1621
+build-branch = 1.18.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 16eb31805bf0f656d66298e249ca77d6
+

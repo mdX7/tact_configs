@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = c680bf3d3834f4ccd00c5e6689e384cc
+install = 7973ad03871dd011c5df4a6202963e47 abde86fbcb90e54498db6480048cf33a
+install-size = 5868 5574
+download = c798ff41387c247f4bdbae17969a23bc c15a4ef663bf0967de5b3cddb7263ad6
+download-size = 167046 151323
+size = 4fe84896c211c95a3bd61a1ddaed45f4 a827d50127a15029158ad4db7fd3278a
+size-size = 91936 79203
+encoding = 1164c7112758041112b08a941adb909b 8fbbd14bcaee994beef594381a583ce0
+encoding-size = 12534 12700
+build-name = s4live_10648059B_tu7_etu3_signed_r_ship
+build-product = fore
+vfs-root = 59f88d90ba875586288a926a4d31f579 b6482b25f0974e94764e8d8cc14fb649
+vfs-root-size = 303597 129972
+vfs-1 = 59f88d90ba875586288a926a4d31f579 b6482b25f0974e94764e8d8cc14fb649
+vfs-1-size = 303597 129972
+

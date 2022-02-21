@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = cd9be9eaf88852cb7b0d370406604ef3
+install = c4b11f3d8ae4382d12ea829f5ef7f25d 742a8fe22bfa4816a41c0aa84653ff8d
+install-size = 15633 15240
+download = 492c3f1f21b1816cb95f69ad6cb3a657 a5a695b243a3a18b0256ecf6a442677d
+download-size = 6113159 5528789
+size = e86d8daa8192fd55299558b126aca30c ad62157038ba52c9e65db74b4b0bae1b
+size-size = 3248506 2878838
+encoding = 7979456894c6f8ce3561402435ff8708 0727b6f17cdd0afd093cf589a3b5a434
+encoding-size = 13084283 13082539
+build-name = WOW-38704patch1.13.7_ClassicRetail
+build-uid = wow_classic_era
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

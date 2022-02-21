@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 6b4c2d95cf843cbe33479031fafbfe6e
+install = 689626ac2dfab5fd07eaf72c789a56d9 0c16b20aa5f7da79aacbac9bca29a1f7
+install-size = 40835 39842
+download = 0f8adea92f7e56ed8736b0eef6574a12 ef53deff93325d00809188e20b50c25e
+download-size = 18473702 17177355
+size = f729a9fcb719a2559e8bbb9764656252 1ed92f30e9c64eafbf7803f4556e3d2a
+size-size = 9896691 9550421
+encoding = cf235096161ba03797bf3dc08cb7ae89 c676ee08e66d0ffb121806ea4068a22d
+encoding-size = 42167739 42167879
+patch = 0d6d44acd07af7ee1402a74dc4e4b9a7
+patch-size = 1532609
+patch-config = 6e4dc695620da7eca5a12b77fc3d2e63
+build-product = Diablo3
+build-name = 70985_Win32_2_6_10_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = flee
+build-comments = PTR#3 RC1
+build-branch = 2_6_10
+

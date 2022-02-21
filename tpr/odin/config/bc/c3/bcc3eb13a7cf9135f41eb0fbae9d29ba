@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 53f04a71c937c2bc3df5c395289ec031
+install = dc9c88173874b68a75c6838a1562a327 18ee191213e94a04154fec81bbd798d0
+install-size = 6069 5743
+download = 983e20c59c95f066b49709268c37a5b1 0ac33db8ffa7fcbb74e86eab08ea311f
+download-size = 1473237 1323054
+size = 8776070bcc1670ed6d723cfa33aaf75f e1fa1a2b2e7a85a08ace8568353430ff
+size-size = 812919 676456
+encoding = 650c1c3f2510d5b8ba0d6ba9447b9c0e 0fcb6d712a04a6c5d58efaa256f7468e
+encoding-size = 12541 12706
+patch-index = ba4b7dd6f9d8bbe1f98e551061a9ecff c143eb77ec9e49cd663ef05184b53dc6
+patch-index-size = 2728 1979
+patch-config = d476b16a464e9e785e96e80df6f67b84
+build-name = sub_8905482_TU_WETU_4_2_mid_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 82df6ed78bc0a334a66019afda5993e6 c900b63293f66b47e876dc591ee9955b
+vfs-root-size = 2585994 1032848
+vfs-1 = 82df6ed78bc0a334a66019afda5993e6 c900b63293f66b47e876dc591ee9955b
+vfs-1-size = 2585994 1032848
+

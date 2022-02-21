@@ -1,0 +1,26 @@
+# Build Configuration
+
+root = f78c4e187eac894de87e8974dccbe72b
+install = 02736a910f95145a1f72931eea8e846f 75ee2baa937c20dba80c9336ee77b08e
+install-size = 54726 53056
+download = 7e7c8ee646de15dcaabdf34b9a091b97 8048556bd1abadd29edd17784a664d65
+download-size = 28393572 25495596
+size = 88ec42b4c10eff44dc72c536ed2f25fc ef38fbff95f9cc2afa068e26678c0b44
+size-size = 15665505 13863645
+encoding = d4c21e4a514d8084ff014815e988fa67 fccabc69f370be80381a418610a14642
+encoding-size = 86028636 85960225
+patch = 2dc6cd53bf7840788efe3da0642f2a8e
+patch-size = 265941
+patch-config = 85f1463a3566fff27361d13f85b11950
+build-name = B80046
+build-t1-manifest-version = 2
+build-base-content-release-manifest-file-id = BaseContentReleaseManifest.xml
+build-base-content-release-manifest-hash = cf9f5c96f662219fbd6d06d5120b4a51
+build-content-release-manifest-file-id = ContentReleaseManifest.xml
+build-content-release-manifest-hash = d5ebe8649120c1520479f3857271714a
+build-release-name = Heroes.50
+build-uid = hero
+build-product = Hero
+build-fixed-hash = ea377b24e03bcc33b74b4e11391908da
+build-replay-hash = ece01f0d2aa9f1b4ee1c2476cf961e93
+

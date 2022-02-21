@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 17e911cd6c9c59880b084ea4c514d7a9
+build-version = 29
+build-num = 1928
+build-name = 17e911cd6c9c59880b084ea4c514d7a9-1928
+build-branch = 2.0.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 5afa72fec70c1f90dc01dc4561c7d5bf
+

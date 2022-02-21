@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = e4f8d9b3e612f91a46be08e26e72a3bf
+install = 76a31426fd7054b56754bddf2e64856f 4927eb33db2fda5c480c60ebbac99323
+install-size = 16884 16310
+download = f6c293e608271eebaa39e4f03a96d13e 5f2dc2cacb51c6f3c8bf62f1ffcd3012
+download-size = 8072301 7211133
+size = 9bd435cd069de33f0b14acbe81823ca1 b6765737eef3f21d09c424f19e5bdce9
+size-size = 4336456 3778453
+encoding = f6f273a479d56e0c8fa550b48fdc6f6f 7375a103d955765143086ed0b950c2b4
+encoding-size = 17059503 17057824
+patch = 491fa181dff3cad0f2322c96aa96ca3b
+patch-size = 4798269
+patch-config = b3fc209d9085c6ee128bfd97ec5a0d1a
+build-name = WOW-38364patch2.5.1_Submission
+build-uid = wowz
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = f592bde9358717a6f7fe3a0d5887f61c
+install = 3b706928fd5bbcd4cdc0c44236511a04
+install-size = 135704
+download = f9943a27036d343e8169b620dda97ef5
+download-size = 45697
+encoding = b0f410e837ef8a0d7a1b191817b690ee d5df71deaa39a3b4f3bf35e613265b5d
+encoding-size = 103322 103512
+patch = d04d6dcc469e26678011b1deaccc417d
+patch-size = 97043
+patch-config = 30acac65b1ee1a98fab07130accaeb8e
+build-name = 25252_11.4.0
+build-product = Hearthstone
+build-uid = hsb
+

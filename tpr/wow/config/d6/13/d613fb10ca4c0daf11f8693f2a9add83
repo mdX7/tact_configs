@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 3931ce961d22e006bfaffbebe1fcf248
+install = a18d15bc64c9966b1301eb35b7f37883 d4dacade07f0c8b26269a2c1378e7259
+install-size = 17723 17189
+download = 406b24430717dc76059492d2635d8643 434d2b0f8e9892207c42f49e4824c78c
+download-size = 6215623 5552416
+size = 6b6f0a4a9980faac15a6438a5eebd009 d7e7b4bdfd7729187288093772f3d146
+size-size = 3339070 2894251
+encoding = 0491d570d223df7cf3087e680710d0e1 260d0bb553bfec5262891f7c09537bdb
+encoding-size = 13137774 13136200
+patch = 475d590e7324c052f189815e16085a32
+patch-size = 320065
+patch-config = 1dc1ff7a08b5087e51dd7d927611ea35
+build-name = WOW-39802patch1.14.0_ClassicEraPTR
+build-uid = wow_classic_era_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

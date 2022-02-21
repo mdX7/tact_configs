@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 6fe80525a26acd330f0afa2a6b85f329
+install = 10b6a8b64a42679708037d740117391b 9511164a9deec9adfa27ba9042d17576
+install-size = 7350 7100
+download = 295f84881ef5050395ba5a74cad7dc66 2b4ea820ec3d0da771b4624681ae2a0a
+download-size = 27415149 25046361
+encoding = c4a0efbfc46b0c7c2529e381b6d868d8 cd1d3aa52ba3072643c1b721e62e8226
+encoding-size = 84925338 63975352
+build-name = prometheus-1_25_0_0-48421-PROC-KR
+build-number = 48421
+build-branch = 1_25_0_0
+build-product = Prometheus
+build-uid = proc_kr
+build-experimental = 1
+

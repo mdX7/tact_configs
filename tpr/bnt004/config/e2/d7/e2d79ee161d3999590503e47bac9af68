@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = bc9a29f349563db0367ce2f801fa0bb1
+install = 3a6f2eaad169bd5101a1545d1915c3cf 87de4c32dbe661f9522a434fe3e29671
+install-size = 3919 3983
+download = 773e2e8ba63572e607408fef1597d18e 7b812163e8610095e48f3db27e7efab8
+download-size = 1292 1382
+size = d90e2db9a7cebcf4ae3832478fdea48a 67c9c251c1a86bd493a3961aa13978cd
+size-size = 667 758
+encoding = 846176bfb7bfbc87348f7c7a026d5a9d e73c74becdce3a0e1aae0f83efb390f9
+encoding-size = 8381 8555
+build-num = 2988
+build-name = 2988_hst
+build-product = Bootstrapper
+build-uid = bts
+

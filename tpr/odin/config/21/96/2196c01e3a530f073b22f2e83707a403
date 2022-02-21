@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 4d5b7cbebb17707959424a77248f97ad
+install = d18857a4dc615cf2aa0b134e0d2f584f 3048486b5d28b4fc57aef4757e7a8d7c
+install-size = 6298 5972
+download = 7fbfac504b1426f756bb99f28fed2ed9 b2e1c8bd83c9a595b45894a1a3f39f03
+download-size = 1797135 1613462
+size = 5af4e2f0b23c293d2aed3e6be77fc821 8623ba3e0bc2643c247a58def20ef12c
+size-size = 991620 828766
+encoding = c103a6b625bea6c700d9d9b8358464ff 39f0eb987e950d3f2a6b0553887fa20c
+encoding-size = 12541 12707
+patch-index = cc132efef76ea34aea95f37a5dd7dc98 cac823c0bd4acc2d235a17460872036b
+patch-index-size = 8495 5720
+patch-config = 8616219b2f6ef728d2d7d0ff5e5086a6
+build-name = live_10909157_TUGvk_1_7_A2_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 9b0cc4f13d5f9d593a05c32932bbbb74 7f6cf0049eadf2d954f646b9c12dbfdb
+vfs-root-size = 3129719 1268207
+vfs-1 = 9b0cc4f13d5f9d593a05c32932bbbb74 7f6cf0049eadf2d954f646b9c12dbfdb
+vfs-1-size = 3129719 1268207
+

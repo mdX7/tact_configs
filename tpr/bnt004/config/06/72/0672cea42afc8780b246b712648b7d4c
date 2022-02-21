@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = a580ccd954569eea8f9a64032ca1ff61
+install = 1bcbaf7b8615d955fed2d9ce5a115814 e726f2410cd474ecc65fbcd1597dcf2e
+install-size = 4026 4090
+download = 1dddd7418e3738b45a737789165fc6e4 e687977014e6fa2259e5f9d3b4a1a4a3
+download-size = 1240 1330
+size = 98dec6f1b92710e53173bae2fd874d39 61f59f4df20d045bf84d03e02881089e
+size-size = 641 732
+encoding = 763c82d05d1ee4c44750eae9ac73893b 3600ee1ec1aa65386a94a0cf828a1a6d
+encoding-size = 8381 8555
+build-num = 2931
+build-name = 2931_wowb
+build-product = Bootstrapper
+build-uid = bts
+

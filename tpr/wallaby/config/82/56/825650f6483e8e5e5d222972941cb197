@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 54058401e87bd64862709585c92fd9e7
+install = 2682735eb5464b823f2017b26a0e7211 aea35880dcc52e5b0bf030466f8024d6
+install-size = 84579 84511
+download = bdff335d6ad0df1df96a805eb61a8a07 0e1a61f2738494fc846630d8afafd21a
+download-size = 29201 29159
+size = 3849504c60ad110523656648f0872be2 d3aa3a7e0d91bd41a9b54f5001b5f3ce
+size-size = 14684 14642
+encoding = 293e3ff774d77018d374f5e56216924c 08f983682ec3237b4fee4e9e13e6ebb6
+encoding-size = 74444 74621
+build-name = RC1f_03_20_2021_R_preload
+build-product = wlby
+

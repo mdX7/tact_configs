@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 09f0d11428693d6cd3d87b52ab55e6eb
+install = be2518deda8438402cc6b6deaa71f9a7 aec11048dc32dbf44a26618657fdf180
+install-size = 6229 5902
+download = d46ae78a978dd9cd6ef413f6369560db e73851eace3dd4d8b194525667fec0c8
+download-size = 1637467 1470241
+size = 8c83060bf923fa09ea854e8d0ee672aa c41c9050c7f43b5bb750acefd05528c9
+size-size = 903530 755198
+encoding = fd873bd86238e0956cab4841c1484418 9407f6ea29a5e92e67ae3d8a0d5ddd80
+encoding-size = 12541 12707
+patch-index = d806c7c163bac127b0aadbd45bcc69ae da528f2bea9d7e49c9549783cddc16fd
+patch-index-size = 7634 4988
+patch-config = 03e76663bcfc152dd260d9e8db71c502
+build-name = sub_10019353_TUB_ETU_8_13_A_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = e7e07913e322b1196cf1e495ee8e0fc9 36e6e27ba5dce4497d12ec1607d73733
+vfs-root-size = 2834329 1147548
+vfs-1 = e7e07913e322b1196cf1e495ee8e0fc9 36e6e27ba5dce4497d12ec1607d73733
+vfs-1-size = 2834329 1147548
+

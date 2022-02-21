@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = f532cfa9c2bcd4f4a3cd79eea22e01a2
+install = 8ae7bed78726c098f890e9ae98ce2a68 12005eaf90bc907f9f07b235d6af9eba
+install-size = 101426 97216
+download = bea45b67afc6cc5ff502b349561b8b58 3d41206e53a231a07119b87ac8473617
+download-size = 1264821 1120338
+size = 5c239ee749e0a536a442e07520a41c07 997983b7d030f90cf123a8594e4cf818
+size-size = 705183 615580
+encoding = d0d8772211af9cfe3fcc0904a097c070 71b3c1e02cd6599605bbf76b7fc246a5
+encoding-size = 2757663 2757834
+patch = e6011d59729fbb17689b67e409d6b724
+patch-size = 10895
+patch-config = f125e99a7dbdc2755d639cff5ba27284
+build-name = 1.23.8.9341-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Final RC with minor version change to 1.23.8
+build-playbuild-installer = ngdptool_casc2
+

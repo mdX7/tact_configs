@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 817e8801294dff17a0d8f780b3cc504e
+install = 704e163727e7a8a068033f5ef4a45844 7542e55597a293d510ad698fd1ff3540
+install-size = 118069 115727
+download = 15b9e7544e9e7b16f165e1d24aa027e8 056f554da41bd45fcc4eeb6d63c6f71b
+download-size = 27894 25676
+size = ac2a47f2f9c6bf19a3f624e59a570de0 65368094569612f1168b1419e060c4c8
+size-size = 15192 13066
+encoding = 8a4497332177bc9157d3fbe66a8fe698 e86776b119c69a99dd59aa466f7ec0d6
+encoding-size = 70314 70492
+patch = c1eba331ef7a358b22ded8d1dfd274b4
+patch-size = 37041
+patch-config = 90b1360982fa0bfcdcd6239d34d9f9a2
+build-num = 13029
+build-name = 13029_2.3.1
+build-branch = 2.3.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

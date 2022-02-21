@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 399f9dbbaf8a6b2163c29c9f77dd83f8
+install = 107013a78089b005dd4ac25d83bf4b5f d4509babeaa771f3ca01eaf8526acfbb
+install-size = 16034 15641
+download = 0bb6f69529f5ee8a678f262eebb7f728 76c66f7ca178c6a4beebed35b5f7adfc
+download-size = 6112126 5527855
+size = 6851ec8e8c29647c9e550f117fb3b8df 358414e255eb221bc674d48051aa9d16
+size-size = 3247949 2878389
+encoding = 87d74c7228a392e06e6fd23ac2a87c78 2346e373dd439444447db77a44ffd116
+encoding-size = 13084283 13082538
+patch = e61ab005baac45d352ddb76873fe9ffe
+patch-size = 27561
+patch-config = 036669dd1b06f560fa0bcc8b4d3f0066
+build-name = WOW-38296patch1.13.7_ClassicPTR
+build-uid = wow_classic_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

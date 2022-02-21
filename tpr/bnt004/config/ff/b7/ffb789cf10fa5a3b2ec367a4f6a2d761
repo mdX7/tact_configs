@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 97fcca4725a0d3754c481a7dafbf2982
+install = 39e0dd701171175a48c88dc405b9b00d 365723ff795db5d5196a10bd9d271a6d
+install-size = 4068 4132
+download = 3a8ae7b0f8782d6a9abdddbdf9931c99 dfb8da86d3fbcef4859d8411b2fd2ea2
+download-size = 1292 1382
+size = ec1e1c22334f7f022b27c8944a1835dc ddd470064d9324175f17162f5490710b
+size-size = 667 758
+encoding = 13be0903b35bba00b0cc743b7ddf5133 259e4016ad84a7554412c73bb0c301e4
+encoding-size = 8381 8555
+build-num = 2988
+build-name = 2988_hero
+build-product = Bootstrapper
+build-uid = bts
+

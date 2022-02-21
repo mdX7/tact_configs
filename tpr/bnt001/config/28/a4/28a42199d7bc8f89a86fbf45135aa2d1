@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f4f6c581eb9a4323cb1d2fa8a5ae88cb
+install = bf205bdd3654530958ad34811e3fea75 3314636870079371261b91e5a8a3f5d7
+install-size = 4092 4150
+download = 8847f713b0512533e853e65d2abce364 cc9d97d2798a319899e3b51860635d46
+download-size = 1098 1188
+size = 01ac246dff1cd6c96553e0f4bfd87420 efffaecd5133a24920239fca7a2e194a
+size-size = 577 671
+encoding = 59d93e6a62435d7295d0ea5f93fd7d13 a1cf5834d4a17388d9660c2f9d0d69af
+encoding-size = 8381 8556
+patch = 2136b5a483425a08b5975f56c8cc2e07
+patch-size = 1713
+patch-config = d598ce62abb8afcabf1063856162e358
+build-num = 6816
+build-name = 6816-agent-2.18.3
+build-product = Agent
+build-uid = agent
+

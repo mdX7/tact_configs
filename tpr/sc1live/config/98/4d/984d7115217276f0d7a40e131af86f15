@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 4df2a14b7f881915b8a15fbe94b26ab0
+install = b351b2dacef05fd1da2027075a7502ee 2c5257819e58eefd6c1f6f5021077516
+install-size = 101889 97648
+download = 33a85c039e8da149fb43a716b060ad00 235e8fabc15ed9197457206307ffaa14
+download-size = 1264951 1120471
+size = a63821e113eaa8b971ff8bdd8f1eae71 399d5c3afc8b506c3e9fff707ec7fb3b
+size-size = 705248 615550
+encoding = 78ea2c6daa66d8839516b808b6b7a4b6 d69735719a1a08b2814d94d71663472f
+encoding-size = 2757663 2757834
+patch = 8de4fddfbd56d63f3ecfd415e1c6dc42
+patch-size = 10767
+patch-config = 8f40046e0c93e796004aac8208955e4a
+build-name = 1.23.8.9373-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = RC with map folder fix
+build-playbuild-installer = ngdptool_casc2
+

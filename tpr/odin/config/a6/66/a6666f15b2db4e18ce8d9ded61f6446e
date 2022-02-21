@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 371423cf06359b8a429a5000083e19ef
+install = ae537574f51a6a96bd697edeb800f596 6ad4128d60e4361542a9a61edff2d2d1
+install-size = 6298 5972
+download = de187c08b88815f250880df68fbcd80c af66fe23de79b8aebfcbbef093d2c463
+download-size = 1823789 1637389
+size = 1cf3c27d9523d00f9f192d43c46e7d7a dd10244447d382f7a0a121600527f15c
+size-size = 1006327 839532
+encoding = b01aaf1581588ec237f485bb77b2ca7d 71aa9f180dbe18deccd8afb24a0532c7
+encoding-size = 12541 12707
+patch-index = 305ea1fec24e08e5e56102e9419915ca 8b65d344ae6ad1130382294ad14ddd66
+patch-index-size = 5598 3780
+patch-config = 7a700cab7e3c4ec05e0fd3fd5e380746
+build-name = magrel_11035266_WZ320_2_7_5_signed_3_r_ship
+build-product = odin
+build-uid = odin
+vfs-root = d974577328b3aa86c1de95b1ba180fe9 efc27a9c3aebcbf44613c166f7df8c8e
+vfs-root-size = 3183087 1290501
+vfs-1 = d974577328b3aa86c1de95b1ba180fe9 efc27a9c3aebcbf44613c166f7df8c8e
+vfs-1-size = 3183087 1290501
+

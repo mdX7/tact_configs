@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0f01a6e9826a84c8bbdca7900116ab1c
+install = afeb25f558ac76de9d05047ca92d9f1d 43ac5120c9d475751b5710b21ba6b09d
+install-size = 59593 57757
+download = a8b8918bf170ec6f9745acce145e3229 84f15311482e2d4093df3e606cea22eb
+download-size = 17617430 15816437
+size = 26be9a298098090f6af80cc57179d0d0 c3172276e8cb9a0030478ec198e795ca
+size-size = 9720046 8717974
+encoding = 3ae39787cac87445f2b0c1127c291f98 bd89c86799c6cb4a402c6425c8d71b70
+encoding-size = 46085446 45936800
+patch = 703945dc0feb96749c5e4e2697c61572
+patch-size = 112461
+patch-config = aa5555b8cbd900473c1a1d5071b0dfab
+build-name = B80669
+build-t1-manifest-version = 2
+build-uid = s2t
+build-product = SC2
+build-fixed-hash = d07ce44cae0277843a69f49ad5c640a6
+build-replay-hash = 988a6fababaf5a6d17e8fda2c500177f
+

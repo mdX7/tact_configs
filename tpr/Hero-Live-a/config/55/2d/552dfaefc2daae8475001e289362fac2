@@ -1,0 +1,26 @@
+# Build Configuration
+
+root = 472112368409b9f1c52f1b3c0820bb33
+install = 4aa87ace2327b9ea652fe2cd9278a0b6 4362b23898250c117fee4604d4734e29
+install-size = 54726 53056
+download = d71a5dd06c81a2c2bd50719e64b318f4 c1e80107ff31aae2458529ad7af640b3
+download-size = 28582394 25665138
+size = d15b69e323412842c6f37ac19fd6f355 53b2d2ebe2378f98ec92cf8a4e75d873
+size-size = 15769684 13957521
+encoding = f21ef4760b9dcada09dcc0b3bf22ec68 280fb610b08bb208d5df1e45fea6e968
+encoding-size = 89401567 89332837
+patch = 3e1ab1fd1c630bf0a075dfa315adcc55
+patch-size = 2476137
+patch-config = 8a9b7b936f5be96760f4bc0e0010cbb9
+build-name = B81700
+build-t1-manifest-version = 2
+build-base-content-release-manifest-file-id = BaseContentReleaseManifest.xml
+build-base-content-release-manifest-hash = 7699cb80770105ede2ce0f1575bd9085
+build-content-release-manifest-file-id = ContentReleaseManifest.xml
+build-content-release-manifest-hash = 9aa01d29ea888b876cd38a604150e6ac
+build-release-name = Heroes.52
+build-uid = hero
+build-product = Hero
+build-fixed-hash = 5f3dd3ce481e77144be44bd1e31d2e91
+build-replay-hash = 5d859535a63e881edf8508041613f462
+

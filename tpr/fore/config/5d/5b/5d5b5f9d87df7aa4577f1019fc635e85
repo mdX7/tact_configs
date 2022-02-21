@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 5c61ba485d1bd3d2a7316f7624503163
+install = b6490586bcf632a8b9ee35e129612acf a722354ce02fcf0442618259dc91188a
+install-size = 5868 5574
+download = be6d597611167eebcf05af105d41dd28 d6624c035a4056a802c18556e48e2b68
+download-size = 166945 151264
+size = e80edcdf0d40f437fc8392750da91c90 20ca3296bfe531a7c6ebc23bad76ee88
+size-size = 91874 79177
+encoding = f20a6a4b676d01e56fc88c882eb657f1 3606194cc275fa31191957a78cbbe6ab
+encoding-size = 12534 12699
+build-name = s4cert_10614914_tu6_etu2_s4_signed_r_ship
+build-product = fore
+vfs-root = a408e6722b38381d5506e21b0a98e27a 66a0a6861adcfb2ec19cb64cbee5b819
+vfs-root-size = 303495 129919
+vfs-1 = a408e6722b38381d5506e21b0a98e27a 66a0a6861adcfb2ec19cb64cbee5b819
+vfs-1-size = 303495 129919
+

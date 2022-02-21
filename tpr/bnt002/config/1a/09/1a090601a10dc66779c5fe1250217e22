@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 65dbd82c0c590bd2711481bef86cdae0
+install = 4404dc3a342ad94e7b75bcbe810236b2 7c54cbaec543cc829cd4433a2e801144
+install-size = 229997 225408
+download = 9082527b4146341578ea0d56fe70ee01 ff89e59755224b51ff043fe5b9e1b790
+download-size = 28530 26276
+encoding = 6d0e2e1be4fc0276174e3dfa74c29c9d 1dd8ea52d31a7e4fa4f70002ffa8134d
+encoding-size = 70291 70481
+patch = 134044a8edf5f28d003f698fc97380bc
+patch-size = 18019
+patch-config = a97a0d945e2394ada1f7d9536cab9127
+build-num = 10458
+build-name = 10458_1.12.3
+build-branch = 1.12.3
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 1
+

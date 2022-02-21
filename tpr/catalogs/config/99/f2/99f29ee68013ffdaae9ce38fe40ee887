@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = da4eeaf5dc8e8f67301f6d2eeeb2e04e
+build-version = 29
+build-num = 2022
+build-name = da4eeaf5dc8e8f67301f6d2eeeb2e04e-2022
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 7488e6b95c7cfed3c63ddba1466e7779
+

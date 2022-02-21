@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ff92b439d3549d2f9a58f3963d892b89
+build-version = 29
+build-num = 1916
+build-name = ff92b439d3549d2f9a58f3963d892b89-1916
+build-branch = 1.33.7
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 6a1b6c5e4304883b4bb7e52e878dc35b
+

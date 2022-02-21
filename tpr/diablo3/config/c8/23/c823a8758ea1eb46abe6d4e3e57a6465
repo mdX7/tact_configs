@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = cef98f8010bf8ef11e076669c90f571d
+install = ca76191206ff51af9c450327c6b2f32f 7bb9cacb85777ee6d9f67221548cb399
+install-size = 40307 39314
+download = 3a3032afdefeac10679ee25c51b446aa 6c1d4493add59de902b5b78f66c7ed20
+download-size = 7820314 7270415
+size = 523c16614ef4c6f7b809c9b5790695cd 6d01afdce5f74f171bc58f440317770d
+size-size = 4189517 3892345
+encoding = f40b4b939d93eadc4b988e6aca15c94d d7d733451610c32204876ba85dc27d00
+encoding-size = 17853813 17853958
+patch = 5c056ffab1cee94a113a42934dc26d63
+patch-size = 52481
+patch-config = 52fa65a3a9cf393206a155173e720cb0
+build-product = Diablo3
+build-name = 58979_Win32_2_6_5_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = MCederquist
+build-comments = Warden3/Aegis RC 2.6.5
+build-branch = 2_6_5
+

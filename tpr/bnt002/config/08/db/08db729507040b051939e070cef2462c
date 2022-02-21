@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5951ee9819a2ef508ba8e33ee72c4efb
+install = 745f1fd59649c40793025052f7824ed9 b4422f3b7df5f5f9fcd04ef1476dff9e
+install-size = 231590 227003
+download = eb019a85c809d1597ea744091c0be859 80ef22ae9a22a9930ba5c798aee5b5ac
+download-size = 28705 26435
+size = 7a891add81367621457816144ac2f86f ac2004fd5505f2145f78ce4dbb20e453
+size-size = 15626 13448
+encoding = 74a4f5808ba685ac8c47f8458cf23755 71cc77500a356fc784c2bbe3f5ab120f
+encoding-size = 70314 70492
+patch = f4bcfe445c97005a423b45a4f8fa055f
+patch-size = 13905
+patch-config = 65d336e7807c425a3ff13cc767d6fd4a
+build-num = 11815
+build-name = 11815_1.19.1
+build-branch = 1.19.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 5
+

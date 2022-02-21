@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 28588779613ed5e1d180d9cc9fdef123
+install = 5e187445a58849e9d0107d942f0a4408 0fa22db0b97ea52af40ddc787a555b15
+install-size = 5399 5163
+download = c5307adf88871c7dd012f5f08af626f9 c2015683a5c6d7b07e5bff9dd63dc33f
+download-size = 142052 129306
+size = 261dc85cf736679f3e4f583ef26a12b0 cf99b03e2b2f874a905e12070420b36a
+size-size = 77623 66187
+encoding = ebc5f2f5b9f0e39761fc82e382132b46 0ccd739317192daaf3a58e6590f97d2e
+encoding-size = 8406 8567
+build-name = beta_7089334_9_15_exec_patch_etu2_signed_ship
+build-product = Odin
+build-uid = odinb
+vfs-root = 9205e87319f6b29b8c454e268c206eba 4638b363392bc833eb7cf66996c637d2
+vfs-root-size = 274710 111844
+vfs-1 = 9205e87319f6b29b8c454e268c206eba 4638b363392bc833eb7cf66996c637d2
+vfs-1-size = 274710 111844
+

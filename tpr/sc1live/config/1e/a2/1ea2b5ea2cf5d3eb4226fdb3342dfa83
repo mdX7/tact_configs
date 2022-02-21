@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 99dd49730ad78332cf1072035ca0c256
+install = e893abbf1d4b26122634f6e306af2715 52f2359fc18d73ba2cae28a88e85a84a
+install-size = 94956 91348
+download = 4ddfc5a8ebf0643abab64ab68dbdf4ab 2527ff65dd4af2c19bcc1be26397aa20
+download-size = 1187689 1061554
+size = 50e5540f7fa20e88816d236298dbbad6 94d932af0c84e0a5b3a8a04ec37e51fb
+size-size = 657665 584569
+encoding = 29212eb17bbd8ad66b57248100010269 380c60f9db91b82d1a6749d5849b60d8
+encoding-size = 2613183 2613353
+build-name = 1.22.3.5653-ptr
+build-uid = s1t
+build-product = StarCraft1
+build-comments = PTR RC8
+build-playbuild-installer = ngdptool_casc2
+

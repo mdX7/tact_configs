@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 894db19950a8df6424f2faed32d400aa
+install = d15df16042df0cea44ca10c315ab986d 75b03f59d20faa569863812fe5373503
+install-size = 234589 229959
+download = a01ec0792f27df5047be70e9f1e85bdf e14a497685ea23686b0ab48a2fe7a2c9
+download-size = 30670 28235
+size = f5fe042e360b6e88ec0404a276d7e6ed e209c5e1d4bc7c50f5687883903ce6ff
+size-size = 16694 14366
+encoding = 2a0e9d10bc805d498ed13633305f8bf2 de874b9840e884c181c5457d61285b07
+encoding-size = 74442 74619
+patch = 3f498856084b412dcc9899510f802a8a
+patch-size = 17529
+patch-config = 5bab372a532a39ae74cb844d92924f20
+build-num = 12506
+build-name = 12506_1.28.1-beta
+build-branch = 1.28.1-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 8
+

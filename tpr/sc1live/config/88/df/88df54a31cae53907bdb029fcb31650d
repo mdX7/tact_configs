@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 2d97e0422daf84d8bfe05f339ccbf708
+install = f66a225f2726d7fb0de3a9761127d406 771ad1609a2aec1f04196220331aceee
+install-size = 118278 113675
+download = 1859fb8994b71fe486c092415a96f298 edf4b8e41c2a0ceedf31db571648aa73
+download-size = 1264455 1120499
+size = ed1755e64ca486795f7b93a08c0d8fca 65e66082408559730536436666ff4c18
+size-size = 704973 614570
+encoding = 2a3bbc23e680d2410122aa9c85960361 64852f8cace5759c5a39a7ba86f0c967
+encoding-size = 2757664 2757835
+build-name = 1.23.2.6920-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.2 MP4 RC2 | 6912 with libScene 1 | version fix (1.23.2)
+build-playbuild-installer = ngdptool_casc2
+

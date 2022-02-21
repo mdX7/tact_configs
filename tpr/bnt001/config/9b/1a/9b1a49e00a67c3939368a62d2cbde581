@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 3982ef4f6fa5b3713c29657109a7deb2
+install = 03060a01a2fa3ad73d499561eb44c601 30d8894260c5527f2dbbb6d021d78b00
+install-size = 4094 4152
+download = 9954096c68414d833c196033ac0ffb07 82d9a419cd71a6554d03ac85f0e2cde1
+download-size = 1127 1217
+size = c786fb02d4e6f04493275475bf58c370 93342ec1d6dcd68def205bf15b98fb1c
+size-size = 593 686
+encoding = 1a5fd07b267811e8b88c5d6e599ed780 c7beea40ee22ff453bb1707fb03b10d3
+encoding-size = 8381 8556
+patch = e610af03c878089d9bf2097d403b70c1
+patch-size = 1585
+patch-config = 5d94faf068002333cedf39270383fbcb
+build-num = 6478
+build-name = 6478-agent-2.15.4
+build-product = Agent
+build-uid = agent
+

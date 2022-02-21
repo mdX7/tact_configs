@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = a533f0495d2f42161b9be66a63d5d0b3
+install = 600436c93b414658b84d5e7ae2dc5367 3e2e0901789a78bfc2b5f9370eafc433
+install-size = 118069 115727
+download = 9df8ec971e8ee506e6cf84b4f7564bc4 66194302e0c12e5d0b1166d316e02a82
+download-size = 27894 25676
+size = 8b1c951b19339649ffb6a5246abff1b7 20dc4668aafc8db78bbd61295e486ecb
+size-size = 15192 13064
+encoding = bfe7d59b395f49d7bea2447c66cc7929 af61cf905882f716fb3297eb1d5fbd4f
+encoding-size = 70314 70492
+patch = 260452fd7f64a07dc3ddab97d0ded4ed
+patch-size = 14833
+patch-config = 7bdf42d4e64717c7579b6fd25c620bc1
+build-num = 12769
+build-name = 12769_1.33.0
+build-branch = 1.33.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 9
+

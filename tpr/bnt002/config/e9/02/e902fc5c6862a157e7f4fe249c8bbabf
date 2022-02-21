@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 4792cbbe040e244f6cf161885d8b0bc3
+install = 47ec27f3a7396eb97232425d72268d1d 4495bf3cc9d83e2a8edf47686ba48ff3
+install-size = 118069 115727
+download = 011ddafdf70188d1ff4b82884457add1 b57da39bca1c9ce51d63935858ba7c81
+download-size = 27894 25676
+size = f4f2403ef1f351155475f43753089883 b70dc50d8c18fe62d42987711ac52181
+size-size = 15192 13067
+encoding = 5d144ff9a3b38e128263357cfd758a00 ffced44509d6d809d8c3cfbe68fbaca2
+encoding-size = 70314 70492
+patch = c3d7c8fe14e720a63953bb36ddff0db7
+patch-size = 18609
+patch-config = 4e185e2f54261916927c722952989e73
+build-num = 12803
+build-name = 12803_1.33.7
+build-branch = 1.33.7
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 10
+

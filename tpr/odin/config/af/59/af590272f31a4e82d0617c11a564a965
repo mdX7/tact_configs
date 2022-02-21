@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = f921cc44696ceb1554d59649cdd4eda4
+install = 6e558ad31edee7456f184d82b795fd5e 5513f1f33d6df60c2cabb491b817c151
+install-size = 6298 5972
+download = eba2138b27e74944cf1661f3905b53fd 56b7d510e9072ec3ec133d64d584e094
+download-size = 1797135 1613462
+size = 7e33336921c76bdc14c1597b3f77e975 9b11644bed4f94a3eddaf9fad2d9c9c4
+size-size = 991620 828755
+encoding = 0ed429d9e8308ccc0b7db6b7082c2633 255fc668aad7f7d195a8747c76269aa9
+encoding-size = 12541 12707
+patch-index = 4a235b9eb21fa6309e43be6ac247af9f 0e947ffb34e9cbf519f3b76c9a73703a
+patch-index-size = 8495 5730
+patch-config = 9cbe63fbdd862568634ae59ed231cbf7
+build-name = magrel_10885062_TUGvk_1_7_dwl_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 4e0a13fad9afa57c00ab85e296fc2a61 f2479f1cc9e9a0ba41010792146ff3f3
+vfs-root-size = 3129719 1268164
+vfs-1 = 4e0a13fad9afa57c00ab85e296fc2a61 f2479f1cc9e9a0ba41010792146ff3f3
+vfs-1-size = 3129719 1268164
+

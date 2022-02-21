@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = f86a08d93df2cb6a98dfb9d9f0e7a04a
+install = 65fd73c10fb832ae9d6d803dd98ac0e2 815bdf823d89e34c6a15881668b93657
+install-size = 6298 5972
+download = 572ff6d78dbeacbb13999fe5a5d18a5c 53a3604a276f058edabdef8a158f7a6b
+download-size = 1797083 1613446
+size = 168c85dca2c8248dbcecd40f27ab4076 95e31aa7913a2c3687d9c3de592d74f4
+size-size = 991594 828958
+encoding = 05f39741ee4ff3e8e1ed483a615f8af3 c29cb33daab356876818231682474c9a
+encoding-size = 12541 12705
+patch-index = 8c9c39ffce1dfcaf947aeeaad80022a3 cec0bd2e54737ddeed09d60a63cffcfb
+patch-index-size = 3198 2640
+patch-config = 9393635ef31f8d2413d76ec19a579fbe
+build-name = live_11001719_WZ316_1_16_C_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 6268a5179ca54973707e3113ffa365bb b5bd291f84f058e75e6378e8a4d2ecb6
+vfs-root-size = 3129811 1268278
+vfs-1 = 6268a5179ca54973707e3113ffa365bb b5bd291f84f058e75e6378e8a4d2ecb6
+vfs-1-size = 3129811 1268278
+

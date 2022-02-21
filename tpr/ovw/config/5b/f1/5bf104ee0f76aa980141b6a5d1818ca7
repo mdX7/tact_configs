@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 982ffb27a5be7ef70a3d3cc9c33c74b2
+install = 3fadde34cc54d903cf7b26f1f9369032 15fd40f2f0214bc82cc84ca236a74fa4
+install-size = 4410 4242
+download = 9184804c2d06c1b4f5fcf6d2ac8f4557 725e3a200b68dd3661e5b93021c70ee3
+download-size = 12512854 11373736
+size = ad0baa05ee36dd5a318b1da2a105322d 31c89a166b397ee157785b70a45bb038
+size-size = 6830241 6305790
+encoding = 8cc8cef726130c3da15753fea8933d0f 35589f3040d314d3235bb5627953bcb0
+encoding-size = 28647485 28026860
+patch = a4b5713eb5383c93bc057134382c7663
+patch-size = 494751
+patch-config = a310483705b5193a74b5dedc1d8606fd
+build-name = prometheus-1_48_0_0-68620-PTR-Live
+build-number = 68620
+build-branch = 1_48_0_0
+build-product = Prometheus
+build-uid = prot
+

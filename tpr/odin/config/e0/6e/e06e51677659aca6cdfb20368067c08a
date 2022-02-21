@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 87e4a4f2efe19d9f86f7b3fa3c50f3cf
+install = b98830bfaa51c5dc5c71b4110a62876c 7f6b96c62fcf226510943d0ac55ad0d9
+install-size = 6069 5743
+download = 54c4b14987e81b9b01a03a204f517cf4 47e519e335eb36b644b72518e340aa23
+download-size = 1528145 1372351
+size = fea3da6541f189618ae1fc10588928e9 7b98d9bc2c161a2d9d3c3253a454575e
+size-size = 843205 703752
+encoding = 49430ad6c78cbcba1b3e95cbb0c593ce ade758f71210d951c4f0d66e63fc9c89
+encoding-size = 12541 12707
+patch-index = 0174c51ba6f8d8557d577dd303c9099e d6b16f435643e63a3de9f830eda38b6e
+patch-index-size = 9645 6084
+patch-config = bcfea7f3fc272f5462e23f8949f42721
+build-name = rel_8662230_TU_V_2_20_DWL_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 12239f06668ec51125f76084b2a69e38 66d7c3383acc79c74517d837aef78a96
+vfs-root-size = 2610133 1060276
+vfs-1 = 12239f06668ec51125f76084b2a69e38 66d7c3383acc79c74517d837aef78a96
+vfs-1-size = 2610133 1060276
+

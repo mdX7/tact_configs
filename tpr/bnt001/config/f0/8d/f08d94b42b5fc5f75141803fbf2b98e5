@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c107c9e13a975c8a09ede7d3a67eb31b
+install = 0e117f9ae1cd89cb698c290f0a587d32 8e433666a499dcfa42a4a50dd7aee9ca
+install-size = 4092 4151
+download = 6957ece6e75ad69428214566babf695c 37aafd89086c8a2919f2d12803ee9375
+download-size = 1098 1189
+size = 0b23e589e31e40e2b6852ffa26793e83 fa6a7a1e6b82c12da622ca4f760aa43f
+size-size = 577 671
+encoding = 2e1982bb9507743fa1e4442919c41e67 ff4375964769152bf182ee5d8923efc8
+encoding-size = 8381 8556
+patch = 5dd47bf32c291b84273a573a5980c53c
+patch-size = 1713
+patch-config = 9b5934741db110a3979b2cdada0ca088
+build-num = 6824
+build-name = 6824-agent-2.18.5
+build-product = Agent
+build-uid = agent
+

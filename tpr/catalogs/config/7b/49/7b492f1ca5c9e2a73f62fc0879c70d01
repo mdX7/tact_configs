@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = d620e4ad550a834147af04ad1e14a672
+build-version = 29
+build-num = 2075
+build-name = d620e4ad550a834147af04ad1e14a672-2075
+build-branch = 2.9.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 190f539e6fca05f5358ad74ee025c3d6
+

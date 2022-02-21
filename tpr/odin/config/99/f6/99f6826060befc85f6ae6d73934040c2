@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = bebc94e472800de9744d28ccd2fcb2b4
+install = 0d315f2946c422ced1ca9c3a712c20ba 88de10714848ed554129aef7a95e3745
+install-size = 6229 5902
+download = b2102247ba0c9fc45b8953bf123acdf0 026d97301510423f20793a6ea0353ff3
+download-size = 1606793 1442946
+size = 1a5e30719b0ccb139e21e558d875e917 4a5f87ada228c4ddb17bcdc7cf2f2453
+size-size = 886597 740419
+encoding = 111fcc9ca1920164a90d8520f481f8c5 44aa7de20b08289fab7b9ba9447b5ff9
+encoding-size = 12541 12706
+patch-index = a35ea69500c79a9872d17250683cc2ae c4c972c0f8c66feaa2bb06e0b116ae03
+patch-index-size = 7705 4833
+patch-config = 7cbcdc77edf3763fae2cf203e534f9ac
+build-name = live_9489393_TUZ_6_17_C_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 0cc5a868507842b10745633e3f9aaf79 7fec3c6272957b60812cfb81c3ca9b99
+vfs-root-size = 2765199 1120965
+vfs-1 = 0cc5a868507842b10745633e3f9aaf79 7fec3c6272957b60812cfb81c3ca9b99
+vfs-1-size = 2765199 1120965
+

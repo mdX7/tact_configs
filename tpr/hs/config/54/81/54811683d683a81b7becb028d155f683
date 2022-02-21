@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 80dec4328315a48675976f42f0e705d2
+install = 4a09e54bb0ac41e677e608be57379ecc 2af1c08c9df154d97a89e8037a5e8368
+install-size = 216796 199378
+download = f321caa522aedb18f362d7387130c769 0e59f4acf45539653daaeb27302bb58c
+download-size = 79044 66493
+size = c6db2b97daeaa29ecbe2c697021559a2 22fc4e518433fb115ad5e19a4a88503a
+size-size = 46478 36256
+encoding = a2eee761853574eda41fdb0352ef1b95 1c84238293efb27956de2d61d041c8be
+encoding-size = 165270 165444
+patch = 8afc6fdd5950e41200026026aeeb196a
+patch-size = 249839
+patch-config = 8b5c770a37f646cda97c1454b66e3671
+build-name = 45310_17.0.0-hse
+build-product = Hearthstone
+build-uid = hse
+

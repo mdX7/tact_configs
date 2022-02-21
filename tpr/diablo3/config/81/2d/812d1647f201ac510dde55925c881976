@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 70549d47f2c010863b88cda1ef99b977
+install = 11f68b1040142064c67796309f14b62c 70a3d6544bfa01064e1743a0b5ceaaab
+install-size = 40307 39314
+download = 58808500ed5ba1d8dda0f60e596b05b0 418a7ba9ad41d0476117abc0055de329
+download-size = 7863426 7310400
+size = fc61e9ec7799446cf9396b0db52bff98 159bd33122552f42b5b0c0a73226562b
+size-size = 4212609 3912169
+encoding = 045df7ad152064e6183b48967263d828 dc610748b4713261bb42855f17eceab6
+encoding-size = 17948757 17948899
+patch = 6561a43d216496941d52c885cdcd6e77
+patch-size = 422439
+patch-config = 05df3b9c88c29132aebb5e89a1eb8a5a
+build-product = Diablo3
+build-name = 77744_Win32_2_7_1a_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = klamb
+build-comments = 2.7.1a RC1
+build-branch = 2_7_1a
+

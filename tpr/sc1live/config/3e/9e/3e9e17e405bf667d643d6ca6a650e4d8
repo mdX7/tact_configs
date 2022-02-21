@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4e0f082c0a63ec8fd081e97c63bc29d6
+install = 568b1342c84fde35ee3046713649f5cb f194f81fbbc28386df450888975c5727
+install-size = 100990 96780
+download = fa0190af1ad60a3e4c27263d01f6b084 ab4c1432de4f52b1c2f4958c19f5f7a7
+download-size = 1264768 1120282
+size = 64fe5155a1e58e45214fb05652de9b35 0a6a68d2af82072b8bed7abc7e3d557d
+size-size = 705143 615486
+encoding = 0961edb923ab7b37c5a8a97f5b72c9eb e38e5976701426ccdf876ff0703162c2
+encoding-size = 2757663 2757834
+build-name = 1.23.5.8668-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.5 HF4 RC1
+build-playbuild-installer = ngdptool_casc2
+

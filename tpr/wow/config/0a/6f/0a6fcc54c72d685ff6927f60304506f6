@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 98fa4e4effb00e9a3bef0d392abed8a4
+install = 2964a94d84fe06b03d3da16cfbe955fc a436487026bbf9b5995219019b75de03
+install-size = 15922 15555
+download = ead93e7b95649f64490cd4ef3d1c5f57 4a9c700a62cfda1bc7cecf5333c160ac
+download-size = 6113082 5528730
+size = 9adda6b72db297f8c40c338b34ea2bff ef72153f3c928ac8b760edfb34fe745e
+size-size = 3248457 2879125
+encoding = d95c62913b98442731234ef2000c1370 8104f7475ef2bbf8a9b6cf322a7025ce
+encoding-size = 13084283 13082540
+build-name = WOW-39605patch1.13.7_ClassicPTR
+build-uid = wow_classic_era_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

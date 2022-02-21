@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a68be3b60e2d12cae75091a6594ad62e
+install = eaa1c7a15e6a7253e3a2f89825c7fa61 a1fcf4aebbfabecc6a03d620c359ee3f
+install-size = 5868 5574
+download = 82e95fb28818d66acf87ab5aeaf675f3 5c6f4a7ab3b81fa401d6396eba4c6329
+download-size = 204494 185094
+size = eb0ab40f1b6edf59a210f0f1c7df1d96 27dc64f4f3dd959c4730b3588b2c94a8
+size-size = 112523 96677
+encoding = ea24ba8e6fcf50d345e4307b188611fc 34e751562c1c7aabbe7d7ccc7c82797e
+encoding-size = 12538 12706
+patch-index = fd7a609db615babef790b9b44f62d2df e660cb524e942e3a13dcd7de6e0b348e
+patch-index-size = 9199 5854
+patch-config = 7ed3a25d5a59e9245e6b4f79c08fa1ae
+build-name = s4rel_10985554_tu12_charlie_s4_signed_fc_ship
+build-product = forec
+vfs-root = 4f00a0e8a677754c174a6bce7cf908a7 f9fcdbaca09042c7fb920f7ec358d231
+vfs-root-size = 370477 159874
+vfs-1 = 4f00a0e8a677754c174a6bce7cf908a7 f9fcdbaca09042c7fb920f7ec358d231
+vfs-1-size = 370477 159874
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 595b35e2d3191dd9953ffbde6f30a8d6
+install = c768228a09dfd193e0ae686441f6332f aced186d97c9840b7d44c3b5fc754996
+install-size = 234589 229959
+download = eff738f90475cee346ffae136acd427a 485cef5c3a5732114428955b6a08cbb8
+download-size = 30670 28235
+size = a00d8257ab6586b5a7a10a7e196506c2 e02d55c92ad1f8405c7ed99241d4eb3f
+size-size = 16694 14367
+encoding = 3f42f1585b2e02823b2346797a985974 3408ed77a9796fc8a6d1fa6eda0bcef6
+encoding-size = 74442 74619
+patch = 9afcc73fdb4425b340cc9a53da8fb299
+patch-size = 23781
+patch-config = 7413401d165c3aca4a851483b497c58a
+build-num = 12422
+build-name = 12422_1.27.0-beta
+build-branch = 1.27.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 8
+

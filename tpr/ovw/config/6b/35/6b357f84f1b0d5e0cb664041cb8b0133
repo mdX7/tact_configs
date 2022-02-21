@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 3a943be504f1803c79ddc41e7a76a4b0
+install = ac96467598a169287f912912d77f039f 36cc47f3592cc76de50a7daf4ff09dfd
+install-size = 4391 4238
+download = c008a574a8b98f119352c2044c4727a9 0ab739d2183df26f9221d7b36f7dcef2
+download-size = 22538162 20655871
+size = d80131cf54d1a710818a0a6a26b83ae9 c53702f097281dbbb23e4a0fda076da8
+size-size = 12257670 11058865
+encoding = a7dfe5bb812baeb1cf63da8313fa81a4 18e460fac668d86508fcf82bf52f5fb1
+encoding-size = 60600764 51636907
+build-name = prometheus-1_41_0_4_W-63521-PROMS
+build-number = 63521
+build-branch = 1_41_0_4_W
+build-product = Prometheus
+build-uid = proms
+

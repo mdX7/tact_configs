@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = b9725ffbadbdeb791405115b85560dbd
+install = f6a5c9fcc5619716d7d24084863df744 6e18cdf352a96ba79d60f82350a3b287
+install-size = 93851 90268
+download = d8dbf563ccf48aff00928528cded521f 968300fc904337f8b7b21cf1c083dc18
+download-size = 1187482 1061396
+size = 5d522741769d4b935eefce4098c2a0e2 06a8f7a3c639f0371bab008967ede886
+size-size = 657549 584572
+encoding = f6fb2235bd433a7757906293d6de08f2 a2abdf3e63991ef503a968ee18b6f777
+encoding-size = 2609055 2609223
+build-name = 1.22.1.4843-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.22.1 HF 3 RC 2 (cert fix, BlizzCon console changes)
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 06547b4248ca2559d515b925e0f9b59a
+install = 3294aeeafbd21fd73dcd4001b9a9ae13 28258db77520a9c24bf378bbaaad1400
+install-size = 4094 4153
+download = 4db4625fbadc7c38101c9b443b0f5134 9fbffa5c1bc91946bd10d50b6c348220
+download-size = 1093 1184
+encoding = 16f5c65b940fffcb94d175188b6751d2 0839b3317e50fc5f8da4c6a30a2d1162
+encoding-size = 8360 8546
+patch = 4394ea67fcb6199912d5e07bbc5451c3
+patch-size = 2353
+patch-config = e66312ede2533ca508181f9bd216f5da
+build-num = 6326
+build-name = 6326-agent-2.15.1-hotfix
+build-product = Agent
+build-uid = agent
+

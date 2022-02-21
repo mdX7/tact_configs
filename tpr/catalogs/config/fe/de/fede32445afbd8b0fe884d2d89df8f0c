@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 4b8619c215ef37f003896ed4be07e8a7
+build-version = 29
+build-num = 2016
+build-name = 4b8619c215ef37f003896ed4be07e8a7-2016
+build-branch = 2.5.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 266d556f219fd1eba32f5c7c1849cf3f
+

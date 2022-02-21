@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6e603caae9c547e4862c9fce140f00f2
+install = 9e04ce6bb18ac8672f953f314ab05dd0 e37be81be2a4e3e0484bc64a670d8383
+install-size = 4014 4074
+download = 3af4031ea635ae84fbb3466c0bdead83 a5fe0c8c8bba87dbbf9ff0e59a4ff8b3
+download-size = 1072 1163
+size = b37749c4f934817b59af65b869be9a9f 4aa8aa37c0389dfaae6959e10f78a1b9
+size-size = 564 658
+encoding = 6d8290666acfbe1506904fca73d87a9c 9b3606dc91763800168b0cbac99e5449
+encoding-size = 8381 8556
+patch = e38da1f8edd0c6ac032278dfef32bb42
+patch-size = 2161
+patch-config = 13763acc135fa8b294908296b4b1d974
+build-num = 6891
+build-name = 6891-agent-2.19.0
+build-product = Agent
+build-uid = agent
+

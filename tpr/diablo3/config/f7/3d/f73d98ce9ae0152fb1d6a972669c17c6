@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = fd5624964d36cde38129de94d3a8be60
+install = 448e71957bd52d0e21d2a31d767db978 235c057759920b6b6a11103a983797cc
+install-size = 40307 39314
+download = 874b13d1ed2dc7178d0cfa1009c7d1a4 e91f172cf73e80e0b20a4ac5bd7c647c
+download-size = 18473780 17177599
+size = c67801cb6aecfedbff13884dbc8ba8c5 72020917d29ad7e7f3fc9aabf1f0c35c
+size-size = 9896730 9548731
+encoding = 62e02af15dd8b352dbfc7bfd872c0150 e53094e459c3b7b283250641aa3d9880
+encoding-size = 42167739 42167880
+build-product = Diablo3
+build-name = 71254_Win32_2_6_10_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = klamb
+build-comments = 2.6.10 RC 1 (try #3)
+build-branch = 2_6_10
+

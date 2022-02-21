@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = c0656ded446235709c353a6917488c0b
+install = 7df643db43792130ad69c83141acef68 007d1518e8eb8b2bb47f75867076246e
+install-size = 229941 225352
+download = 75ae3d7570b281e035f4bf2fde64f04f 001c9a17793bbd72e1089537829e657d
+download-size = 28601 26327
+size = 862efdf93ca01f680e5f3f141983c7a5 7f454f9e1788bc74ee5e5e683507f877
+size-size = 15574 13390
+encoding = 7512ad1dbb162a45e36e0531f576d2c1 6f22564893e3397dd7f4ee2e258d4d07
+encoding-size = 70314 70492
+patch = f52881679759ab2ec43405af1821497c
+patch-size = 14945
+patch-config = b4b7f1fe083333dc48f2b7c773f32637
+build-num = 11379
+build-name = 11379_1.15.2
+build-branch = 1.15.2
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 4
+

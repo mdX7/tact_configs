@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = e93d81e049d55a89b47fd3d956cc1034
+install = cd48c870e3fa3473c158af49f3c63ba8 e081cab53503540efeeeabb66ffe4fc0
+install-size = 117187 117058
+download = 708ac9410a39f39bae2aec0de885bea2 e35698fab55609b75abe34bae063f20a
+download-size = 41955 41852
+size = 7ba60ffcd5a4ad3653206d46caa37905 7a8c5069243cb84cb403196a0c61eb09
+size-size = 21089 20986
+encoding = 8ba4a2f1b1cd1c7b08bb0da1da71e81f 2a002623cde55b95822985e643a899bd
+encoding-size = 107469 107646
+patch = 49849381ca18d3f652bf3b6ff27321c3
+patch-size = 2309
+patch-config = 3b2e47f14f00850fd9a2e8c439e37b60
+build-name = RETRO_PC_032221
+build-product = rtro
+

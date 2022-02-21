@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 8ea4ed592312811d1a94133437c11333
+install = 0276eb6c158adecfb8cd6b2e8f74a3a7 0ad07deb53be8c2da7149ffe2a609ed1
+install-size = 5868 5574
+download = 240d417482b51ef0962c5845e7c5a909 8f62b77249ab5d838ac3dd7e2f0a4c1e
+download-size = 185887 168313
+size = 4b92301843e2cdab0783f45d3d59790e af80b74dce0b87181065c1473db8a857
+size-size = 102288 88115
+encoding = c98039d9b506874fa14feb1a2f15fdbc 4ffe0253196a0b9f568b0e5de9ef64a1
+encoding-size = 12538 12704
+patch-index = 3d2ac2326e37af471eff6c072af9c01c d5ee021062f561900fd2fcd93e864b27
+patch-index-size = 6171 4538
+patch-config = 836f7d1e2f53d44a81a1f8ce17233838
+build-name = s4cert_10918628_tu11_bri_s4_signed_r_ship
+build-product = fore
+vfs-root = f644f8f306c5f5efe04f448d234ff754 50c7b707739655f60771f07feb015dc2
+vfs-root-size = 334423 145258
+vfs-1 = f644f8f306c5f5efe04f448d234ff754 50c7b707739655f60771f07feb015dc2
+vfs-1-size = 334423 145258
+

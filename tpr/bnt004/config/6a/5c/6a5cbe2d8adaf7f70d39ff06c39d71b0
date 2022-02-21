@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 410e9d2c7b39ee1f852c16fbcd81a939
+install = 9259977353f689e9c1db947485709376 f43f21e35dbaf87349e8b0df10205018
+install-size = 76 143
+download = 4ab0d3c072635dff5adfdde1a3d87aba 0a6f1f1830ed2b34f6cb63a4a1d32ae3
+download-size = 112 206
+size = 2ae0621e133ab3a0a99196903bdcdbd6 49f3d2dbf43dba6a7b3602b73d8c95ca
+size-size = 72 166
+encoding = 1234c7d7f9a92b6b15c0d6e2775c129d 7d3f8046bed306c371abb8731ada60bc
+encoding-size = 8377 8551
+build-num = 3074
+build-name = 3074_wlby
+build-product = Bootstrapper
+build-uid = bts
+

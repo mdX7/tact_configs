@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b3496423af2fc78235031a41caddaa6c
+install = 0a33ec9876ee25eedc0f741d0f70f829 315cd2fb9908f9450ba0b0353503e6dc
+install-size = 115898 113574
+download = 2ac41e33c059360aff1cce3ed1cbf976 596fcd723dd699837f848dfa36545ca4
+download-size = 27622 25438
+size = 9377e2b32b13dc9f7e46f6675e27bac6 66460f4603c7c8976d079e4c0e472aba
+size-size = 15037 12942
+encoding = 34030b83e8829d95d44f7004cc5f581d b3ed94e0568ad23e5773681279d7534a
+encoding-size = 66186 66365
+patch = 90cc000bd55ab3c9ff2fb31522841db2
+patch-size = 13841
+patch-config = c1536fc86e2b4d818b56afa738ca5fd9
+build-num = 11740
+build-name = 11740_1.18.1
+build-branch = 1.18.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 5
+

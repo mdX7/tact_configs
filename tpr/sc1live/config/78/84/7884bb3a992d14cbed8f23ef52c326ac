@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d5b870c6e261487f22aec5d5b4cb2bfa
+install = f78a7d0a4abae72672f6e1d18107dd69 2c1c05639fb759b75c31da79346ff3bd
+install-size = 118278 113675
+download = 3e4fdf187efb12564c769b6edd40fbbb 7de0495977af1fa7bd01955997634934
+download-size = 1264455 1120499
+size = 5ac23b064dfb8eb376914ebba4afbb0c 3277cb2ed259a856db2be33f9bcdebcc
+size-size = 704973 614569
+encoding = 1e551c916838e78578928a3b36fd1f9a 9d352b9abb58d6e5cfa57aa8d461465e
+encoding-size = 2757664 2757835
+build-name = 1.23.2.6926-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.2 MP5 RC2 | Fix for OPS-211943 (chat text scroll bug) | Fix for SC-18310 (chat copy text)
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 908a0c56df69d4867824a6334ae52fd2
+install = d64de41824f4fdde34fe16847e5625a9 a81c7a647b5a11a02c8b44f1ed377eb1
+install-size = 4092 4150
+download = dad6032f25789b33a304e000f228c412 9f30ffb4bc53c459707e27a6a22da94e
+download-size = 1098 1188
+size = 643ad55c1b9db805cc0189675c389b48 678fecc7af076aee4c5c13843ba1b875
+size-size = 577 671
+encoding = 37799f13b36603e0fa32e875b7d5cf4b 376f991dbd9cd41b4cfb1c3034d0710d
+encoding-size = 8381 8556
+patch = 2d3808b7cfaa403f4602866e3cfa011b
+patch-size = 2097
+patch-config = 7b468ac5715c808fe1f194fb91111aa4
+build-num = 6732
+build-name = 6732-agent-2.17.3
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = bdd520070bdabd05060a2d969d99741e
+build-version = 29
+build-num = 1838
+build-name = bdd520070bdabd05060a2d969d99741e-1838
+build-branch = 1.28.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dc601c7ac9c92293e4ed815578ca7235
+

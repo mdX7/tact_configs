@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 1a98fee7e8f44629ff478b56d56fb52e
+install = 8237e704471778fd2cfade43b6f5a273 7c1d05ace326a30c692f10391eae6b04
+install-size = 234589 229959
+download = 89dc2c83bfb72c57133a4cacbce87e10 45724eae5673d529e72054408739350b
+download-size = 30670 28235
+size = 749b1b50295aac133f8e82c471de6ef8 765e8eea8893140f1fd1700da6d27249
+size-size = 16694 14367
+encoding = 5cfe89dda97eaacecc3b9ed9cc24d928 094a8819b92a6074bd378256bcf4dcb9
+encoding-size = 74442 74619
+patch = 43b909a475b2d8ea48c626086099186f
+patch-size = 23865
+patch-config = ac2cf0b70c63efcafec894a102f1abb5
+build-num = 12429
+build-name = 12429_1.27.1-beta
+build-branch = 1.27.1-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 8
+

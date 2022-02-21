@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 73e277b9c052a87de56c8386bd4e6e8e
+install = 8cc0f7afed4a0bd2039b5a450fe74dfb ca01aadd45179082dbd37522ed83dda0
+install-size = 4014 4072
+download = 31c8cc771d06fc93fa3288ccc77ebc86 97e38a5f09a8ce409d8498e8363d5adb
+download-size = 1072 1162
+size = 75040ccc988de710b6ee4765ed4089fb e05ed20eaef0cdd4df648b2dc71a5988
+size-size = 564 658
+encoding = 7557764a1040e2d0387a8ff3169d4e97 f4a780284d313c4b412dbf04adeef583
+encoding-size = 8381 8556
+patch = 7ddbab1ff9e8ee61cf3fd4bd27e8e549
+patch-size = 2033
+patch-config = 9ebe85fe6f00dea163f1e0b5e8b7ae6a
+build-num = 6926
+build-name = 6926-agent-2.19.3
+build-product = Agent
+build-uid = agent
+

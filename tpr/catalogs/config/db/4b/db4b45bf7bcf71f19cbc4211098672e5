@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 6e59eae80bb5a717b3c23bf93dec3dd1
+build-version = 29
+build-num = 1740
+build-name = 6e59eae80bb5a717b3c23bf93dec3dd1-1740
+build-branch = 1.21.2
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 8f58794ca5b9b6a586cbc8b1b48fd856
+

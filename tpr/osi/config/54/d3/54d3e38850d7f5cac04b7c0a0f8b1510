@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 66e1849bf138fd2e504b46bab5389e1a
+install = 0b48e4272771d2090d7a0548a2850703 6cc291fc17f5529ca1e8e7d6940a4d8e
+install-size = 315 341
+download = 1a44ad0df58386a21517de507e60b799 ecfcb712d13de782c74848856a15332f
+download-size = 4653710 4302886
+size = d70e3bfeb60e63de1b3d68c26b20cebe 5d636c8311a007dbfbdc93653075dade
+size-size = 2502729 2251672
+encoding = 0dce716afd00d6c21094676268e0d77d 27113e8033fa53fdb6e8167e23efcc17
+encoding-size = 10580238 10580399
+patch = 1920da4d75a1d4329ace88367373794e
+patch-size = 366645
+patch-config = d0a8f49922f2ab624181d56edd022533
+build-name = 67554
+build-uid = osi
+build-product = Fenway
+build-comments = Release 2.3.1 11.45 12/13 Locs for fraud review
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 0ac07e4757d0f8d8a3cf67027d24a24d20abf807
+build-source-branch = release_2_3_0
+build-changelist = 207787
+build-stream = //diablo2_stream/release_2_3_0
+build-has-data = True
+build-target-platform = win
+vfs-root = a017637152522f689ab4f3479628d6ed 47ad1b49b01700d009dc2ad866c20bb9
+vfs-root-size = 818 801
+vfs-1 = a017637152522f689ab4f3479628d6ed 47ad1b49b01700d009dc2ad866c20bb9
+vfs-1-size = 818 801
+vfs-2 = bc49940e6f51c305e706db269c97d8a8 2cb292fafd3054b0d5d780364acfe505
+vfs-2-size = 11442084 7383302
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = e40e88f9258afa5b6cf0240eed471a3c
+install = e29a0d694afeeed1a473e138a9b8a3d4 bb056bb0bfdb966086f8f2691b6975fa
+install-size = 6298 5972
+download = 91c225ad4dd8b57d89211c2f3d2c07f3 9c0b67f113864bd16155c67cc081f2ec
+download-size = 1792985 1609850
+size = e9834fd395b977b5d20d2166cd30dd5c 8aacda04f17de93a8f1b99c993421896
+size-size = 989329 826772
+encoding = f524ed9685e38f5507c77b2be09348dc c7aa6715a20372bae842db724ecf8466
+encoding-size = 12541 12707
+patch-index = 42a82cf72832c60143216ebf9e8d2c7d 7f0099cb9e1745e13d34c49a0f426aaf
+patch-index-size = 4784 3434
+patch-config = da30fdb0c148802d785b7587a575ff63
+build-name = magrel_10805884_1210_etuFvk_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = dc7c069004a4ef5d5653a96c096cbb71 fca7610fdf45a98734c3d784c56ecf7b
+vfs-root-size = 3122807 1265612
+vfs-1 = dc7c069004a4ef5d5653a96c096cbb71 fca7610fdf45a98734c3d784c56ecf7b
+vfs-1-size = 3122807 1265612
+

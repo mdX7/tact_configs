@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = eef962b24f7b475a206bf2e8cd773193
+install = b898429563a1f2456ff6c8ce2759525b 5628a557751330f24d32026eb58a2aec
+install-size = 4014 4072
+download = d0e4179125d395838babe0a848c5624f 3d5dcbb0416dd2d567aa006d61617f67
+download-size = 1072 1162
+size = ea7c7f0df5c86853ebfd7611fae0cf1c 9ba8aab5eed6f03a954504d5e3be1471
+size-size = 564 658
+encoding = 8e2168b8575078339273807f1069041b 3882087357d88657ab39f5c16325960f
+encoding-size = 8381 8556
+build-num = 7117
+build-name = 7117-agent-2.21.1
+build-product = Agent
+build-uid = agent
+

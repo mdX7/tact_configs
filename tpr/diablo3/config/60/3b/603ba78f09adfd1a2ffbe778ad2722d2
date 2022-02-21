@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 35baecdc55e22b18fcae75ece1a0c28d
+install = 297e833fdb38d9049abc758bf53842c5 782c99e139431d3f69075c16d1519786
+install-size = 40835 39842
+download = e0941ec5201a29f1beb790c76523b204 5c00ab4997bef35ebf2dbbd786ae3bee
+download-size = 18493664 17196066
+size = b44a90264cec5c25a948ad1df77960da 6f3ccc632e59a672d28ff83a730c6665
+size-size = 9907384 9556684
+encoding = 59edff3129b9b851c2f1c4813dffa757 c6f689a15ba2dd121790ef91aeeb1a18
+encoding-size = 42213147 42213290
+patch = 7d67ca59a231222e32e68a4f4be3023b
+patch-size = 451167
+patch-config = 1d4073834e395091e7a8c5fddea4d207
+build-product = Diablo3
+build-name = 77218_Win32_2_7_1a_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = klamb
+build-comments = RC for FMOD bug PTR
+build-branch = 2_7_1a
+

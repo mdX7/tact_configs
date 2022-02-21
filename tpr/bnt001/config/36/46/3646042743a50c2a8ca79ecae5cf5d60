@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = af9c9d6a3bc730d21ee829a73545ec54
+install = 59ebc2e449de76af3edcb1e37e772b6a 539f0dcc58a9841c1f30625bfa8e7322
+install-size = 4014 4072
+download = 4f2af147d8a03a26b81df245f2b6df9e c1ff4110c9712610a5568f106b48dfa5
+download-size = 1072 1162
+size = 67a98154aa826a3c4a8867206c6d7bdb a612a4bbe660a4d020983cb975007acf
+size-size = 564 658
+encoding = 2a1963753b0b9264cb49a6e066742d32 b9a232f247b487898702de6a2b5a753a
+encoding-size = 8381 8556
+build-num = 7037
+build-name = 7037-agent-2.19.6
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 0ab7c10a4af46ff17ea6d0de9a875c71
+install = ee3e3d2b8e857d8239b444c4e1db05d5 7d06c63ae031d6e38f58233904380cc6
+install-size = 229997 225408
+download = f991f82306aebe0ab90ecb012406b2c1 650fa62248b15d3f34ae4844dddd8dd0
+download-size = 28731 26458
+size = e315cefa4355f4e21dbeff8e2d776bf8 95b261d6ba0625814fc4c32398326b1e
+size-size = 15639 13457
+encoding = 56054816e5c3f43f4b3d422c223cc508 ea46c67bc5f5652e344d851b2653b6af
+encoding-size = 70314 70492
+patch = 2a05f5d43301019cb08a34e15522acc8
+patch-size = 13935
+patch-config = c5d64eac82fd6307b4e200768aa678df
+build-num = 10510
+build-name = 10510_1.12.3-beta
+build-branch = 1.12.3-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 1
+

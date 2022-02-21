@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = cafb6847a6ecc8175802ff0275321679
+install = 849255b024043eb57a2591dacaff5fec a473ea45df8df1c6992404db7eea7073
+install-size = 280 306
+download = a6f10d6aeffd3e9a5c0eaf2391c5acde f50491d53871f6bb5106dc32128d9ae7
+download-size = 4653286 4302486
+size = 6b84ac7be78457b427d74f7bca90b11c 5cd3ac0d4f725bf8835785bbfcc751f7
+size-size = 2502500 2251485
+encoding = 5ff06ec0a221a021d6af579af111cc6f c8c67d12622b2cd050fa66420ae5b5d7
+encoding-size = 10580238 10580398
+patch = f7617efc10c4ee3a0131e0d6aece1c9e
+patch-size = 340555
+patch-config = 4157715cedf928af387c0d2e34193c27
+build-name = 66878
+build-uid = osi
+build-product = Fenway
+build-comments = Release 2.2.7 16.53 11/3
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = aea074483637cdbf1d104ef2d005025d3567dad4
+build-source-branch = release_2_2
+build-changelist = 207055
+build-stream = //diablo2_stream/release_2_2
+build-has-data = True
+build-target-platform = win
+vfs-root = 2c6ce13f8ed2dd0c619e63ebbfb30230 b46750d5d565e447fdc044cfc64ec1ff
+vfs-root-size = 698 687
+vfs-1 = 2c6ce13f8ed2dd0c619e63ebbfb30230 b46750d5d565e447fdc044cfc64ec1ff
+vfs-1-size = 698 687
+vfs-2 = de78fc2e17dcb9e1b98ef5d735e9eba4 d6ba47ece77d85bfa28dd224dde41b4d
+vfs-2-size = 11424681 7366398
+

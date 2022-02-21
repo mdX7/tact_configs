@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = d901b0bd8f8371b01ba5e40f42b2cd96
+install = e7233277844dfea7bf47547fe6e8b065 67da5a5a8bcb512efc499d53fdcf015e
+install-size = 73 140
+download = 7eb61c3b43587608725e7d0f68031bb3 4349a5e317fcb2197866d0b82dfa76d9
+download-size = 112 206
+size = 3198bb651ef3da4836647451e8b2a957 5e1a910883421cfc97aea3cce2634324
+size-size = 72 166
+encoding = bdddb8bde74a698672b9feb3abc781b2 c6f5215ef60d4f5074c68b3167145528
+encoding-size = 8377 8551
+build-num = 3010
+build-name = 3010_odin
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = a02e424594955bb8b2a81ffcab75032f
+install = dd4c1865aaa96f3aea77f97787ebc981 c4d1f7d0a23c8d4cd64936d35021c0ee
+install-size = 402656 359014
+download = ca4ba63d337f28bcf0322768954d3fda c417ff700211c3a5c9d98fcf48e6a580
+download-size = 150945 116794
+size = 427ca4a1d772ce6d027d0c0db54c1a7f 6d443f6f4283110df870d5ccb46508ac
+size-size = 93458 65236
+encoding = 387d18907fa68cee4759af18972fb578 8c42ad7dc936347c3194a9e5dd297cd6
+encoding-size = 289114 289286
+patch = 5024ae1d1de03b72311ed42778dee9bc
+patch-size = 355675
+patch-config = f20d8aac4d8f614d48cd903aedc87fe7
+build-name = 88998_21.0.0-hse
+build-product = Hearthstone
+build-uid = hse
+

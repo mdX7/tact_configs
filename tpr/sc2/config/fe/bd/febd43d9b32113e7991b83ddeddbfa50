@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 69493afab5c7b45ddb2f3442fd60f0cf
+install = 7b01cb5b19755ab3e0e19fb0723792ec 2f394b67166a2f8d5782d68503471554
+install-size = 59065 57229
+download = 93046a16889967342b9579f1930a95f9 3c1a3cc2cb3d9059786e820fcfb73261
+download-size = 17352152 15578507
+size = c4ee30b9c7b40e4e8051dfa224bdf279 56d0fca0790700dd0f4103beddf31d6f
+size-size = 9573679 8575368
+encoding = a2900de3aa57186d7cd246747917bdd1 b7e4d95d801ed23927de2692f078dc27
+encoding-size = 45470692 45325500
+patch = f1ed6fd989c4402ae47fe84816a369c0
+patch-size = 103115
+patch-config = 76d00192ad4bed0d915d0827d154bfb4
+build-name = B78285
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = 21d2ebd5c79decb3642214bad4a7ef56
+build-replay-hash = cab5c056edbda415c552074bf363cc85
+

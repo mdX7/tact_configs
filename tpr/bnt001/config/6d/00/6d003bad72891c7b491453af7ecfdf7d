@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 5613a7709650e2414fa9c1dafd78c3ab
+install = 8624fc98890d85e824d9f69d9d67b1ec 9adfa3f09e79b6569ea865ad6adc6287
+install-size = 4014 4072
+download = c1d01418c0a47f2edd3bbd51f03a8c37 9306f58bc437fab33ef782e63f00a972
+download-size = 1072 1162
+size = db078d4952cc0e2a1223add7bd51a90f 4badc3042e10b26ad2ea5dfa16a54fd3
+size-size = 564 658
+encoding = 2616ad97873a7a846e2056f95e9bb5c0 b87d79ca719f0de5e7a4d383b029f67c
+encoding-size = 8381 8556
+patch = 732ab2a66d77bd5e7c4c64bd2ebab1ad
+patch-size = 1969
+patch-config = e87f6138671e79353df72b83e3ade7c2
+build-num = 7022
+build-name = 7022-agent-2.19.5
+build-product = Agent
+build-uid = agent
+

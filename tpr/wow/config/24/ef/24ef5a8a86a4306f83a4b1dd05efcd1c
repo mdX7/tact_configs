@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c17e0902a35eeeb7e1204608c8fc58a9
+install = adb4ed3db302f8d7c5feaf3c5f1258aa b5338a39d0b3dfe81414b737d34d95f5
+install-size = 17787 17257
+download = 259645765155dba9a24577fb7cb76d32 fbead3acd7c5c9dcc8bc56f77e2d6255
+download-size = 6211912 5549186
+size = 1f76109a6a9f3a0bc25d8e59dc09f2a7 e0e0b7be6bdcfa0145b9f3d3eaf56a18
+size-size = 3337081 2892234
+encoding = 7494e7d847bdf2fe88c1e85d3d60e437 77bd46cf685e17fc046a70c42434002f
+encoding-size = 13129520 13127925
+patch = ec3bfd4849555b645be5836c4f61a9e2
+patch-size = 2091763
+patch-config = 269c54094e03328f9a52f96695be7706
+build-name = WOW-40800patch1.14.1_Submission
+build-uid = wowz
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

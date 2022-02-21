@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 10fd569b2425993924a1cb15bed7460b
+install = 76b2e1ac3b7be279827a6622dc74fee8 2b404a0260f3ef9a20af1c5ad267db1f
+install-size = 4709 4771
+download = 98acc81bd95319cc89ac7a23a384285a e14bc9f6bbf5101162649861c8366221
+download-size = 1424 1512
+size = f7c845b66987562d367dd123cfdb2882 d4f8e6e0023d2439438d0cfa4ae89e0a
+size-size = 734 823
+encoding = d0ecb1479a09f3fb1febcf00fb638875 deaeb79cc49e23799dcdff22c37f7225
+encoding-size = 8381 8555
+build-num = 3086
+build-name = 3086_wow
+build-product = Bootstrapper
+build-uid = bts
+

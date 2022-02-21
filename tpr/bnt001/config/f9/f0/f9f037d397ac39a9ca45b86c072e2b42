@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 21a4e9856e4eca1ad027b0daf6acef57
+install = 73dc84659d634183e0b2e3b478ef763e aaf0203abd13254a278c02e81a306f1f
+install-size = 4014 4073
+download = 54bd5572cc383b654d70716fb1310024 e751d404a9cd34b0bcb394cf14bf71d3
+download-size = 1072 1163
+size = edec21d364ca110ace9d7881a9d63576 849183e810827f04dd50c31b3edbdfbf
+size-size = 564 658
+encoding = 299aef6ea747406954e1032f0fc1a164 44f5a5b09ecfa7740431b3e54290e04e
+encoding-size = 8381 8556
+patch = 504504b7fd0954282978e1bd67984c30
+patch-size = 1969
+patch-config = 97a1a23b8ef6f1304c7861f4ad2d8c4f
+build-num = 7093
+build-name = 7093-agent-2.20.1
+build-product = Agent
+build-uid = agent
+

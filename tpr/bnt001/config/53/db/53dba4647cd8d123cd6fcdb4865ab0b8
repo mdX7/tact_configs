@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8ed91fcdc861a102711b4fac3014824a
+install = 541cc65c36e3be3c0ab0c50b2ad0d7ff de2455cdcadcae77a812b59885c2c3a5
+install-size = 4014 4073
+download = c48f92e6f09e6121feec5ac1a09c1561 8e32100f096b21a22ad02082e0f515ff
+download-size = 1072 1163
+size = ce2c059ba552b57d4a837d70882bc359 0ba755a9629f857493be3f0c5467eeda
+size-size = 564 658
+encoding = 3c8e2dddf4a3e7ee3a2c8302aa064e6f d46ff01eb2b67877d8e6b231b15052d6
+encoding-size = 8381 8556
+patch = 6cff07f793d3c7c0559b73b7ea073247
+patch-size = 1649
+patch-config = 2fa87617b56e1771698f79a27eda1e65
+build-num = 7525
+build-name = 7525-agent-2.25.0
+build-product = Agent
+build-uid = agent
+

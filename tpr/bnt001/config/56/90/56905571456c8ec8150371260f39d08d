@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 7c30a7b5f73ad6227a04d357bc18e887
+install = 227b3947947a59d1e0ea9d1053289bdc 695269c63bda870031666a2a05fd11fd
+install-size = 4014 4074
+download = b90debf5898e00ae5bee9583bbef4d19 405d9118a65966150e9e8d7e6c2d4eeb
+download-size = 1072 1163
+size = a4a94483b6091423839ec835e295db63 20ffdd0dd60d85d7fd58318e8d7fed07
+size-size = 564 658
+encoding = 38c3aa4c954e2a0629d27362af28c83b 74de7d178257146feb0c2102ee514cf8
+encoding-size = 8381 8556
+patch = 63e921505dc407a0347bc8d3e0394ed2
+patch-size = 1649
+patch-config = 74e1c992a98de3af0a5495220b632501
+build-num = 7531
+build-name = 7531-agent-2.25.1
+build-product = Agent
+build-uid = agent
+

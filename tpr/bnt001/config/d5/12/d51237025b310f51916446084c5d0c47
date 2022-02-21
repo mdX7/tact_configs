@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 02c0363dd63ed2ac228892d365c540c0
+install = 9c3ce0302867f2e27c9468167aac54ec 188f8b000746349421b9df1221354f32
+install-size = 4014 4072
+download = 984773689c0422ebbb5ac9fda173a1e0 a184ac4fa87fbe2f8f8e1f1bc06b886c
+download-size = 1072 1162
+size = e242066dc29816f2ebee1afdd02bb05d 4b1ffc6dadb05f2f31e683b344c9d21f
+size-size = 564 658
+encoding = b165875b90bc64eea3fd9da09ce4bb6c 90c2e3ebd33ca461e11e5ae7add8578c
+encoding-size = 8381 8556
+build-num = 7195
+build-name = 7195-agent-2.22.0
+build-product = Agent
+build-uid = agent
+

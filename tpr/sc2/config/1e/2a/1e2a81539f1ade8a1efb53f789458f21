@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = dc0a1182fb4abbe8e29e3ec13cf46f68
+install = 8030097ad2db0ac8490a112c3d727d2b 12776a7901d252f98adbb879a95f959b
+install-size = 59065 57229
+download = eb9f84d5edee3c845866e172b008ff6a d189de9bb11f7e7ae0adb24a8cff8d1b
+download-size = 17633902 15831622
+size = 62eca9ee8a5ccf54de41b029ea2d4fbd 9b946e1610381e3634fc0f08f7bd63e5
+size-size = 9729134 8725964
+encoding = 777e4d8f9cf5a1531f714c00c9ce06a7 8d5a7ffe597089c688ad5bf045c4d18c
+encoding-size = 46221292 46069574
+patch = 42139765f4a74aacd0be1e13972c0242
+patch-size = 135553
+patch-config = 02ea400749fc5329aefc54183dd33a6f
+build-name = B81102
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = 0c193bd5f63bbab79d798278f8b2548e
+build-replay-hash = 08bb9d4cae25b57160a6e4ad7b8e1a5a
+

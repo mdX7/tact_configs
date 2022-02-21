@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b49976b54b1e75b30168981f8725e584
+install = 5ba206930be736d0861a4ad4c882912c bec200fc70f07b2bcaffff698cb0faf0
+install-size = 118069 115727
+download = 0aafd57d71202ac1a2032d80b9d6abf3 495fc403809f723f667020b757599e7a
+download-size = 27894 25676
+size = e2d548b87c205773dc032b2b3245211f 00c41989c74a778c73396ae4280eddf4
+size-size = 15192 13061
+encoding = 2156cd96d98be4b6c25a53d8e6e9163e 7a8759c4a19050706b9cbee4c2890a52
+encoding-size = 70314 70492
+patch = 617b9d18e4cbc201c9b924e41db6aafe
+patch-size = 15089
+patch-config = 3b273029059468f60dcad75731c106db
+build-num = 12679
+build-name = 12679_1.31.2
+build-branch = 1.31.2
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 8
+

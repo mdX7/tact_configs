@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 6aea348fdb626db7e38c21d55bcd6958
+install = c874ef3eee18b6a907f0ea56652d9e3b c06dc129d697074c8f0ef32d623e9198
+install-size = 7374 7103
+download = ba2211aa754e6fcd425de7dc1b26bfaa ffde73614772003f228b915d7eaf028a
+download-size = 14822980 13527594
+size = 8ebd3aa4e31e081ad56c876e11c55d66 9fdea8e359db4472502779c731fcc55b
+size-size = 8091228 7417942
+encoding = 61dd559d49225f870c44abfae5e387b3 f4b0de6a6487110eea81e698c65ba391
+encoding-size = 36229615 33466260
+build-name = prometheus-1_30_0_1_PWX-52926-PROC-CN
+build-number = 52926
+build-branch = 1_30_0_1_PWX
+build-product = Prometheus
+build-uid = proc_cn
+

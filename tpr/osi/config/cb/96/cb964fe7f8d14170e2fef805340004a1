@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 2d8625b159659f2329fd6925e912c013
+install = e44ea48b529b24c7dea8584b3b95a16a 32bf627052882c5e418b9e4a955e5dbb
+install-size = 280 306
+download = 7e25774be4abbc42fd055c81abff4186 41fb8412e007438f7f7f00426bb6c0d4
+download-size = 4653537 4302725
+size = da160ba3c734a36e7e593e430ace3fbe 53374d2b42d36e97446da990d67558c2
+size-size = 2502634 2251503
+encoding = c5dd4530a47696af1b053b8b86c21ffc 0a8aaf8aec2ed5a237b042ee302ee6f0
+encoding-size = 10580238 10580399
+patch = a6b79517a213760ef45f0ff766fe066e
+patch-size = 297735
+patch-config = 2db06222b26c7ccbfeddaf5844907a81
+build-name = 66578
+build-uid = osi
+build-product = Fenway
+build-comments = Release 2.2 ETU Logon Queue Black Screen Fix Version 2
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = e2833df60acfe672d89974c476ee509e79034a86
+build-source-branch = release_2_2_LogonQueue
+build-changelist = 206593
+build-stream = //diablo2_stream/release_2_2
+build-has-data = True
+build-target-platform = win
+vfs-root = 8d01c3625944c560669aab7528263da5 c03c3ccb6b99fac94e6581cef82e27f7
+vfs-root-size = 698 688
+vfs-1 = 8d01c3625944c560669aab7528263da5 c03c3ccb6b99fac94e6581cef82e27f7
+vfs-1-size = 698 688
+vfs-2 = 127ce8cfe6b64e5a819c0ce1be26f75a 8413aff620ef6d9741f3089fdfa314d0
+vfs-2-size = 11399049 7341627
+

@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 39aed022c0f68d19f00c827acdf6da79
+install = 4b9d6b68a17a2c570e206799716d44bc 0d842d9e7a84213c4faee2cb437d6a79
+install-size = 315 341
+download = a4648cae0dcae379df0a0a6f3495aa38 229bae1f0d7c8918754992c7b33ddb7b
+download-size = 4654134 4303281
+size = 818af0dfc4956ea5793a279e53a411f9 3b1dcb66cfb9ebec70d1a448a3fc90b0
+size-size = 2502958 2251846
+encoding = 05c474c713cae6ae45a963a71d852e83 7c873c4c0a2c312ca37f6ee6ea618ce3
+encoding-size = 10580238 10580399
+patch = f9879b68b0682b65c86d12810a58a685
+patch-size = 343071
+patch-config = 955004821a6a64818b6d2ec917367953
+build-name = 67358
+build-uid = osi
+build-product = Fenway
+build-comments = Release 2.3.0.1 10.10 12/03 Player8 + trap fix + wheel fix + versions - Child
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 4fdef239810f1417d7b637220744c0d108308631
+build-source-branch = release_2_3_0
+build-changelist = 207463
+build-stream = //diablo2_stream/release_2_3_0
+build-has-data = True
+build-target-platform = win
+vfs-root = 10c9403c1921fc3a34d36a62386dc7e0 e38f62bea26674f1d96da8cd84457c75
+vfs-root-size = 791 773
+vfs-1 = 10c9403c1921fc3a34d36a62386dc7e0 e38f62bea26674f1d96da8cd84457c75
+vfs-1-size = 791 773
+vfs-2 = e8aeadb161169711a382cc9a36ea388a 9bfe9d3ef9316ae6dbd21a357e97200b
+vfs-2-size = 11428747 7370743
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 44afca8be7a076fb70b3500753dc270b
+install = 42f66cd86d5ae9507374c52499fa2bb6 bc093ae14d2deca9ce4bda399f14835c
+install-size = 4094 4153
+download = 8cc6483cb44eff0576bf2cdafcf618b3 1d79f871f49fa99988ed418880ab414b
+download-size = 1153 1244
+size = c13c3a4716abe7abfba4c025744e55a6 3285e1a526b967a36d30b8b9e9749a48
+size-size = 606 698
+encoding = bb0beab4dc906352b1dd98b0ef7e6295 b25f6abdfceee7d326accb733994e1e9
+encoding-size = 8381 8556
+patch = e135f3bec47bfac0d846c096f23eb6b6
+patch-size = 1649
+patch-config = 046b8e8d23d20bb650549d18d36d7683
+build-num = 6525
+build-name = 6525-agent-2.16.1
+build-product = Agent
+build-uid = agent
+

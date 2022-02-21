@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = cc247dacfa2a21eaa77fb905a2e9c392
+install = 464ccc054ab73464c60d5759852883c6 aed2741a9a9fc0a8691c651755d281cb
+install-size = 4410 4242
+download = 0ad5d80685fd88c4bfe1f501deae0836 13586f0f152027b286d554b160686f38
+download-size = 12513921 11374736
+size = 374577abf6a75f0f82637a49b1f3502d 07d09cc7d5057ed6b5d98d3dc3bff090
+size-size = 6830827 6306861
+encoding = e8f00d8568582ed89781ff5cf3cead0f 03a5f2fbde92b5341c84cab1953cb046
+encoding-size = 28653659 28027772
+patch = dbc515d9efa87c2a82e951d8003c52fa
+patch-size = 437799
+patch-config = ccf373719cf2cd00f0d498b2d703fac4
+build-name = prometheus-1_49_0_0-69939
+build-number = 69939
+build-branch = 1_49_0_0
+build-product = Prometheus
+build-uid = pro
+

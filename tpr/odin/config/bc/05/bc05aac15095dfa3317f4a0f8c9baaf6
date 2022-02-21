@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = f10e50f3372c26fd1ee5898e47f84c48
+install = 1618583a5a6487ebe586bb3c5eee9d47 df8189d7eae4af592bd9a1619507c6e3
+install-size = 6229 5902
+download = 67c5564d71ec95f7c49ad71e33c6a255 bdddf60fe86be918cc6e09d317450ec8
+download-size = 1637467 1470241
+size = 0364e6830f962a8c7f28fcc154a1ed7c c57d2ccd78ceb3276ee83b5f1fac1596
+size-size = 903530 755198
+encoding = 77c4e50f56d9bc2837d13016a8b2ba23 c0140485bb9d96cf311497e18c9cae5f
+encoding-size = 12541 12707
+patch-index = dc2655a1a6d858d9ea0eaf4f31b4385d 0bd0c20c588ec8c76e22c691dc230ae1
+patch-index-size = 7634 4973
+patch-config = c5a3c81cb3c88e16a216a865289a77f9
+build-name = live_10084337_TU_B_8_13_C_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 0de223671b2e4b74d586248638a6b8dc 6c0a8c8833a0a83df97823f71fada904
+vfs-root-size = 2834329 1147488
+vfs-1 = 0de223671b2e4b74d586248638a6b8dc 6c0a8c8833a0a83df97823f71fada904
+vfs-1-size = 2834329 1147488
+

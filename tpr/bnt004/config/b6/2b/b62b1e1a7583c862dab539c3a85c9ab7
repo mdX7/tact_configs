@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = c0f8ac4e56f4b5bcad86e61559512690
+install = 686795223d4358c3eb57951db3899c0c ecc363fb39486ac365337f520415dc98
+install-size = 82 149
+download = 28959a0930afd60dae4b7b0a07024afe 190b8ee6b1c1ebc9dc2c4cecbc0398a1
+download-size = 112 206
+size = 40bf1a9aa9ef008d4ff904726d0d8f88 081a3c47a05e73cf1b9f3bbc49682db5
+size-size = 72 166
+encoding = 623041049cbf18b7ebb2863a9bcc4041 cb6bfc2669352557e68eb8093285fe6f
+encoding-size = 8377 8551
+build-num = 3019
+build-name = 3019_lazr
+build-product = Bootstrapper
+build-uid = bts
+

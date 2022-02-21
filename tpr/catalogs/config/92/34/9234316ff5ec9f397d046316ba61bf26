@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 28f246be1edf2d8ab3809b24f2a08730
+build-version = 27
+build-num = 1290
+build-name = 28f246be1edf2d8ab3809b24f2a08730-1290
+build-branch = 1.12.4
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dcc67a6d3fb9ae0d47584b5373368eba
+

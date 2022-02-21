@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = a9bbcdb61f0b6a57cd9891fe1f08046e
+install = 206615cf913f838d91be98d290a65a31 7ee504a1b8790763355fed4991b7c42b
+install-size = 116100 113776
+download = db8e89a46c9123dc5ca3e5d55c0609a9 6c8107a792d15dac11c21270d68d0131
+download-size = 27693 25493
+size = 8a6141b5e4e005eedb181f4f6f5e2f2a 46153ff9012918d230c6ec1fed2caee9
+size-size = 15082 12973
+encoding = 5a8546076a6fc0a369acbd061a4909fa bc8a17e873fd7d26c6be0463c7aa473d
+encoding-size = 66186 66365
+patch = 9576d59a3c6d511ff576a242d4b10adc
+patch-size = 14457
+patch-config = fba951552a84fc1303a24e64b73dd148
+build-num = 12294
+build-name = 12294_1.23.3
+build-branch = 1.23.3
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 7
+

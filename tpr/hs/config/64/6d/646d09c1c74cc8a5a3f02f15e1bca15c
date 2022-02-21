@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 429ad081f2bb86ff0f1a7f922197754d
+install = cfeb1610fe7569886b8ae00d0db2e00d b446bbadba25b74597cfa970ee7b5b39
+install-size = 310114 277656
+download = bde3959756f67e4afe84fe0fc3e57d74 907ad0a57b7affd2b6fb3140c0a8145f
+download-size = 110889 86608
+size = 76ef1e603a1ef6bccb01e60812375c0a befd97f6a6434a51117b41e95a654060
+size-size = 68404 48690
+encoding = 0bede086c224cfde358b3173d62a4172 b825752ba749789ddd3aa8c52e74fdba
+encoding-size = 214807 214979
+patch = d7a88280a0e83f2a12678f5a8a075e8b
+patch-size = 174087
+patch-config = df650468d346e5fe3074f4044b919335
+build-name = 60352_18.4.0-hsc
+build-product = Hearthstone
+build-uid = hsc
+

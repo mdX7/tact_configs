@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c5e9632c88c3d82c8aab812c652c2f5d
+install = 534e986887dfe972135877dc35ac1950 3c437f90cff3a23652a40cb8bb5205db
+install-size = 4092 4150
+download = 238f0595e30608c4ef6fab7dd6c28304 c42e713bb72c334dfe5dd66ecc76c6d8
+download-size = 1098 1188
+size = 94ddfb7af9df5fe38990793d221d1458 53f284cea83b93114cb4964433546bed
+size-size = 577 671
+encoding = 97866d9a9c640e4699bc01cf2e78ec38 138cd3f7427d3b1ebdad8b2f0f5cf705
+encoding-size = 8381 8556
+patch = 13a5bdec680bacec155dba9cd79d2591
+patch-size = 2203
+patch-config = 51d78049fbc2da918c68bd8fa58e3f23
+build-num = 6610
+build-name = 6610-agent-2.16.3
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 4d2a41087b2c2cdd5defca8ef05ef59b
+install = 84c95fd2fea198154f61fd157e79f410 819092c7e90a5c477017bd7795be8d75
+install-size = 102422 98154
+download = 182937f6a33c3a826b641a1dc299ff41 ebcaf142b2c9886f4f792919845843af
+download-size = 1265108 1120598
+size = 9d182feeb9803c56fa159269740982bf 00be3a1d5692e4a2d4a46fe58aecbd3b
+size-size = 705340 615685
+encoding = 92c16f87c46e2145e56838b1284de7a3 a2efc223ec45d65eb758cb6697e39233
+encoding-size = 2757663 2757834
+patch = 5e9de4d4c3903d975e8a768614113574
+patch-size = 10639
+patch-config = 9c891a1c2196ecfde6d71423f0197ffc
+build-name = 1.23.9.10145-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Cert Update
+build-playbuild-installer = ngdptool_casc2
+

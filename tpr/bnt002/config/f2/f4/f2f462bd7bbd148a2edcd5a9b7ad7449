@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 09ca34c09e5156b31ff68b7c1fa1459f
+install = cad8bf5e4de4d1a7d1a680659d29eeb3 d17257fc280bfcebf3742253eeb3e249
+install-size = 224365 219927
+download = 1ae82e14cfa341c70df8088ef5a8d21a 68e013c02c768e39669836a008b355fc
+download-size = 46463 42721
+size = d2cd0167706e0b7784fbe8adf457a539 6e864a985fc4f697120000602f146f26
+size-size = 25246 21618
+encoding = 8fbf0064706f9d7562d42195afc4d6df 4093dd82e996703cda99d4c7dd46689c
+encoding-size = 111594 111771
+patch = 37281fddf4f975cbff735afee2b1e2de
+patch-size = 47669
+patch-config = d14cd7b1c4a3caf9debe23b3ff7fa091
+build-num = 13066
+build-name = 13066_2.4.0-beta
+build-branch = 2.4.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

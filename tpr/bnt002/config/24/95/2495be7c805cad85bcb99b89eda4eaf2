@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b46bf411ddd766ce55b8fe030f5c6500
+install = e650dadc7708adfd029f48fd9fde458a 977b552321915f930c37980a022982a2
+install-size = 232023 227414
+download = 6ccffe9345c0cefb9af96a7f8fecb7da 440662aea45400d48cd764b5e39a7a3e
+download-size = 28828 26544
+size = 024453e0e4cc3d7c8ccadf957c26f3de 42e32d3fa02f0da59f3c3c68e90360cc
+size-size = 15697 13503
+encoding = fc51b66e688a04ca40ca40e5c81249b2 9748cbd87922f830cfb75d55da108096
+encoding-size = 70314 70492
+patch = fdbce56c33c747ea236c2ef4636a055f
+patch-size = 16337
+patch-config = 320b6263bf8104d16bda0fab54eb8174
+build-num = 12135
+build-name = 12135_1.23.0
+build-branch = 1.23.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 6
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 4e24c77325a778404274ea7c703cff23
+install = bcf5249910a1a4b4674afca2e3822e14 398c510e1c9dc7e5cfa5dcf7128951d7
+install-size = 4092 4151
+download = 364b60c82f192a3fa1d30ba24372935b b31ddcaffa88f93080feb7e3c7880911
+download-size = 1098 1189
+size = 5a6e045e29f998f8a57a21a7a9d53a1e 10b7491a3a81fd9837f2bde87fc9ca5f
+size-size = 577 671
+encoding = 470986c96b69c64a0537c49c1f1354a7 c43720a39752f09b068d39b57d3184b3
+encoding-size = 8381 8556
+patch = 28553a6042f8b1789cde871b686135b4
+patch-size = 1713
+patch-config = 06f6c91f37df5042688eab3252af1969
+build-num = 6817
+build-name = 6817-no-branch
+build-product = Agent
+build-uid = agent
+

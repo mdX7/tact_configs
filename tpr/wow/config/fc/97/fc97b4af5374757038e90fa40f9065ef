@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 08046cd8dd55576f998681b1e8e3ad93
+install = 614bcc3df8854a450858210f3c87fa36 316d9526e19f6b5d28d55de08c367b70
+install-size = 24694 23937
+download = b4f9b0aae8ae2bb7d0764615da093629 a3ded49a23edd007a8e337dfc0292ee8
+download-size = 8083944 7221659
+size = 3f80fc0ddeff6a8eb99a26d42520335d 6825c8eebd0233a9911ab460a7d7570a
+size-size = 4342709 3784341
+encoding = dd46c491bd057ae6062795b6751903ee 4e05985189fe8df1839ca9cbbba4bdcb
+encoding-size = 17084485 17082653
+patch = 58af26de5cd5a6253eb9635ff6cb7f48
+patch-size = 35199
+patch-config = 66490613e298742a650ae6f80ca8488c
+build-name = WOW-39603patch2.5.1_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 62facf153f3e477d298adbc46a8db486
+build-version = 29
+build-num = 1941
+build-name = 62facf153f3e477d298adbc46a8db486-1941
+build-branch = 2.1.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dfd0f86cb79c888f60b018ebb698113f
+

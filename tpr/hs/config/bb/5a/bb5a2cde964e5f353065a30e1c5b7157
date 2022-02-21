@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 4222cdf1ba97fe0bbf0f9c2eaf7f3ef0
+install = a1479f771bd1dbe5e6d70e285424608f 2107f1b9f35078befc2d5319c73dfe02
+install-size = 319087 285152
+download = 34d4a9d916b6e39004bfd102d253e7e4 0c1b8f602b67c1b87f000dc247374e0b
+download-size = 115073 89393
+size = 639dc1009e3764cc0d20b2ba3fbcab17 08d74a12604b49890469cf9daa5f222f
+size-size = 71145 50225
+encoding = 3d9a3aec8669088f16c3dba356c7dc0f e5fab86e46b97b7fb75cebb388f3463b
+encoding-size = 218936 219109
+patch = c5b979397de424ded11b715b693008fd
+patch-size = 273603
+patch-config = 4bc0c4f12eff9736a5c7a75e9fe2bbfd
+build-name = 66927_19.0.0-hsc
+build-product = Hearthstone
+build-uid = hsc
+

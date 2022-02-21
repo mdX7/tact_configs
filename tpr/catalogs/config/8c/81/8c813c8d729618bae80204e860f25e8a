@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = f6aabd2e30ea9624e7960c99efd35b03
+build-version = 29
+build-num = 2032
+build-name = f6aabd2e30ea9624e7960c99efd35b03-2032
+build-branch = 2.6.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 359fb3f21fc813fdac47643a9fa052ba
+

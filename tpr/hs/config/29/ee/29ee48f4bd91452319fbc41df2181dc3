@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = d6eff485f51d4adf92fe6513864b7f56
+install = 8985915a3289e7ea0cd978154721ac14 cc893151968709556e19de1038284f73
+install-size = 320664 286624
+download = 9e9d76ef8881e73f4f1646283f79b1d8 ae5907ec15abfde93a4554d79b340e6d
+download-size = 115693 90038
+size = b514040fd4355feaef115c3154cd515f dc747a8e9697edaf855ac55ff8a7c4ad
+size-size = 71518 50570
+encoding = 75151e22561f82e19660155c4d16f3ce 9e4ce7d3df09c094d887ec2898f14090
+encoding-size = 218936 219109
+patch = 34f7c4e15c2273cc77ad4e069a89d726
+patch-size = 116215
+patch-config = fd248d1f0b6ccdd681d82c918f1ddf9c
+build-name = 70400_19.2.1
+build-product = Hearthstone
+build-uid = hsb
+build-token = 887ce3a4-4ee6-11eb-bfc3-005056bc23d2
+

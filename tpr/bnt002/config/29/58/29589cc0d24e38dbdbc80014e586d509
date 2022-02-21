@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = bedc3bae1b96bfb4c8afdd6be4775bb5
+install = 4ace6ed1e34c1707f612ff476c8c96a6 7fc7ed695919fca13d17223b2bd0b380
+install-size = 224365 219927
+download = 09bc9db6ea4329d84a87972acfeacc97 b83ade50bda67084c0058b0d384467fe
+download-size = 46463 42721
+size = 911134c88b67af82ccac77712bd01e80 81c23c812e5e12020c88233411393968
+size-size = 25246 21618
+encoding = efc94e6460762f8a0de841a4fccf7920 96cae3e5bf5c97f1447360dbd564a261
+encoding-size = 111594 111771
+patch = 80f2909d468f931d876a538927549aac
+patch-size = 44763
+patch-config = 47f8b9b849c64a8ef479ae75996043a8
+build-num = 13280
+build-name = 13280_2.9.0-beta
+build-branch = 2.9.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

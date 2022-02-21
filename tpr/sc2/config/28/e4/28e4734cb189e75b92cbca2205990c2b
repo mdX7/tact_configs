@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = b47567dee5dc23373bff57194538dfd3
+install = 551a049c995300362c6cd736f488687f 99da9f177d483899343a2b9e97afa8a2
+install-size = 59065 57229
+download = e3564a9e320e41eb24e678719addda5f c70f65f790d18fbd29a457cf7b7f79b7
+download-size = 17385096 15608058
+size = 76518520ca6a45d3118280c229622c57 26b552bdfe1e60a1af673060e593aed6
+size-size = 9591855 8591607
+encoding = ac08bd0372614b8ad78f448977db2a20 2bd67895b528c6adca74ea57f337c848
+encoding-size = 45561661 45416327
+patch = a34622a062abafc6d2826172b4f101b2
+patch-size = 113051
+patch-config = 21cbd73c0413b51ed3d30282f319b094
+build-name = B79998
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = 0a698a1b072bc4b087f44ddef0be361e
+build-replay-hash = 9e15aa09e15fe3af3655126ceec7ff42
+

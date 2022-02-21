@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 933bc0bcf199c8bed45ea00dc64cfa90
+build-version = 29
+build-num = 1950
+build-name = 933bc0bcf199c8bed45ea00dc64cfa90-1950
+build-branch = 2.1.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = db2b6af09aef1c40fa13f0b8442c846e
+

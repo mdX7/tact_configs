@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = af7328d2af7696d7b5172e5d168ac6a7
+build-version = 29
+build-num = 1885
+build-name = af7328d2af7696d7b5172e5d168ac6a7-1885
+build-branch = 1.31.3
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = ac12e71691b6aa6bbe3b5f4ec40238ea
+

@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = 83fa3d2febb08c12a7126678779f89a9
+install = 1581d2d9befa336e85bc96f7270d9a01 5e1c43829ec665a26af4ca2790909227
+install-size = 315 341
+download = ff253ecdb284200399e6a48580db4271 9911b854af2a8caf1ca1972217efe5f2
+download-size = 4653087 4302309
+size = 7a87304768b34ddcdcea49c27eeb2a5b f4cda581559f54eaad849661949c43be
+size-size = 2502392 2251304
+encoding = 002cbb70a88aefd29ef6c22e54749413 bc5f80179450ba7cee383133310ad2f8
+encoding-size = 10576110 10576273
+patch = 9ccd34786998ed7c151d610ec816a3cb
+patch-size = 84663
+patch-config = 1a79206f9be8b51f1f0103dfcaae9d4d
+build-name = 65931
+build-uid = osi
+build-product = Fenway
+build-comments = New PC build to match ETU
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = dde1f177845f82170934a9ccac890e4615937ba4
+build-source-branch = release_2_2
+build-changelist = 205602
+build-stream = //diablo2_stream/release_2_2
+build-has-data = True
+build-target-platform = win
+vfs-root = 95ee5bf6b517383657f1028878b98fae 4d61bea7eaf4ae27849c970b5b5d3113
+vfs-root-size = 602 582
+vfs-1 = 95ee5bf6b517383657f1028878b98fae 4d61bea7eaf4ae27849c970b5b5d3113
+vfs-1-size = 602 582
+vfs-2 = e5d8e116ee40878d18b6c79205d64567 08f8736ed85e6bc727c4899f29112974
+vfs-2-size = 11287110 7237272
+

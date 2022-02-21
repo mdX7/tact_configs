@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 5caeeebc3dd008f61f5db92758d4e4a4
+install = bf936414ff59977ec9e634cb7d63a65b 9e979eb8d1ef9b30ead7e69cc98d1aeb
+install-size = 26142 25705
+download = b6bc934478ab04a4a1411f42045be099 ec4d59ce75853540bd9ab1f8c85c67ea
+download-size = 2843 2791
+size = 00f13780b08b523bcc48c7d8ac99df6a bf26dd4cf8f39b5dca7314e61fdb400c
+size-size = 1581 1584
+encoding = 3dda261ba3c2ff91d1290f26aa8f0923 f275ea71b713d4d27e11ee89eeb9acf7
+encoding-size = 8385 8557
+build-num = 2943
+build-name = 2943_launcher_merged
+build-product = Bootstrapper
+build-uid = bts
+

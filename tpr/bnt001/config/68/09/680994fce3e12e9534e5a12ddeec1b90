@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 92f10ea994fbe0dfbb9efcc8d0227a3c
+install = ec583aebece0520a32241654dd4e3422 7c87d27c58f25b67810b1b8d49acca17
+install-size = 4094 4152
+download = fecf7bf8943aba213ac77258d647f988 614a6d41f0a77185a57100daab8f570f
+download-size = 1127 1217
+size = 51aba0359a709b04fc42197c19f8ec02 28b99c2aed0f0679fbc5491fe56566f7
+size-size = 593 686
+encoding = 7ff5465e67597001246ed2a33bd86112 faeb2929109bd341238a62e66bb6856b
+encoding-size = 8381 8556
+patch = 4bbbce9345332ff97048e0e11bfe25ee
+patch-size = 2353
+patch-config = 518b2228dea193f86637d6363320298d
+build-num = 6383
+build-name = 6383-agent-2.15.2
+build-product = Agent
+build-uid = agent
+

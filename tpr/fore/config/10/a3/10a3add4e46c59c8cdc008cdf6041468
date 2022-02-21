@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 068455a336b30dc2197a9b1956e6028d
+install = d3c5fc73a64c952d29410ed8caa3f3d6 f9034630d9a323f6ceef188cc9f3e8ff
+install-size = 5835 5540
+download = 84519eadee9070cde68678bd32fdf807 c1c5f4537bda06a99e6444089cf36760
+download-size = 165481 149926
+size = 5cf61279ca9ef9d777e0ec2e60e5c009 8edf503cf688050977518b29fd105648
+size-size = 91073 78688
+encoding = 2294acc68f8d92726f439895b0e7c140 8237cca3fb91a654462db49af29ed6af
+encoding-size = 12534 12700
+build-name = s4release_10520076A_tu4_s4_signed_noexe_R_ship
+build-product = fore
+vfs-root = 656e8aa9d2220222ccbe9d725a1f9d32 ee28a2fbce01e2c09e16d5f4dd88c766
+vfs-root-size = 300943 129078
+vfs-1 = 656e8aa9d2220222ccbe9d725a1f9d32 ee28a2fbce01e2c09e16d5f4dd88c766
+vfs-1-size = 300943 129078
+

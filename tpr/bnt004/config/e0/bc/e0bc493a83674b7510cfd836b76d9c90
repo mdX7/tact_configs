@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = b70add5afa4214d219844006f39738da
+install = c3cbabb73f907ca01a343bdf113a6d55 d8f3b2ad8b31d01d35d0c83cf3214a7d
+install-size = 77 144
+download = 5ca29c351ade07b2c2ee2f335f76eb86 1dc1f979cd7212965cd806bdf6273ccf
+download-size = 112 206
+size = b61bbd13221185cb0ec355a1a78e2ef3 10ad833045362e57cbb240cf6dce3315
+size-size = 72 166
+encoding = 669335eff60f750f13e0fc7543dcaeec 0f341a14366f8e4996307de5edca3116
+encoding-size = 8377 8551
+build-num = 3086
+build-name = 3086_zeus
+build-product = Bootstrapper
+build-uid = bts
+

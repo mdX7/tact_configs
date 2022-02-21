@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 3f5cd74c26b06e72ed7a7dee47653c72
+install = 02cc9d27b887144703b4500fbba1de11 5b58e99bdfd33cea4ba77f6c7497251b
+install-size = 4014 4073
+download = 61fb07c4ccc03b78f9da8a7f76675e58 11e1aa1808d4e2a770ea99a7bb4a1323
+download-size = 1072 1163
+size = 86e3a7d4c60740cfc8737cc9a869cae1 a3cb95ccabf2c0fc7979cbf5c867dade
+size-size = 564 658
+encoding = 0a3562a1f177b555d7f6dffab138141a a7751a256b0a5ad3974d57cc88ab39d1
+encoding-size = 8381 8556
+build-num = 7086
+build-name = 7086-no-branch
+build-product = Agent
+build-uid = agent
+

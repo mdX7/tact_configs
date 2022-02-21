@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ba4dde28f24bfcbe6ff316e28f3b807c
+install = 1d7bda652f2618d99f1affdcaa17c8c6 11d32cea52051995dcc882157643857f
+install-size = 4092 4152
+download = 1483e9dbfbeecc3749026b025862caa9 8fff5729137dc0f086a93eeb36ff84eb
+download-size = 1098 1189
+size = 6fb64dc0439d1db97eab44ad3e9ed553 20ed5133cf322b59da1c9926436b3ffe
+size-size = 577 671
+encoding = 72e9e09887ff407e863e996994a1b6f0 623532c021213f1b7fe8f6cbc45b4359
+encoding-size = 8381 8556
+patch = b308bf63dcd48566c7400a2d7f37e3ac
+patch-size = 1585
+patch-config = f023c89c3e104d5378bd1e21b0ca09b2
+build-num = 6776
+build-name = 6776-no-branch
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = bf204a34013bd4073499b71562e0a81e
+install = 316e8122490fa983a964252df87095f8 7bdd46de04cd7dd7c0a2a98cc6cc4872
+install-size = 236040 231377
+download = 30e9a6c2654a3d0fc901d0b58dab712f c1169a1880715922db8d9815e79ca434
+download-size = 29081 26777
+size = 486190a9d782105bd750d252c2a9fc44 20eca55f771a8691c4af723d0d65e3a2
+size-size = 15833 13620
+encoding = 8a021571fffcb8238d7c5dc68f287680 9dc897a213d3cc4bc5db946046b8822e
+encoding-size = 70314 70492
+patch = c10c47ab65abbd17ee8cb4373de813fb
+patch-size = 29255
+patch-config = 0633b7353488a01cd450e748124e8f28
+build-num = 12864
+build-name = 12864_2.0.0
+build-branch = 2.0.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 10
+

@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 2f6cc802cbabb2ec65e3c28fee14f197
+build-version = 27
+build-num = 1479
+build-name = 2f6cc802cbabb2ec65e3c28fee14f197-1479
+build-branch = 1.14.3
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 74675cdc5cfc4e5e28e85ab676965de9
+

@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 9fc23076090fed0fb8d1e0f46b51da98
+install = 9adaffee597ed8271a5da284e455345c 857e75ba2aa7ba984a9d56331579c27c
+install-size = 6229 5902
+download = 8356120f1c7243641261079b0445ed86 8d23e2a1029367b541551cc0980ab97e
+download-size = 1620687 1455412
+size = 48b47209d70a847d71f40394cb9475c5 422e34f5abe85e63529a13cf633670f4
+size-size = 894264 746960
+encoding = 1f330992d732fa23d43aa0cb84f91069 0908e4949b6eb007caab450c881ed415
+encoding-size = 12541 12706
+patch-index = 32bcc96547aaa8e2c959989231c1b2a5 df595b09f9f1e04e89d0b877a2bd590f
+patch-index-size = 106 103
+patch-config = 8561f4f2c1ef664965a9b25afdaabde0
+build-name = live_9873021_TU_A_7_7_F_R_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 12f6d163c803dfc02c02212215f9fb28 97169b4dd5ac7a7d9575844fb5990480
+vfs-root-size = 2790476 1131112
+vfs-1 = 12f6d163c803dfc02c02212215f9fb28 97169b4dd5ac7a7d9575844fb5990480
+vfs-1-size = 2790476 1131112
+

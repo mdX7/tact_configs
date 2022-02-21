@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 9a5150cd0955199e64f8726e1e01be8d
+install = 474eaf2c45d3c04cae4f60c970ce6b4e 0b0d4c5606fcb4bebfbcf5cfafab5372
+install-size = 7350 7100
+download = b83e60e84a5fcde821ad365791409353 dba8d2c26f4abeb5852cccb17196da87
+download-size = 26836361 24517385
+encoding = 5ce1102d08f2045428f299ee81dabdb1 4e4e1b02e35c9186c8113056c4da9c59
+encoding-size = 82770864 62587744
+build-name = prometheus-1_24_0_1_PWX-47452-PROC2-CN
+build-number = 47452
+build-branch = 1_24_0_1_PWX
+build-product = Prometheus
+build-uid = proc2_cn
+
