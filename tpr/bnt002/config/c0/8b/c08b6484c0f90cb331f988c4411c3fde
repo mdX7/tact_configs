@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = dc8eba6a518367b95e92965fcee4f979
+install = 016f4faf04459af4340508aaa3cea1b5 f11c9e6af1d71bb51c9f9005bb8518b1
+install-size = 59614 58181
+download = b16c16503364550991404fe9a312f4c2 0882c075e8fe5a235382098d8aabd16a
+download-size = 9686 8962
+encoding = 33ab5234eab883e157bb35c0e54e40f7 1dd02fafa21882b747473847283fa0e9
+encoding-size = 29007 29199
+patch = 3ea0df5c11e4352c7dba1101eefaeeb2
+patch-size = 19597
+patch-config = 1b813682eb70683106e76fb993ddf030
+build-num = 10135
+build-name = 10135_1.12.0
+build-branch = 1.12.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = fbdc5713c308233c448850850cb27d43
+install = 8e64b82c76986ced5439c06fb8878d03 6ed3c769a3d834886da00ddf2ce23518
+install-size = 4094 4152
+download = bcf938c9caf14b70366c36dce2468c66 f1996db06de5056e2b2b144e04cf2225
+download-size = 1093 1183
+encoding = aac93949249c6f4049359932c3f95075 83e6baee6aa081a9aab00be264a1b6ae
+encoding-size = 8360 8546
+patch = f5daaaa24c29072d8367b6a22cdc2983
+patch-size = 1585
+patch-config = 6174b3c64ae68b39fd9ba1d2b7008f02
+build-num = 5798
+build-name = 5798-agent-2.12.5
+build-product = Agent
+build-uid = agent
+

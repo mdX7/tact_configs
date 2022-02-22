@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = df6039c63439a1f02d3c67497ae1253e
+install = e601c582c1dffd81108b7989305f8c98 8ea2e3bae30fa3161bbdc9d69840064b
+install-size = 24492 23912
+download = 38c0eab8ba608375c13cfce8afa671c0 b26879aaef03524afea8e0722a6cbe77
+download-size = 6872 6382
+encoding = 3465520fa153c8a5757f592a2ca6829f 6dbeafff82e33669ea00b97f319ba251
+encoding-size = 20748 20941
+patch = f3d6c94e2cad92896879faad3bd8fb2b
+patch-size = 3472
+patch-config = c73fa7d1301e10acb1394cb6e973a8b1
+build-num = 9527
+build-name = 9527_beta
+build-branch = beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c930474b9878f358bc602036713d970e
+install = 5d8d4b8bb135b0948762de141a621087
+install-size = 26355
+download = ad3e713d46bf0bce995d0769c0abab9f
+download-size = 8142
+encoding = 508f343705b20684877a297d7c30584d 21fe29f5be2bb2df9750522d86860688
+encoding-size = 20748 20942
+patch = bc229d64765f3a9009da9dbe010dab56
+patch-size = 3278
+patch-config = 728d764fccdcacbe528a54a43d5d81ca
+build-attributes = public
+build-branch = 1.8.2
+build-name = 8941_1.8.2
+build-num = 8941
+build-product = Phoenix
+build-uid = bna
+

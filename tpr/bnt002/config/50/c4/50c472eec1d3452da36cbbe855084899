@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 21be20d9f2eb56ec8505bb112f568ab4
+install = c9eca12913fd4ca3f63f7124522b8f46
+install-size = 26355
+download = c7f46125138a61e393d415f303400d6f
+download-size = 8142
+encoding = 80ab3653157986beced8ac5cabac5765 7673e72bb6a55b13c31bb6f380862c82
+encoding-size = 20748 20942
+patch = 656d5b274ec7ef1b377a67c4924708aa
+patch-size = 3446
+patch-config = d08f55cc22643850db9f31eeec194fdd
+build-attributes = public
+build-branch = 1.8.4
+build-name = 9061_1.8.4
+build-num = 9061
+build-product = Phoenix
+build-uid = bna
+

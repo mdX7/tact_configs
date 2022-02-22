@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 71d280711634e0697979f5f6a7450e82
+install = 8022b1e8d81db73febc35b60840a2147
+install-size = 4196
+download = 2f8cb28ab11af16698e99785f24f2913
+download-size = 1122
+encoding = fc379569f0e0a2971b6dc73598eac8f7 ff574656028088d797f1ad74838f76fc
+encoding-size = 8360 8546
+patch = b026ea55d0d5b38d2076f69ac35977dd
+patch-size = 1585
+patch-config = 0b5ba239688fbc415d86221a45312aec
+build-name = 5181-agent-2.7.2
+build-num = 5181
+build-product = Agent
+build-uid = agent
+

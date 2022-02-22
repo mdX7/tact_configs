@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 561e305b89332f75787d2b37278a3249
+install = fd858ae1692333ff29faec04959d6cc9 192937603a8ec6d172ed606fa4cbe0b6
+install-size = 59505 58075
+download = 1261052a14555bb2cf8fe3aed67ebab6 fe6b0f3a2b4cd6c638a95ae4d2dfa4aa
+download-size = 9556 8831
+encoding = 8cbc2c1be9fa932746a1db024668f564 972c0bda08735d3a9a8056fdd2a2f69b
+encoding-size = 29007 29198
+patch = 1e99517991696d2a7fc556625275eb7d
+patch-size = 14947
+patch-config = 08749b87921462bf224749e85f9461a0
+build-num = 10017
+build-name = 10017_1.11.2
+build-branch = 1.11.2
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

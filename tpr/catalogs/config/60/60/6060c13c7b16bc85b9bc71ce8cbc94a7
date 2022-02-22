@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 27524ac2486de455dbda54061ad8f66c
+build-version = 26
+build-num = 1035
+build-name = 27524ac2486de455dbda54061ad8f66c-1035
+build-branch = no-branch
+build-product = Catalogs
+build-uid = catalogs
+

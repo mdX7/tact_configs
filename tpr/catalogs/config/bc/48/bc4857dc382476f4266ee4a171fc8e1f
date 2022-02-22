@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = fd9198d269fedfc7dc31121e02a1ce00
+build-version = 26
+build-num = 1080
+build-name = fd9198d269fedfc7dc31121e02a1ce00-1080
+build-branch = 1.11.0
+build-product = Catalogs
+build-uid = catalogs
+

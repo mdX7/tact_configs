@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = c78bb6c8a0ad3f5ca193f9dc79e4cfa7
+install = a5a18eb0966c26f15277ea24d1646a27 ecaaa45e73972e6baf3e014bcf0de78f
+install-size = 4094 4153
+download = 89c77e37726db6150dc0174acd5963f9 40160cec71334713d3860b5638f79b72
+download-size = 1093 1184
+encoding = 0077e27ea559711e9df910ae60c3d8a1 3cf72d8ff5457bb2d14f649e5ad9b723
+encoding-size = 8360 8546
+patch = fc288e6fd707aa48f21bc1816c3aad4d
+patch-size = 1585
+patch-config = 5fedaef31a194f3b293f4104acb9eec5
+build-num = 6066
+build-name = 6066-agent-2.13.9
+build-product = Agent
+build-uid = agent
+

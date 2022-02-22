@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 60386c831c2d0b9750018b7e4d54e7a3
+install = 95b4a3242ea39f85e6c1c872a52471ec
+install-size = 27046
+download = 49142d227b753a343d884fefdc6ebe55
+download-size = 8064
+encoding = 3bc7a18b4ea184a2dcb88c68758ca1f6 99e175825d55885c39f1371da0767303
+encoding-size = 20890 21001
+patch = 247d2d31f80d391fd13f79e8e062af2b
+patch-size = 12201
+patch-config = fda38fa0b7a9f82d3e89a8b78e8ad366
+build-attributes = public beta encrypted
+build-branch = 1.7.0
+build-name = 8395_1.7.0
+build-num = 8395
+build-product = Phoenix
+build-uid = bna
+

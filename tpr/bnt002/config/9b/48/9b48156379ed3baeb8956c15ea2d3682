@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 79d3fcd39cdfecf8ceb6b3531c974bdf
+install = e618d774e6314d9551b44079fb271d43 77433e5b58a2ffc9e3aff6900e399320
+install-size = 59056 57633
+download = d796bb615f4e58b08a575034e13b45c6 509edc00a2523807462598baca18c9f5
+download-size = 9608 8888
+encoding = ec3a6fa830634faf3a1b751ea2c6b1c3 fdf240a207e51d352649dd5f4dc766a1
+encoding-size = 29007 29199
+patch = cc7e99a82748dad5f62d50e8c82374c4
+patch-size = 21031
+patch-config = 9c4194ac583fa9c2674967c67cbe4e04
+build-num = 9801
+build-name = 9801_1.10.1
+build-branch = 1.10.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

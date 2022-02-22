@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 5b6fec154586877dbb09700834d4936a
+install = e1c6dfbe71ee191c2ee01907d50ed82e 3ef40eaa10d03d5ea862676200083373
+install-size = 4094 4153
+download = 4511e911d744e7763157c674758aa161 f4a217a707800eafa04b5cb60021542b
+download-size = 1122 1213
+encoding = 9199d40e9bfca2ef11a91c45fa619bc2 ebd6b60ee456715847083150df790350
+encoding-size = 8360 8545
+patch = 59c8a3b38a4ff1f8fde0fa3ca83406ef
+patch-size = 1649
+patch-config = 0d8d1fb0e53d7fafe33d7d791b6673d8
+build-num = 6017
+build-name = 6017-agent-2.13.8
+build-product = Agent
+build-uid = agent
+

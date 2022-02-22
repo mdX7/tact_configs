@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6255a2595ec34893c2d4b5a72ba02e1f
+install = 3a1983061ca5f4a6c7c3cffd1ba6d3d8 a4a1bfd3563005cd7eb88f59a9929f80
+install-size = 44158 43076
+download = 2c78432febe3ce55f280f8e9ce5233f0 1e6f7abdccfc2b541547b8cac404eca5
+download-size = 7556 7014
+encoding = 966fd412203d908cae550a750e89aa4c 4432ac33db0df95043acaa730f433073
+encoding-size = 20749 20941
+patch = 87c6ef2f9aeffedd93c3fbc4b572e1c4
+patch-size = 3448
+patch-config = 6c93e74267766c4f5b01858ed72d6f3f
+build-num = 9602
+build-name = 9602_1.9.2
+build-branch = 1.9.2
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

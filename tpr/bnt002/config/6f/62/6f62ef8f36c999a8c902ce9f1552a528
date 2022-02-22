@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 99c0fee54d7915b7c160dd443f406526
+install = 624a117d505e40cb1ff44237a7abc4df
+install-size = 25955
+download = fe62a278bcb954e116ce185beaf97fc8
+download-size = 7810
+encoding = 298ee8d953f9144d4d9cfa3448847688 af628eed5a727735f7466732b920d9f5
+encoding-size = 20890 21003
+patch = 5d89d6c10ea247d3b7dba7fe4da51768
+patch-size = 3065
+patch-config = 3aab98890b6b43c13313791f6d1e8cd9
+build-attributes = public beta encrypted
+build-branch = 1.6.0
+build-name = 8193_1.6.0
+build-num = 8193
+build-product = Phoenix
+build-uid = bna
+

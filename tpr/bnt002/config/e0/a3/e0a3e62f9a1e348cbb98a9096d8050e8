@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 513a4ed2b586c1db5b6c704f1d7186e3
+install = 38a62488318111c3e703b2f5a8695fa9
+install-size = 26100
+download = edc6ec5ed9af509803a5d191b328c36d
+download-size = 7862
+encoding = fa29053e4926af015eef0239bf0472b3 922f25db3b748116e14a87f8b490e251
+encoding-size = 20890 21002
+patch = 438afafa92238e423ab94eed9a751907
+patch-size = 11111
+patch-config = 9f3edd204e198ebf393e0e03a6349fc3
+build-attributes = public beta encrypted
+build-branch = beta-7
+build-name = 8094_beta-7
+build-num = 8094
+build-product = Phoenix
+build-uid = bna
+

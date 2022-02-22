@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = cbae220292382a1ba2a2cb1920edb804
+install = e82a44a37f749f119ad7766ced764b66
+install-size = 26355
+download = 2c1de06ce029a9874ee06d8f5a6c9ae6
+download-size = 8142
+encoding = 1d51deeea80099ae434f09189ca4e301 c5d0ad6f9f8fed620b6435c5c9afe802
+encoding-size = 20748 20942
+patch = c48a1e7e7fb7eafc73dcebe94f45f07b
+patch-size = 3938
+patch-config = 080236fea12b08f476f32a04ba871f71
+build-attributes = public
+build-branch = 1.8.2
+build-name = 8800_1.8.2
+build-num = 8800
+build-product = Phoenix
+build-uid = bna
+

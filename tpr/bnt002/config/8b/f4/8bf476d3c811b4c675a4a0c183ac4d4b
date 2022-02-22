@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 523646ea47caf02319159e04dd3e0391
+install = 050d2ee93a56e62f5027d3d0c9976fa5
+install-size = 24492
+download = e4773f46ea2714917c434050de7d8693
+download-size = 6898
+encoding = 00c0b648ea378cd7f3c9c93fd0b712f0 5ae0d15a680b01f91d08d8b1f7cd28d8
+encoding-size = 20748 20941
+patch = 10e21c2c0589bd83693ac274c9eb05a1
+patch-size = 3282
+patch-config = 631916b227affcd6de9bd8440533b888
+build-attributes = public beta
+build-branch = beta-hotfix
+build-name = 9272_beta-hotfix
+build-num = 9272
+build-product = Phoenix
+build-uid = bna
+

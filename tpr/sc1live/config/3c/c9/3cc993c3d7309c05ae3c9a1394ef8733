@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = fffa8816546df70be161c505f7c0f90f
+install = 4362de5110bd0b99f231a86f47628918
+install-size = 91851
+download = e19a0e0a116cbe40e064077758a25d90
+download-size = 1176293
+encoding = fa45e6f30b53ad870f1e7243aea8f2a7 4f8bca4c826b9f051eabdf10811cbf19
+encoding-size = 2584262 2584450
+build-name = 1.20.1.2616-retail
+build-playbuild-installer = ngdptool_casc2
+build-product = StarCraft1
+build-uid = s1
+

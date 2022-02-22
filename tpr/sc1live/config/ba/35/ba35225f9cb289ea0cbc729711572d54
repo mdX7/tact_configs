@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 19d91fdeb2708aa6ae606e1bb1c54780
+install = 74fbff07ccfafdae558b149e16146403 796d1762c47936c69b78a065d8f357a2
+install-size = 93037 89506
+download = 5fee03311d2b93ad78c80987173ed6d5 e61556bf12e63b4c1b49e0e35708f851
+download-size = 1180824 1055449
+encoding = 1ff860063f46790869c3d4d61b30a737 c2b1513a33f4f79ad30901d023766caf
+encoding-size = 2592518 2592708
+build-name = 1.21.5.4012-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.21.5 HotFix 4 RC 1
+build-playbuild-installer = ngdptool_casc2
+

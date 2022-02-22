@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 0e549ade952abeb4217f3b30278dd1dc
+install = bd7b0a490913f1aa6444059f07f26698
+install-size = 127478
+download = f65a537a564e76bc6c0544738b23dcb7
+download-size = 41778
+encoding = 21db313fe10ad13da124334dd438148d 2bf4f01ae99080149bac27736dcbfd4a
+encoding-size = 95066 95255
+patch = 451118a48946fa47ed53a0dd1b92694d
+patch-size = 47979
+patch-config = ac38d06a6ec252acb2e3c54ddbcd5a8b
+build-name = 23180_10.2.0
+build-product = Hearthstone
+build-uid = hsb
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 90e822fbbff0b6ea903dbb7d8389740d
+install = 0cf8e4b250330492ec972e3d6c75bb1b
+install-size = 4196
+download = df5b10234947bc6d898b3f4bd72af173
+download-size = 1122
+encoding = cc58c9af5c3a1e712f56b43959403637 5d0a81963178388d65e80515953c7dd9
+encoding-size = 8360 8546
+patch = ac1ad8f0d68df13e63be02f7aab5f9b3
+patch-size = 1585
+patch-config = fd82e611bd3d11d899c61e27e8bbb5e5
+build-name = 5327-agent-2.9.0
+build-num = 5327
+build-product = Agent
+build-uid = agent
+

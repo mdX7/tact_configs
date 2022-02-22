@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = e0fb47106af5c1df39da8fe43ef30c48
+install = 65ab70e64a6e98e36bdde287a4b17a5d
+install-size = 26355
+download = 434067f0a65e388cb48558c37501e703
+download-size = 8142
+encoding = 422e64fde73210a6cd5c1c44964a57bc 283baf14e85546989fa73517126714ee
+encoding-size = 20748 20942
+patch = 54beb5e409012bc41ad02279c2e83616
+patch-size = 8909
+patch-config = c766468faa54d67c360b61c06378e954
+build-attributes = public
+build-branch = 1.8.1
+build-name = 8657_1.8.1
+build-num = 8657
+build-product = Phoenix
+build-uid = bna
+

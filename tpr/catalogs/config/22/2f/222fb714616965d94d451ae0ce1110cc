@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 7e1c273dd882626c0db94aeae8d33a8a
+build-branch = 1.8.2
+build-name = 7e1c273dd882626c0db94aeae8d33a8a-883
+build-num = 883
+build-product = Catalogs
+build-uid = catalogs
+build-version = 23
+

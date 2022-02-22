@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 992b20098e669e28a8b754e4110e6619
+install = 09f39f697600d8824ad46769f921df4d 60fd14754bb40f3604a59fad11e209db
+install-size = 7350 7100
+download = 0b34eaa5a645ad5109e3a621a37669e0 27322826866dd51a0f5256040f119032
+download-size = 30283975 27681357
+encoding = 9747d66b4493c4e3eafcd6109a4d5c3b 1026c42e2e399bbdaed9410a35c982fd
+encoding-size = 112552620 73145489
+patch = baec98c0c9b6b3f1befa252be36140fc
+patch-size = 14073
+patch-config = 0771dc5ac617f6d2c22a2f9b0a1c6c0a
+build-name = prometheus-1_20_0_3_PWX-44022-Tournament-UPDATE
+build-number = 44022
+build-branch = 1_20_0_3_PWX
+build-product = Prometheus
+build-uid = proc
+

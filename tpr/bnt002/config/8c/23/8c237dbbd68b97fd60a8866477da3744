@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = eeb4b874a4a217048e396d6182ff3727
+install = 723ae0711ff6dd0ddda981a0da6dd5b9 e0d6b6adfd9afd6c66afb0f46428b950
+install-size = 31347 30600
+download = 253046f1254fe0aeb11f643b8fb70638 8e26afa9f71d72128fbae48ee740a6b0
+download-size = 8696 8045
+encoding = f03b9c14d2223589c1448b74e50e8c4f 8f921bc8fe4ee4798b6d1c6ed423ad45
+encoding-size = 20748 20941
+patch = aa07a42e80ff379a405fa4b4d60596bd
+patch-size = 16223
+patch-config = f93cdd563dce7c0097fc1063c85d52cb
+build-num = 9877
+build-name = 9877_1.11.0
+build-branch = 1.11.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+

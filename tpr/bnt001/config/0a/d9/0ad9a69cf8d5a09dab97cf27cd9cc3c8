@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 8e5ad6b9717968f3c8cbc50e83a27018
+install = 60da553a6dcfc2cbe06883001f69cbc5
+install-size = 4196
+download = 174c49f1c4d7717f5061a17a08d20156
+download-size = 1122
+encoding = f0905182537de7e02c433f8bcf0ac2c4 5b8fdbadacb0bacebb06cb00e0af1a4d
+encoding-size = 8360 8546
+patch = df57f854e9ed236dd2f2eb6ac9ea0804
+patch-size = 1903
+patch-config = 1b20ae81d9616f4b3d8b48a1ca4dccc0
+build-name = 5625-agent-2.11.2
+build-num = 5625
+build-product = Agent
+build-uid = agent
+

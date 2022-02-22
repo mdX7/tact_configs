@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 04f3990be85101aea2d7e47234185242
+install = 29bb920d93dc80eb22dc4ac1c7936e0c
+install-size = 4094
+download = 77061d27643667525a08c3fb4d466095
+download-size = 1122
+encoding = 6ef188f530cf2d0bac9566cd6bd56078 1faff606bb6197ed12648f5fde5daa6d
+encoding-size = 8360 8545
+patch = 771ae5b795ae5c9c3ef0fa92c80938f2
+patch-size = 1903
+patch-config = 46fffea1f65a64800e8571a0fb99b17a
+build-name = 5725-agent-2.12.3
+build-num = 5725
+build-product = Agent
+build-uid = agent
+

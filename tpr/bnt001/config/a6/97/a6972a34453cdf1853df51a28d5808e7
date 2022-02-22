@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = f61cdbcf665ffb77a195a4fcac5e7ef1
+install = 0afc79d2a0e13378f17b942e426b9302
+install-size = 4196
+download = 76f9362b9605a9a4067a842f1dcc1184
+download-size = 1122
+encoding = 4180aff85c8a09a612b8cedafff4dfb8 5d5f387a51616ce7c8676bd39e4b4bf4
+encoding-size = 8360 8546
+patch = 6c8fec70c418bbaa72991271a37449d9
+patch-size = 1585
+build-name = 5156-agent-2.7.1
+build-num = 5156
+build-product = Agent
+build-uid = agent
+

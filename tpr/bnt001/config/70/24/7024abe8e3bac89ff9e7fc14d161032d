@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 6f9de88adafbaa047f521834a6b79fce
+install = c31b4c4ef2a2245287ea571798ee393c 4487622502a3acad76d6aad9e59e3be5
+install-size = 4094 4153
+download = 0963f3ca7208e4fa88f44c708b3ea0d8 d3773e3be970b5a14cf8ab71cc467253
+download-size = 1093 1184
+encoding = 6bf2fd6c98d93002108810b8f7e39d99 e536b33977cb61ae8b3d800cce5d3603
+encoding-size = 8360 8546
+patch = 54da0ae2e3eac0fb2fa632dba3948ca4
+patch-size = 2353
+patch-config = 6d89c42d59f95b691810d203a462d567
+build-num = 6155
+build-name = 6155-agent-2.14.0
+build-product = Agent
+build-uid = agent
+

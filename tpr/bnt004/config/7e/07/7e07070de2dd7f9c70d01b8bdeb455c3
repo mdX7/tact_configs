@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = fd171dddd4e849802b918fca254efee2
+install = 263f939ef586464b1ead3801eeea5915 9ebf03ef08feb6183bb53abe564d0878
+install-size = 4437 4501
+download = af868fc5d8153ec88ee3f6c56cdb71ed 0e3d8f1139f88479993ef5540f8b7c21
+download-size = 1209 1299
+encoding = 3aeec277f4ee07f44a6052add2e6ec81 145965b2a6c742bb4967a949df17cb30
+encoding-size = 8360 8545
+build-num = 2879
+build-name = 2879_herot
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = bb34ed1bd3444c0b37fa107661e0678b
+install = 1099a24873c218c347b1d851d9366483 54e781c262b4693e2bea546f48dc84e1
+install-size = 92367 88857
+download = d8a22a3f2753fb0d65ad6b943bc43e84 a82a6524ae10157a3bda1a3066be472d
+download-size = 1178856 1053689
+encoding = 49c29bcaaaa2806cd3336e0910abd5eb 3453b6d9e8ebcf72001de2ab181f64d8
+encoding-size = 2592518 2592707
+build-name = 1.21.2.3540-retail
+build-uid = s1
+build-product = StarCraft1
+build-playbuild-installer = ngdptool_casc2
+

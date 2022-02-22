@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f8edb8a71c85a51b65b15614affbe416
+install = f364756dc9d9145ee8ccc413c21903f7
+install-size = 24492
+download = ebb2e20ba267268ede437b212d4626bf
+download-size = 6898
+encoding = 9e33e70a70bec213511c4e0794a19f7c 249a233ba97a36a68df401fc6e5acedd
+encoding-size = 20748 20941
+patch = db3f827f098f1337bea5b777f8cf2685
+patch-size = 978
+patch-config = bba4aa82c289507056cb49bceff49095
+build-attributes = public beta
+build-branch = beta
+build-name = 9062_beta
+build-num = 9062
+build-product = Phoenix
+build-uid = bna
+

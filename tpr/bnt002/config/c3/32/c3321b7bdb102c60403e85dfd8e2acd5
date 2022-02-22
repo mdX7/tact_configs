@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 029b6c9e7b7539b3065f9423ff8fc098
+install = 307d98da7cf0005cfe562ef849588a8c a8c7cd8510b5c926cc5a70f8addbc6af
+install-size = 59614 58181
+download = d6ad8deb0139ec53d5a08ab85783612b 91d31e18878b36050106b5afc48ce65a
+download-size = 9686 8962
+encoding = 95ddd921890ebb869629604db09a232b 1c2d79ebb0c4e7ba853baaf5b65e907e
+encoding-size = 29007 29199
+patch = c3eddef8a1966cbc1afe842ff0b2ea5f
+patch-size = 19639
+patch-config = 3fe05f0c6db946779bca48448a3bfc24
+build-num = 10114
+build-name = 10114_1.12.0
+build-branch = 1.12.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 481611777b7bbac917c05696a22a7f88
+install = 4fe41bace89d03cf993a45d7eae898b8 9807c81e72d4a63794ef4d118cb243c2
+install-size = 31347 30600
+download = 8dedf0b6c83181768e09350f3a03a8c7 3103d02825578a9dd0d90012766ddc0e
+download-size = 8696 8045
+encoding = de3cf71065ac0d30cb873473dd4dbf19 aa8fdf213319aab32df548e4e9f3aa46
+encoding-size = 20748 20941
+patch = 47f166b68210f7b36db46bd36d3ed5f2
+patch-size = 14025
+patch-config = dca1d2d22564ddaa465406ef8220e6bb
+build-num = 9953
+build-name = 9953_1.11.1
+build-branch = 1.11.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+

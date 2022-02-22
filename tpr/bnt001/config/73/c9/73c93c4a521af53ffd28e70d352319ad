@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d0a103f611d065817126ef3d342d2121
+install = 30ef5d28bc0c2b04705d7e6b0de07218 d41615130a7bf58def4a27386d001eb3
+install-size = 4094 4153
+download = b5e62fcb1886b9d59784af5c5baada04 91cab316381b1d703fe9a845e68fedac
+download-size = 1093 1184
+encoding = 95168ffdaf08dab34dd94041866f17f7 71e1f581a776cd986821267c406c9302
+encoding-size = 8360 8546
+patch = b5dc42317dbd064678bd55da2c8d2f45
+patch-size = 1713
+patch-config = 62ffb8fe8626947d1746e9014d4db855
+build-num = 5906
+build-name = 5906-agent-2.13.2
+build-product = Agent
+build-uid = agent
+

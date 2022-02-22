@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 203834c45588517553e6bc5dfa8f2d13
+install = 99e6f682dceac7b0c972d9b89eee0567
+install-size = 27375
+download = abde37299db2739ef7641740fbbb939c
+download-size = 8142
+encoding = 4ed6a7fef06c2db42e0d6cc7505b7a67 b54cecd0d5ac6a12769bee44739b140d
+encoding-size = 20748 20942
+patch = 04c884cb23ecec021b563796ecc9c544
+patch-size = 3278
+patch-config = 0a878406df44d63f6800d8ace6d03075
+build-attributes = public beta
+build-branch = 1.8.3-beta
+build-name = 8942_1.8.3-beta
+build-num = 8942
+build-product = Phoenix
+build-uid = bna
+

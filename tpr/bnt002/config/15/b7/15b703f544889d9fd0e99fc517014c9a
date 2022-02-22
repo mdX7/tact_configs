@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2fb071418e1d41388d1e38ebd4c4bb09
+install = c1899e099e8cbbf100a715e45e9a94d3 e147998dfdf4bb21608783802f815a29
+install-size = 24492 23912
+download = 5bc51f68a03d0269548e2972349475be b110d95265272cf242994fb4bbc41b29
+download-size = 6898 6408
+encoding = 61b85ecd79be837d65fff3a561c864e5 4f939a62b1bfaaea2fd554c972b44e67
+encoding-size = 20748 20941
+build-num = 9462
+build-name = 9462_beta
+build-branch = beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

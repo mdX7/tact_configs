@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = f5d840a37c413322887cd5be92f67bf9
+install = 7014174e595846c0bdaa4837bc484fa3
+install-size = 4196
+download = 3327dc132f434c5610427e8de358d4b0
+download-size = 1122
+encoding = e60d96b0ee3c1d030c690dc07e479e5a 57eba8dc96d3bffd6ddba7f1448b572a
+encoding-size = 8360 8546
+patch = ce489c3b1137625f9ad00bbaaae69596
+patch-size = 1585
+patch-config = 56b96dc128c05b894c7c4c2797fd8115
+build-name = 5296-agent-2.8.1
+build-num = 5296
+build-product = Agent
+build-uid = agent
+

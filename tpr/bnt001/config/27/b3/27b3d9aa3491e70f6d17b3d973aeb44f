@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 748170327dfd5f26b3bc6c86c14f3fa5
+install = 50c036497d6ee4d0cabd0d6420290fe5 f14f9f9e2df9716178ae3fbe67e86ad7
+install-size = 4094 4153
+download = c9fe5d9213221650f2c273aad2d8c950 4b1abd89c364988468e987d51e90d89c
+download-size = 1093 1184
+encoding = 71494ca2cf2dcee4620f20e47a255be5 a3d5aa0171b388807b279ab0efde3fdf
+encoding-size = 8360 8546
+patch = 046217c04226737af69507375a0cda09
+patch-size = 2353
+patch-config = 081361e4067390b301878aed2a12a3bc
+build-num = 6322
+build-name = 6322-agent-2.15.1
+build-product = Agent
+build-uid = agent
+

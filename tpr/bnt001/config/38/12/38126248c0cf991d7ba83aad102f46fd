@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 0053f402be3688259a0672738769a8c8
+install = 5100c8668f9c85c1dbff8cde050e1172
+install-size = 4094
+download = baf7fb7a63a0428b136913e605b7932f
+download-size = 1122
+encoding = dbc8799a65f2141905678e9a35af2b1b 4d0607950c2a0883db8af660347f5ed0
+encoding-size = 8360 8545
+patch = e369d1c10b45b8cbf44acb5f5f9854a7
+patch-size = 1861
+patch-config = 986440af6409aadad5e4fb856e123f7b
+build-name = 5750-agent-2.12.4
+build-num = 5750
+build-product = Agent
+build-uid = agent
+

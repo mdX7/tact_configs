@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 20cd57a9d03c4c2583a7e606d1ffa9a4
+install = 9a7519c1dcdd1817dc932f2b143cf2e9
+install-size = 4196
+download = 1bdda60eaff114f693954b682d9a5fe2
+download-size = 1122
+encoding = b62cf9c3b2ee563c332a25027e44aa1c 030594854073a456915c4bc09cf850bf
+encoding-size = 8360 8546
+patch = bdd782c83ddeed00db1089ac85dcf350
+patch-size = 1649
+patch-config = f55539d8e784ce392eda71153e0a4f68
+build-name = 5450-agent-2.9.6
+build-num = 5450
+build-product = Agent
+build-uid = agent
+

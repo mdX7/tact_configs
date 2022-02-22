@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 7d27367adb9921404e7cc3cd25fd9308
+build-version = 24
+build-num = 946
+build-name = 7d27367adb9921404e7cc3cd25fd9308-946
+build-branch = 1.8.5
+build-product = Catalogs
+build-uid = catalogs
+

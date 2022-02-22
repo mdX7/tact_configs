@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 48ad0edfee6ac0c025cd07078c1a306c
+install = 863111ca62b815450a8ef594b81131e0
+install-size = 26100
+download = bf3b71a37ced55920df1ed6759f65f8b
+download-size = 7862
+encoding = ac7e1c524fe6120062d814c29e7f6b03 db0f2cd367c8fcf1f34c0052d8a782ed
+encoding-size = 20890 21001
+patch = 549d447127a9bae5f76d6ec21406b7e2
+patch-size = 11069
+build-attributes = public beta encrypted
+build-branch = beta-4
+build-name = 7941_beta-4
+build-num = 7941
+build-product = Phoenix
+build-uid = bna
+

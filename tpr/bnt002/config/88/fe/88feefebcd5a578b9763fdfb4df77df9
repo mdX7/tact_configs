@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 4b346cd54380070101d01ff269e34757
+install = 3f037df2b1cecf4bf6a86438202c18e0
+install-size = 26046
+download = 5fcd7aca7c0f520de57376a0ca15e41c
+download-size = 8064
+encoding = 8bb90a7bf1946692e79affa397b1fa9e 79edbe6ac84140880cba67991b08f6f5
+encoding-size = 20748 20942
+patch = 17990bc827258b1cb725664764094ef7
+patch-size = 15847
+patch-config = 9f316e4ffcf99a7d0c6646340c153137
+build-attributes = public
+build-branch = 1.6.0
+build-name = 8265_1.6.0
+build-num = 8265
+build-product = Phoenix
+build-uid = bna
+

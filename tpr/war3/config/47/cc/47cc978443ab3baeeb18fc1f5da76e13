@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = ece2a7228af221c2faa7393e456f2db0
+install = 7ac8f5b4998ce257041a5e26d95c799a 07809a8e9ca6ccdf877dd1a13d489390
+install-size = 122827 118887
+download = eb5aab32a987af777d306478ecfe4a4a 8da71c31c9fdeb5cc373926ba0d428f0
+download-size = 54773 51176
+encoding = 9d9d30d5799254583f774f3f20299500 0d0d22ff05e57c354429f5df65af6464
+encoding-size = 128090 128281
+build-name = 1.29.1.9160-retail
+build-uid = w3
+build-product = War3
+build-comments = Rebuild of PTR Live build
+build-playbuild-installer = ngdptool_casc2
+

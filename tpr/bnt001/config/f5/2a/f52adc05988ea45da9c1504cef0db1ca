@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = dab2226c29349889d0d3adc6339a2f0c
+install = 353c19cb789cecc426aa759252e6d36f 588682a6e31ae4eadc3d608fb5cc19e4
+install-size = 4094 4152
+download = 29697d3c319cbf9b4e4952bd63b3756a 4fd3478d252a13769318ad2bb7fdd587
+download-size = 1093 1183
+encoding = 4cf533dc4a6af2b473cb3adcfb3e6c66 8118bccc5c1fad7058e8b040bc4dd6b2
+encoding-size = 8360 8546
+patch = a54ddd55e06485f9f3e0513b79d16c51
+patch-size = 1585
+patch-config = b35855ae9fef6497120fa953b211a598
+build-num = 6077
+build-name = 6077-agent-2.13.10
+build-product = Agent
+build-uid = agent
+

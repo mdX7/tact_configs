@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = d4544cf2921378c703d400146a0b69c5
+build-version = 25
+build-num = 996
+build-name = d4544cf2921378c703d400146a0b69c5-996
+build-branch = 1.9.0
+build-product = Catalogs
+build-uid = catalogs
+

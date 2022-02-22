@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 4b81ca0728d4c77193bcb3304179bea1
+install = f21c885e264816eaaac11964806f8028
+install-size = 27375
+download = 187498f6004955ce615f5e99c1377ff2
+download-size = 8142
+encoding = c4c721488f4f9d42426ee7ddadf99135 92e9242d84f9961ea073a3b41d03cdab
+encoding-size = 20748 20942
+patch = 58f666826e6a2a3586e231ed356f56a7
+patch-size = 8995
+patch-config = aabcc74dd69e0cb19aa0e1e07701c538
+build-attributes = public beta
+build-branch = 1.8.2
+build-name = 8795_1.8.2
+build-num = 8795
+build-product = Phoenix
+build-uid = bna
+

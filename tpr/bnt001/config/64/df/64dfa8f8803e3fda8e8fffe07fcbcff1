@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4f500b1c5219b7cb68625c936c930b3a
+install = e335db621446b2db90212320299f02a6 845b8ff818167c03d1c57238213fa88d
+install-size = 4094 4153
+download = 558ec01c00564af180d778b66a2b7d03 b12a4ed66dd964b83703efc84661107a
+download-size = 1093 1184
+encoding = 7650c3f05669a060746e4381fd48ac59 ffc1e232ff4e188a8d0bc72a507d2f05
+encoding-size = 8360 8546
+patch = 879726fd3a5b9610bc519da2c88482ac
+patch-size = 1585
+patch-config = 0bbe2468f135e3b743eb22cef635cef0
+build-num = 5980
+build-name = 5980-no-branch
+build-product = Agent
+build-uid = agent
+

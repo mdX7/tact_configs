@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = ca812eebc4ed54e3e5cdf9f549b43bb3
+install = f663f1503593ac203cb3b02485f9a218 c6a7f1dee58b7ee04feb8f176719a173
+install-size = 92317 88808
+download = 6fa14940b4f41893618a3e528d6dbf65 9b2468404ccfce0baa9c4f0269745bb1
+download-size = 1178261 1053170
+encoding = fcd337cc81c04e2f8dfd4da6fafdd7e0 9a9dc93442f9b73722014c12d9c6f623
+encoding-size = 2592518 2592708
+build-name = 1.20.10.3219-retail
+build-uid = s1
+build-product = StarCraft1
+build-playbuild-installer = ngdptool_casc2
+

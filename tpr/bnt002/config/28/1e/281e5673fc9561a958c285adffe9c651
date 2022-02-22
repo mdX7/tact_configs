@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 90311b977b56a5575e32b973be313a5b
+install = d18b1dad71f5a025e3e3ecead1ea4fce
+install-size = 26046
+download = 4edb40c6ce7d51943a4ff73a7f595ae9
+download-size = 8064
+encoding = 994d51c2cbd98a3a57cae333fc16b72f 73a9ae8716877e1f73d9f9f8baa2cc11
+encoding-size = 20748 20942
+patch = 5dee28d61d5054731ab27ec7f7af0f39
+patch-size = 12981
+patch-config = dc58acbcc9b1ea642e272fdce518b8dc
+build-attributes = public
+build-branch = 1.6.0
+build-name = 8293_1.6.0
+build-num = 8293
+build-product = Phoenix
+build-uid = bna
+

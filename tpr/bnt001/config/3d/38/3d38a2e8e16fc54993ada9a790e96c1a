@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 4a0b33e51f66217cc169a5a2ace70343
+install = d21e5f6fcb846eb9b35457715c10bbc9 cebad908d85dd7260a9a21d054c9ebd6
+install-size = 4094 4153
+download = a9d25f1590ebf8750e080ed3fd5f6c72 c5c5b79891fe4ce05d04955f3edd1916
+download-size = 1093 1184
+encoding = 77ca8f36fa68f7df65a123be1cc7c6f2 d37836ea49a860660a72b2580bffae80
+encoding-size = 8360 8546
+patch = 87745120df8c34b44eef3368c65dbc33
+patch-size = 2353
+patch-config = 5fb1fa5fd668ba82a1f771a718bdaf72
+build-num = 6244
+build-name = 6244-agent-2.14.2
+build-product = Agent
+build-uid = agent
+

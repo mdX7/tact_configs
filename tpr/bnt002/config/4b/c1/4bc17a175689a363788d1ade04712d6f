@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 686eb5a28ef19796c2dfbeec95e8b7fd
+install = 0b702625a42f422535aa18549d7a7e67 1c95ed14d7fe9cffc28dbf09ce217a0b
+install-size = 24492 23912
+download = 67f1f0a820233ec15351e96b2f6d9506 3be8f51b35cb53c4cb23538fd783f8c5
+download-size = 6898 6408
+encoding = f8974e09c37ca8c135ae7cdf03546381 ef81fd5b07f352ee3cfdaf31f76eb3e9
+encoding-size = 20748 20941
+build-num = 9489
+build-name = 9489_beta
+build-branch = beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

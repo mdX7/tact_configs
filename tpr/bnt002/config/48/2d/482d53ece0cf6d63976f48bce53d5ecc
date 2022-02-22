@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2528e9e4bc5149d23665956100a51a8a
+install = cfef63334f489635514b2a6a81aafe89
+install-size = 27046
+download = 5b72f310afa997305d2c6dc38734df6b
+download-size = 8064
+encoding = 1bec9d0952cf758ed1a23649fe54530b e3f73b07ba2f0d9f5e4543c2eb626ba2
+encoding-size = 20890 21002
+patch = 4b1579b513abb90de25b6a8f73aeffb8
+patch-size = 12411
+patch-config = 782b15b9bc612ca0331430b0e8961720
+build-attributes = public beta encrypted
+build-branch = 1.6.0
+build-name = 8260_1.6.0
+build-num = 8260
+build-product = Phoenix
+build-uid = bna
+

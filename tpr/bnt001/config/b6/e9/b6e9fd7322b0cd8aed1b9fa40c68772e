@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 67d167bbeed98dcd7febd6d663f0e7d2
+install = 5ad66ac7444b7df6aa18d70f17ed6e47
+install-size = 4094
+download = fce3ec7acc40033a2588b036997a584a
+download-size = 1122
+encoding = 2a0b754041fc61d89d10b07a3014887d 23f794262b4053dd5cd1b0632ec668e9
+encoding-size = 8360 8545
+patch = 34697324c3ee440250ab59a0118bce99
+patch-size = 1861
+patch-config = c6706c505ed8e6299c06f6bb2f03dd8d
+build-name = 5697-agent-2.12.2
+build-num = 5697
+build-product = Agent
+build-uid = agent
+

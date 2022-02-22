@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = c720a64fc9a6b14873b09a5f3bb4dfb4
+build-version = 26
+build-num = 1119
+build-name = c720a64fc9a6b14873b09a5f3bb4dfb4-1119
+build-branch = 1.11.3
+build-product = Catalogs
+build-uid = catalogs
+

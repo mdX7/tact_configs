@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 27c2d1bfb238fc4510b2f9cc86c5ed16
+install = 49f7a48d452a9c3ae74dd1d33e8bcddb
+install-size = 4094
+download = 5e9f9eb09427b1ae351dcc1929efde29
+download-size = 1122
+encoding = 3eb9ac61e96682e232abe295dd131d55 96b679f7e8b5f379d18415c0cf1460ec
+encoding-size = 8360 8545
+patch = 0f445c0741da7f53e671a3ed4be643f4
+patch-size = 1903
+patch-config = ac10b36828dc9cdb2d33f08fefceb0bf
+build-name = 5676-agent-2.12.1
+build-num = 5676
+build-product = Agent
+build-uid = agent
+

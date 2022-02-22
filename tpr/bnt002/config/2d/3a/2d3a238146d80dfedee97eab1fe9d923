@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 0b833dbc3c500b4d9ed6c46db075b65c
+install = f1b78361d2b40e07f290b14081de00e8
+install-size = 26046
+download = 42e048147feebe142a2b26f61bd2aa4a
+download-size = 8064
+encoding = eedc543432fc38c12d7c3b992057c9f6 ad1b4bd16270e355a58b781a70d37202
+encoding-size = 20748 20942
+patch = 7d2a0f3aeafa7e45559c7e51ef61cc76
+patch-size = 13129
+patch-config = f65b61ef1c6c3f2e6daa0b0b2809f4c1
+build-attributes = public
+build-branch = 1.6.0
+build-name = 8288_1.6.0
+build-num = 8288
+build-product = Phoenix
+build-uid = bna
+

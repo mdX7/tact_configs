@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8c3d44e97070cf1d10e4790948274093
+install = b1fd4062f66dabce7c2c51c9147da1c3
+install-size = 27455
+download = 5dd8e0b81d7c2ff69b0693b7e5983dd7
+download-size = 8142
+encoding = c3e40c000e59767001a325e8a1e1e935 e3577c34ba1227525938ee703f0c5e0b
+encoding-size = 20890 21003
+patch = 630b232baab7f7eafe178d0e69665fe9
+patch-size = 3521
+patch-config = 39aa20a131fdb961a59b8c13f858be72
+build-attributes = public beta encrypted
+build-branch = 1.7.2
+build-name = 8511_1.7.2
+build-num = 8511
+build-product = Phoenix
+build-uid = bna
+

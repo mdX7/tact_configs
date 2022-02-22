@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 41f937eeb53e7b0e2b1b38256a53d372
+install = 86de616e7a8e136acdd30a20da30cb83
+install-size = 26435
+download = 06b9d9dbb220a119e73cee85da6431fc
+download-size = 8142
+encoding = f70068505f7dd3aebc2727daa83b3e1c 51307f469acf453ae3cd4e12171e753d
+encoding-size = 20748 20942
+patch = 31db6bd8b8f6c14b1baaa63bb9f1d484
+patch-size = 4090
+patch-config = b756c9da4d3b0f0cf8e5d046ac22f7e5
+build-attributes = public
+build-branch = 1.7.2
+build-name = 8539_1.7.2
+build-num = 8539
+build-product = Phoenix
+build-uid = bna
+

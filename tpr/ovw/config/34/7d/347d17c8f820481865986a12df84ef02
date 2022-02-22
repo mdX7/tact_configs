@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 5c91f29c706981a2537e45fbb8101cb6
+install = c9e8aa8e9139875d5c2b28a2af3ae157 7541588d0af77ccd7dbb84e0e29dd660
+install-size = 7350 7100
+download = e6c52c337dab4245acce0415d2b6479c f66c4d16891bde01191747f9030a828b
+download-size = 21553575 19693292
+encoding = ee871cf7e3cea0f85762ca3200230b6b b2bfcc713446d44ddca68a094ce57704
+encoding-size = 80084112 52024803
+build-name = prometheus-1_21_0_1_PWX-44916-PROC2
+build-number = 44916
+build-branch = 1_21_0_1_PWX
+build-product = Prometheus
+build-uid = proc2
+

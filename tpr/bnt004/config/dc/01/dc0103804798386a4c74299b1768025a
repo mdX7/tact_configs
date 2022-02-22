@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = f7da623cbfae5093a790e4128cc338c5
+install = 82494273994c2dddcc060cf49328e13b 2067deb4fe3f948da82c0b00c8a42b46
+install-size = 3488 3552
+download = 0026884b7e5c8176581fef39f5122465 b5ec8f8c7014dc1ef63d4c1f11cf1582
+download-size = 1209 1299
+encoding = 3dd9676b4c2a8f1975760f2252bdb62d 0716d0b1ed3ba559ab28b3d973a89d3a
+encoding-size = 8360 8544
+build-num = 2880
+build-name = 2880_bna
+build-product = Bootstrapper
+build-uid = bts
+

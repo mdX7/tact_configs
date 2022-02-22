@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 2b008b9dd2283eb8b82f89641e856446
+build-version = 26
+build-num = 1048
+build-name = 2b008b9dd2283eb8b82f89641e856446-1048
+build-branch = 1.10.0
+build-product = Catalogs
+build-uid = catalogs
+

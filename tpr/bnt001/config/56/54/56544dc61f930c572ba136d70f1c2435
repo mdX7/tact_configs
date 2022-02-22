@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 1e5764248dd233f28784d101127cd9b6
+install = 3f3b05629b6fab7e71f99fc45a8e1b45
+install-size = 4196
+download = 6564462df3048c5b2839295f41c4bba0
+download-size = 1122
+encoding = b0f0aa81917ada886ce6bb9ba8afb6cd bccf3694e2e1b08198ca9e535cef58af
+encoding-size = 8360 8546
+patch = 2cd641fe3e92777dbf49bfa53aa7bbbb
+patch-size = 1585
+patch-config = ef816474b6160853be6d3d34bca5d2ad
+build-name = 5195-agent-2.7.3
+build-num = 5195
+build-product = Agent
+build-uid = agent
+

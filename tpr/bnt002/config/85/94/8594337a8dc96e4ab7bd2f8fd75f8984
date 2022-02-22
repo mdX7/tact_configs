@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2e00ad62a897c691dc084abd0e882eed
+install = 03aed32703e92adfa5c00f7be4dbb509
+install-size = 27455
+download = 232beaadc328f024b5f88bd2a811c9b8
+download-size = 8142
+encoding = 6e79649befa860c06d691b0a1f2ac90e d147bbae6df09e937a5238c1b4c7931f
+encoding-size = 20890 21003
+patch = 1da14b05c26c7759b763930eaac4d190
+patch-size = 3479
+patch-config = 9db71384ad1663ea83fef6457949bfec
+build-attributes = public beta encrypted
+build-branch = 1.7.2
+build-name = 8490_1.7.2
+build-num = 8490
+build-product = Phoenix
+build-uid = bna
+

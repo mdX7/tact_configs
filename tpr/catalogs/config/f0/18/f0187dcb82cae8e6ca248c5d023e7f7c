@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = d4b36f66164e3ea99dd818837c3c2277
+build-branch = 1.8.2
+build-name = d4b36f66164e3ea99dd818837c3c2277-882
+build-num = 882
+build-product = Catalogs
+build-uid = catalogs
+build-version = 23
+

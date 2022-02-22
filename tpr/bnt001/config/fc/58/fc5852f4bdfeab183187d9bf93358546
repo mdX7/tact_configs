@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 6c4ca8d7b1c894328acbf1391a9e584a
+install = 2fb5fe64277377b53f3888bf2fb7dbfd
+install-size = 4196
+download = b6a1f97db45e28ad8aad6b03167b191c
+download-size = 1122
+encoding = cf21ad7457972bf77e6718e470a2db3c 6aca78abd352f14a3c18df67c4210b3d
+encoding-size = 8360 8546
+patch = 4185cffaa9649ffe65126b681d551ca3
+patch-size = 1903
+patch-config = dd3d6e661a5c16cdf3dab7c1cbe9172a
+build-name = 5552-agent-2.11.0
+build-num = 5552
+build-product = Agent
+build-uid = agent
+

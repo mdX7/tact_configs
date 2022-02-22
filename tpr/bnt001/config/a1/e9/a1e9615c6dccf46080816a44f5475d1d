@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 6c198a7013a0a3156972d5a63cd8704d
+install = ac6eeee9659329740ef0d3fc59e031ab
+install-size = 4196
+download = 07668fbe9c138e0426776a7f041a3eb6
+download-size = 1122
+encoding = 148afa04b8c0096ef4b34f5da701a296 cca9002a7f5a0db8180999e4ff9abe27
+encoding-size = 8360 8546
+patch = ef690101d519f36bc2f1608052aa3587
+patch-size = 1585
+patch-config = 750ee40653293cbe98f1710624cff5e4
+build-name = 5459-agent-2.10.0
+build-num = 5459
+build-product = Agent
+build-uid = agent
+

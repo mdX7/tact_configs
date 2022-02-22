@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 10e1d21b3759477a120db3ea50610951
+install = eef971103309f3464703f62ff2610ce8
+install-size = 127047
+download = 92064ed2b41bfadc236e4228289079d7
+download-size = 41644
+encoding = 59cbbdac749d86aa81cc7352b7670a42 25a06fa068cee4aa2008c0cab16dee27
+encoding-size = 95066 95255
+patch = 41f31a99a30f673a8c8ff0cd0cdf910b
+patch-size = 72607
+patch-config = 5ac1a4ed3c633842d948c79a600a166f
+build-name = 24769_11.2.0
+build-product = Hearthstone
+build-uid = hsb
+

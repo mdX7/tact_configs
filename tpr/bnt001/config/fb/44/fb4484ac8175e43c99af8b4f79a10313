@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 638675a5b551602079f842568295f442
+install = f29910e61fc1e75042aee00817fe23b0
+install-size = 4094
+download = 324e18d560b8d7b67ecc0c8857b5d24a
+download-size = 1093
+encoding = d4045b9054bc22a3f60cce044a056782 81b167c2e313031170230d3c57184419
+encoding-size = 8360 8546
+patch = 6c0731b7dea12aaeae1f46439f0163f1
+patch-size = 1987
+patch-config = 9c625ccc54250575d8e1cdd798034a5f
+build-name = 5667-agent-2.12.0
+build-num = 5667
+build-product = Agent
+build-uid = agent
+

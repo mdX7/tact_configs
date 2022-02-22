@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 0b418ef97eb1b4889dfc14d5e639e7b8
+build-version = 25
+build-num = 995
+build-name = 0b418ef97eb1b4889dfc14d5e639e7b8-995
+build-branch = 1.9.0
+build-product = Catalogs
+build-uid = catalogs
+

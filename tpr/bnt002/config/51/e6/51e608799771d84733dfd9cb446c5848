@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8a45df8604b2acf745229d7154feae63
+install = 119e382722b2c94ff9a48e677bd3b174 eb3271bd88d778819066b19815b3ebc1
+install-size = 59526 58170
+download = b065e97760a61c3d883cdc7ce85597c2 632bf986b51f9455efdbc57de8c5ae68
+download-size = 9554 8873
+encoding = 696587ec8ac069283f66a24b5e84f524 4fcefa796a11bb8f229d9d1699f91522
+encoding-size = 29007 29200
+patch = ce9585639ea56332991d117b77675a7e
+patch-size = 14329
+patch-config = 3d2cea0640def29a8178e98c2654154e
+build-num = 10247
+build-name = 10247_1.12.1
+build-branch = 1.12.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

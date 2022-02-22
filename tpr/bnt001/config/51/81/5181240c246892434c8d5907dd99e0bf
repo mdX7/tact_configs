@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 60fc54eee78ca4ab602c5121a18b55f2
+install = 7753b277e6a99217bc841ce7450089d9
+install-size = 4196
+download = fbb96127cab5184db28c58dcff0c87fe
+download-size = 1122
+encoding = ce80772788a16e08583ac8173ae1cf70 8b875cccdeabccd651cdd63f9d5781fc
+encoding-size = 8360 8546
+patch = b576297faea0157d27bcc96746bc88d1
+patch-size = 1585
+patch-config = ff14ea6ac5c18f35d80efe349179c9d9
+build-name = 5332-no-branch
+build-num = 5332
+build-product = Agent
+build-uid = agent
+

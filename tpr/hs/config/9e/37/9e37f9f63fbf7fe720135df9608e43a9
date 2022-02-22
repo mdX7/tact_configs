@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 0fc7f5b5a58a8b35a1dbf6d8cdae1294
+install = f13453f7716ad08ca5baf3e2528d35ba
+install-size = 126920
+download = 35441b90251ec11c425c969d480eac0f
+download-size = 41462
+encoding = b863662c55a73f83d9c82fc48014d86a a4aafe63dadf25e9f1ae6baa438e4a23
+encoding-size = 90938 91127
+patch = 90cdb40787a845bad366fd8b30fd4dc7
+patch-size = 92613
+patch-config = db26859d42cc2f7bcc328b3133fa9039
+build-name = 23576_10.4.0
+build-product = Hearthstone
+build-uid = hsb
+

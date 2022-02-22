@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 7fb5d58beaaa63b03330fa98eef053e3
+install = cf2f1aef9714d8898f7c88e5cfe0d056
+install-size = 25135
+download = 8615412e0aa26cf69c6ec06b39d0de86
+download-size = 7862
+encoding = 165573f24e42316338b1ced8af6e693a 585e35fa8ff0cb1323a3520116112d40
+encoding-size = 20748 20942
+patch = 44ae69086bcff1ec1c8a94e52e9417cd
+patch-size = 11423
+build-attributes = public
+build-branch = 1.5.0
+build-name = 7963_1.5.0
+build-num = 7963
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = e4838cf358ffda609bb8b62988ae9eab
+install = 5bee324d1d632a433126e80cdaa165de 7a01a53ddef40651a4452b2099b2be68
+install-size = 4094 4152
+download = 2f427327c6fefd06cd830070ee2b76a9 816a52de6fc0fe0eaec1637348f36719
+download-size = 1093 1183
+encoding = 41790baf0c77d3b2065bcc3c178d9e46 c5648ae3e5bae6df26ee9e9b3dd8f344
+encoding-size = 8360 8546
+patch = 6c0391546931c66cff6e2077bb8873ff
+patch-size = 1713
+patch-config = 2113c13f0464880b049ea5fa00c3a524
+build-num = 5913
+build-name = 5913-agent-2.13.3
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = f44de66c78cbc4bdd4601727c1b183d7
+install = 1f76c231fac3d3a4db729b8c241b5a85 967ed051e0f29791ef2323c1e416589c
+install-size = 3801 3865
+download = 9e567a01c7b6cd470e35db1eed7be2a8 15f75bbf9346a3c59ff70e6d104119bb
+download-size = 1209 1299
+encoding = 2b51af90ba71e91eedf1dd16a85e898b 36a4e47a7ad24048d7f427240c1d0c43
+encoding-size = 8360 8545
+build-num = 2879
+build-name = 2879_wow
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 87365cc5d0c5339f46f879941dafde65
+install = 44213e257d8d3cfd78842440e8a874cf
+install-size = 26355
+download = b9e55c610fa2fbfb811dceabfe8f9abe
+download-size = 8142
+encoding = 8b4a01206aaf067009d438cc5ce862f2 52dbdd8077456eb3d37d20d866455316
+encoding-size = 20748 20942
+patch = d657a9edaa69c27b875cf5673f345b05
+patch-size = 8909
+patch-config = 64062f6b2bff174e15332381981c1f3f
+build-attributes = public
+build-branch = 1.8.0
+build-name = 8600_1.8.0
+build-num = 8600
+build-product = Phoenix
+build-uid = bna
+

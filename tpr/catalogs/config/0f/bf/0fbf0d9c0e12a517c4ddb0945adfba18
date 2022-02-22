@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 3e853e9eaa0a4f32e247014fc8a8df50
+build-version = 24
+build-num = 935
+build-name = 3e853e9eaa0a4f32e247014fc8a8df50-935
+build-branch = 1.8.5
+build-product = Catalogs
+build-uid = catalogs
+

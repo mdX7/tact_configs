@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f4ac479ca4d64e7062055675c85d85c7
+install = a4ccb99a4d8c7a491f0c710aeb8ca998 5e272ae981847e605041d041f41175b5
+install-size = 26355 25685
+download = 987e7e64c78af85989d984323975ebaa 8f15cb79afc6ad2bb7fb32b281b57b05
+download-size = 8116 7537
+encoding = ead62af357357a2e1cc571ea25784eb6 dba5a58478ba9445a39fa806187c2da7
+encoding-size = 20748 20940
+patch = 8bdb8cb6829a3ca37543e7cbc9c30d91
+patch-size = 8161
+patch-config = bd8b6038cacf70096e5e4e5d747e801a
+build-num = 9526
+build-name = 9526_1.9.1
+build-branch = 1.9.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+

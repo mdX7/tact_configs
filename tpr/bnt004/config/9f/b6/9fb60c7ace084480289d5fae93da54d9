@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = ecc6204b1ec55f342013ab83d5948ad5
+install = 735ff2fa393455892289493715a12f4a 3579f8e7e76c41b02a5f3a7f7d2fda16
+install-size = 3801 3865
+download = 4dfa92fe65edfc64615610f9fa565441 8431440396e9ef2a9b45ee98c3fa3d8a
+download-size = 1209 1299
+encoding = b05ba3c19d96e979b34806c03adf53cd e4bdd6ed785742fc589b0501fe107468
+encoding-size = 8360 8545
+build-num = 2882
+build-name = 2882_wow
+build-product = Bootstrapper
+build-uid = bts
+

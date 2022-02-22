@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f3b0ed9563098f75256b5f58ccac3a59
+install = 1bcc2c1b6fbbd073c20065ccf1068906
+install-size = 25955
+download = a4d3e51c0fc0163360d0ffa1d070afc3
+download-size = 7810
+encoding = 7f0d7c35a1f648da9fc33570aa05de5e f002ef75acdf1f7ae7ddf6100d1d8017
+encoding-size = 20890 21002
+patch = 8ad8cdfe5de4d0bf9390b1a9994d0037
+patch-size = 3111
+patch-config = d2da20acee76dca229227b0135ef5da1
+build-attributes = public beta encrypted
+build-branch = 1.6.0
+build-name = 8169_1.6.0
+build-num = 8169
+build-product = Phoenix
+build-uid = bna
+

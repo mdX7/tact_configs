@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = a212e630cf981ac01239cafc917ebb43
+build-branch = 1.8.3
+build-name = a212e630cf981ac01239cafc917ebb43-901
+build-num = 901
+build-product = Catalogs
+build-uid = catalogs
+build-version = 23
+

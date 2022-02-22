@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 4b21f85c8e1fd339c3bc54c93b39f0d7
+install = dc235724ebeaa4d04fe8834d08919aac 7f428512e40597a8431e21bbd8966187
+install-size = 93037 89506
+download = 454a812efe2d192cdd71bbee6a583e1f 919f3ec2b24a8319c292d25709c1956b
+download-size = 1180824 1055449
+encoding = dddbb0d2ac9a7db1fc64ed509ab35aa0 8e85ab86dc20107f61046e2c617e7d4e
+encoding-size = 2592518 2592708
+build-name = 1.21.5.4173-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.21.5 maintenance patch 6 RC 5
+build-playbuild-installer = ngdptool_casc2
+

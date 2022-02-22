@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 9f5248493279e9e955e9350c6f67cfa9
+install = e35ad8d424b735d3632e13fa48b44efd 6726e34554b81f86e4d841fa2fd4096b
+install-size = 93037 89506
+download = ba4ad1e0cf806ff372f6d4b6b4d2fc37 81dcd7ca0c378b4fd5c5549e17bc2634
+download-size = 1180824 1055449
+encoding = bdf1998b2cd1829d8e40d76ef885e0eb 709994124b0633769ae9ca038d4d7797
+encoding-size = 2592518 2592708
+build-name = 1.21.5.4261-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.21.5 maintenance patch 8 RC 7
+build-playbuild-installer = ngdptool_casc2
+

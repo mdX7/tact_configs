@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = acbbabd1b21fcba4a14ff9157d5819ea
+install = ccf26ae067de6348dfe048b9df871b5a 93e13e69431615444821a7f39237b6e7
+install-size = 3754 3818
+download = 4d0bd5bc4e56f8b6560f138d966ede41 4044babc5b23c608635c3e9c6ad63d4a
+download-size = 1209 1299
+encoding = 9d14f736c6ac8e3f14a302e2ff64f52c 445954f3334b7387fe6d55b6591d071a
+encoding-size = 8360 8545
+build-num = 2879
+build-name = 2879_hst
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 9fb32cc48de89d1e9c3924cbfc1bc81d
+install = 39741906900b0b6dc52bdcb98dccac2e
+install-size = 26100
+download = daf729a2c512dd0ef4100311ea226e8e
+download-size = 7862
+encoding = 9c94c0e737434fee37dc9b9e5a16a4c9 475812c74ad37ae8fc3d0ba708e89e8c
+encoding-size = 20890 21002
+patch = d7283d56bd557ad1c54b14b026b415da
+patch-size = 11111
+build-attributes = public beta encrypted
+build-branch = beta-5
+build-name = 7976_beta-5
+build-num = 7976
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 485974eb69f8bcd70f0775a9260b4bd8
+install = f3d8770a334cf04e2d34944b1c8c9dec
+install-size = 26100
+download = 565a86b80240dcbf986ba43dd4a8b0fb
+download-size = 7862
+encoding = 81b27e0410bd4f5fab935d1d5d278482 cd208012dd96f07deba4656dc323bc3a
+encoding-size = 20890 20999
+patch = b7f75f1e51f098b5f7e623d5d58a840d
+patch-size = 11211
+patch-config = f869b79b3549ed6c9d5f6cfe0877ae7f
+build-attributes = public beta encrypted
+build-branch = beta-6
+build-name = 8071_beta-6
+build-num = 8071
+build-product = Phoenix
+build-uid = bna
+

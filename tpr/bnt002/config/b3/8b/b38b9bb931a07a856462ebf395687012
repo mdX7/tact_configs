@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 981c33ef376f6063c19531c91771d7ea
+install = 672d9572667c29033ae43c517d24e896
+install-size = 24555
+download = 511e645543b707177f1873ab2c730860
+download-size = 6924
+encoding = 2e0e741442b2822078179e3c1f6cf9f5 feade4949f72a819d46c1eec7742f80a
+encoding-size = 20748 20942
+patch = 10532e1283828001aa209e2a92db9f57
+patch-size = 2962
+patch-config = 2643bb0e8536c7d608de1b24cf40d7de
+build-attributes = public beta
+build-branch = beta
+build-name = 9095_beta
+build-num = 9095
+build-product = Phoenix
+build-uid = bna
+

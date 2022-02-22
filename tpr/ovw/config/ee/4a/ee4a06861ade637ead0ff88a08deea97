@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 53ef3837f38a5b328b579fec57be6563
+install = 2b6145216a7c69da931cda3a2a956399 7b89e85511167e45458108235e27b52e
+install-size = 7350 7100
+download = 345e1fac024339d735a1969f9b859d43 68506c40ac2e821357d667b6cebf5719
+download-size = 26651023 24348609
+encoding = f7f98c3084fc0bb59670a789d48088c2 cb81c8032c72f496e444709f3e332d55
+encoding-size = 82799682 62223940
+build-name = prometheus-1_22_0_1_PWX-46358-PROC
+build-number = 46358
+build-branch = 1_22_0_1_PWX
+build-product = Prometheus
+build-uid = proc
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 7f83a066fdcf118452f43e29fdf66b84
+install = d06348429b078c4e4b5825af1566b6b6
+install-size = 25135
+download = c6699eb76f07eda185b258cf61a9c8ee
+download-size = 7862
+encoding = e060690cfae5e6c5a402baa098d0de9a a43fcac915c2c1348cc3dc2dc8f8ade1
+encoding-size = 20748 20942
+patch = 85af8276e89f6697d86758e342bf02ef
+patch-size = 3722
+patch-config = 87e9012ea18c98db1269d7fca2340420
+build-attributes = public
+build-branch = no-branch
+build-name = 8180_no-branch
+build-num = 8180
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 8fa7c2a5536636f35faf2b2741ade290
+install = 9e777d57bc495b450a25efbc16c61f7b
+install-size = 4196
+download = b66b178d2bf1dc2bf1e62b92a7a0ff6d
+download-size = 1122
+encoding = 87864609fac8944aacb89fdbd86cd573 520f452de23515cf84a76172bd7c6152
+encoding-size = 8360 8546
+patch = 8e3c0843eadde77defbfeaf6e5d59025
+patch-size = 1649
+patch-config = 33004af2e032d801557055c0f27d8c0d
+build-name = 5378-agent-2.9.3
+build-num = 5378
+build-product = Agent
+build-uid = agent
+

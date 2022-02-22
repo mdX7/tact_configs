@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 3b19699c9cec5b5c74b5b62a92c50454
+build-branch = 1.8.3
+build-name = 3b19699c9cec5b5c74b5b62a92c50454-902
+build-num = 902
+build-product = Catalogs
+build-uid = catalogs
+build-version = 23
+

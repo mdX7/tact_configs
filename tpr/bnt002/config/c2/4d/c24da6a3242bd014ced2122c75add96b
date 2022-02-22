@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 46ac888576836f6b62f5c994251e7a97
+install = eafeab3422bb4ccb95336c289691d582
+install-size = 26355
+download = cca2f1c21e627691bb2209e0ed700160
+download-size = 8142
+encoding = 2057c05069ed21d106c861d31ad3882c a25fcbdb38a36b64bfebed11775d3e94
+encoding-size = 20748 20942
+patch = 7985608fcf8c94867e33481cd033c301
+patch-size = 3446
+patch-config = eb2072ad7449c38fc93d3823db398b7d
+build-attributes = public
+build-branch = 1.8.6
+build-name = 9262_1.8.6
+build-num = 9262
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 3547408d4131834b1392a6a2e2dfaeaf
+install = dca32a63b35fadec81cbd1a397405c7b 010006f43edce834bce505863b1e98b5
+install-size = 93037 89506
+download = 5cf7153b209f4c9489f01b667904dcf4 0aa5e1d14d30eb64118b354890f51c1c
+download-size = 1180824 1055449
+encoding = 42427918d02e8def094c028bed302b0e 08d1fd9b46f9fefe896dea1f9b4c24fc
+encoding-size = 2592518 2592708
+build-name = 1.21.5.3899-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.21.5 RC 10 (Storm slock fix; all NGDP)
+build-playbuild-installer = ngdptool_casc2
+

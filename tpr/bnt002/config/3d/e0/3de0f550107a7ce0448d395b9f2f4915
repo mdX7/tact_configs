@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 70d2208f69f018b235c9de405fa400d4
+install = bae753ae02719c33fc669260964e4062
+install-size = 26355
+download = 2ad39643a0a5a832d72d0552e5ca5d00
+download-size = 8142
+encoding = 3f601d561cf726705e1c3321cc241aad a8a14042d4226029228da198115da50b
+encoding-size = 20748 20942
+patch = 515b9641b30efc786aaea328bac53906
+patch-size = 8909
+patch-config = cd52b309470a4c97fe0cffb4872f94ad
+build-attributes = public
+build-branch = 1.8.0
+build-name = 8554_1.8.0
+build-num = 8554
+build-product = Phoenix
+build-uid = bna
+

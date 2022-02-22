@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 980db10694f7b968c58ae5e5ce8b7c3c
+install = bc22b858f3a62c8ff860730589991f68 d1b553896cfad971f1ee372b1e9ef851
+install-size = 3443 3507
+download = de01783fb51fe45a752965ae093d3760 c2ac44a90549cd4be97aa084a2ef5b74
+download-size = 1209 1299
+encoding = af12d9c54416de28e444e36fb3353349 53e1363fee3f39a1ec524e07140555f4
+encoding-size = 8360 8545
+build-num = 2881
+build-name = 2881_dst2
+build-product = Bootstrapper
+build-uid = bts
+

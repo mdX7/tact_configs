@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 1e20b5e9398c8770c935d01aad39b996
+install = c5e37e83698e3c22108a0fd96fda8bf6
+install-size = 24492
+download = e3361b4e5a1cd7f511f92d77c7906d09
+download-size = 6898
+encoding = 5aeb49ea57f382e7865fce7fe45510d9 6b03e97cf526d36e67569a9551d79a7b
+encoding-size = 20748 20941
+patch = 601571f7efb02841a612648ded2ffb44
+patch-size = 3282
+patch-config = fea388ccc634351b44e140da6e993cca
+build-attributes = public beta
+build-branch = beta-rc
+build-name = 9300_beta-rc
+build-num = 9300
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 8bd08b15dc8b6d5e1bac58e6105eb5ea
+build-version = 26
+build-num = 1032
+build-name = 8bd08b15dc8b6d5e1bac58e6105eb5ea-1032
+build-branch = 1.9.3
+build-product = Catalogs
+build-uid = catalogs
+

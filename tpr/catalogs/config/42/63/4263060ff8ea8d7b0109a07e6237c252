@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 320e3db1270ce98a52e8520ab2949b1e
+build-branch = 1.8.3
+build-name = 320e3db1270ce98a52e8520ab2949b1e-891
+build-num = 891
+build-product = Catalogs
+build-uid = catalogs
+build-version = 23
+

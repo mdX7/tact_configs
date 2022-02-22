@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 52446b9b14cc885b6e2b5df6fcad67ba
+install = a44f125aa2a7a884b132e5ccc29a0ad9
+install-size = 26046
+download = 4f94246a79b68051d501f53e8118c980
+download-size = 8064
+encoding = 4adaafd065977668362c9e3b77059cbc 130370157e6f61395fb9b7c607606975
+encoding-size = 20748 20942
+patch = 2e87d14107b9cf80a1a43ad4960a7427
+patch-size = 12897
+patch-config = 154c85e45aeb71dffb5e07760d89857d
+build-attributes = public
+build-branch = 1.7.1
+build-name = 8423_1.7.1
+build-num = 8423
+build-product = Phoenix
+build-uid = bna
+

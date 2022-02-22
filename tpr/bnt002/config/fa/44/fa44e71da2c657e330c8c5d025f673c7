@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 966eab34a836bb783281d1c7bbe33bc6
+install = d0049893f70a62acb5670ca7c5ed9efa
+install-size = 27046
+download = e3800cb2c60c08c11972b22a76257b8c
+download-size = 8064
+encoding = f83a16fac19ff2b4f4ffe57c20476b79 109a604ba40f41a68abae3d038af86e3
+encoding-size = 20890 21001
+patch = 750075a65ed037e65f201649dd7f4ce2
+patch-size = 2327
+patch-config = 0c9ac336f2d8a7d0b7fe0b401116f111
+build-attributes = public beta encrypted
+build-branch = 1.7.1
+build-name = 8429_1.7.1
+build-num = 8429
+build-product = Phoenix
+build-uid = bna
+

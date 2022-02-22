@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 899c7385047c167d281e276a5c48bab2
+install = 400b3a5f6fdcd50bfe4f9d684ec17777 5295763045261ceae5448a9c2f32c34d
+install-size = 122827 118887
+download = 62c9e4714a8ac269351ff3ee6fdc75f6 ffd53425ae3c505e55ee475dfdff5f5e
+download-size = 54773 51176
+encoding = d4881f2ce3413c3dd83d9e191addacdd df1ea1e1c9f01562e2ef78293d3805c3
+encoding-size = 128090 128281
+build-name = 1.29.0.9055-retail
+build-uid = w3
+build-product = War3
+build-comments = New RC
+build-playbuild-installer = ngdptool_casc2
+

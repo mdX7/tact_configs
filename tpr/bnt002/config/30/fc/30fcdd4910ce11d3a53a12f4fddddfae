@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ead423ac7331c08433e4a66a7b761ee6
+install = 933d61bcb2d3c1209c2d53c28dc23ca7
+install-size = 26355
+download = abc91a57f0419342e0b308b46bb498df
+download-size = 8142
+encoding = f62bf2d4d278df3d5e4650900ec0d06a 4f055d68cc6c61ad905a44b2da266dc0
+encoding-size = 20748 20942
+patch = 81a1367cfa96ee4cf1b602cd691ba2b2
+patch-size = 3938
+patch-config = 0796b551c873809f5398822745b68129
+build-attributes = public
+build-branch = 1.8.2
+build-name = 8793_1.8.2
+build-num = 8793
+build-product = Phoenix
+build-uid = bna
+

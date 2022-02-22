@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = b2b0fc207e969d4981bb2afb5dba3d6d
+install = 62d1be49385926fb5c7b66d743d7a5d4
+install-size = 4196
+download = d2a19b0a116b818f7ca6b580e34e78b2
+download-size = 1122
+encoding = 9904b19ae670b336af11617c8899e8e1 2329360f0063ca76196dd44e46b9deff
+encoding-size = 8360 8546
+patch = 8fe99385e7986e63a462e74e1cd66574
+patch-size = 1585
+patch-config = 1aa5a555037ea1fd37dc5c33e8bea7ea
+build-name = 5200-agent-2.7.4
+build-num = 5200
+build-product = Agent
+build-uid = agent
+

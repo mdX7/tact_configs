@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = e5a495e98531c8d3c93f37a837e120a0
+install = 612c659bfd6e7de7ce50b1a85a2d03f2 f7106db5b706068c6042be87add2e18e
+install-size = 23512 22921
+download = 38ff846e42c3e9611d559bd4ec4704cd 2bbb511806c5c724760609f14e1da684
+download-size = 8796 8265
+encoding = 9531bcdd5f1887bf0adbe656f6302cf3 0f562f8e85062a34ab338a9ad5a1b199
+encoding-size = 20755 20948
+build-name = 1.29.0.8920-ptr
+build-uid = w3t
+build-product = War3
+build-playbuild-installer = ngdptool_casc2
+

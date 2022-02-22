@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 38f07c62ee43b95da737f8050c1b6713
+install = 20a0d88114e42d259fcb4d5c31b2a4fd
+install-size = 27046
+download = 5ac504cc58f80bce69fe37003b1a5392
+download-size = 8064
+encoding = c7cd7e5276b46c585384ced36b5b8713 b833e25279390224d3fd3b6253f25abc
+encoding-size = 20890 21003
+patch = 13423c253167036b1759e47d7c6e328d
+patch-size = 12411
+patch-config = fd8d4b04949592b48f21c037f0e83d07
+build-attributes = public beta encrypted
+build-branch = 1.6.0
+build-name = 8230_1.6.0
+build-num = 8230
+build-product = Phoenix
+build-uid = bna
+

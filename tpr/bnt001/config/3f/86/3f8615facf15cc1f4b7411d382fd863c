@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 1046fc85d56c6de0ec7324e8811f2ead
+install = 87140a3888df42ed7aa4dc8d53e00e21
+install-size = 4196
+download = 7f79c2d72540fa6102992ab6210b9a17
+download-size = 1122
+encoding = f45f8fdf00fcc699e399117c18f1612f 4382b3377c25310dcc4e8d5dfc6a4a83
+encoding-size = 8360 8546
+patch = abb0ec7278e67041fe0d67b3a253d66e
+patch-size = 1585
+patch-config = f01512998aab83e341859b73bc378223
+build-name = 5331-agent-2.9.1
+build-num = 5331
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = aad3752cdfaab6115bec60dff7c671db
+install = 8504fd5d9a4e2fcb4b14d340399344dc ed9f57d9318b97f0f8f2621ffbbe89b4
+install-size = 4094 4152
+download = 782d546e70fe948faf5a89101ddac6bb 9c9d58c52a67dab39281cb396f9d9a24
+download-size = 1122 1212
+encoding = 93d3a139f3ee1c478e6343ea19fd22f8 8840c1e12fa95583e89f745d215b95e8
+encoding-size = 8360 8545
+patch = f2aa9f8c8482fce8e0e7a832c827aa63
+patch-size = 2417
+patch-config = 7aaa9dda6de4568f25022a2777ccb490
+build-num = 6296
+build-name = 6296-agent-2.15.0
+build-product = Agent
+build-uid = agent
+

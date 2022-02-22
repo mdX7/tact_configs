@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = af6dfd6042ef0bf510d1385601bc69c5
+build-version = 25
+build-num = 1020
+build-name = af6dfd6042ef0bf510d1385601bc69c5-1020
+build-branch = 1.9.1
+build-product = Catalogs
+build-uid = catalogs
+

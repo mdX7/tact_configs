@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 2d168a48012bb8c909e6bc690fd753e2
+build-version = 25
+build-num = 993
+build-name = 2d168a48012bb8c909e6bc690fd753e2-993
+build-branch = 1.9.0
+build-product = Catalogs
+build-uid = catalogs
+

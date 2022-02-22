@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 8520678988f3cc8964d385d6dacb88c5
+install = 8f142247bc7564ec39a3557199652e18
+install-size = 26355
+download = 9bfd699806c08e246575dd12802bf5ce
+download-size = 8142
+encoding = 2fd967a4cadedeb12717ae27c4696f06 ec9d184a8891d20f8b3f9c712f1bb860
+encoding-size = 20748 20942
+build-attributes = public
+build-branch = 1.8.6
+build-name = 9255_1.8.6
+build-num = 9255
+build-product = Phoenix
+build-uid = bna
+

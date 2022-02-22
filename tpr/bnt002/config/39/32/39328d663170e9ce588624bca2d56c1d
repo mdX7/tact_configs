@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 75da6241b6a7697c402ecca4b5ad4fa6
+install = beef0697f914c2edfa18b15bfa6b4fa9
+install-size = 26046
+download = a9581318ef1d633765b2d8e0dd2671be
+download-size = 8064
+encoding = 6ccfba698ac4cafa813f19b2d8ec67c6 1aea9ae8aa529ceebc4f8dcf8cda02d6
+encoding-size = 20748 20942
+patch = 9c7b7ad10836bddae1fc5ef16add9297
+patch-size = 13065
+patch-config = d17548e2276540bb6f900675ddea2aa6
+build-attributes = public
+build-branch = 1.7.0
+build-name = 8385_1.7.0
+build-num = 8385
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 7bb8a2161b71bade52b3a4c9952fa41a
+build-version = 26
+build-num = 1115
+build-name = 7bb8a2161b71bade52b3a4c9952fa41a-1115
+build-branch = 1.11.3
+build-product = Catalogs
+build-uid = catalogs
+

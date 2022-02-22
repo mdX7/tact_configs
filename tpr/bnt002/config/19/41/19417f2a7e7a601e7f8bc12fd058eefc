@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ab556df908217c819967f81b6ed8a080
+install = b97c6fd24b7ce8c6820880cc99b1d568
+install-size = 26100
+download = 8d137ec4468d629ddce23f76fbbe7495
+download-size = 7862
+encoding = d78d7e6045ee4b0d5f52d4327f16913f 0682fe79787bb436251b36322a32e25f
+encoding-size = 20890 21003
+patch = 2c8ed7dc71334c968d06fd79e2bebb28
+patch-size = 11363
+patch-config = ddee4b0f90506f80e43435ae7c29720f
+build-attributes = public beta encrypted
+build-branch = beta-6
+build-name = 8056_beta-6
+build-num = 8056
+build-product = Phoenix
+build-uid = bna
+

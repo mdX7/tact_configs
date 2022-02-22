@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 8082cce5cb9953d7ef0d1a05816fceaa
+install = 83da914b580f354964fc23be03d03aa4
+install-size = 26100
+download = bfa33ca78e53f3186b44a76d879cdea4
+download-size = 7862
+encoding = 9876f4394c9365b32d9798e92a8a193f 4b46fe9b19fa7074a46151e0d00fb36e
+encoding-size = 20890 21000
+patch = a1b13fd5f5ce898bdf38e9324eda113b
+patch-size = 10707
+patch-config = c0170c8af43ee7f9319ff12287727286
+build-attributes = public beta encrypted
+build-branch = 1.5.2
+build-name = 8134_1.5.2
+build-num = 8134
+build-product = Phoenix
+build-uid = bna
+

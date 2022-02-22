@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = f88fbb9d2ce3e3ed8f0381ef780f3405
+build-version = 26
+build-num = 1106
+build-name = f88fbb9d2ce3e3ed8f0381ef780f3405-1106
+build-branch = 1.11.3-bfa-beta
+build-product = Catalogs
+build-uid = catalogs
+

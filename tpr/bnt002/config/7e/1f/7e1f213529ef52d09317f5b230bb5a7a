@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 82f32ab5b47d71295cfbfedf6d45164d
+install = 25f5abb8432e26ca3cdca48287b6337c
+install-size = 26435
+download = 57d949e196038aee5ec13a12d6ce88df
+download-size = 8142
+encoding = 45822eb9ba72eedf0cf36dbc8f1490db ad408ed892aa26a27e6e9481049b37a0
+encoding-size = 20748 20942
+patch = 799df608b939deb433ee6f9c5ce6efe4
+patch-size = 13917
+patch-config = 70f261e267d4a74296ccadd327a410ea
+build-attributes = public
+build-branch = 1.7.2
+build-name = 8518_1.7.2
+build-num = 8518
+build-product = Phoenix
+build-uid = bna
+

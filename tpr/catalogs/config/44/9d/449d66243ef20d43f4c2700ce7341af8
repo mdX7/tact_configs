@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 617f65c484b005fce8a2a15b49489ad1
+build-version = 25
+build-num = 1009
+build-name = 617f65c484b005fce8a2a15b49489ad1-1009
+build-branch = 1.9.1
+build-product = Catalogs
+build-uid = catalogs
+

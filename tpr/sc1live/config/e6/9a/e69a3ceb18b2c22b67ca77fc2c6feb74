@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = f8e2652b3ed127ad69cdbdbae3a40569
+install = 8c2459f0eb31e028e3a05eb66339a697
+install-size = 83513
+download = 61a7ca8f3dbe9776254ec8c4e6e50000
+download-size = 338136
+encoding = 620c576aefda09be3d02bdcd8c9f50e0 8f21eb016878bf90ffbca36698c86416
+encoding-size = 755553 755744
+build-name = 1.18.5.1581-retail
+build-playbuild-installer = ngdptool_casc2
+build-product = StarCraft1
+build-uid = s1
+

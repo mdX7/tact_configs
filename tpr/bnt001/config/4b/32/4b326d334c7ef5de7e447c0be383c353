@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = c50ce72ff0f4d15b7d601d44f1a8b86b
+install = 3a0465587ce24755e4cf5a9ddce3d556 fa77370d71ef54aae313788e729247a5
+install-size = 4094 4152
+download = 5f9caf3137c3225bcce0290b64ccf3b5 d3581495b0e10c79d207cf2b5a9f2b61
+download-size = 1093 1183
+encoding = 28f733cbf425b09036b443a915df4c81 db8854058ccc650accf3eae269cbb0f3
+encoding-size = 8360 8546
+patch = f201de71ace7dbeae2ff9b553aacc729
+patch-size = 1585
+patch-config = 1cef7554497df3e41ae805999061bbf1
+build-num = 5985
+build-name = 5985-agent-2.13.6
+build-product = Agent
+build-uid = agent
+

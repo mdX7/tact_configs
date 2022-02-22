@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 9ff3bad7443c4ff98bd28bcf0b36b7af
+install = 6c4af0339da403426811d7de35cf385b
+install-size = 4196
+download = 28216d5c1ae23a65378bbabdabfe95e9
+download-size = 1122
+encoding = 2d5861cda5fba50c22400b2a75da9286 572f4814b31a8ee5a51944337aa69e8e
+encoding-size = 8360 8546
+patch = b820eb9ad13c935badcc2ec2e6773348
+patch-size = 1819
+patch-config = e8b4015155a359cf05c104697a7dafa9
+build-name = 5485-agent-2.10.1
+build-num = 5485
+build-product = Agent
+build-uid = agent
+

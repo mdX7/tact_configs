@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 56a3520ce11a6eade17b7265c0685b3b
+build-version = 26
+build-num = 1062
+build-name = 56a3520ce11a6eade17b7265c0685b3b-1062
+build-branch = 1.10.1
+build-product = Catalogs
+build-uid = catalogs
+

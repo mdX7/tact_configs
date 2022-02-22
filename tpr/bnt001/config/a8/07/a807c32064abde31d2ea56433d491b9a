@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 865a20fadee45a943032b55a290c2124
+install = 2cfeaa213153031639e06c43d156d450
+install-size = 4196
+download = e200ae85814a3c03ae9b85e7ba110430
+download-size = 1122
+encoding = eecad308c786557fb480a95baefe2db0 29233f67d951b9f3c4356e48cecd42c2
+encoding-size = 8360 8546
+patch = f97333008ad8c599ab8fb3d35853cbe1
+patch-size = 1585
+patch-config = f97f3957592bda9c15ce334d82548758
+build-name = 5362-agent-2.9.2
+build-num = 5362
+build-product = Agent
+build-uid = agent
+

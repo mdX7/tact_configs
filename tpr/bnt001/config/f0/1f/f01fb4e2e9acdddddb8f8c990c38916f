@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = a3d192cd2dc6137785c0b6074b3a91d1
+install = 75b833c32f5230a954eabbbcaf1fd061 2ae88e727b61449494d15b30c01ee3d0
+install-size = 4094 4152
+download = c8aef646b0147261b9a04fa215948156 3dfa83a01a857011572185907b96bbac
+download-size = 1093 1183
+encoding = ea7034ada9a39625d5bade2d3d278159 fe17a924d06d7002c42b86406769bf26
+encoding-size = 8360 8546
+patch = f863cded7dc14ca0fe17e84f5d599fac
+patch-size = 1585
+patch-config = 4f7850db7d1f2749036dd4818ba104f6
+build-num = 6082
+build-name = 6082-agent-2.13.10.hotfix
+build-product = Agent
+build-uid = agent
+

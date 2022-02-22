@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 7426ad50e8bd053f6ab9e134759f24d4
+install = f60affa08d83c3a520de8af04063e2e6
+install-size = 99513
+download = 492a5d513aeaef483c62a8c719b8713b
+download-size = 41045
+encoding = 34cd39c2b5db09088319d16108e7fcf4 bd5b7085a626581a85779a3824ec9d6d
+encoding-size = 90937 91128
+patch = feef44aa528f381a5a21dd6994385351
+patch-size = 133865
+patch-config = ad57c661f7adbc2173b8e3996cf565e5
+build-name = 20970_9.1.0
+build-product = Hearthstone
+build-uid = hsb
+

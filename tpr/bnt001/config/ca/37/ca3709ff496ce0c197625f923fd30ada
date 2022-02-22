@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 18837276690885af8741a1e654160b32
+install = a58821d5ce0ea08193b93057c1f66f63
+install-size = 4196
+download = 7c26bf9c19c7c8d7f2b7656db6327cf8
+download-size = 1122
+encoding = 1df905ed110f23e3b79c423a4ce23b39 45a4334445b4dbc1662f150198382de5
+encoding-size = 8360 8546
+patch = a168c768e6ef1aeef1984c77ca3860e1
+patch-size = 1649
+patch-config = b8fd483ca4c4dac971fc956d99a2c7a6
+build-name = 5414-agent-2.9.5
+build-num = 5414
+build-product = Agent
+build-uid = agent
+

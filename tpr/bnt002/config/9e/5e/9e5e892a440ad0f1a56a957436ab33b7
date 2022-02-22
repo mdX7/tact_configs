@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = bd928d7abd4416a36c40a9a11bebff91
+install = 48a36b36dec8fecb5c442861b3b45cd2
+install-size = 26046
+download = f28878afcded644c2c17d2f3663a6b2f
+download-size = 8064
+encoding = c013dd09366e1accccc98ab26ef2dbc3 721468d326eabf23dc37fd7a6f515372
+encoding-size = 20748 20942
+patch = dbc338f689c7a73306c656a1200904bf
+patch-size = 13149
+patch-config = dd55d879b37a11eaf1a31b6157af2418
+build-attributes = public
+build-branch = 1.7.0
+build-name = 8394_1.7.0
+build-num = 8394
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 1fb531c63f8f29780508f145745f0e75
+install = 1748bc6f7830178c6584b7767c4ecafb eb515d14f642ad84303a1ae40294f0c5
+install-size = 24492 23912
+download = 947f29796da79273c4c1678ae68e9396 5802976e8fe63b6458e7a5028880c0a7
+download-size = 6898 6408
+encoding = f582245ca0ab9add987d3075c50c6b4c cc2711d4d28104e5b9c59b93c2de4b79
+encoding-size = 20748 20941
+patch = 186f31ec08efd0f912eaf38dd00e413f
+patch-size = 3218
+patch-config = b6c506b4479545a7ce87c279fc79e65c
+build-num = 9351
+build-name = 9351_beta
+build-branch = beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

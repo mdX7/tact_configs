@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = a23b3c2e4362599ec492855f784a5fbc
+install = 0de3c90b54a1ac4f6b5caa82028863ad
+install-size = 24492
+download = 81b58bcd3b168f069b926811ff5aa4e4
+download-size = 6898
+encoding = 3db43cf6916cd81d0b46bfc53651b05b 99327f3d35b8c4b072e517e35a43e82c
+encoding-size = 20748 20941
+patch = 14dc48886f9707e4120c7bacd162766a
+patch-size = 3346
+patch-config = ccbc31b5a1ed1c6092c8ebe15f5bb3c7
+build-attributes = public beta
+build-branch = beta
+build-name = 9195_beta
+build-num = 9195
+build-product = Phoenix
+build-uid = bna
+

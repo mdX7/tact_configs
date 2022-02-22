@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 11c9ab453cb4c045279af30ddcea07b9
+install = dcfc38f94dd8dcb5e8f47430c15bc27d
+install-size = 27046
+download = 8e782c0412cbe5a6d8e787d17ad57ee1
+download-size = 8064
+encoding = 916dd8863b5138c8fbab5cbd858aa827 e3d664e0a764c2b8ae745fee0f547594
+encoding-size = 20890 21000
+patch = 051e9e09d4b95d73b1e3315f2c9e5f71
+patch-size = 12075
+patch-config = 09353e2cfc7069c172b1f1563458bf70
+build-attributes = public beta encrypted
+build-branch = 1.7.0
+build-name = 8370_1.7.0
+build-num = 8370
+build-product = Phoenix
+build-uid = bna
+

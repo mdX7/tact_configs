@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = d9172988f66db3a41312055d71e88988
+install = ad2f7317b4e3abeaf8cabc99c6d10273 07b56d841f7657e4a3066cfeb6f4c01c
+install-size = 4024 4088
+download = 487d3222a5c9f5030aba62555fe9735a 961c60fd616e5b8787a5cd7d8a1e4474
+download-size = 1209 1299
+encoding = 5b2752db00fcca42dae2a53534d99e78 6d0d39a891d267e93bd6cc65f865b6e6
+encoding-size = 8360 8545
+build-num = 2879
+build-name = 2879_d3t
+build-product = Bootstrapper
+build-uid = bts
+

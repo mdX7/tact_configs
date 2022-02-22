@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d5ba7e321802097519adb4557b560bc6
+install = 3a873fd5c71e1f0ff2f4fd5bf144301c
+install-size = 4196
+download = 330b4db19b0cecfd87dec91da74eddee
+download-size = 1122
+encoding = e11bfaee8aeab4ca4eddb355ee20267a 820521b2e393698df742f7fdb6f89af8
+encoding-size = 8360 8546
+patch = 1f01d7d5fa9470beafe5cfcb4ce538b3
+patch-size = 1861
+patch-config = 1bbc5c1f9b9c8c8f8522a28dffefdd11
+build-name = 5572-agent-2.11.1
+build-num = 5572
+build-product = Agent
+build-uid = agent
+

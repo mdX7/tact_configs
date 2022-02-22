@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 5766508e5bb18eff489ec8a617878b41
+install = cf71918cf6a8647c7dc4a70cf243aac4
+install-size = 26435
+download = 6d9f68cb161ec8f66a27c3f86a50b3ca
+download-size = 8142
+encoding = 53b9b375884137fbf3861c3c2f919076 2ffac234d9ea07297f73a077558c536c
+encoding-size = 20748 20942
+patch = 5b3df3cf99328b4311dafdfe6dad3f47
+patch-size = 8141
+patch-config = 900a885b14184fc057fd74d9b3e84abe
+build-attributes = public
+build-branch = 1.7.2
+build-name = 8532_1.7.2
+build-num = 8532
+build-product = Phoenix
+build-uid = bna
+

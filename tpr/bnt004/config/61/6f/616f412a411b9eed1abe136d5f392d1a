@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 502bb537a06d053782193a2fc82095fc
+install = 878c12ed27e2b9b865ae76be524168c8 00c16b2309a1b6e87f65a6cd9d024715
+install-size = 3574 3638
+download = 9164a9bd28e5eef7150a69b9eb52b3d3 87ce2f2339732b15e999e35bcf63ca51
+download-size = 1209 1299
+encoding = cff05c88448af25a59573b3dc3e676e7 95cb2d101d470e6a0158e791cd7de682
+encoding-size = 8360 8545
+build-num = 2882
+build-name = 2882_s2
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = a79aed3342daf2819bab96b209a50a30
+install = 0297a3a74f4747e25a52cf73c7341a5a
+install-size = 120362
+download = 7597c496fefafd1a4b1ae1eb3153f044
+download-size = 50606
+encoding = 5b50f1e3a2f6354ea922da01a94e7997 e4046574840c3a1003fe52f09a90a685
+encoding-size = 119834 120025
+build-name = 1.28.4.7608-retail
+build-playbuild-installer = ngdptool_casc2
+build-product = War3
+build-uid = w3
+

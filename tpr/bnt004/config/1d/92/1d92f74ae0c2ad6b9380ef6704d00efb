@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 9601cc7b9bb314c2ec67f44013d61541
+install = dfbbaf3b4b1acce6bda1acaf49421783 c380a68210d2d7e7a265b63420436237
+install-size = 4038 4102
+download = 7b9043f2702824d033f04365e3660012 27de529679d569f365c7d70967f6c18e
+download-size = 1209 1299
+encoding = 898b46d92f1c38f57707979de52a958b d5c509421e93df284e40c02be9037cda
+encoding-size = 8360 8544
+build-num = 2882
+build-name = 2882_owc
+build-product = Bootstrapper
+build-uid = bts
+

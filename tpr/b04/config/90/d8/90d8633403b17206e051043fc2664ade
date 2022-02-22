@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = d6fe4a46ed989f3bfd62567cd010272b
+install = e1c80af30a0204093f8ef1fb112116b9 ec11fd2de9f0522270f407dc7eb34d74
+install-size = 4206 4046
+download = d06643062fa6938576d909ada2f5a205 201b62346844236bb26b57fe672f410d
+download-size = 164941 152820
+size = 2507ce5ef5394661e22e5da17cee17a2 7ec5c3c47da8f503b7b15099ad8cd6d0
+size-size = 89449 81756
+encoding = c85cc304dfe5e3184a77050d910a9180 5edef9449dfeacfbe9a9b6ff3965b98b
+encoding-size = 8406 8567
+build-name = 3417315_tu22_release_ship
+build-product = Viper
+build-uid = viper
+vfs-root = b7fa806735589501b207b3b70078b3ba 6ef35ab8274c7fa6c310b556ce922424
+vfs-root-size = 349217 149885
+vfs-1 = b7fa806735589501b207b3b70078b3ba 6ef35ab8274c7fa6c310b556ce922424
+vfs-1-size = 349217 149885
+

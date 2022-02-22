@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 9315c31a2e955691cc6c33eb5ed107a0
+install = 3cb5899fc52d2190a47fb109d2c82992
+install-size = 4196
+download = 4935e690f4a04f257bf037696100e533
+download-size = 1122
+encoding = 4a25c1ae9c3fad48f30748e1be42cb4d ad3e729d77e5f988d31cc072db1bf3bb
+encoding-size = 8360 8546
+patch = 02d2aa413da69f04a026537b3fae773d
+patch-size = 1585
+patch-config = 3f791ac2cc393523eb9da6826743a9ce
+build-name = 5342-agent-2.8.2
+build-num = 5342
+build-product = Agent
+build-uid = agent
+

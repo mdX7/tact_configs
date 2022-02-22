@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = 411d0704472b4a9b3a3c7985933e385a
+build-version = 25
+build-num = 979
+build-name = 411d0704472b4a9b3a3c7985933e385a-979
+build-branch = beta
+build-product = Catalogs
+build-uid = catalogs
+

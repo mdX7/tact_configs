@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 7f5e3f19533194cb29aef68a9c9588bc
+install = 6d7b2f5af9930e77ae022ba3898b71c9
+install-size = 26355
+download = 94605cc7d9dd2d866f05bd522da2ac7f
+download-size = 8142
+encoding = 0ecb5faf651a6bca38d54a7fc7c620d9 328282438b7b5951388222cc3b1ce56e
+encoding-size = 20748 20942
+patch = 9a82f4bf965cf5950807c17c651281b1
+patch-size = 3362
+patch-config = 079f079f06d43b8fe72639367b6024e7
+build-attributes = public
+build-branch = 1.8.3
+build-name = 8965_1.8.3
+build-num = 8965
+build-product = Phoenix
+build-uid = bna
+

@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 016f1be50a6202a4baaf0d398f4aa1f4
+install = cb2d38daa7f20a74883f7626c554670a
+install-size = 4196
+download = f71670cd9d63f13c71ac6e70c071733d
+download-size = 1122
+encoding = 43ba9dd5cd759840b38c5e797a2e1f0d 4cd43dfa2a537bcf4c76ec587aa837e8
+encoding-size = 8360 8546
+patch = d49a65173541a64a66ac1fcd3394663e
+patch-size = 1861
+patch-config = 7da6b8611ceab7963f1e91f2d2cdfc96
+build-name = 5494-agent-2.10.2
+build-num = 5494
+build-product = Agent
+build-uid = agent
+

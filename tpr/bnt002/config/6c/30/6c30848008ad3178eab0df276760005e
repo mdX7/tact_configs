@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6bbf0541cbe899cbed62f5eb09a47dff
+install = ddd0db8fd9ab120f04d298cd3f5a0d14
+install-size = 27375
+download = 13995e027ff8e2ee787577ec58add0e3
+download-size = 8142
+encoding = 515bbf7c77aa19927605da1433c4292d 72050636021f2a4a3dc0cbca6911c897
+encoding-size = 20748 20942
+patch = 4d21133aa718c094a0ba38c7b4541a23
+patch-size = 3278
+patch-config = 21a3e38891a48a175b0cac23aba2f2b8
+build-attributes = public beta
+build-branch = 1.8.3-beta
+build-name = 8933_1.8.3-beta
+build-num = 8933
+build-product = Phoenix
+build-uid = bna
+

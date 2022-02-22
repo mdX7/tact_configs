@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 5874add4b5ba8987b94b008f4f20feb4
+install = 78219db3d3ac793a1ae30e6757af5b25
+install-size = 25135
+download = 7fb8c9e9502fc85585424102621f03bd
+download-size = 7862
+encoding = 6a386fd7b82fd522ecb79cfaf065f618 c9a0ba13eafa3394f2e7aa472be783a8
+encoding-size = 20748 20942
+patch = bc5b17e2eb0caaeb3b7729d4300d5e9f
+patch-size = 11807
+patch-config = b84754511148492c8466920b33cc8fa5
+build-attributes = public
+build-branch = 1.5.0
+build-name = 8058_1.5.0
+build-num = 8058
+build-product = Phoenix
+build-uid = bna
+

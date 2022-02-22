@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 40fdb13deae9cdf216648ab2f8d19dde
+install = cc006e6653fd7c96c83e954239202c83
+install-size = 84149
+download = 828bd90e0f1edd6915937c2467d293a3
+download-size = 338188
+encoding = 8237fddef92eccab581a1a19378f247c cd39470339e3e57548e377a4a9498803
+encoding-size = 755553 755743
+build-name = 1.18.8.1744-ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = StarCraft1
+build-uid = s1t
+

@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = feedc08aa71d473e341a28f1ca54f1f7
+build-version = 24
+build-num = 966
+build-name = feedc08aa71d473e341a28f1ca54f1f7-966
+build-branch = 1.8.6
+build-product = Catalogs
+build-uid = catalogs
+

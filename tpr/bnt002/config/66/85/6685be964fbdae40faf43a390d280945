@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6534a5387dccc6882a579425907c4f9a
+install = 15c3a0c6ed16a31a58345cac6e0549e1 794fdae195d511d6255bed589411c31d
+install-size = 24114 23551
+download = fd15652b3364173891249a2748051e2c 731431ac27fac4d727537c432714445d
+download-size = 6748 6278
+encoding = 5698db5b03e1fb3a01c1d62eb09631c5 d62aedcc4f87573abc3041a0e42d0afe
+encoding-size = 20748 20942
+patch = f143e7b54e5e2676c494ceb94020ac66
+patch-size = 10209
+patch-config = 1a95f087907252990dff4b5590ee9470
+build-num = 9665
+build-name = 9665_1.9.3
+build-branch = 1.9.3
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+

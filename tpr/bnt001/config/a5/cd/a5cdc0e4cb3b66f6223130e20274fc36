@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = e5f03f8a3942d6cee96a916edfb58051
+install = 9b853660cff2f95643077c2128ffff46 c8155ae904b9468359c415c6d1d3bc3c
+install-size = 4094 4152
+download = a23a7f6047b3939c14659f5485da6312 17c930ee2090fc030f59d3abcee511ac
+download-size = 1093 1183
+encoding = ef6dafab5f9ae506914aad0fc9b24d02 2457447511fb95e140052e5e2397f27b
+encoding-size = 8360 8546
+patch = 8f264508dac20b3928281b279c29e42d
+patch-size = 1713
+patch-config = 00877a17e3466da5402f2a9b2c155fca
+build-num = 5857
+build-name = 5857-agent-2.13.1
+build-product = Agent
+build-uid = agent
+

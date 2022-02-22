@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 39a5b2b1cc321d26ce010f18a861b1d9
+install = 4489f067555f375db8f5cee34d959498 a80e430744ec589b7c63205a87fe9368
+install-size = 7350 7100
+download = 650dd4d6d1dc9e6afc5c07b4039af1ad abb7917202dc1cf4fc635b380a4f0ac0
+download-size = 26836387 24517410
+encoding = c8b2699becf5562842883846f70fecee b751ca714f32215024cd638de1a00b46
+encoding-size = 82770864 62587748
+patch = 7374124381f21f589fc2e2faf5613934
+patch-size = 13524011
+patch-config = 75fb5f0f2fc27c13e676171b658c0a0f
+build-name = prometheus-1_24_0_1_PWX-46836
+build-number = 46836
+build-branch = 1_24_0_1_PWX
+build-product = Prometheus
+build-uid = pro
+

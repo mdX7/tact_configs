@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 470d1d82d0b28e245fa371bee3433933
+download = d26c1a894e90fdc8ad3354a076cd452f
+install = 70145b77a96ec2c30a76e5e4654ba6a1
+encoding = f1c74dd64f267fdff945a5c3f150951f b4ff7c5809b961e464caba1038891e38
+encoding-size = 8360 8545
+build-name = 2351-launcher
+build-num = 2351
+build-product = Client
+build-uid = clnt
+

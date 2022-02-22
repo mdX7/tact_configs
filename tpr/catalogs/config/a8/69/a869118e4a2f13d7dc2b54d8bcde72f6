@@ -1,0 +1,10 @@
+# Build Configuration
+
+root = d5d14c85d69c00437cff136c463980f2
+build-version = 24
+build-num = 963
+build-name = d5d14c85d69c00437cff136c463980f2-963
+build-branch = 1.8.6
+build-product = Catalogs
+build-uid = catalogs
+

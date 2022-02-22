@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = de442de3e7abd448f5ef0ca7b0a8f135
+install = eb79d2f94f84f878430b74f4c1321307 e9dba4c0ff6a4aae7cbea4c38dbbfb4f
+install-size = 54180 52859
+download = 497317aa694bdac2ee10493616804cda 9a18119446f6fdd11391b2fca238ba27
+download-size = 11764 10869
+encoding = c83022533ca4ddba82c9ed6b131608ff 6e96404896dcc59070c7e2699ac4e55c
+encoding-size = 29009 29200
+patch = 224bac3ac6de9a48fe0c1132bff0b8fe
+patch-size = 17645
+patch-config = 0db60cf2d180ab19bf6a62eb4f90bf8d
+build-num = 9756
+build-name = 9756_1.10.0-qt5.6
+build-branch = 1.10.0-qt5.6
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

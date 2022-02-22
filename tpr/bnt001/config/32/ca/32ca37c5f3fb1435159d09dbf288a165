@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 40411795c45280f25c39496052528755
+install = ff8a4a7d4f5301c3643bf3bffde4927a
+install-size = 4196
+download = 3b4e79ea40d8e32ed5b8b0b2f1b47a1a
+download-size = 1122
+encoding = 4ac68ad8a0ed9909ce405b36416bbd36 631ccce4fd35f6e672aaa0bb549ffef9
+encoding-size = 8360 8546
+patch = 0c61daf4c464b05ce4aaa8d35c8798ef
+patch-size = 1585
+patch-config = f74b4c57a4f2ecbf5c0d3f012dc66b74
+build-name = 5220-agent-2.7.5
+build-num = 5220
+build-product = Agent
+build-uid = agent
+

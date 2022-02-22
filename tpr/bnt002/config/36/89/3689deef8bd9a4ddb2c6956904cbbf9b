@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c33eefa0738931e0f3715ad94399c179
+install = 9d5e7e43828cc2580c6f584292b3c226
+install-size = 27375
+download = 821fd85a01fbe005c86bbdf9bb1a84ea
+download-size = 8142
+encoding = 7ae1dfa298935bba44ba4cbdb34168e2 61178405722f9fbd29d281e800c2548b
+encoding-size = 20890 21001
+patch = 498431e9975d659335fc2fc9979f75b0
+patch-size = 8213
+patch-config = e8b13587e8117a4e8a23ecb9021f427c
+build-attributes = public beta encrypted
+build-branch = 1.8.0
+build-name = 8602_1.8.0
+build-num = 8602
+build-product = Phoenix
+build-uid = bna
+

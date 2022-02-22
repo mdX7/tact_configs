@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = f07d934c2064fc73225b3ea74cf18c21
+install = 67b7261785b19f4b8fadfd1697a99e4a
+install-size = 4196
+download = 244dac52637f30f61e557af3ecd485e8
+download-size = 1122
+encoding = 6a837e77bf0ac542bd434b0dc667ef1d f7739f9fa45dd26d16a2bd7c486cd4e4
+encoding-size = 8360 8546
+patch = 6b1c9fc8cfcc33c09e74d2d55aab4c38
+patch-size = 1585
+patch-config = 56c57acf78e31f367ec2f9229995bad8
+build-name = 5269-agent-2.8.0
+build-num = 5269
+build-product = Agent
+build-uid = agent
+

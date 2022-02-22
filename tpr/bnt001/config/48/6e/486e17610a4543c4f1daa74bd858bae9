@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 71d2fc86f9731325f297aa59b5c950f5
+install = 545736f7b169900d0938049ad24fa661
+install-size = 4196
+download = 3083cb66cc172857d50dfd579ec76692
+download-size = 1122
+encoding = cf0bbec0e13a7e595365d0511ea03d53 826fde9b171296aa854fbc47dc3d6e07
+encoding-size = 8360 8546
+patch = 010d87505c69ab55230c3dbbd4676005
+patch-size = 1649
+patch-config = e657f6d5f7a26362503718d29ebe4313
+build-name = 5407-agent-2.9.4
+build-num = 5407
+build-product = Agent
+build-uid = agent
+

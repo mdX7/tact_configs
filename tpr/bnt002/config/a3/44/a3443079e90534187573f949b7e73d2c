@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = bda7d6942a67fd5488999b5d151a5aed
+install = 9299668f17500d648ef45335d71a252a caf2b1b72f54eee845be512b9a8a9608
+install-size = 24492 23912
+download = 062e6f4dbf4d58856ad5d35744247fe4 a74686cee75043c01e4850c8cb669ac0
+download-size = 6898 6408
+encoding = 7e306a80bd8c8725b2f4df846f35e4f3 94cb38ff0fd521d80a8802bbb35d36df
+encoding-size = 20748 20941
+patch = a99b4aa3286183af53b9060a20ea9802
+patch-size = 3154
+patch-config = 0c79f01c283c05eaa6f9bb4edf5f8ce5
+build-num = 9421
+build-name = 9421_beta
+build-branch = beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+

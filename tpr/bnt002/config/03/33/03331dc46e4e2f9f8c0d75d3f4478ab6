@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 3fde13ab8b9c0f177401886939e8e5e5
+install = 8d77ad2ead700ffdf90b8635d44099ba
+install-size = 26355
+download = 80fcea5e1a463d96129a1a20947f847c
+download-size = 8142
+encoding = dffaa9c919a9de872a20b0d26f9e4c33 c4d46ab1ff78ff13cd562f31f8192b5b
+encoding-size = 20748 20942
+patch = 5166bfc0856aac193691ee7fa2f86ce2
+patch-size = 3278
+patch-config = 0644af9beff04d53c8bf1f9b0873f709
+build-attributes = public
+build-branch = 1.8.2
+build-name = 8839_1.8.2
+build-num = 8839
+build-product = Phoenix
+build-uid = bna
+
