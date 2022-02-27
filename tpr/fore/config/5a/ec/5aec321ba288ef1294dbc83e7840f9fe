@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 7f3fd73a7cdfc881dcad2c217d04fb4f
+install = 15ba706a1d9476405f6e859cd2244528 12ef3f1951f99d287a1325bb72cf34ce
+install-size = 5868 5574
+download = bf308cbb71b3d1a3d32732ed82dde71a cdfe229d414414673418459aa11e395e
+download-size = 205675 186142
+size = 2255853304c545659a23c053a8943644 bbda01617e70fcd1ff215a3d8ec476b3
+size-size = 113171 97196
+encoding = 371957045301c111af9a06a17dd55191 d5aa2ebc6cb40e2055d9a4127c54ef3e
+encoding-size = 12538 12706
+patch-index = 5cc34ceb0164ad7745d44531f4a3405e 5625a92fdff221613917112ec944850e
+patch-index-size = 1812 1576
+patch-config = fabec7d3ecf33defd733bde8503a879f
+build-name = s4rel_11077351B_tu14_crayon_s4_signed_r_ship
+build-product = fore
+vfs-root = 81c9b2e7e27b1386347ff7b372f9b48a dba9740d469818f5eeb1d47983aa6a61
+vfs-root-size = 373795 160793
+vfs-1 = 81c9b2e7e27b1386347ff7b372f9b48a dba9740d469818f5eeb1d47983aa6a61
+vfs-1-size = 373795 160793
+
