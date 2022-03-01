@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = c423b3d1fa0f5c8bd6b4a8014ec638b8
+install = 23148071656f20fef4932e60b92f3f31 7b790c87f652f84694a8b95b4f35b3ab
+install-size = 118069 115727
+download = e16c23ffc38062b49a3d1aca0247f318 0b8011331e429bb97e5b5167838b2768
+download-size = 27894 25676
+size = f6a939a5cf977cf6aa82edca43a62f22 815227d9cfe8ed0e851e9ce1a851ac31
+size-size = 15192 13067
+encoding = a55c847c3b9e760ba2784c68093ba05e a6fe2c4db38eb276a2ed823dde9da685
+encoding-size = 70314 70492
+patch = 6149d77eb356a1fa296774bc1f8b4e9d
+patch-size = 37297
+patch-config = 50ff706169e5cb32452dcaf9367ec794
+build-num = 13335
+build-name = 13335_2.10.0
+build-branch = 2.10.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
