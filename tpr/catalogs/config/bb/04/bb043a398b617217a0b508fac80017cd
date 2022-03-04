@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ec3affc32e1a8e69bccf0f20e123b86a
+build-version = 29
+build-num = 2098
+build-name = ec3affc32e1a8e69bccf0f20e123b86a-2098
+build-branch = 2.10.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 88b611b4458b8157f2f78c2740ad049f
+
