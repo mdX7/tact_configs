@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = e381c2a94b824553289d75722f574565
+download = 500c7870878bb8510181284432770c81
+install = 20f6c7f63957e912b78b218394ea45bc
+encoding = f7e88f2a1d83760e47b324a4dc7016bd 931ecd2246f4ebb2efd83d31f8314cbe
+encoding-size = 37144049 37144099
+build-branch = 2_2_0
+build-comments = Fix for cross-game whisper.
+build-creator = tkwat
+build-name = 30687_Win32_2_2_0_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = c444862fe39410d461cf6c38145e999d
+patch-size = 20720843
+patch-config = 21e2e87f943f1c496b97e8058ff94020
+

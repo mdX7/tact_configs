@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = a2b9c167d61730cfbf6f5e7ca82338bd
+download = a743837d8435ca83cadfdf8788978705
+install = f21f0966b9eedcebec57a3a5d57e3701
+encoding = 433b8f18afc66eccd0589534bf095135 6d460dfdd826cd0db9537af2c5ea6bd3
+encoding-size = 37750865 37750916
+build-branch = 2_3_0
+build-comments = New RC with Season Journal Crash Fixed (#2)
+build-creator = jahughes
+build-name = 33174_Win32_2_3_0_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 71dcab45f79e460c09d034ffabffebbc
+patch-size = 21853131
+patch-config = 5e77193a5706c957a0f3f04c09f1e5d4
+

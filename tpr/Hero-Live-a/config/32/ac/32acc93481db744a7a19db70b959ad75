@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 34c8cedd0656d630e585e3e19fab4e04
+download = f24b88ddbd38f3b18f007519189b556b
+install = 2fa1d9088629050759a4b76674b12ad6
+encoding = b5b81568a6c17d0a29942a018d57b4b4 60997651be6820cf608defbaaca52423
+encoding-size = 24885120 24850340
+build-fixed-hash = b3cfc709c54920250829e28d7070f6b5
+build-name = B38236
+build-product = Hero
+build-t1-manifest-version = 2
+build-uid = hero
+patch = ae207d67450ffc1180b4d030a3693d11
+patch-size = 3814969
+patch-config = f11c9d20591b73a3f949ae1a1ef2bcd2
+

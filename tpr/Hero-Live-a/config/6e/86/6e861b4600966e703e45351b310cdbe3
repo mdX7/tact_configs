@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 19404bef4f5b2bb9717977773b89bda9
+download = 656e8ef314b50a41ee2b5346cbedb31c
+install = eb6b178cfe1aaeaff4ffc66b1cfb43b2
+encoding = f86b74a4ec443cdef32fc4db5992e766 dfa8f27f9ec89e968d5bb25dbd4f8103
+encoding-size = 21138635 21106028
+build-fixed-hash = 6862c5ef1453935898de96ff9bc91613
+build-name = B36359
+build-product = Hero
+build-uid = hero
+patch = 9955f26cc40a8c1347dacb8aa1325886
+patch-size = 3182543
+patch-config = 76d4ee43e9001bd457e63b6f4393e942
+

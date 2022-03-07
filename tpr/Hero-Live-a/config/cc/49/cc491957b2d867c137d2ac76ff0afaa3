@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2abae66d662e38ad0aec4e4f7e8d8ad0
+download = 8456819ec187ec9d2f7da878164fd5ad
+install = 6b9d19e42ffbf5517840d95186e57ee3
+encoding = a32a069d38baa45ec4feda6cd0a22138 f79c8263fcbf4fbe872835cdbcd8cdd3
+encoding-size = 23273767 23240289
+build-fixed-hash = 630656ae827bc3c8b836d1d9137ca831
+build-name = B37795
+build-product = Hero
+build-t1-manifest-version = 2
+build-uid = hero
+patch = 0c8dab6635cea86e0522c9e3c2fb94ca
+patch-size = 3655673
+patch-config = 63d8c90a81a4ec5ae04b8385ca96dfec
+

@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 177318aba6f2e318fa674ab9de6679f9
+download = bda940ad58eca221237560d49363ff87
+install = db1c031ee36057af5a8929995e3542f4
+encoding = 07bc2b70b414a68b924fa84be42695ec 4cdda6bbe34111c69ee143ed17a1d622
+encoding-size = 37750752 37750912
+build-branch = 2_3_0
+build-comments = 2.3.0a RC1
+build-creator = afbaxter
+build-name = 33567_Win32_2_3_0_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 4db93a4f7449491467d7dd2ff58f20e4
+patch-size = 21900189
+patch-config = c75862b605399ac83745931ed493ab39
+

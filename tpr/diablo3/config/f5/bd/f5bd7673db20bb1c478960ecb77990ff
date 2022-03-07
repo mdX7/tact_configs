@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 50ba6b64acb92cb89749326adc2dfa8d
+download = 7ff81252cd9ceb2b22d93535c29733ce
+install = cb4e1436ad20d39679561cb1729a58a4
+encoding = ab0116d3cf1bc6645c8ea59edd7b96e4 456d9fa0dd13f7d25067b6a0fddde248
+encoding-size = 37622897 37622945
+build-branch = 2_3_0
+build-comments = New Full 2.3.0 Build, After Perforce Restart
+build-creator = jahughes
+build-name = 32528_Win32_2_3_0_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 2ad8aeaed69823cd610240eb60ce890b
+patch-size = 21715823
+patch-config = e759ee8928f36c59aa6d083223582c2d
+

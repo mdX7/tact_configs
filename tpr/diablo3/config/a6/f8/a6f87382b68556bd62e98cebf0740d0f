@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 624451784f30629e10c214d49c7f96cd
+download = 0bb7f3f85b41f83886b3eb3e3d5f63cf
+install = 8e9094ed129daa2bc608591a46e4199d
+encoding = 21bba69f21c35bb1a10884ee106b890c 911d6d0d465970b0ce0c346fe687aca4
+encoding-size = 37144049 37144098
+build-branch = 2_2_0
+build-comments = Patch RC 5 with Mac fix.
+build-creator = tkwat
+build-name = 30894_Win32_2_2_0_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 707eed7951e85020f520144214a2348c
+patch-size = 20722005
+patch-config = 22be49cc8d073b2d333aa208deaea8d8
+

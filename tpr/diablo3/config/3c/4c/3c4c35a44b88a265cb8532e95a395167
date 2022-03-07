@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = fec7e5020e91ba23def21426187dd765
+download = f8e7654ea90a70d129d8fe23c28978ae
+install = e387522466737c712b54d0ca230b463f
+encoding = 2917367da84bbf96d3090a408a5e6e13 b2fbe2edb770aec010fae68dc86ee679
+encoding-size = 37090373 37090431
+build-branch = Ptr
+build-comments = PTR Build addressing Weekly Challenges appearing in Leaderboards.
+build-creator = rfoote
+build-name = 30013_Win32_2_2_0_Ptr_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 661b886a648da03f60565266199e92f4
+patch-size = 20100781
+patch-config = a897fa3dd0441bb863d016eafaabae53
+

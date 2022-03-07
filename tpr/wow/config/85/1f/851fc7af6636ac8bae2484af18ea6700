@@ -1,0 +1,9 @@
+# Build Configuration
+build-name = WOW-18761patch6.0.1
+build-playbuild-installer = ngdptool_casc2
+build-product = WoW
+build-uid = wow_beta
+download = 1ce6f28b68ecbedea78c05cffb05085e
+encoding = 7c5ff57449f0b7a558c9cb60c7a5af9f a56c4666267a843431e94e8eb5723882
+install = e79bab3508aad88e916a15b630af77ce
+root = edf2b02849f152c8b422b32090e69799

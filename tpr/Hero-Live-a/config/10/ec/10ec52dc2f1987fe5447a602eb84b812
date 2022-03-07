@@ -1,0 +1,11 @@
+# Build Configuration
+build-name = B31726
+build-patch-bases = B31566 B31360 B31090 B30948 B30829 B30509 B30414
+build-product = Hero
+build-uid = hero
+download = f8539a7aae94dc0d626a48079b881782
+encoding = 2bfce45c88c8c4a3dc43cc8f2ca0c6e5 8ddcec6afff1a19deff65128d322c062
+install = 9125236026f289687f1cd71fa8133939
+patch = 3a6a5f28bd756be050495b59d9e2a329
+patch-size = 144431
+root = 9d691b1966899b8a17f63c4eb7995bf1

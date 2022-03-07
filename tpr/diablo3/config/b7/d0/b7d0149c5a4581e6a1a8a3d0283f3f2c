@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = e97b38a3390ae5ec84a99c3cc9c27187
+download = 2dc80bf0ce35ce16ed41eaccfce77674
+install = fcf36106341a1eacfe65df152d5619c2
+encoding = 35ab4c514b90431662679b2e58fbcf46 afdc46ffb99b563b333fc76dbc8adb05
+encoding-size = 37144057 37144098
+build-branch = 2_2_1_CN_Clar
+build-comments = China Beta Clarity Patch RC #4
+build-creator = mpanepinto
+build-name = 31052_Win32_2_2_1_CN_Clar_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 934def36b2d543adb5831465005d8f81
+patch-size = 20775243
+patch-config = a5b3f70c2be3ad27cbaa6351114c4f85
+

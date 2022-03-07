@@ -1,0 +1,11 @@
+# Build Configuration
+build-name = B30829
+build-patch-bases = B30509 B30414
+build-product = Hero
+build-uid = hero
+download = 8122220ce005c19bd1ff6e96c9334d63
+encoding = 1862c3df942a00960b766460d8c69bf6 9351a732be0404bd9d86723875fe59a0
+install = c0fe3973f6fce31368f9fe5296d08921
+patch = a74ef94d29d6627ba47fed4acb93b3bb
+patch-size = 47301
+root = 56077130c8f86ee475798b5bbd951e8f

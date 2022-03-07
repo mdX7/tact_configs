@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 8b5eae948c40b5396d003faebfc23d2f
+download = 78c5dd02a05e99e579fde1273c7cecd5
+install = 7e1f50abf346eb0c2cf9f4ff4f43540a
+encoding = 22d5e669156864b64db9ad344c898ce1 ed80cb5906cb77da45af4de184364c7e
+encoding-size = 37135801 37135842
+build-branch = 2_2_1
+build-comments = 2.2.1 RC to fix bug 182247
+build-creator = mradnitz
+build-name = 31666_Win32_2_2_1_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 52e318b936fbfbb1fbb63e0431194d7d
+patch-size = 20784329
+patch-config = 9b3369c7016a0ad992285ecf0e6168d8
+

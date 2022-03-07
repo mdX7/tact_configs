@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = c3c77167c832d6cc42abe827bfa39efd
+download = 7fda4a6088d3a320595bfeb520cb1aed
+install = af917f5f174ef9eebb46cfaf9c35bb67
+encoding = 86cae7e05ff07985812fdc5c710c8b38 edf0ca20f4ffb42701f089b096da9d6a
+encoding-size = 37144057 37144098
+build-branch = 2_2_1_CN_Clar
+build-comments = NID Pending Fix from Nick
+build-creator = jahughes
+build-name = 31278_Win32_2_2_1_CN_Clar_ptr
+build-playbuild-installer = ngdptool_casc2
+build-product = Diablo3
+build-uid = d3t
+patch = 0346b5b9d9400a43cf370e771a65bed7
+patch-size = 20774649
+patch-config = f3fd05ae898e95cd8d7705ac63d320e2
+
