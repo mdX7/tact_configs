@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4f0de418ab67e2baab31215db64ad06b
+install = 1bb3bcb62790c1bda406065f5eae0952 058e253eef14e24c179972c249cbb633
+install-size = 59699 57863
+download = deb095694df9fa4da6b5f6a00c3ce9f7 9f64c71068d161bb2111e034334692d6
+download-size = 17643054 15839798
+size = 9ff5dde911dddc7a0b5b318903fd0eba b49dfc01e1e2f4d8c4aceb871d4eede4
+size-size = 9734178 8730877
+encoding = 64f9bfd7ee4b910f2a7f158aa001f6dd 3dad1fc77a9b4bf53f3de5a5f9e1825a
+encoding-size = 46283684 46131575
+patch = b622984c7a8ab737c6cf748a8dc587eb
+patch-size = 80211
+patch-config = 06dbf1ca6dada3c49f6561775c85f1f4
+build-name = B87485
+build-t1-manifest-version = 2
+build-uid = s2t
+build-product = SC2
+build-fixed-hash = 0210fb6b5e6f438af187c530d7f9fc85
+build-replay-hash = 7d9ee968aad81761334bd9076bfd9eff
+
