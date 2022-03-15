@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = f799e093428d419fd634cce9b925218c
+install = d0117a090e06e4781ef6c1427364a254 ec34b31fec71837e1ce0a1ee08fe41be
+install-size = 59171 57335
+download = 1232eb16e449dc14ea9eaa90fbe7a82e 084c746ee0aa1b7c13868b44788605d4
+download-size = 17642976 15839578
+size = 08347f19fc7b488db1822c91d801fd2b fec150868c6ef783d3faed2522321581
+size-size = 9734139 8730749
+encoding = 90410467cbd364c6f1db4514d7575bb2 98cb10287878541b9f1cda25224a33a8
+encoding-size = 46283684 46131576
+patch = 32afb23426c125bf53343af565848963
+patch-size = 11347
+patch-config = 21b3a0091b22f80c5bf6a735e6f6e124
+build-name = B87702
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = b19f4d8b87a2835f9447ca17edd40c1e
+build-replay-hash = 7d9ee968aad81761334bd9076bfd9eff
+
