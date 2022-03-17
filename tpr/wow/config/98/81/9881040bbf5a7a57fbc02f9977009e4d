@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 9de0620e7e833f14e87851363d4cc1d4
+install = a992cc184b87159b6121bac4d6fee38a 3ac0fc54302c6185bb468a76c55205bc
+install-size = 17787 17257
+download = a23e73b8c3f4a9993e3930d8a5ec9c6a 1752e43fc874aabcc3540c1964676dfd
+download-size = 6264104 5595846
+size = b92c99e736a58d007d81b5e6b7e62b3c 4b79a69d9c45c533b1a414105bde568c
+size-size = 3365109 2916828
+encoding = 7554ab42493c25c05104d24d8eb0cc5b f2a6b57aee005082797975c107d3089d
+encoding-size = 13240970 13239397
+patch = d0452b8c66f32fe18099adf186c3d225
+patch-size = 164271
+patch-config = d2ae0a575f2c0c72d38d82f1a385f956
+build-name = WOW-42770patch1.14.3_ClassicPTR
+build-uid = wow_classic_era_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
