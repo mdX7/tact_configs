@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = d6c35b4040558cce0c8b4aa3814fc8ae
+install = ec64e6144762fe2851b4b50a1bd14dd1 bbb46083df8c6fa2df6c61d0531955e5
+install-size = 118069 115727
+download = 89d492960d33daf303349ddba0da3537 4d4f93dc8f9aeb5609cc9c7d247e5082
+download-size = 27894 25676
+size = 160d9697511bebe3346a9bcbedee1ad4 f727cfd01f66f06466dfd31a45944426
+size-size = 15192 13067
+encoding = fa19d17a34a3b06c7881b0a597e3385e 3bafae5befcf6324e4e257e643eb0be9
+encoding-size = 70314 70492
+patch = e14ab7f7a6669c540b57e2828de9fb25
+patch-size = 103733
+patch-config = 71b02725ce75e177164523e9d07dd246
+build-num = 13369
+build-name = 13369_2.10.3
+build-branch = 2.10.3
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

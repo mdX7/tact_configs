@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 97a554b104f9735e7a3cac352d376e32
+install = b0ad196d8242a03be21c26904c4f4940 3eaf0745207593680f0cab71c3942d8f
+install-size = 224365 219927
+download = 672ea21053f21fd13a34c132569fa1e5 9c5fc6d492d49427ffbbb0efba8f608d
+download-size = 46560 42797
+size = f36fa8074ead8a0f4846fdd175bb0265 2931661b55b5832c9553fbdd1a91a69d
+size-size = 25304 21662
+encoding = 186b99f68067f61cd22644c678adb59f bf168cdaddc0d4c14bb473608ca8ec98
+encoding-size = 111594 111772
+patch = 227cc14df38787833767909ae4a784f6
+patch-size = 152117
+patch-config = 4231583c9f6c61baf262663b225e124d
+build-num = 13370
+build-name = 13370_2.10.3-beta
+build-branch = 2.10.3-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
