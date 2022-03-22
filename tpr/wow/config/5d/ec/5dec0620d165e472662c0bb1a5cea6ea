@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 721b87a74dafa892086df4aefd15e13b
+install = 50e62df92d57cbb123f9bfda42ec852a fd65a40aceb077ec36caf9b1c74d75c8
+install-size = 17740 17211
+download = 76225ed7f595a404a94ee45942ef1045 b8329cc01d1a9d2bc0e3d5a2f8a5fdcf
+download-size = 8136538 7268582
+size = ece947812a5f3ce06bc25fdcc1aade88 066b45a56bd08276be7cc56ded639caa
+size-size = 4370971 3808561
+encoding = 58d7cd052d86bd29cb89dfae1908fbd5 153d4c54e5d279972c336f2d4d7b3b32
+encoding-size = 17195945 17194113
+patch = c07e2fcbee40aaf2b1f1d3d131fe4a45
+patch-size = 154421
+patch-config = aca81689906879156c6843df3199c7c0
+build-name = WOW-42870patch2.5.4_ClassicPTR
+build-uid = wow_classic_ptr
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
