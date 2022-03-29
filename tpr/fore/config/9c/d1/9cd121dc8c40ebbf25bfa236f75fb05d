@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 76aa5a8dbf2699d372fab00e54ead0eb
+install = 6bb14e27b8e398d1362f12c591c4a30f 0375abe5769386daad404a6555897ab9
+install-size = 5868 5574
+download = 3e27457b3c0afa12d4e3b4a828ce186c 1062911a81038e01a9f9ea90325fa2f5
+download-size = 214606 194163
+size = d0e21273fe3cf42b83906c4529abcd7a 20e3aa5b0085ccbce643c2dd7a9f9eaa
+size-size = 118085 101378
+encoding = cd9f4e10afed753f57dbc8e6f9099efa f18ccd482a54cf9e0a11134efeb47f15
+encoding-size = 12538 12706
+patch-index = 8e08fa955b5386430e47e8fea6d14483 a64a9f8e3463bcb83ea2ae134c5e8ea4
+patch-index-size = 5908 4313
+patch-config = 6cedb205d36ccd753bf888f5672781a6
+build-name = s4rel_11188803D_tu15_delta_s4_TU_signed_r_ship
+build-product = fore
+vfs-root = 51cf856d42bf5247e5c44eeae05b3d2c 8e142cde397947304371cf33389e8869
+vfs-root-size = 388955 167589
+vfs-1 = 51cf856d42bf5247e5c44eeae05b3d2c 8e142cde397947304371cf33389e8869
+vfs-1-size = 388955 167589
+
