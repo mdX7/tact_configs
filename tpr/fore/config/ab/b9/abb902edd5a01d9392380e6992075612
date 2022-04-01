@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 63cfff9dfa13f327f63ada21b0bd7b93
+install = 0dff810616e19121352f58935862547e 66cad9925dbff90a8c580c79e8928b20
+install-size = 5868 5574
+download = 5fb44b9c97bff486c380d571622ccafe caa1b5b47c57c07fe96d1c330c206561
+download-size = 214606 194163
+size = 9116bec75c859f70c2f5bf106e8e0fd4 45bedd426d9b11571d862c576c6144c7
+size-size = 118085 101378
+encoding = 87675ffba11c56815ec28f0d3e0c0446 15de74bcfa08a122af4929bfe37d5ceb
+encoding-size = 12538 12706
+patch-index = 8776c013757aab5c0337be557b106541 649c4ed5537ca7f0ce15bdee549d4c80
+patch-index-size = 5908 4309
+patch-config = 7934a0ec86bdffc843775fb401c5aef2
+build-name = s4live_11188803E_tu15_delta_signed_r_ship
+build-product = fore
+vfs-root = dbdee3acb83e6f7d4dc7b0bbe1ab23b2 6f2f06702b6c3225cc9639c64015aab3
+vfs-root-size = 388955 167563
+vfs-1 = dbdee3acb83e6f7d4dc7b0bbe1ab23b2 6f2f06702b6c3225cc9639c64015aab3
+vfs-1-size = 388955 167563
+
