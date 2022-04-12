@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 82ee63ce74e50fceed3008ca14f95f3c
+install = 132329a819602112c28ea33a881bf107 ee8147db9fdac3d2f7c8fb93a598fe11
+install-size = 40307 39314
+download = 26b16cfd61fb7005cd229af8a853509e 0b5b7960a149fac03e41e2fe80bdc238
+download-size = 7895682 7340464
+size = 45f422177ea3e138ec3e850b8888d099 0130b36374b977f55f31ecc678276b2d
+size-size = 4229889 3927719
+encoding = 2b04f0626813d2387850ac5803254acd 99efb3afd3ed2ea695db7e91ea516540
+encoding-size = 18023061 18023206
+patch = 23c26975d4bb04c0dcff595fc90638fb
+patch-size = 1630631
+patch-config = 1d53e6a2b2f442eec1c5d6021b55f252
+build-product = Diablo3
+build-name = 81850_Win32_2_7_3_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = MCederquist@Blizzard.com
+build-comments = RC to pick to Loc Strings
+build-branch = 2_7_3
+
