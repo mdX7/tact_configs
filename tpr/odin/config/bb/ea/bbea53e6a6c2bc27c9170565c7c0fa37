@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = f4f8153e544d785bf8f14569f5ebaab3
+install = 447f563a9ec8328ee5ad8ddfc0ce2816 586ec735e20bfd3faaec984ba36f5cbe
+install-size = 6298 5972
+download = be54c76b340aa013dc00bd4561494050 a4daa966828ed26de88448dcec040988
+download-size = 1830955 1643673
+size = 042313049f5b57a0fa55a22e792d43b4 84a41f8b3c1efbeb9ad777364734f2b1
+size-size = 1010282 842052
+encoding = 68aeb36fe753c64dad7d53f4035937a5 818ab684e62ba7c3900d106a2dcbfd81
+encoding-size = 12541 12707
+patch-index = 28221f74cebd6084f8522ea4e68eca2b 902e5166fe762343b9cc071495c5747f
+patch-index-size = 8150 5282
+patch-config = 9e6894962103abd8b8698d36c0a0ed9c
+build-name = live_11364056_WZ325_3_15_E_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 948d75990f546cd78f1722015b6212bd 194d01dd90afd7378994d1ac847f9c67
+vfs-root-size = 3200236 1297639
+vfs-1 = 948d75990f546cd78f1722015b6212bd 194d01dd90afd7378994d1ac847f9c67
+vfs-1-size = 3200236 1297639
+
