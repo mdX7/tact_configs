@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 1c3c5ea71c552695ce162040e8053b5c
+install = ade3e57c4f1982d8e8acc18d86b380ea 2b70e268b294a1cdb92efd7ff96aea16
+install-size = 5868 5574
+download = 08651a4bef16a5060470449773f1ffa2 423344df8fb45e57943b5bc7fb5d05be
+download-size = 215094 194570
+size = 69dbd3103144b9f9033c8a85d641fcac d42f46044f33671a37d8e1256e35bbc1
+size-size = 118352 101847
+encoding = c22b14fe83b97eccca2ac393fa325a12 582cdf5af117b876d4b483a27e4b2a04
+encoding-size = 12538 12706
+patch-index = f9633c2264e7ecd222ac08bf3605bbcb 2acc2e49803f48d83d6d53dcc89efa6e
+patch-index-size = 3562 2790
+patch-config = c81f7ffead4988f4306c2f13adfdd5f8
+build-name = s4rel_11283250_tu16_denver_signed_r_ship
+build-product = fore
+vfs-root = 527c9a3b01f13077809e69b9aa739a9a 5531ddab2c9fcb55dc9afd73526c4125
+vfs-root-size = 391064 168316
+vfs-1 = 527c9a3b01f13077809e69b9aa739a9a 5531ddab2c9fcb55dc9afd73526c4125
+vfs-1-size = 391064 168316
+
