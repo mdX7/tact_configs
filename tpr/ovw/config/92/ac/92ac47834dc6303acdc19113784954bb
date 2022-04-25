@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 31b64d28391de208e613d98ca18e9a34
+install = 48b6338a5b133f118d2b57371112d757 893a1897e1d795ba7c2978e5db73dc36
+install-size = 4520 4333
+download = 0e3826ce76a1b25a0ab6abb8a39bfac6 271221158202d28aa1b0f4d598feebfb
+download-size = 13153216 11954320
+size = 603d6c8d8d363cba0503b3b7595e2432 7eda5c9ee2c7ca79ae29e5b80d251dab
+size-size = 7179780 6625961
+encoding = 69fd33c9b2e645cf53a839bcc2fb47a8 3cb201db1c15b77f390cc5ca7841c947
+encoding-size = 29379832 29368750
+build-name = prometheus-1_71_1_0-97745-vivoxsdkdll
+build-number = 97745
+build-branch = 1_71_1_0
+build-product = Prometheus
+build-uid = pro
+
