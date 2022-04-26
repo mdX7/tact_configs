@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 04439bf13a2cfc99b0a4df535040abdc
+install = 19593bb3ccc57c2f36df293cf9a5ef63 3edd0574cd640e70cc196b6f1280bda6
+install-size = 5944 5649
+download = 74ce73701cd9ff3f568c5fd40ae4576a 61106b127caf3039caabe7a69eab8758
+download-size = 229803 207888
+size = 53e8f816785685629ea8225971d7cad0 15099c68cd821695ea23ea45a0df48fe
+size-size = 126431 108091
+encoding = 50a712a66763da0b15f1e805ab7e1263 d5c4ca5bd8f5d7d14d153432920c111e
+encoding-size = 12538 12704
+patch-index = e7024d1aa90b508f9631b20ef9f38959 f67b6ffcc8f81cf8a34eec89949ab758
+patch-index-size = 9903 6435
+patch-config = fdbed0274356e912410b0cbdae0e1554
+build-name = s4rel_11379781_tu17_echo_s4_TU_vk2_signed_fc_ship
+build-product = forec
+vfs-root = 3aab5b7466259ed6817f60064d3c5d3e 54cb2299767fea06fe610ddd856da6d0
+vfs-root-size = 418577 179579
+vfs-1 = 3aab5b7466259ed6817f60064d3c5d3e 54cb2299767fea06fe610ddd856da6d0
+vfs-1-size = 418577 179579
+
