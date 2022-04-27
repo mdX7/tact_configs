@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5a669228e922bcf82927f82815ddee03
+install = 7216330cc0aa61bc4a731ada06cda2f8 424b993b8a0102b6341650dc030eae48
+install-size = 6298 5972
+download = 74619ff700f6b2feb00bf30b2734bb61 bb3cc17fd0cfce7db882492b472e35fe
+download-size = 1853279 1663921
+size = 1d55d788038a6126f0fae18cd9b88b74 a67758a73fb69eb0276a553291f333d2
+size-size = 1022596 851879
+encoding = 367997f4953d2a208f47cbc4293b3736 855c56c7dd17cfc2426076b9a7c00ea0
+encoding-size = 12541 12707
+patch-index = 0a3e4d60b7cac957ff86f2c34a730bfc 0ff0bc29d5f69789ad63cbc826dfadfd
+patch-index-size = 9087 5843
+patch-config = 9e48941ae7d0f43c1793c048f408c706
+build-name = magrel_11399652_WZ330_4_14_nobik_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 7dc49d1a44e327aec1ecaa3db683c81d 7036db984ae5469dd918c01a8d487aeb
+vfs-root-size = 3240733 1306460
+vfs-1 = 7dc49d1a44e327aec1ecaa3db683c81d 7036db984ae5469dd918c01a8d487aeb
+vfs-1-size = 3240733 1306460
+
