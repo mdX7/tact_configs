@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 93918948e28531edf6abbaad3a25b68a
+install = 350c96fea3dbd6cab180de8dde696a44 e430eef43b1d197a093888a43f9b416d
+install-size = 4014 4073
+download = 64559a160f1424b3b338e679627078b0 43f58e2ebcff95979a13356ca2b2e846
+download-size = 1072 1163
+size = a231ade505ae97222d9d344e62c989b0 767518387d4e1e86741be965aed84dfe
+size-size = 564 658
+encoding = fd02935386938bedf8d6ba9bbe2e7e53 f11da01fe3879b9fee6ac7410ba8c17b
+encoding-size = 8381 8556
+patch = b9850682e1dae88dbb34e03391235527
+patch-size = 1521
+patch-config = c0f6c3e21adeb4f50011eca8087a6831
+build-num = 7779
+build-name = 7779-agent-2.27.0
+build-product = Agent
+build-uid = agent
+
