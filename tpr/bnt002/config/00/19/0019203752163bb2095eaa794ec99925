@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 96d9776e6bd82b1bdf7ed8f1fc6f62fd
+install = 34e94940b37eec11d847933db53dbe01 7b565edd0343ecf404d592871f7b2b72
+install-size = 223559 219140
+download = 24be3d9d4453ed02cc60ce8f64f2cbe0 779edc9b3531c5f45bc8855a1f32331d
+download-size = 46158 42438
+size = 318b57ca782ddc4ca33832206a5036ff f1284afea631b305c28bc4e2b5d2c696
+size-size = 25084 21470
+encoding = ca6e5e8b1d856f5dc60d5b95cc81cfd7 aab76ea328ecfdf74193954884e09c48
+encoding-size = 107466 107644
+patch = 5d5506f844ace4962d605ba8456727db
+patch-size = 43637
+patch-config = 5a32058fd3b0261761a0a702bd7f78aa
+build-num = 13501
+build-name = 13501_2.13.0-beta
+build-branch = 2.13.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
