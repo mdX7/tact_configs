@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = cb621ace0a2afce16b49135fcde9aad5
+install = 53b15ac7d40ccce0a83484e1e5c3f270 fac8a748b459e827898f68d75e867460
+install-size = 5944 5649
+download = 0c8330a468da47830dcde8db0d10b9d5 371b020078112cc794791d7d48ee9f4f
+download-size = 229803 207888
+size = 39f578cff155533eb8867fc63b46c972 533847927a8037458bd85d6be0009458
+size-size = 126431 108091
+encoding = 5af879ab98e5650fbc5ca185d6a1b9dc 9aa2d5f6f3d25283a8e7f1062cff3eac
+encoding-size = 12538 12704
+patch-index = 32dbf7c5dac085eba5492c39a7761866 bf1805aeecadcf4a9a31b270ea6526d4
+patch-index-size = 5186 3774
+patch-config = 2188a8e69742dec3abe7d5de77108889
+build-name = s4live_11379781C_tu17_echo_vk_signed_r_ship
+build-product = fore
+vfs-root = 303d1f6d4c08553444ebd51789f2a3d2 f6db844c6325d16674115e1a87223d9d
+vfs-root-size = 418577 179557
+vfs-1 = 303d1f6d4c08553444ebd51789f2a3d2 f6db844c6325d16674115e1a87223d9d
+vfs-1-size = 418577 179557
+
