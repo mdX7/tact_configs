@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = f6f10f0921ae698bc7fce7496e84155f
+build-version = 29
+build-num = 2157
+build-name = f6f10f0921ae698bc7fce7496e84155f-2157
+build-branch = 2.12.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 8044953aa9aae7148ac89550b1e50680
+
