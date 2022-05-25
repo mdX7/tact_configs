@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = dbbf9e57a923f96f047524cc8d8abceb
+install = dca1d011a11fe4df8afa4aa20171d24d 76ef2b0c93d491d49878c12726027029
+install-size = 245 242
+download = 0fe44b66d2e133ce64e43203af7e8e00 f65057742bebb642a52ac533e1471f26
+download-size = 238 261
+size = e9d87b3ae4d6cad33910369c07ebb03c 187718fd9ffafd20d10594e636685f8d
+size-size = 229 252
+encoding = 935a3ab8274307d2c55306fdf6d3d6b6 66ea2fbe9bf3601c1b7932f0ca4a34f8
+encoding-size = 8396 8557
+build-name = magrel_202200509_vk_brynhildr_r_ship
+build-product = brynhildr_odin2
+vfs-root = eada67089984a3a9a4b5d17fa34a3bb6 1f2331c0dce0577fe76593193d3c00bd
+vfs-root-size = 108 129
+vfs-1 = eada67089984a3a9a4b5d17fa34a3bb6 1f2331c0dce0577fe76593193d3c00bd
+vfs-1-size = 108 129
+
