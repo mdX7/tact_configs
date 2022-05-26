@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = c76844572b8a4e531856e314c3c790f2
+install = e75ae85993257c1852ee66c8bfd64896 4b9e8443c4b33a8c9fd05adfdfa9f758
+install-size = 74 141
+download = 4a3e464f0b3041a747f9a4b9d25075d1 f538ad045d01de52a2f8e2e9bc140377
+download-size = 112 206
+size = a63b85ba96b89e0599ca00cc5eaecc64 66f392441ca7c4270141f4d83b84990c
+size-size = 72 166
+encoding = b655a4d8a10bb8dd4e5723650bcb1c16 a93be112d0eed49c2ac3332cf1dcb544
+encoding-size = 8377 8551
+build-num = 3100
+build-name = 3100_anbs
+build-product = Bootstrapper
+build-uid = bts
+
