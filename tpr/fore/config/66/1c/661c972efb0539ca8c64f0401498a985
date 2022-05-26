@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = cda344b46ee5ad7b06d6417601ec1bea
+install = 25ec4b1fefa6b56c02864ddbaf95bc9c 69c976e295529222a1ee3eaa7579bbf8
+install-size = 5944 5649
+download = 4db9a8323b7f802228954fdfeb0fd404 907f6619262a094b2d3988e0c1cade1d
+download-size = 238168 215447
+size = 1e0a30810b5147e5558250b8cd140a18 afc5d01d1a345620a288689038a919f1
+size-size = 131039 112448
+encoding = 377fc87c338c18c2d0ab6b554ac6b91e 9abb1e3674e6824c725ffa2013a50ceb
+encoding-size = 12538 12705
+patch-index = f723dae1748d6ae1b2563c4575d76ad2 6d656c2f00c258442134bd08f0d66952
+patch-index-size = 4980 3570
+patch-config = 2ea7350fb99a04783eeb0d1b08add0a2
+build-name = s4cert_11536505A_tu18_foxtrot_signed_r_ship
+build-product = fore
+vfs-root = fcc4b44fd5e089ed60e41bb3c1625b52 5b7715dc61283112d1d8ebe1163df51d
+vfs-root-size = 434030 185893
+vfs-1 = fcc4b44fd5e089ed60e41bb3c1625b52 5b7715dc61283112d1d8ebe1163df51d
+vfs-1-size = 434030 185893
+
