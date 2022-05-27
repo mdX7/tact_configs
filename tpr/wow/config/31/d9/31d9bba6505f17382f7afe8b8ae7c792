@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 17f1f641767f0da062815e1ca90c07a3
+install = 36fc032725cb2c98ea7ae0f531c6b179 b889bc8890923843d25eb9f8479a0c97
+install-size = 17698 17169
+download = 3300197b599fd1794efe684d7c9e3322 991a5ccf655f15e35a1de3ecf3b78506
+download-size = 11198349 10002522
+size = 53d94d766cc6ad5f320e037e15df93e5 76697c8a05e2d78f57e2e95c1c59803e
+size-size = 6015744 5255485
+encoding = 047b5406f759291d7530bc12539546c4 b98d9e048edff1a0bc60b5f37f8b093d
+encoding-size = 23665044 23662830
+patch = c166edc0c9f9668157da4902f28fd7f8
+patch-size = 2820973
+patch-config = b86c94b4662ba74f0d0c08dc95221bdc
+build-name = WOW-43929patch3.4.0_Submission
+build-uid = wowz
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
