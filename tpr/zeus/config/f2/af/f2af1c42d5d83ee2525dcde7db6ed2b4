@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 250437082dcbf17a2a1ab57befae5860
+install = 89cb9eb99ec0d7bc8acbeac60fce232a a89c344e8f2504f85f7e21f92be657e6
+install-size = 5090 4656
+download = 86cc237f8b1c13ad5832671ad4a48e63 fcab1c7b6727b1691bd8ce49cb0af263
+download-size = 189558 164464
+size = d95b76627832684f9c53047b65e426cd b2306aaef7a7a22ea8dac2f6ab21dbde
+size-size = 107896 92064
+encoding = a832a2d136403413755cecebd8f73791 aad6d07c885e36fb31dd794b81a79fbc
+encoding-size = 8409 8568
+patch-index = dae7b104b6e6373b2425cabc6c5e38a4 c9410f2aa9f2a69d96eaaa0e6c6fea2c
+patch-index-size = 108 106
+patch-config = 683836b84a515551e37d4bafd750e0f4
+build-name = bo5_tu25_11617171E_signed_r_ship
+build-product = zeus
+vfs-root = e8057e4ee5d995fd0c6780918eccb3ac 6ab1ad82008cf8a25b3faebf40e5b7b9
+vfs-root-size = 291464 154326
+vfs-1 = e8057e4ee5d995fd0c6780918eccb3ac 6ab1ad82008cf8a25b3faebf40e5b7b9
+vfs-1-size = 291464 154326
+
