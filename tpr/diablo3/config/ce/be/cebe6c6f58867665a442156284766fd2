@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = ecd8de082dfd75137966e0d66c9b42f0
+install = f57c7115feba9054e4a5a999dbe7d406 5e038959a67e7dfa5df30126a1e74198
+install-size = 40307 39314
+download = 0d88df1597a0bd98ee397e4b7fe2c68e 15a48faee3617f0a5dc452cbe72177c4
+download-size = 18526394 17226637
+size = 47fcc013b0164d04694ce471a2cebc6a cbed7e653782bc141549698a61f1c2b2
+size-size = 9924917 9573865
+encoding = 5c9e73851743aab00bc61cbc58cdf43d 375730f51c7c3d32371da574ea259edb
+encoding-size = 42287451 42287592
+patch = 7a422082f00e842edc9075dbc2643e8e
+patch-size = 1677393
+patch-config = 9b4d149965d12b595d1d9554e29e8243
+build-product = Diablo3
+build-name = 82785_Win32_2_7_3_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = mgrenewetzki
+build-comments = 2.7.3 CN PIPL RC2
+build-branch = 2_7_3
+
