@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 03f8ff3bee7caa143b1169a2197068d2
+install = 9c08d3f58db355ccae016e059a6e7c2a d2dd8993abf0689550cdde1609af7dcb
+install-size = 4014 4072
+download = 4ecd9e2c8ff7ebcb8501adfdde30420b c8ec5d20318ee375e6084525fb67f9af
+download-size = 1072 1162
+size = 0d7f08ed38f17eaa151034defc0431d3 2105aee9974966652883625c5b5c7086
+size-size = 564 658
+encoding = a026d62d38fc76c1954d2c67c4bd6566 d19c324b337f75811199f02199b81afc
+encoding-size = 8381 8556
+patch = 22b1cea501dfe816d862913fac29d32c
+patch-size = 2161
+patch-config = 048fe25b93b8b46e8be66e0ba30a3203
+build-num = 7893
+build-name = 7893-agent-2.27.2
+build-product = Agent
+build-uid = agent
+
