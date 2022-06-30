@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = eb90b476b67246a2045b7def82b310a9
+install = 408337595f0f6c6e857d13a2cfdcdbed fbcedc26218339c38786ceaf074559b2
+install-size = 17787 17257
+download = 1d67d72a4897d4fc76092d4dca5cbe2c c2984527c1416ddcbf5abf99c787259f
+download-size = 11253418 10051751
+size = 957855abe9207d20d311a692a0b1b1f8 e59237649161a99423cdde000f4f6afd
+size-size = 6045319 5281775
+encoding = c2fd2d43aeceb04774aa2ae702d47bb9 494ed425ad48b99e6589f020e9350a9c
+encoding-size = 23780988 23778506
+patch = 99872b934a922f8f2444288281de4b5c
+patch-size = 203465
+patch-config = 7ac251117a6573a0f686b6044ce5f4ca
+build-name = WOW-44463patch3.4.0_ClassicBeta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
