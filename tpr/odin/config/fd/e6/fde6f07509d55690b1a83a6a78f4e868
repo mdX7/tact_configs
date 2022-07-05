@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 5754134baf8767def44cb254105e5ac5
+install = ee41cb46a424f6cc43cfe2ff369a5c6f b776e3662bd2dd4a77bdbad4df3fcb53
+install-size = 6298 5972
+download = f2fd01209973e09b58e6c817bb401e53 8d3f21211d80a855787131404131485b
+download-size = 1905789 1711091
+size = 4b184790f6c3c81afa1d3f8730a6b5e5 43b020f0cc6a8312763470448185e104
+size-size = 1051563 876917
+encoding = 7ea1108433914bbe90671706256612e6 e4cae95a957511f6b5dc0dc3adabe53b
+encoding-size = 12541 12707
+patch-index = 7a4362c34ff4a1c7019aadf15ed67758 aa23ca8759a6feb8b57040007cb277da
+patch-index-size = 4170 2769
+patch-config = 750e6434c76fb601f9233d8aa1a07b24
+build-name = live_11846511_WZ340_6_10_B_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 9aeaca7d40e68b784782b361a5312ee3 e91d05e627b2684bfb5fbe31b55b3883
+vfs-root-size = 3343446 1346401
+vfs-1 = 9aeaca7d40e68b784782b361a5312ee3 e91d05e627b2684bfb5fbe31b55b3883
+vfs-1-size = 3343446 1346401
+
