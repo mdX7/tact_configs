@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = dab87417e9672ebddb04a08c27f581ab
+install = 21f3b707af59407083e81a12bf622d48 afc4c54cd61d76ce840cbc001fc73a5c
+install-size = 223559 219140
+download = b7e7d41996601723d64c55f3fa4b038d a726499510188d8b4400f9fe949a0168
+download-size = 46158 42438
+size = 632aaa132f1094604a0bce6b136f375c 268e39526da0d2161455f91968a7a28c
+size-size = 25084 21469
+encoding = bc5836f315b896595ce2264de0282181 6e97f2c69f6455a05ba10a8c56ee3e97
+encoding-size = 107466 107644
+patch = 3a8c4527b192903d20d400f887acb358
+patch-size = 40701
+patch-config = f8f1a84e33c3eee652e6e1dcf90d6d1c
+build-num = 13601
+build-name = 13601_2.14.0-beta
+build-branch = 2.14.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
