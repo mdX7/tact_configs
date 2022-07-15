@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 3c48e517b789dd5d884d1ba88f5bb48a
+install = e70f7ab414f8c3e95b4b43e8beb258ce 4e6ab5f32219f3644b11f834dbefc1bc
+install-size = 5944 5649
+download = c2cc9c2cb231a0f107dc56eb6b74072e 4a8e44d25c757529a2e83b31029682d2
+download-size = 242173 218977
+size = c25f727c2662fadc59248952d20f1d34 8bf42ee2db4c64bb9f3d4584240ce609
+size-size = 133237 114026
+encoding = e7b137163869f9b8b54466182a539a69 d5cd0718bdadb9e3a014b407cb096294
+encoding-size = 12538 12705
+patch-index = 0232bd88d299c475a15f5d683382b8bd 75288567993e75f8e7b60f19c893d56d
+patch-index-size = 101 98
+patch-config = d7c9f10a2671adf71e99d97a1c823c2e
+build-name = s4live_11712930F_tu19_golf_signed_r_ship
+build-product = fore
+vfs-root = eecf9b237e55da86be817ce06801199f 611fbf0f958fce3a02c1836ab07146dc
+vfs-root-size = 457026 191673
+vfs-1 = eecf9b237e55da86be817ce06801199f 611fbf0f958fce3a02c1836ab07146dc
+vfs-1-size = 457026 191673
+
