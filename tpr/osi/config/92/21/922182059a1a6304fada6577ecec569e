@@ -1,0 +1,32 @@
+# Build Configuration
+
+root = f3f1dfe83f3c5d76539276c97135fdc3
+install = 639f24e58926ce576067aa193c987d75 67b8dcca75ed2944ceb96b19d043686a
+install-size = 315 341
+download = 1888770bfcf7e6344909951e176293c4 a893d4b81f974d669b000334773d4b9d
+download-size = 4657734 4306612
+size = fbb48ba7bd80fd3f7b4e1485edf5dbea ed6a353a4838c26abce8535d9027c6ea
+size-size = 2504894 2253609
+encoding = ab8e476947648eb3ad613767e4798ac1 a0bdf05ec2840b9fc9fc83dd961a3959
+encoding-size = 10584366 10584526
+patch = ca291657aa7ec3cac04f8d9402347c44
+patch-size = 237683
+patch-config = 838601e73fdf3115ae05fdd39033ede8
+build-name = 70409
+build-uid = osi
+build-product = Fenway
+build-comments = 2.4.3.1 RC 5 00.37 07/12/2022 REKICK - Child
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 7635a5976fefcec1fdb5a9862e50b33479fb325f
+build-source-branch = release_2_4_0
+build-changelist = 209650
+build-stream = //diablo2_stream/release_2_4_0
+build-has-data = True
+build-target-platform = win
+vfs-root = 9379a427972372438792795c4ec519bb 430eb0547a909e5b8a44b5e18433b05e
+vfs-root-size = 764 745
+vfs-1 = 9379a427972372438792795c4ec519bb 430eb0547a909e5b8a44b5e18433b05e
+vfs-1-size = 764 745
+vfs-2 = 74a0b75f0c733e36561cc4ef1f89384f 63fe9b8da1baf6fcab7d77228cd032e5
+vfs-2-size = 11381831 7320265
+
