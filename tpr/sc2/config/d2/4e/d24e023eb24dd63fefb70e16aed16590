@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = f38043a301b034a78ad13f558257dcf8
+install = 7e13b8af091929734a9829e367d4fc8f 72436cc50cf88841c614e36617ff3fe2
+install-size = 58923 57087
+download = 7d59720eb1b41b472cc73a343b085fc2 b06741d2505c3808adac36ed356bd012
+download-size = 17642924 15839487
+size = 03b493315d924774046a99eefa95763c e6a61514add62145172094a1a5e76aa0
+size-size = 9734113 8730725
+encoding = b51f6e7f2448d39e1073a4b145a2c7a3 6eccfc3902d9eae264ed23e2467b6afc
+encoding-size = 46283684 46131576
+patch = 38d0502d30209840f7364853283691b6
+patch-size = 12553
+patch-config = 838101503a33d2ad36a1819bf2c2e864
+build-name = B88500
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = f3853b6e3b6013415cac30ef3b27564b
+build-replay-hash = a79cd3b6c6dadb0ecaefa06e6d18e47b
+
