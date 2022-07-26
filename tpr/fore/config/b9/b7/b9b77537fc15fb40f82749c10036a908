@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 124142aed511f8a07476658d45736a48
+install = 050cd269bc8e7f1f3a426ce82acd6e49 e91bda3bcb337456f3bffe5ede46586c
+install-size = 5944 5649
+download = 917ff0353cf935324a9dd2bd44cdd557 bb7557cd5f56e5793795d286e4ec515f
+download-size = 254390 230003
+size = c565796efb529d2b0b7843a027e1278c 4ada9d6fca97a968bc4890666b0387b3
+size-size = 139955 119680
+encoding = 39cf09f71eef11bbf0b4e75d215be4fe a69c89eeef51cc42fe0c12a10005796b
+encoding-size = 12538 12705
+patch-index = bfcaa312704aee8a732af7e6fcf61e59 6947ab30a2a9093e192d22e73eca02ef
+patch-index-size = 7685 5637
+patch-config = 580130c2b58782a56c689b151e40de0f
+build-name = s4rel_11961812_tu20_hotel_s4_signed_fc_ship
+build-product = forec
+vfs-root = 3ad545346a5234b12f1d679ef5c306d3 88169f2674acf0cb3ae6b5524051a205
+vfs-root-size = 480099 201182
+vfs-1 = 3ad545346a5234b12f1d679ef5c306d3 88169f2674acf0cb3ae6b5524051a205
+vfs-1-size = 480099 201182
+
