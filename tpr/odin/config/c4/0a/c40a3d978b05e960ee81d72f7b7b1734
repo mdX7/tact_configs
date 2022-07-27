@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = df9182ef26ca37af5c36f497f3f1c5dd
+install = 65f8c86b24aaf68a0e24da6746df7ee6 d1ad3a9ffc29c279cbfbb1aa61a965bf
+install-size = 6298 5972
+download = 3d9a4cecd5135f6ea85a58900c4dcbd0 97f198ac641e46144237d51160a41e1c
+download-size = 1919399 1723205
+size = ef55abe079fd7d2ec6892bd6cf5579f7 69292ca933b68df9cee47e8e025b66e6
+size-size = 1059076 884306
+encoding = bc5da298fef95165638831c853dc88f5 986889f4ad795010382053e9bb785201
+encoding-size = 12541 12707
+patch-index = a3a8cb97d0c43510d5151c5a94b8c1f2 ddbf44fc2488e72b0102afc5d478b5ac
+patch-index-size = 6226 3954
+patch-config = f8989d5f65605c73785b01520b2023b5
+build-name = magrel_11976759_TU_WZ345_7_18_V2_DWLIVE_patch_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 4425e2170999a4a913443f3054d07ed7 4bdc91b78c375acf2b381f7e60051514
+vfs-root-size = 3364140 1356218
+vfs-1 = 4425e2170999a4a913443f3054d07ed7 4bdc91b78c375acf2b381f7e60051514
+vfs-1-size = 3364140 1356218
+
