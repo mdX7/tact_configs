@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 24e65dd307c99080673665e4ff7b200e
+install = 65f8c86b24aaf68a0e24da6746df7ee6 d1ad3a9ffc29c279cbfbb1aa61a965bf
+install-size = 6298 5972
+download = 5b9c2fedfe0417a0b59e833bb01e70b5 55899a8171558636f7585a9e6b8dd955
+download-size = 1919425 1723225
+size = a938da7e512e5408caf90f66e5b3a541 4f3ac3d5c48e450a070c0b9a53ea7a9f
+size-size = 1059089 883495
+encoding = c9b1da8494f54f025ea69274d0945860 13044a44642f0ab537979455ae31fd93
+encoding-size = 12541 12707
+patch-index = 9bbe3550c41613c9837e82ed4e6fd8d1 26f4a3de053f355ebe0732031a2d0d1c
+patch-index-size = 6226 3958
+patch-config = 07bcf236671519ad67ac17f77a0c3271
+build-name = release_11976759_TU_WZ345_7_18_V2_DWLIVE_patch_r_signed2_ship
+build-product = odin
+build-uid = odin
+vfs-root = 0168ff9a651042becadf9b35672ef3da 2bb8a174bb218de21254bd5ca5d15c35
+vfs-root-size = 3364189 1356217
+vfs-1 = 0168ff9a651042becadf9b35672ef3da 2bb8a174bb218de21254bd5ca5d15c35
+vfs-1-size = 3364189 1356217
+
