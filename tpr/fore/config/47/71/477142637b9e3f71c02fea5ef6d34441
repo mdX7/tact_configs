@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = c6a6c52d7da6f70a56f13f7a36e14170
+install = ed0303f2328a1d9735efe42a16665443 3191820edb87efd0ae31abfbfc4ae281
+install-size = 5944 5649
+download = dfdeabb09d8338333843facacbdbd655 1b669966c1cdf1cc581147b9765e8f1c
+download-size = 254390 230003
+size = 5d2f366dbf72bbdd9efcaacd8b8d098a 40749e91f52e458dba4613bbc782a28f
+size-size = 139955 119680
+encoding = 83d3c2bf88eba9fdefe191d753bd1a23 b698198c533d4ae56b23fd3b88bf6204
+encoding-size = 12538 12705
+patch-index = 70bf27cd64e8c4713374ff76adc0193c 20bd650f418e2f521268471ac6032a12
+patch-index-size = 5080 3645
+patch-config = 08bbd2f806cf088e5e17b035c3f38270
+build-name = s4release_11961812A_tu20_hotel_s4_signed_r_ship
+build-product = fore
+vfs-root = 3f7418f1bb3ed59bd45aa27ec13782c7 fbd7c57967a1618b2b15b6a1c09916e5
+vfs-root-size = 480099 201171
+vfs-1 = 3f7418f1bb3ed59bd45aa27ec13782c7 fbd7c57967a1618b2b15b6a1c09916e5
+vfs-1-size = 480099 201171
+
