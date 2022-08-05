@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 71b51553642408fcdf3df77f96c1b6b4
+download = ea5c6bf9e2e1b7585ee267dfe0418688 7f55f03702fc09d1d4b5ebad35003ef9
+download-size = 11337864 10136502
+size = 65778c9442f709d8eda7e19971c4cfdb fdbc899bdd3c4846c6def05e0758c61e
+size-size = 7194142 6639166
+encoding = be7d2caa3685f49493c5bf93700215ef a19210f05cdc08bd4412a5090174c945
+encoding-size = 29440547 29426979
+build-name = prometheus-1_73_0_0-102773-BGDL
+build-number = 102773
+build-branch = 1_73_0_0
+build-product = Prometheus
+build-uid = pro
+
