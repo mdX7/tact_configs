@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 855fa95db974f053226913dbfebc1537
+install = f819ddf7847cca8114e3bbaa58049341 72168cb4d00bc232941ea7464345e050
+install-size = 28678 28689
+download = 3691510ded78df15b7b1b83b5f7be775 2ad0a15ef89138d9ad9c38dc131b1dc7
+download-size = 10750 10787
+size = 58b05ee00ca17d57bd263235c77a5681 901112910522120151845d0465e5cf55
+size-size = 6389 6426
+encoding = f3f7f8f29394a30214e253ca8a3c654a 9a0295dcfdc11a1ec5dd87414672d8a6
+encoding-size = 33160 33337
+patch = 8cef2d7ac190ebe4202b033416edfdb2
+patch-size = 644
+patch-config = 235e2937ae85bb47f6a01b5aaad40760
+build-name = 886641_row_green-1.5.3
+build-product = anbs
+
