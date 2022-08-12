@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c4a8f4619bd6a844a8d1dc06671e087d
+install = ab5d5b38123af0d96edc39ae0ee7d4b0 0ff7a9821771e969e12c6b2b30c91ca3
+install-size = 17787 17257
+download = 4f0697795a7fcd70460e50a06f677511 67ca58a637feb16d2b1bda875a7d6ecc
+download-size = 9781323 8577576
+size = 395c1fa56c3951e73c7d0329044c4e8c 643400f520b9b3bb498d6571fc512636
+size-size = 6055186 5290634
+encoding = b66facac3d31349a04823f3b1a910016 486f69988ee3d1b627fbafc2e9b2d188
+encoding-size = 23827103 23817524
+patch = 61892b87e79dd5982b1634d04c7a6fd3
+patch-size = 3323019
+patch-config = f56d33ee145e6f0c44b5cbe637a3d76c
+build-name = WOW-45102patch3.4.0_Submission
+build-uid = wowz
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
