@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4ea2c5ae2d1d93d7a65f5026a38f030d
+install = baff2ca783d03205a0ea1e6b7724eacc afac7a6a1ad7b403e9acb1a2c69fc86e
+install-size = 5944 5649
+download = 05c8ae1903aae8215ae0b794def9b948 89066de28249682c9d4ae2140813a9b3
+download-size = 219377 194995
+size = 46b642d8dbe276522d1defa089145f33 b220324446004000aba3b3449b0e6b27
+size-size = 140082 119817
+encoding = 0d4e42546b9f6d7bb1a40ec65a811373 7569e9bcdfa58d44d2ae8766e775fcc7
+encoding-size = 12538 12706
+patch-index = fd98037b50eb0d4352f264d0850bdab5 dfc02400ec45c11edcb92f8ea4c99fc1
+patch-index-size = 6786 5009
+patch-config = 52ff8d35740f87167b19ea6e2ef7f790
+build-name = s4cert_12086107A_tu21_hotspot_s4_signed_r_ship
+build-product = fore
+vfs-root = dcd6daff1bec5cab5e9a882b7a54ed87 189fa195f3515a2d19f3e433fe82a9a9
+vfs-root-size = 620373 353893
+vfs-1 = dcd6daff1bec5cab5e9a882b7a54ed87 189fa195f3515a2d19f3e433fe82a9a9
+vfs-1-size = 620373 353893
+
