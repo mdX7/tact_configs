@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = eab2c75b4fbe56a210d079b5b3192108
+install = 05e2b65a6135acad6980ba93dcbe8352 55df054cd6cc05956ccc32278cde2761
+install-size = 6298 5972
+download = cb5efbb680bcb46f79f5a16d8a808a84 7b76bf99a0c989120e99e8ebe51047d6
+download-size = 1674061 1475463
+size = cdb99a499c2b2e46b6d6888980ed7d5d 99b15b5e69f592b04f5d250d7073a1ca
+size-size = 1071479 895011
+encoding = 1ffada4bd9617e8b0e44dcf4081024dc cf8bb92d0d8c80e5dd9bdd845d3d744e
+encoding-size = 12541 12707
+patch-index = 2481c2e557771b4bd0153dbe78109a3f 32ba078cdf3dec1186fc0ad96e91096f
+patch-index-size = 4986 3277
+patch-config = 3408d511a4275756546cc62ccd8803b2
+build-name = live_12283188_TU_WZ350_8_14_A_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = eba5c764974c2793d0b3590c6434a558 a3f3e9dabb9b203435f8eef670d4d53a
+vfs-root-size = 4533337 2546446
+vfs-1 = eba5c764974c2793d0b3590c6434a558 a3f3e9dabb9b203435f8eef670d4d53a
+vfs-1-size = 4533337 2546446
+
