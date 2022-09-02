@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 0ee860e13adc6cf8a94dbfea330d0e43
+install = 5f18c0fdeafa46e02159d9245e4c91fe df9dcb658c3b7e8556e3c585c4c54bae
+install-size = 6298 5972
+download = 99fe726e4d4a2a27bbbe4db6680cc1db a3477729e5e2d92583be5c1222992f3b
+download-size = 1674127 1475702
+size = 6770d65b2b9f6976af379ea4628213f3 8744f5f91312d2b0525e88251c1f8f69
+size-size = 1071518 894305
+encoding = c142b653093a222d2580fc7c98c7a258 86f9743602b83021a551c02d18e2e077
+encoding-size = 12541 12707
+patch-index = 87266949731be0b03cfcbb75c4ee0687 f825c80c23ed55e2bc85a558fa92a987
+patch-index-size = 6120 4164
+patch-config = d4a9b6a5af23655173ebfeb67dbc36b7
+build-name = sub_12273715_ETU_WZ351_8_24_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = e34ab3911a8dae998c45d2ac9008f101 f5523429ac69b56cbb3abefd140988f2
+vfs-root-size = 4533850 2546949
+vfs-1 = e34ab3911a8dae998c45d2ac9008f101 f5523429ac69b56cbb3abefd140988f2
+vfs-1-size = 4533850 2546949
+
