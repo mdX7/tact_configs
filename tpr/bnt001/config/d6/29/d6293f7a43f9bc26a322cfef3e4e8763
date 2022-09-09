@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 09f92329a87ac9bbb1ec74ffc515de69
+install = ae65126a1d97c0c096652ae855bd148e b274e93865bc7757bfd23006f3e05dc9
+install-size = 4014 4072
+download = ed052d7e337582a8f2cd80bb128269f4 8bb398f060a2ecc599a2873702018148
+download-size = 889 980
+size = 73e7049960dedad5a81ac24cfd09d836 49801d3cb5d0288147174d4cd1347c19
+size-size = 551 645
+encoding = b22799e2e02680291bea74afe60bcb09 56a02215cb3ae515a792cf3a608bd429
+encoding-size = 8390 8561
+patch-index = ab669c80eed30fef3f153223ecdfdb84 2f196a3c9dc8f46396e2417071806021
+patch-index-size = 1207 1042
+patch = a1b37edd1a0bc7c02d5ea433c745956b
+patch-size = 1633
+patch-config = 29a9bf9bb0c2765fe70fe7c39d8a61f2
+build-num = 7984
+build-name = 7984-no-branch
+build-product = Agent
+build-uid = agent
+
