@@ -1,0 +1,34 @@
+# Build Configuration
+
+root = 8cecfccfcc8805022ea5e751e6b0b55d
+install = f0ba81acbe979625b8f13f7b24d76245 9e134eacf8135db8e26eef37a05cb2a7
+install-size = 315 341
+download = 63df21b17ad358f1bd2be7e6cd190e53 48aaecb659660ef6fba20fd78ca95be3
+download-size = 3995405 3644276
+size = 57b3421146be1a0f8aa03e7c8624ed09 35ae64290dc444b237ac410057d6fe84
+size-size = 2504946 2253433
+encoding = d5e172f7bfe8495262509fcd69f7c868 caca632a91e06d9362eb62f1237f116a
+encoding-size = 10588494 10588657
+patch-index = 207c8f0cb17e7477c44824a1b2b24428 da4635f8033bb28c6468574849a8a374
+patch-index-size = 346207 262088
+patch = 3c2d989a9d343cd3dd3ee29eed84f5b9
+patch-size = 490457
+patch-config = 3b9474b1c02cabc86cb23062b08d4132
+build-name = 71256
+build-uid = osit
+build-product = Fenway
+build-comments = 2.5.ptr.2 RC2 17.34 09/13/2022
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 3e0bdec0da3484e1ed6a2c38523633ebfa32341e
+build-source-branch = release_2_5_0_ptr_1
+build-changelist = 210027
+build-stream = //diablo2_stream/release_2_5_0_ptr_1
+build-has-data = True
+build-target-platform = win
+vfs-root = 19094516fc6259a43c255aacd34bfaa9 f941ad14abbf89d3d73aa6f05eed2b9e
+vfs-root-size = 575 555
+vfs-1 = 19094516fc6259a43c255aacd34bfaa9 f941ad14abbf89d3d73aa6f05eed2b9e
+vfs-1-size = 575 555
+vfs-2 = e6aef7a00206f85d15d1c28804c5dce0 47d731c95180b275ca4a58eb2d4ee201
+vfs-2-size = 11491341 7423878
+
