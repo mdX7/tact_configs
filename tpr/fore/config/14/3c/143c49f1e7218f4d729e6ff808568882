@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = bf3f5abfd82479c71494141e26b79a02
+install = 3491d14f14164fdf8c342fa5cba461a4 002019ac9205e02d314a37a6b13a2931
+install-size = 5944 5649
+download = 2b0b5d9cafd648db4d2ae958e5786cbb 5d6b0510c21974266bffd15a437e4861
+download-size = 229415 203838
+size = a3f2d1923441bb46eee4dc35f19a7902 73d79fa8b625b028f2480038d6964ad9
+size-size = 146484 125205
+encoding = 0d691882f577a1f4403478bf271e3295 1317b82151af28f9475f2cfdc4a25cb6
+encoding-size = 12536 12702
+patch-index = bdfd33d0e8eaf33f3ae9101d5e9dd896 aa7353cb8e2d934b674658f7ab1a1add
+patch-index-size = 252 181
+patch-config = 73202f835d1919732dedaed3b70c9ef5
+build-name = s4rel_12200001D_tu22_india_s4_signed_r_ship
+build-product = fore
+vfs-root = d936b78a1d73ca11ac99bf4a5aebaf74 8c6d25da688a1443cfd9d2650b6b3cdc
+vfs-root-size = 649556 370172
+vfs-1 = d936b78a1d73ca11ac99bf4a5aebaf74 8c6d25da688a1443cfd9d2650b6b3cdc
+vfs-1-size = 649556 370172
+
