@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = dc7155b5264ad75575b558f1de320e0f
+install = a0fc42901e6212d3e80740176f304ede e0db6fcee37f009b4994b3968b18bb09
+install-size = 4014 4072
+download = 25482a21646bf5db2b700f7a1315480b 8ec7c54cc8ed87e7f24b2ec9ee599057
+download-size = 889 980
+size = c734228154a6f7fcf7947ab98499d152 02df062cef8dc9a7a2fb823b29ff136e
+size-size = 551 645
+encoding = 39eb2079f5d9bd3c8e92661048025926 cd41d11400aa433f13b4d5486d12aa81
+encoding-size = 8390 8561
+patch-index = 8d9ff0cda9c5579a5a5ab0d25c76914b 0f6666c8b734a2a88298f328739a94b7
+patch-index-size = 1207 1043
+patch = bf709ae78eb9ac781f79c5344525dccf
+patch-size = 1633
+patch-config = 33431873dd5b176b1ce33c17f8f6d00a
+build-num = 8009
+build-name = 8009-agent-2.29.1
+build-product = Agent
+build-uid = agent
+
