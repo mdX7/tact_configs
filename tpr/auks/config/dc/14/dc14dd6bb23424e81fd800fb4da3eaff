@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 2a92279dc43c5c667a3c195b09dd81d5
+install = 3372b5d637430c6bbd565823241a8fbf 8d253555f939a450625a59a5226615a0
+install-size = 109 164
+download = 686005159e7951129e6fd4fadb42d937 cfe575e38d779546253ef0778dee9486
+download-size = 99 180
+size = 8edba6482162dbf5ff765abce11df04a 08ffad2623f8e046decbe288b86daf65
+size-size = 94 175
+encoding = 5dd789db25566c2b257deadf210b195a 31f971f01e7c0a8a0291b68f1f73e06b
+encoding-size = 8393 8556
+build-name = randgridauks_2022_07_19_ship
+build-product = randgridauks
+vfs-root = 60ba2ed52973f790c22ca815cf00b388 3d1ef7ea8b0db6c7b4bb91aec70fa4d2
+vfs-root-size = 107 130
+vfs-1 = 60ba2ed52973f790c22ca815cf00b388 3d1ef7ea8b0db6c7b4bb91aec70fa4d2
+vfs-1-size = 107 130
+
