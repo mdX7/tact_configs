@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 437d0e98c0d6cde9490960d02c3784ff
+install = be87cc61565aa07112ebd18a428127f1 ccc107aa31a9b0534fece679bead1481
+install-size = 104051 99700
+download = 6b5ab12fcdca2f40e1f45d69dcbfeed4 528c2d9fca0473a0d33fc825b6ca4d68
+download-size = 1265578 1121013
+size = 51f1f16307df9149837c35bffd4cfaa2 c509b749f241f527f2853b336ba1fafb
+size-size = 705602 615964
+encoding = 6595c5cfb5b22adae316b4e7277a02ca e7215abe243ab2d487d92623ff370257
+encoding-size = 2757663 2757833
+patch = e4403d5e70a2e0014c1cf784ba12c4b6
+patch-size = 10897
+patch-config = aaef5c1b06263db6a92725192f75344c
+build-name = 1.23.10.11109-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = 1.23.10 Hotfix1 RC2
+build-playbuild-installer = ngdptool_casc2
+
