@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 6c1faccaedadd8055534efb4372b039c
+install = ad3223ea775dfb58193c2c53a3b10ee3 ddfa00aced96e0bef774d5d3d590357c
+install-size = 4014 4072
+download = 886fced84df4b0e6b89d5577af0f7452 dc16bf591403ea8ca7279157fbebc144
+download-size = 889 980
+size = d5806578c14dab58818ffbf9bf23a846 6dfec2ae2e41580c52d92f92398770bc
+size-size = 551 645
+encoding = 849063b8e83e6125fdefdfd613015f7e 51548c4dc2666ad365919c9dd441280d
+encoding-size = 8390 8561
+patch-index = 2134b3f5697f61f34a83daf59cddd2f3 ca24e41b8dfb9d118dc338cca12c4ec7
+patch-index-size = 887 737
+patch = 1e3b0245ad4d0a6703a788cf11f4f328
+patch-size = 1121
+patch-config = 5959adfbeecbb53c15f8a5b133b8b7ce
+build-num = 8020
+build-name = 8020-agent-2.29.3
+build-product = Agent
+build-uid = agent
+
