@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 83ccbfb2d66e6b2fc27bc6c22e4e6322
+install = ecdd6595fe6bae50caedf823c099d569 2082f0b1e5253856b60df95b61514ebb
+install-size = 17740 17211
+download = d761a47d3f28941d9ba2e1077e75ff57 3399e399330fd877d81ee50374498abd
+download-size = 9785149 8580991
+size = 477615f159b1c90cdf722317e2195fd4 df8ccbb3f4a27ddf53740aaa5608b389
+size-size = 6057552 5292866
+encoding = d856b8c5a1b142d7c8749d25318f2235 dc958fd05af9ba4949ff10be52d6e6a2
+encoding-size = 23839257 23826564
+patch-index = 0538a97903e7b95a3b2433219269a993 7029de31c66a6861799fb73c47e66833
+patch-index-size = 2727847 1922508
+patch = 1821b58be388e31d976c056afae9ac98
+patch-size = 3274375
+patch-config = 14be3d5ef8ced0e14d489ab2e5b8d431
+build-name = WOW-45772patch3.4.0_ClassicBeta
+build-uid = wow_classic_beta
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
