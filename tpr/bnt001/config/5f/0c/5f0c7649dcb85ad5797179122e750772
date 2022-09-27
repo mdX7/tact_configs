@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4e469cd37a083f58a7b94ea365e8270e
+install = 6e0f33d0ab1db6232c8cdd22e7ebc5e7 7976e60c3ed40e2a3433ae57b6d4d006
+install-size = 4014 4072
+download = 64762fe380773c3fbefe0d1b9c89ec86 545e60200afde044b90b05ce92e3c5f5
+download-size = 889 980
+size = 787659d13bccc47e020e8c50464cb7cd 560ecc7f0b6fc70f598cc230af04c6d2
+size-size = 551 645
+encoding = b3fa825c582d6bfced5dc534521d218a 596f7f25d99762116f506886b019744d
+encoding-size = 8390 8561
+patch-index = 911a6ca03ab7d8abfb0f95444d6b32d1 ab745e34c000227d1aff36a3f7a7507a
+patch-index-size = 887 738
+patch = aa219a889e4675bf56ec2efc4ca31ee8
+patch-size = 1121
+patch-config = 4671f9f9726c432c92955795cbb455a6
+build-num = 8022
+build-name = 8022-no-branch
+build-product = Agent
+build-uid = agent
+
