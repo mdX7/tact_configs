@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 50de85ae03bb48a6f3f430d6843fa8d3
+install = a77bc0ca282eec76ee535774e5e98a72 c9b2a1186cbfc0ce327585e5bdf18465
+install-size = 5944 5649
+download = 263af0fff3a8601539cc060a8c0f3f50 07f0b27f2241f1104d0b64ec3a474e39
+download-size = 237309 210817
+size = 6ce20bead8e7daf4e305f15422339317 2d57f9613d50aee7c76cc419ad26e0bd
+size-size = 151525 129183
+encoding = 1f8de74c7f79390930e70ed899984061 0399adfbcf93b187fb730805a7a16b63
+encoding-size = 12536 12702
+patch-index = 5422ae53323ab0203d3e3771240a6fca 54760402433c6c942ff6fb92fc0877d2
+patch-index-size = 5395 3596
+patch-config = 2a96766da647b3fcfdd4e1a161d34127
+build-name = s4release_12444716_tu23_juliet_s4_signed_r_ship
+build-product = fore
+vfs-root = 1d4702a3f7cc2fc523190f8b136ea4aa 02006b9966792d9663d4c638258ed3f2
+vfs-root-size = 672684 382825
+vfs-1 = 1d4702a3f7cc2fc523190f8b136ea4aa 02006b9966792d9663d4c638258ed3f2
+vfs-1-size = 672684 382825
+
