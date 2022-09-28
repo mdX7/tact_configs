@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = f76b1d2cd95385b21e61874761ddb53a
+install = 795edaaf8cc0a0958be4db737760cd9c 9213d2b215f819ac06807ec8ad061be4
+install-size = 30323 30331
+download = cfdec68ff45049a952ee7405bb202480 250dd2c4b1507a7f7232e103e7fd17a5
+download-size = 11303 11337
+size = 8709c2d20097e0fd2115a52471238b7d c204f80c543352433338b2986e0ed68d
+size-size = 6717 6751
+encoding = 36bb2eaae5b74a7639ca0c22e8f42441 becea6686be04570cadcd4cb8b565265
+encoding-size = 37289 37466
+patch-index = 011a212bf9e49fed59391c5fe039ba49 3b503c44c998b61944e32848a5da57aa
+patch-index-size = 527 511
+patch = c32e1643c6554065f8ed07c4ad46b7c4
+patch-size = 835
+patch-config = 918419207cf4c7e098e41bfe4a378828
+build-name = 1062221_row_submi-1.6.0_RC2-filediff
+build-product = anbs
+
