@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = dc7155b5264ad75575b558f1de320e0f
+install = 4c5b9f98e9fda40f5364b401a3432fa4 a0532c4bf5629e5663100c284f9ec70b
+install-size = 333 402
+download = a047734ec15f95a5d8a2f636a784f20c e354238ce050817d37b5becf5fb81066
+download-size = 183 277
+size = cbc78d6d688d6ccbfe2c673fab5971e5 9288b65c09e407e43c6f1922aa01268b
+size-size = 124 218
+encoding = 430e730112fdaf80cb3c62a971c238d8 f857ccf73d012ee4dccf853b478f17b8
+encoding-size = 8389 8558
+patch-index = e21e5ce565eba363564f8abd91248045 6d2e4655bda82f9621933c1dbf1e6b6a
+patch-index-size = 447 392
+patch = 524890e6f0554341be19ba0ee54d15e5
+patch-size = 593
+patch-config = 8ec487956290932ddf50594914986fe1
+build-num = 8009
+build-name = 8009-beta
+build-product = Agent
+build-uid = agent_beta
+

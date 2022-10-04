@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 1a78f0f9b99c7334ac778c236036d02a
+install = ec352b18690954154ad28a17edcdd111 7d833a2ce6282642d3bc812487a1650c
+install-size = 253 250
+download = 60d0151b0f9a12cb7dea3ca218aa10c7 f9b4b18dd15bddb22bc090baa49dbc1a
+download-size = 156006 138281
+size = 4d8a8d8b003e10bfd947a6376c9dd4c8 21909f9afe30918f728a2d8b31f31710
+size-size = 99634 84443
+encoding = e3f3a77c7e1ae9586cc785efa0f9b15b 415aff5e6cfdae3946f2e35aec71f24a
+encoding-size = 8404 8564
+build-name = cortez_beta_12445804A_BETA_TU1_exe_patch_signed_ab_ship_pl
+build-product = auksb
+vfs-root = 13b1ae6ca67e67808d6340d9f575e5e8 1116b03528e22ecc82cd81367618820f
+vfs-root-size = 310924 159274
+vfs-1 = 13b1ae6ca67e67808d6340d9f575e5e8 1116b03528e22ecc82cd81367618820f
+vfs-1-size = 310924 159274
+

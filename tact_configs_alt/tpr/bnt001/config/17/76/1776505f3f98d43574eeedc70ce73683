@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4e469cd37a083f58a7b94ea365e8270e
+install = 0aec87a2236c01df70b34a1458a53ae1 97dc15cd10fcbd20267daad6e091bcd6
+install-size = 333 402
+download = d966bfb42be2fb92d5ade4d1b353e9df 4d4db43283ab744795c0324a54b5c265
+download-size = 183 277
+size = a83b05f452eb5c0ce0a9b1d5a8139dfd a6fb1b62e5082880cd068a941a0362ab
+size-size = 124 218
+encoding = f228ff4b13eb0e02e9e18fda3429d62a 34e2748d53d60c541f082a70946d405a
+encoding-size = 8389 8558
+patch-index = 9c5a999b4723a109ec6f7de098556402 e1e3de21bb39d14dbb45b1a93e12b32b
+patch-index-size = 447 393
+patch = 5d42445e42d2bb86d4cd993bfea8f266
+patch-size = 593
+patch-config = 29f8b3422b0b0243dd52d86e6287842a
+build-num = 8022
+build-name = 8022-beta
+build-product = Agent
+build-uid = agent_beta
+

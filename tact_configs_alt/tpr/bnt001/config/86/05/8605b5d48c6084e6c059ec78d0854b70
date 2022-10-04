@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = ebdaea5b05f1868fb006d85b310a4839
+install = 84d392391fe38e2d45d418e3e8d19bd7 e2c302cd365f5f6eb5f79bf12e1ac584
+install-size = 333 402
+download = 6563758978fb2d126703511d5f2f300f b3448531ae30860c33ef71dd303cd4fa
+download-size = 242 336
+size = d6797e55ca126177e7fdca6057dcc243 6d9eee94c483b606b666513879b9ccd4
+size-size = 137 231
+encoding = 91c66308abf021f0d2512ee68fb4c016 127c26d3092dca3e4d9a2d3087d43c41
+encoding-size = 8379 8553
+patch = 7533cb839fac1fe91d93d78b934a7218
+patch-size = 447
+patch-config = d6ebc57e82f3372846b13e2ccfe6b9b9
+build-num = 7922
+build-name = 7922-beta
+build-product = Agent
+build-uid = agent_beta
+

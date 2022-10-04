@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 02e05b5af56468e3a0a6868d13f301b3
+install = 701054d90a6915b7628e7d79efdd8d34 549de2a97fdbcfcfc7554a81127aec8b
+install-size = 333 402
+download = 1d6bc394a87c14bbb6e7cadc4ac3de25 5273377e680466f5bdf519977287648a
+download-size = 242 336
+size = ef442280b846e8b8dddc9ba55f38966f d9be0c87ab7ce2e91f1ccb4c8d3d0202
+size-size = 137 231
+encoding = af7d91db29177414d054511dac1a22b3 601f78e088ff23339177e8ce444d88f6
+encoding-size = 8379 8553
+patch = fac9b08a3b84cf3b862576ff4e72a1a4
+patch-size = 321
+patch-config = 01d21ae8ce5cfc3ef49bb1163d97f77b
+build-num = 7900
+build-name = 7900-beta
+build-product = Agent
+build-uid = agent_beta
+

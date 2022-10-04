@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 87a9a95975542460df7c1b0de882b0e6
+build-version = 29
+build-num = 2104
+build-name = 87a9a95975542460df7c1b0de882b0e6-2104
+build-branch = 2.10.3
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = d0474748cf944849fe03cc86205b4d64
+

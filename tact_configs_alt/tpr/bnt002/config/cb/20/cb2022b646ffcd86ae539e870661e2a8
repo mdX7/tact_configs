@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 86108359bb3983e8c630eea75e356753
+install = c79daf319b9afcbf07fc61fedc4d19f9 aa80941ad4cbdfddf25591d525f70528
+install-size = 117688 115348
+download = 1a0f1da45a95ba86f179e0e6e4057684 ca8336ae0ba54da431489c0543e70cbe
+download-size = 27745 25544
+size = ad7034fbdcf82afa2395b39f71217d70 cd76c37f9bc1c3d19a618d8d8757929b
+size-size = 15108 12991
+encoding = 2690a9493dfe6b4b4947d80192696d83 1c44969e8a434b3ab0909bd3d56f6316
+encoding-size = 66186 66365
+patch = 9dfa1c7d6858eaed627708a2bedcbe65
+patch-size = 36015
+patch-config = dbfef9da6a37756ac1698fff39c45789
+build-num = 13560
+build-name = 13560_2.13.2
+build-branch = 2.13.2
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+

@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 9b812afe95ed0ed1af185393df48ae67
+install = 76d0b28c81e209c6dba0783aef01b818 2aea769e8cd2af4684370f5e3e80eb7c
+install-size = 333 402
+download = c27c0d18e6eba9c7ae451b70832d5cf3 c5cfa1c9ac068a58b556f1838cec24c8
+download-size = 242 336
+size = 733030ab0462024606e113a0620cf756 b1fb8f03ff4e9179d90b8098f39bd5b6
+size-size = 137 231
+encoding = a0748f25e08c85f712ea6cbf3c260882 c3ea1e03b90b3431cbe3b9e6630635e8
+encoding-size = 8379 8553
+patch = e4e794076e91fd235a5d0159d415b267
+patch-size = 699
+patch-config = 0d559a1b72af26a9ad31ccd30bb6de06
+build-num = 7936
+build-name = 7936-beta
+build-product = Agent
+build-uid = agent_beta
+

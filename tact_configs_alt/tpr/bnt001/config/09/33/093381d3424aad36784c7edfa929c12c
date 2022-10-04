@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 61bb5819a7d47e5a3d540ce512a1e9ec
+install = befc13645b0c8788db67d42133139199 b37b5fdb4854141c29a798724589a941
+install-size = 333 402
+download = 11dd9c22911351783bf5c595729da7f1 e29b1b405ba5f7da08ed30eed034d5a8
+download-size = 242 336
+size = 343e3b74ed2127d19858b6bced5888dd de57edd1cbd9399160c2e0665b4dc4f2
+size-size = 137 231
+encoding = da80f5579893bb7c4aeb361df5330458 fcb1c9751a16f6f12b1bb9cf5b5397a6
+encoding-size = 8379 8553
+patch = 6743b496577af0b47d231935dc025f2f
+patch-size = 573
+patch-config = 121bcd4fc0be4ef4590d5594af23aad2
+build-num = 7925
+build-name = 7925-beta
+build-product = Agent
+build-uid = agent_beta
+

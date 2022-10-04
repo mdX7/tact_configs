@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 3a93be674aa939b1fdad6fa0853e10fc
+install = e77db9c0780225de68ecca3a1ae61e76 75a76215632a5c6b2dadb3fe7e80fee9
+install-size = 6237 5923
+download = beb50048c8e996305cfb768ef4a5ae04 c15bd68f89e38f58c5ca45e2127de002
+download-size = 158947 140885
+size = b4ac03aa62a8e3707f4434aee722d65f e8b202537dda2c713a6681379311aa11
+size-size = 101513 86016
+encoding = 4ef3f4fac54db09a4d3d36798186c267 4458d5e478566a15208156b9cef1437c
+encoding-size = 12546 12704
+patch-index = 5ab054d72403de968051381d159f0e5b 18156a9f4ffe95ddb11473e81acd6f1c
+patch-index-size = 1966 1340
+patch-config = 6ca372af76d405022de8ee67974ee434
+build-name = beta_12480788C_tu1etu1_cortez_beta_signed_ab_ship
+build-product = auksb
+vfs-root = f40ae8eb2ac96a3e68660d564b13b4b3 e4ce8b65ca96f725e8221f3af6e1e335
+vfs-root-size = 425246 274011
+vfs-1 = f40ae8eb2ac96a3e68660d564b13b4b3 e4ce8b65ca96f725e8221f3af6e1e335
+vfs-1-size = 425246 274011
+
