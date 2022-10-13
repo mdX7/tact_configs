@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = f7b1f35a2c2d7ac30083479049150eee
+install = ffd0ac4264f2efb2cc9bdccedb5e8c10 465d8726caaa7acbecbf3089bda1ae53
+install-size = 223626 219204
+download = 095dd7ad04b48ea3391e123d072f61ef 5bd376d7846547375a5b970a51727d6b
+download-size = 39669 35946
+size = ea94bb80b2c827e39dd1d02824ff1436 a977322f4f482766cb3193c9dab9ffaa
+size-size = 25084 21464
+encoding = 915c07fefdba87c2e200a0707d983d6d c48ef3b21c754a0e90e3f2a6797d19dd
+encoding-size = 107476 107651
+patch-index = c3d2606f4788349d087144258b0173e6 0e3845746fcce67a9f77b79ccc655577
+patch-index-size = 22207 17669
+patch = 2621f5b6feead55063eea8f004602c23
+patch-size = 36263
+patch-config = 59adb6070689fea32300046d703cdc83
+build-num = 13785
+build-name = 13785_2.16.1-beta
+build-branch = 2.16.1-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
