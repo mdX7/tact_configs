@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = efa4435f065e6b95a98f83fdd22ec9fa
+install = 654324b1ee175dc90676baec6e53818b f27092884a6fabaf5d161cedbb0397b4
+install-size = 109 164
+download = 856412e2672c8384d582a23b1764a8dc 33a6aeda5b8dd350769149f45ebc85b0
+download-size = 99 180
+size = a531e7d85542b27bc4358fc9ce423a20 73dfdc5d08db338a54207fd5a825cc46
+size-size = 94 175
+encoding = 14c27a488c9a011955329e1f68eedd33 d57757a665b2c71934c7fd180e1c5742
+encoding-size = 8393 8556
+patch-config = 2dba81888966b61037fa6f0d5992605a
+build-name = randgrid_2022_09_30_ship_r
+build-product = randgridauks
+vfs-root = 955b4afac35555f092d7ce57e0a70bba a3aa06ac46b4f70d0ea0149e6fe9aaf7
+vfs-root-size = 124 150
+vfs-1 = 955b4afac35555f092d7ce57e0a70bba a3aa06ac46b4f70d0ea0149e6fe9aaf7
+vfs-1-size = 124 150
+
