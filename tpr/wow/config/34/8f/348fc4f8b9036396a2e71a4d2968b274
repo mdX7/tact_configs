@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a144461c62fe732aefc34c872183dbf2
+install = d1bfc960fbb2cf12ba8d58b5002f99ec 7f688f8df4ca747af4fe1aa46e1eddee
+install-size = 17473 16944
+download = 6c4051b1be38c30d3d74c9c7a243469c 78dbfcc461fc88c21797fdce8cbe899b
+download-size = 9785244 8581114
+size = 85d57030704bc9c2762ce554c962adab cd8441446f2f7bdb96d3a396bb333176
+size-size = 6057617 5292802
+encoding = 280598e9a80fef5038084a7572bd1b52 45cb27079159ef0c84199069e636f1d1
+encoding-size = 23839253 23826560
+patch-index = 045f3f0391f892c73890f85e569929b6 eb9f37eac58876dbe0d8ff344d8061d5
+patch-index-size = 2726807 1922003
+patch = 1568e1d8b3fbc9a68f7f01ce7e032508
+patch-size = 3272515
+patch-config = 493dea653d755ee0d52ccdf35937500b
+build-name = WOW-46182patch3.4.0_ClassicRetail
+build-uid = wow_classic
+build-product = WoW
+build-playbuild-installer = ngdptool_casc2
+
