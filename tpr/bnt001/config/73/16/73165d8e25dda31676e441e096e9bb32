@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0b2bf6a20c194533d84713523ecdbb62
+install = 779f8eaa39d5204b7fd437170ebf3332 b76dbeb8e5ae95e2f804f423e84cb10f
+install-size = 4014 4074
+download = e21f2e5e487ea78c8e5f8ed1b5f4df5e b18a7213325813e03fcc8136b20456ae
+download-size = 889 978
+size = 095a0440202d4d6315b1160de465741f abaeeb5a6e435d03df4f96067577bf72
+size-size = 551 645
+encoding = 4a96350b40b5da3444be74835dcf9ae2 61eef3ea4516b8740df7c9e63252eccb
+encoding-size = 8390 8561
+patch-index = 858b3368644a1316913bbe96c4742cbb f37bf811dd8bd295956d84dfde9ed694
+patch-index-size = 887 744
+patch = e4dcde02340e5be145f0606dac1b858b
+patch-size = 1121
+patch-config = b5b5267b0f28633b5e1376c33c768018
+build-num = 8061
+build-name = 8061-agent-2.27.3
+build-product = Agent
+build-uid = agent
+
