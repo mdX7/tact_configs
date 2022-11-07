@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 32cda7b3f2f55896eef2baefa683d946
+install = 29a3a666a270e1df1e87200ec145b598 43c7839543f6b70c7dafe9c3b0637134
+install-size = 71 138
+download = 22bad68f6caae59b423684f7421bdec2 2e11427b9bb2e863de74da6b7c5594d3
+download-size = 73 167
+size = 3a2afe76791c311152db16cfb0fca7bb 9e587191e4b0ae7315f1456075f97d51
+size-size = 59 153
+encoding = aed643ecd1bd6d15d7df59b39412fbfe b71a19cebe3df6fdb9baaf2722868873
+encoding-size = 8377 8550
+build-num = 3115
+build-name = 3115_auks
+build-product = Bootstrapper
+build-uid = bts
+
