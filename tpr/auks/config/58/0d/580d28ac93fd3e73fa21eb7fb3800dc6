@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = d0a929acc5934badc4afd36afa1399b0
+install = ee1801b98d7216edf8b22a88658d064f 80dfde8d223f853b5715cc9146310c73
+install-size = 8777 8319
+download = 5e4368edba28fb5f875ce7db60d4b864 3b80c52916632649b93fb523cb69e2a2
+download-size = 264390 234647
+size = bc59d3974238e16a82997e1e7ea66c05 cd28dd866570b2729b4c53888be23f55
+size-size = 168814 148335
+encoding = 4fafa92eb6737d17c278ef2477a54dbe 28088fab8dc76af5572d73cb491e2fcc
+encoding-size = 12546 12706
+build-name = sub_13100130_cod_tu4_no_br_signed_2_esp_ship
+build-product = auksesp
+vfs-root = 974434fc315d89c1bba6c3f703d03fe2 d4784b88b64aaac6173aff79b16832cc
+vfs-root-size = 528666 264615
+vfs-1 = 974434fc315d89c1bba6c3f703d03fe2 d4784b88b64aaac6173aff79b16832cc
+vfs-1-size = 528666 264615
+
