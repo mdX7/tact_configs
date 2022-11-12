@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = e0870fdaea21272100d16e9e9a83e715
+install = 1b74dcc075e68a079393b32a9950ba7f b50386ef8b3724228c1044cc4e0ec1bf
+install-size = 4014 4072
+download = 3c8f621253ef8f45696d72d6ba2bf46e c6060872b470e8cc916e3f93e23c83eb
+download-size = 889 980
+size = feb0fac417c00ee0c5ee1f7996208c49 6b7fa5a9afae2fd6982bdd4bae19fd19
+size-size = 551 645
+encoding = 4871a482cbc356e14224f9bc85317994 f70d7c5a28314d24cb89c061e48380f8
+encoding-size = 8390 8561
+patch-index = d4593d1d9ff005b8d5652039a2495405 b96c2487316231589f719c5df2695d5f
+patch-index-size = 1328 1092
+patch = 127486523b639c22f53ff554338956e3
+patch-size = 1121
+patch-config = 55f83e8ba50b7e618b1752ea5e0be73f
+build-num = 8067
+build-name = 8067-agent-2.27.4
+build-product = Agent
+build-uid = agent
+
