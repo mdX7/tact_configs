@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = fa11cf135cd3c5d8c059049b39b8e448
+install = 91358d8629d7c5de365dd3fd460fa50b 81366f64205b050d407716d0adca14dd
+install-size = 71 138
+download = ab2c6b9502e188fb43e5395906d0291e e4a09489128417b44e90626aec7b66bd
+download-size = 73 167
+size = 271b25bf5b63e366e3a27919153eee82 18e263970ebbfb4957a2709367f36320
+size-size = 59 153
+encoding = 4ed74c71b3fd7142f73093b291267907 b12fca5e40b4fc0754436af854f0327b
+encoding-size = 8377 8550
+build-num = 3120
+build-name = 3120_auks
+build-product = Bootstrapper
+build-uid = bts
+
