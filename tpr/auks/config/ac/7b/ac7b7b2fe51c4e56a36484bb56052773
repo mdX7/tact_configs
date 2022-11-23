@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = f1e6aed26254cb05bb61f2af327bdf30
+install = ca7ec94582f2e4b7eb7064079ff0b020 f7450418c38b8e53bf7c0afefdf1c0e9
+install-size = 8777 8319
+download = 162e2974df74e5f58e852a4e69515263 8618e39fc7360daa77e6f5547511a2fe
+download-size = 345272 306334
+size = 31f35f767e110fafd302190a627e6e2d ab1d3ef20e285afa74de3c4f196b38a3
+size-size = 220428 193054
+encoding = b60eb24d362c60c092e24b617994c54d 58ea0dc350b725356d3d424ac8820616
+encoding-size = 12546 12706
+patch-index = 9fcdc55f8710606d0b053a03fd884d8b f70b41d1ae4a56110e28b8062084aed7
+patch-index-size = 182 185
+patch-config = e260e9e03f04e0355a03d34384e47b97
+build-name = rel_13244141_cod_tu7_2_signed_esp_ship
+build-product = auksesp
+vfs-root = 0dbe41184b2f3e69d2c3524e5931942c 906f06603e6f196c0ab90b9049677f5b
+vfs-root-size = 910928 579917
+vfs-1 = 0dbe41184b2f3e69d2c3524e5931942c 906f06603e6f196c0ab90b9049677f5b
+vfs-1-size = 910928 579917
+
