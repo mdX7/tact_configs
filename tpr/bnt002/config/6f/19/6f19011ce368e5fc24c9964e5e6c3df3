@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 5c3af1c536bb4e375198637fa9ec60dd
+install = 7f7b2f778788ebae0a7650057e83da81 6a03990465b175e03ba5897d597c8ac2
+install-size = 223626 219204
+download = f49eb3c4895968abac6feb9a27d95928 5c3aba1998570829976cb6156f2a851b
+download-size = 39669 35946
+size = fece3b9c0adf19423ba635ecdfc98a44 b8109d47daef13bd99d08c895a8b2e1e
+size-size = 25084 21464
+encoding = cf859fa00c0b1f196ff12fe4bbf8d2b1 2d823f3ee00d49883cc6dbf1befa5310
+encoding-size = 107476 107651
+patch-index = 40fdae1711289eebb5bc95e7a41862ac cd710517c5432c001e966180d62e4a52
+patch-index-size = 35732 29131
+patch = ffd51ad0fecf2751858484d6e6d741b4
+patch-size = 37565
+patch-config = a835c5a1fbfa82b33709559bf41b354f
+build-num = 13895
+build-name = 13895_2.16.5-beta
+build-branch = 2.16.5-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 11
+
