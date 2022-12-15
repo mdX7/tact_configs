@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = fd6c3707f1e3b5ff013a90d95eadf5e8
+install = 964fda8382b8b649b19c7af25d2185b8 17222edadc5fcd396f8fe56b010e665c
+install-size = 4014 4072
+download = 15128cb5d0fc62c349fba7ec96dd418b 87f517e1ee7bfe0779c0be2bd03fc9e3
+download-size = 889 980
+size = 610f6201432d7a15f01e25536dd5a921 b249efcc21dbee3fb8664609f0ffcb51
+size-size = 551 645
+encoding = 792024f1ee54a36e21b4d8f059d69006 244c5b544da4edc9a0627d0c5e4d84ae
+encoding-size = 8390 8561
+patch-index = fad8a1a102f4e170e6119be93e5995a5 097317fa31c5b947813f9150f9482f63
+patch-index-size = 1328 1087
+patch = 418516a59c8ebda083b9082725a1d388
+patch-size = 1121
+patch-config = c58a9dadf7ec5fd6d6cbb1263dcbad83
+build-num = 8093
+build-name = 8093-agent-2.27.5
+build-product = Agent
+build-uid = agent
+
