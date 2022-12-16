@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 8c4afb99966a4f5bdf27f4d8965e51e2
+install = b557f569334a89e546ed8281a311ed82 2dc9c37eb02c22746e12a86ad95fcde8
+install-size = 41191 40183
+download = b2840c05e3b42a5f04c3324a59695887 59468b1ae08871ccfa478f59a01a9546
+download-size = 6778301 6222400
+size = e3dc20e3e4a6d0a2ff8bfee1869cb9d8 618ce044066a75c79fbf18a340109ee7
+size-size = 4236489 3933492
+encoding = d8785e58f700cc59314392e9f6b4fbf3 f5fead866580aca3affe56e26d5c18fd
+encoding-size = 18051967 18052104
+patch-index = 2f25e3c0ca5e287b9ea5f937e980e48e 8e0e1e2816bdd442300c0c3e60c007bc
+patch-index-size = 263201 170089
+patch = 85e031af8b4bcffcecad02d438c816d7
+patch-size = 277803
+patch-config = b263b0fc45b71502a0d560dfbc213593
+build-product = Diablo3
+build-name = 86197_Win32_2_7_4a_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = gelmendorf
+build-comments = Generating a 2.7.4a PC/Mac RC1
+build-branch = 2_7_4a
+
