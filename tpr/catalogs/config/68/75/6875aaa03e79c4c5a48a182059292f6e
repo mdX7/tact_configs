@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 7826f1010f289d02224cfd2193055b2f
+build-version = 29
+build-num = 2295
+build-name = 7826f1010f289d02224cfd2193055b2f-2295
+build-branch = 2.16.5
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = ef8e0ead2709c137dfbb67f83f997740
+
