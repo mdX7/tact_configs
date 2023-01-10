@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 9cfbbf21f05de34f4be6bd43d19c68ec
+install = ad788ea33e86764b30e88ba597561a49 8efaeaab8e6c7cd75eb98848497fbbe6
+install-size = 109 164
+download = 28fd2a36c243de487461803716c4581f bdb44d29f3af452b98fe18fecd7aaca6
+download-size = 99 180
+size = 99060e2ac8925108454b35251efa4433 03ccef5e77a82aba4ca2b867cfcc8c38
+size-size = 94 175
+encoding = 52eef9a11077da1d734b3e0a3604591f e520555435fe51b71428b8f77dfcd141
+encoding-size = 8393 8556
+patch-config = b6a8d73ddd25fac6acb823331e6a9725
+build-name = 2023_01_05b_valkyrie_ship_ship_r
+build-product = randgridauks
+vfs-root = 556e396e56ee37cbd0ad7c2eb4a7e1f1 adb2c182e9ad3c49c862662549936b9d
+vfs-root-size = 124 151
+vfs-1 = 556e396e56ee37cbd0ad7c2eb4a7e1f1 adb2c182e9ad3c49c862662549936b9d
+vfs-1-size = 124 151
+
