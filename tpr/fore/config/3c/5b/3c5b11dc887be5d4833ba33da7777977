@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = a5edbe1e63f75a15f849841108677bf9
+install = 8d894485647dda5a2cf4d8f607cbc751 47e319bddbef52b78486b0df85d165c5
+install-size = 246 243
+download = 287e2d437ee47aa16212ef02a16b1067 f321727926ffd886b69adffce81c2f80
+download-size = 234 257
+size = 4f46b89f88cd064ff13e6a86cdfc3532 87241ebfd1a906e287274ed1f5550184
+size-size = 229 252
+encoding = 574498d51d627b155b1481ed352c0af7 7ef97acbe7ee0743be45b067b0c8c0cb
+encoding-size = 8398 8558
+patch-config = 7ef9193d1876fd64a4d382504e0af02d
+build-name = s4release_13509198_vk_2_geirdriful_r_ship
+build-product = geirdrifulfore
+vfs-root = 9bce0d6f26416240bd74de47ac76c92d cfa603610fbf5872620daaffc036cb6e
+vfs-root-size = 128 155
+vfs-1 = 9bce0d6f26416240bd74de47ac76c92d cfa603610fbf5872620daaffc036cb6e
+vfs-1-size = 128 155
+
