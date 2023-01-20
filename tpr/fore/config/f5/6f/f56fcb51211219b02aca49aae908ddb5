@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 023ac6fbee3948e1480446a58f82b4a4
+install = 3599de35ac9105366aa3ed7a9f1aae11 04450e1bf6771bae1a9ac0a8558f0148
+install-size = 5993 5698
+download = bd174ad9d6b82188d6728a901daaa529 aabeaaba740870b64ffd3dc8768bd8a5
+download-size = 237353 210874
+size = 3f4840c891a6e4132027751b2f9a09d3 02ce1ad9e43aefca1fb9aaed6b9204fb
+size-size = 151551 129173
+encoding = 99cb43b22abb07df59b05bd0bfa3e6ed 153bf0022660f789052f73a0aeed6786
+encoding-size = 12536 12702
+patch-index = 9e65d0f0fdb7d929839b3638c12a796f ea35057b906aa073e2187e7ece466df3
+patch-index-size = 307 212
+patch-config = 6d86fb4f89ab4ab65573fb33ccb02ffd
+build-name = s4rel_12510470L_tu24_kaiju_s4_signed_r_ship
+build-product = fore
+vfs-root = 3e5247b6cfd08b039eaf86d881842be9 cebaecd4059efd0166cf3ed4106b1330
+vfs-root-size = 672819 382869
+vfs-1 = 3e5247b6cfd08b039eaf86d881842be9 cebaecd4059efd0166cf3ed4106b1330
+vfs-1-size = 672819 382869
+
