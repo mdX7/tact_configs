@@ -1,0 +1,34 @@
+# Build Configuration
+
+root = 8c8317aec6b5becfa962b6e278f11601
+install = d834a56014a18ae870ef48677c5e6671 597ae609c5416ecc6b8881f6d37f3e1e
+install-size = 315 341
+download = 5eb2638ba8d291f6fd2c63e553b59e3c d09687e7b1b8669fbb90d53b0e13d49f
+download-size = 3996326 3645103
+size = 9b897c0382d9dd1dbaeb2fd207ea1b0e 97cecebb93255a206640272a78eceeb5
+size-size = 2505525 2253924
+encoding = 4e27c60ed1c818d6a4aec81788cdff28 d7fef9f564ccd09045d24ea64954cf4a
+encoding-size = 10592622 10592786
+patch-index = c8b741297eaed1037e033e8bf181a225 6f844ea85e4e65a5d96a715323c811d7
+patch-index-size = 540446 425606
+patch = 7cd208c46a569618b7c45df4856fb2e2
+patch-size = 497469
+patch-config = 8a4279f72a3e5f5b605949ecc122930f
+build-name = 72864
+build-uid = osit
+build-product = Fenway
+build-comments = 2.5.2 PTR2 RC4 15:26 01/23/2023
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = f01d66a02033dac5bd000dde7cbeeb9b4dad0602
+build-source-branch = release_2_5_2_ptr_2
+build-changelist = 210575
+build-stream = //diablo2_stream/release_2_5_2_ptr_2
+build-has-data = True
+build-target-platform = win
+vfs-root = 35ff146b96cb5da0f29423d6eae320f8 fc28fa962e096bca4ef2052684db0405
+vfs-root-size = 575 554
+vfs-1 = 35ff146b96cb5da0f29423d6eae320f8 fc28fa962e096bca4ef2052684db0405
+vfs-1-size = 575 554
+vfs-2 = 3fb559baad4c83bd15d73eeab2e91a0d e98e99ad5ae737f9cc9a7e20e56f983f
+vfs-2-size = 11498116 7429642
+
