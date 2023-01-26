@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = dd61cb70c95cd5bfa8470ff0f6c6c187
+install = e80cb943dce51a58e8464abe5dceb625 50bb8d3d8411453e7957ae69193a117f
+install-size = 8777 8319
+download = 43104c238e1ba1a12c4e4b9cf5987b06 994f65d5e1c15febf67fcd2900397d2f
+download-size = 350822 311301
+size = 8a93ae951ebbd5c326b0a7fe4c2eec7c d5d35b9e6060e7a420201a6344267bdb
+size-size = 223971 196886
+encoding = 9f047fecf6a8f3758ca6730008c7da23 c49ea3e04e501085512b4b52ed1b2964
+encoding-size = 12546 12706
+patch-index = c8473acfc3e3501a9b3ead2a167bdef0 766bba839a84d02f972251185013adf2
+patch-index-size = 4129 3111
+patch-config = d7defbf33226b8ee92ec85fe90f76068
+build-name = submission_13520147B_cod_tu9_backup_signed_esp_ship
+build-product = auksesp
+vfs-root = 41cf83bdf2965f80b634c8d19621cdab bb14a972b9ec1ed682f05a7a3412a045
+vfs-root-size = 926403 591801
+vfs-1 = 41cf83bdf2965f80b634c8d19621cdab bb14a972b9ec1ed682f05a7a3412a045
+vfs-1-size = 926403 591801
+
