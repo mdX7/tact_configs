@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 6ecbce6316b8205dc35af0707db722b5
+install = 976374313465bc593a7ad1b86104888f 1c01391f6ecf3fbeaf2341fac5cb3f45
+install-size = 245 242
+download = 33cb08fb1222696be854da5198300327 c17a1100b7cbd294d7dc79279a49eee0
+download-size = 234 257
+size = d6d43d925e485a6650412a5cb4cb382c 36f6bdb50e7a08aee4b03b24876c1d6d
+size-size = 229 252
+encoding = 88c7b1e23ede31b50c4db761882f3add 05ead9226a6cafedd27446d2a6fd2507
+encoding-size = 8396 8557
+patch-config = 7749e9bf20cb9ca1a36bc90d4fd4d3fd
+build-name = magma_release_20230110_vk_valkyrie_brynhildr_r_ship
+build-product = brynhildr_odin
+vfs-root = 64be6afb3201a68ab4ec3a3c98a45bf2 2caeb996d75145d145ba8b742a3b3f01
+vfs-root-size = 125 151
+vfs-1 = 64be6afb3201a68ab4ec3a3c98a45bf2 2caeb996d75145d145ba8b742a3b3f01
+vfs-1-size = 125 151
+
