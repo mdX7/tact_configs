@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = a47b169f2dc8730d19f688d368bc4661
+install = f25dea7c04edf38c7a6151a458d52bd9 6970bca04f5443d1a82e23bdfa261843
+install-size = 5090 4656
+download = 7a6b65e25bf04f1cc6584afbb6a2c43d 5e3600785b895db11ba377f07a8dd836
+download-size = 166080 140713
+size = 683c833f1a0dbf72b83d800e3b98faf0 18b7bea4ecf8f790089a01a2f5b5693f
+size-size = 108979 92985
+encoding = e4f9bd85e7bb1175c11d79bf0a9f1302 ae47f1217ede686fa0ebf1cccbd0d716
+encoding-size = 8407 8566
+patch-config = f53556e3786fb590a4070886122e6ac7
+build-name = bo5_TU30_13251652F_signed_r_ship
+build-product = zeus
+vfs-root = 84fbd646c295c5d32ea9d37839acf48d 4452f86bd3f72b940073bbc0f24a491d
+vfs-root-size = 402150 265698
+vfs-1 = 84fbd646c295c5d32ea9d37839acf48d 4452f86bd3f72b940073bbc0f24a491d
+vfs-1-size = 402150 265698
+
