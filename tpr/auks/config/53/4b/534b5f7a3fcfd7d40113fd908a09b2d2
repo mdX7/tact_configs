@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 22baba8fc3fb06a324381490ae4a8688
+install = fdb9c16480d231a6598f56b847f31cac dd7b31aaca3a095cec41f1a20be77d9a
+install-size = 8777 8319
+download = 9994cb0ea1ecd035a76bb1a5df6925da 5f5740997fd868b8b15b6efa141e9ec4
+download-size = 352193 312511
+size = 8c8682a528813ca2d7c4813db26dc9d6 bbef2b83b79c9c98a882da9b2c7e173a
+size-size = 224847 197781
+encoding = 203d8f61ade58dd9468ae980136200d6 d8340d4f70c3986303c039a535ea3e4c
+encoding-size = 12546 12706
+patch-index = 8e250e42eb29958d4771da55ec5e9084 2f4d6e8655d375b31706b7a77f38669b
+patch-index-size = 2337 1803
+patch-config = de446f8f5f2e7bae57b05388d6dec32e
+build-name = live_13616255B_cod_tu10_signed_r_ship
+build-product = auks
+vfs-root = a1bf7c6687aa2479bd383e77c90f2a81 198e71ba1a3850217c6971f9751ffdc6
+vfs-root-size = 929702 593597
+vfs-1 = a1bf7c6687aa2479bd383e77c90f2a81 198e71ba1a3850217c6971f9751ffdc6
+vfs-1-size = 929702 593597
+
