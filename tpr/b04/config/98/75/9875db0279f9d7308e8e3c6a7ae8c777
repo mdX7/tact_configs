@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c78413db1b2a7ea159d5afca7f764e36
+install = 4e3083743b8c9771b8011b5d182f3b9f 30a565e9dfabf40e477e5a04678060f9
+install-size = 4382 4203
+download = 195922751ca34f7db3c610f27b66af38 23c4c46959d4011f4991f7a87773d3bf
+download-size = 145476 132982
+size = 6a6c93ff5eb284774e580e2292195f15 d7823e7aafb943c147e9e2e28ee7cf98
+size-size = 91831 83870
+encoding = b1bafff27217726910777e3478c7d10d 2c71b8cb783594419a455291806f5ffd
+encoding-size = 8406 8566
+build-name = live_13801469A_tu23_exe_patch_signed_r_ship
+build-product = viper
+build-uid = viper
+vfs-root = 3cdf770e8355b3112b2991e97451a075 25b6dd9cf2a60e2ae15d1646a586e823
+vfs-root-size = 362881 154849
+vfs-1 = 3cdf770e8355b3112b2991e97451a075 25b6dd9cf2a60e2ae15d1646a586e823
+vfs-1-size = 362881 154849
+
