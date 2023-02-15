@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 25a90ce47c982ff6629fb288207a90a5
+install = b769142ae652a3feab8f6c324981b196 8feb5ddb595384aa5404cefe0b5aa315
+install-size = 4014 4072
+download = b8d4acbd134fe28a7e74a81d843dae6d 13e25d1dbe9aac55d61c4782571da8fe
+download-size = 889 980
+size = 1b596af68507d05639b591e1342b63d9 b586471e511b605f8a26a098753de019
+size-size = 551 645
+encoding = e1e8e350221305fa9049dc81937a3bb9 9c83485d77553321d5c40abc64d5d31c
+encoding-size = 8390 8561
+patch-index = 8906644c3341d046449a8945a1043a25 d4696a8a74a322a1f81fd7fb6a78d47c
+patch-index-size = 1328 1086
+patch = b36a3b5108ff9bc0b39364731248f771
+patch-size = 1121
+patch-config = 2c21f861cfbae6f54683f1f43006d66f
+build-num = 8150
+build-name = 8150-agent-2.27.6
+build-product = Agent
+build-uid = agent
+
