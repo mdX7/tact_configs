@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 6e0f9c41a5f25590411aa9e4ca078a7b
+install = defa3c52696f4b4df9b158fd3ee32855 a384d34f45128478bef4a518c2abfde5
+install-size = 4014 4072
+download = 1c9c8e76c0ae8ed702601ae9100546a8 78e165ea5fbf45c3a6a22b5ecdc80848
+download-size = 889 980
+size = 83c0c62213b5ce85768d78b452c2fccf a04a7c20d4229b8ff5a4b1beaef9e933
+size-size = 551 645
+encoding = 8d96c78a4d0890c1dd4e0e231e126a2a 3d7fbcf377db22146b761b4ad67200a5
+encoding-size = 8390 8561
+patch-index = a786ed8d9334218e2f9ec30e410d0c5d 246ae31e15ea4be377ee6dc7904c6646
+patch-index-size = 1328 1086
+patch = 2f911ad0a556737bf0b81cf8a6c124fc
+patch-size = 1121
+patch-config = 57dcfd1e0b7aba45a2b1a7741cd92e4a
+build-num = 8151
+build-name = 8151-no-branch
+build-product = Agent
+build-uid = agent
+
