@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = f42cc0e608a903f992b7a9b2262a04f9
+install = 75fbb13efc628cbf68e888fd95906de5 827b919b9e88016acb948efaaf76df08
+install-size = 41191 40183
+download = 4731140ab395672e9846ddce9d59052e 1a6cd1db7c74e57d2e9ef831b6653e34
+download-size = 15893561 14592471
+size = 25b84e3664007b18008cbc0ac0974f7a 1709ba0353c9c301dd834edf90a5779e
+size-size = 9933531 9582415
+encoding = bc259a49bd42ed63db252fee875e0fda a50cc59ebd4031e6d0ce45896e8a1e97
+encoding-size = 42324613 42324749
+patch-index = e8b88fb161c08d593ea7ac5f49639a79 5c4e51b8a1c07c38e696f77a6dc383b4
+patch-index-size = 226906 168357
+patch = 20c7e093687a90b92d06c8df578d55ca
+patch-size = 236333
+patch-config = bee8a5c4b89a87e7fbfb0a264ca4c521
+build-product = Diablo3
+build-name = 87562_Win32_2_7_5_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = klamb
+build-comments = Added missing localized quest strings.
+build-branch = 2_7_5
+
