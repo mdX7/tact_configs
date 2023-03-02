@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = e3c153690e4d97c2230c6296502c57e9
+install = c55c522815a35cf345de41f34bc1e53c 952c452588a72f59b76029bb1922a837
+install-size = 6333 5989
+download = 2edfb577ad646ac4309019ef41240971 0f27c8b15d124a9869bfec41439b3756
+download-size = 1615481 1416972
+size = 3036b41deb6389ce1bba83fab9f60fbb d48dd1893f8590d2c378316949c270ee
+size-size = 1036884 860694
+encoding = 883b64e95bafbd49ac88960e141c816f 1b6d8268d472290b3515accf7feda3c0
+encoding-size = 12539 12705
+patch-index = 72e34b858f57937ab8522f1d79c280a5 e8c20ede3d1efaa4e22ff671e4b3c19e
+patch-index-size = 713 537
+patch-config = f3477c2bf04e69e9ce8d606947f9e074
+build-name = magrel_13858333_TU_LAZE_2_21_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = f4eca30b12d882ed9aec643a633e9f69 7880cd1283d7edc4a4911e23d3916413
+vfs-root-size = 4373014 2449807
+vfs-1 = f4eca30b12d882ed9aec643a633e9f69 7880cd1283d7edc4a4911e23d3916413
+vfs-1-size = 4373014 2449807
+
