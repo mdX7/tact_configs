@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ff6e0e3b50ded5b3191b7ce2089be385
+build-version = 29
+build-num = 2314
+build-name = ff6e0e3b50ded5b3191b7ce2089be385-2314
+build-branch = 2.18.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = c13663fb12008a1e41370c9fd0389b28
+
