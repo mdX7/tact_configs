@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 686e2e77eb9a5166541551fc6ffb5a1c
+install = f580924e0b9f88cacb20dccbd26674d3 54a03bd98c0af0414134ccc9fabc1ea4
+install-size = 212487 208276
+download = 0ebd0d2f75a421c638a4bf5797ead871 085706d5cbbf9fb2630772b0502668dc
+download-size = 22616 20536
+size = f2ce126e4776ccceafab5625d54102fb 961b4a4390d61d35534528bdb691d7c2
+size-size = 14331 12336
+encoding = e4727660e40f4c34dc57cfb093695fbb df18a33bb2bed298e5c3e63414c411e1
+encoding-size = 62068 62244
+patch-index = b2654bca75085a4db3ee2a8b8a69edbd b3de9f370117d9396cdc86330f53b7a6
+patch-index-size = 40429 32586
+patch = e81705a4e19b22d7ea00aec0d7c1d09f
+patch-size = 45765
+patch-config = 80724ed899539777d092f1a6433cfb70
+build-num = 14034
+build-name = 14034_2.18.1
+build-branch = 2.18.1
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 12
+
