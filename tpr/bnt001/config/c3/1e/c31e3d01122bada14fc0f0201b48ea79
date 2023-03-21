@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 6222999ad2a66e2f40d956034c7a160c
+install = c3c62bc2051db4a9c79e6c2868f9465a 26baae1e2957d5d226b73c1e6820a9bf
+install-size = 345 414
+download = 934d3c41136276a5f9cd34369bb7eabe 5d238399b0969188aeb2c9f45632790b
+download-size = 195 289
+size = 10dd55ac2fb629dd10120640478d66c5 7da82e19c169cbc1737ee5919dd08e7f
+size-size = 136 230
+encoding = 9c75b9b122c7a7f1d34cbe8ee6fd8f5e cea291148fd098c5481ba86692d241d6
+encoding-size = 8389 8559
+patch-index = a7ee7d69639c0d32c19ca84ff8ed0060 6ef487c01b38fd01e49eb7919c435686
+patch-index-size = 657 559
+patch = f50004f1f2490149e18f5e70e979b324
+patch-size = 593
+patch-config = 31974d73c1ddea983eebea7883749996
+build-num = 8193
+build-name = 8193-beta
+build-product = Agent
+build-uid = agent_beta
+
