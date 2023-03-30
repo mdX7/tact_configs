@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 9dd1d16028b9b2cf94044b757430e1a6
+install = 48fb2d916cde48f4b4ad4c950e4ac0d6 182842ba4501f523c64decc7e0ca68d1
+install-size = 333 402
+download = b1233c35ab4f264eeaa03b283ab9fc49 bd8dc85310898393c2dfeca4fcdd7e1c
+download-size = 161 255
+size = 5f1f37e628a40a5b5bcb8e22e2b781f8 720401ddac34f479cd2ec43e73b73483
+size-size = 111 205
+encoding = 8a4865260ab28806f33301bffffbe15b 36563d2b2fe6f09b5b80c635311223a7
+encoding-size = 8387 8556
+patch-index = e2e1a5845afecbdcb7e42b49791bc352 20a0161b8ae905af1caa694d9bcab731
+patch-index-size = 657 560
+patch = 657851e61fad566450379c036402dd40
+patch-size = 593
+patch-config = 5dc67418eb724e83e1a86a407e8b82f9
+build-num = 8207
+build-name = 8207-beta
+build-product = Agent
+build-uid = agent_beta
+
