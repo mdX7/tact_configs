@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = c362bfc4a6fd44f33a04bd16e705bd6f
+install = 5aac62024555438d1cce92b7f45f42db bb81cc172a44ee5d1060b1c4767e3c4a
+install-size = 4014 4073
+download = 758a187140130a8ba36b13742f71002d b70d2ace539188a5fbfc8a947f01fb2e
+download-size = 889 980
+size = 535d4d3056a0b5fc5a544ba40a831e5c abeddabb6548d075572a2c8b94c86e6a
+size-size = 551 645
+encoding = 42ec3261008c372acb3961c4f4bbe5e6 3cff1d0b65e5437ac8aaddd64a2becee
+encoding-size = 8390 8561
+patch-index = b537566ca7632e0c05e53bce62539ef1 b902a9b9d53fda61bee37eec15b25ef2
+patch-index-size = 1328 1076
+patch = f8d781587af3240d8c335916de0019ea
+patch-size = 1121
+patch-config = 9a4307e56c5171d52ed3da3fcdf149c8
+build-num = 8209
+build-name = 8209-agent-2.27.7
+build-product = Agent
+build-uid = agent
+
