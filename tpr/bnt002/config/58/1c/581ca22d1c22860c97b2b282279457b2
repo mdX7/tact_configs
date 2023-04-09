@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 431a6d270ed0b36612046d59719ff267
+install = f5e3bb9fa19d7d2f433b359630d941f4 e2e2e50685775f2e9bef37de28409299
+install-size = 106549 104412
+download = e7ffdd9ad1b4f672724f49921d94b04f c927d3c3f6968ed49a0b205c043ad34b
+download-size = 21707 19716
+size = 93ce28e08cb78c687be7bdf032c605ab 6169fd1541acac50a1ec47afc034d063
+size-size = 13755 11840
+encoding = 465353fd9dbb07d5678ce8e4f07927c8 2878de712e4102b660eab4c3ab8c8c5b
+encoding-size = 62068 62244
+patch-index = ec4bb2dc73239116007ea22b8f274a28 9114d1072502cb8bc3282380f85bc34d
+patch-index-size = 34634 29205
+patch = aee2fb7e54024817ac71f0fd7a1bf6d9
+patch-size = 36677
+patch-config = 7e67863e3bc34399d5ccfe0698af698a
+build-num = 14017
+build-name = 14017_2.18.0
+build-branch = 2.18.0
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 12
+

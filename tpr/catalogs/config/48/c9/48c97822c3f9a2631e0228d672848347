@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 96c62cff5b82f36bebcb58c5684054db
+build-version = 29
+build-num = 2319
+build-name = 96c62cff5b82f36bebcb58c5684054db-2319
+build-branch = 2.18.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 518c766dad7fa403d86065e14773cd32
+

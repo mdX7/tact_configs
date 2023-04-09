@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 7d27b9a3bbf99e957d09453a3410c863
+install = 106709a1a1ded7c4d668ed89649c49e8 fbb139534ad6942afd661626a654b680
+install-size = 6333 5989
+download = b95bf9fd3900e5a1dd0ba782ff8732bc 55fbd77f304c0a2876820bf197f053e8
+download-size = 1615010 1416879
+size = f84455ad6918145a5b9a87964291e694 3b0032262627baedc57e01bb43995919
+size-size = 1036575 860926
+encoding = de060867c297faf9c89c2e55d4e319a1 28ac1b6813feb019c03698a527dbbf80
+encoding-size = 12539 12706
+patch-index = f100c8793df9773ce664bed415e48d34 ead5e0523159aa878ea87d1a354fa738
+patch-index-size = 312 218
+patch-config = 4572cd83191fbdc0640d0ddf66271097
+build-name = live_13789124_TU_WZ360_11_4_I_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 2e8edeb4cc0ec3fbae0a1c25de8fbf14 d25acffd77ac1828a34af64c3e7f6d1e
+vfs-root-size = 4371934 2449221
+vfs-1 = 2e8edeb4cc0ec3fbae0a1c25de8fbf14 d25acffd77ac1828a34af64c3e7f6d1e
+vfs-1-size = 4371934 2449221
+

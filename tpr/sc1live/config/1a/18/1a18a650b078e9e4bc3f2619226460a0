@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 2fd8440b73787c29d8987e192e531e58
+install = 1028ffb9ca5ccff38f4d2b73e723deb7 c97e6071294fb69f542c57874d8433c5
+install-size = 104051 99700
+download = 77e8fedea64a9702b7e85daa9d2310a3 eb1d4cc237dd6a1fbcd00e427bc37412
+download-size = 1265578 1121013
+size = 4e99208e659a53ea9fb41b117273c3f4 ef3e21c7ded146364f3b2accd1d8fba9
+size-size = 705602 615965
+encoding = d77b902f59ecc27a7a1549b833ff4f11 9e6f40ec9a9559600a1e931910080936
+encoding-size = 2757663 2757833
+patch = 6bc6dc9906b1be6f395a209931dd2d31
+patch-size = 11699
+patch-config = 1d8a95ed2db8878bdf4c0e688438bc3a
+build-name = 1.23.10.11634-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Retail RC with map deduplication change
+build-playbuild-installer = ngdptool_casc2
+
