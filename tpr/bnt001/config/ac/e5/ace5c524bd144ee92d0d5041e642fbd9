@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 513df0308e4b319eae60511a5710da74
+install = 001fb85399907d1b9ff5598be9c36d3e 83ea2d1ce55a74acc0dc6801e7e01281
+install-size = 333 402
+download = 9a9e97924bbcf330fbf5934a9ef16f3a 8fa7600a796506f110d609fbb851fcc2
+download-size = 161 255
+size = 4463ac1efb658425495b40e59c83ce0b 910d693dc5301190ed33136abfd6910c
+size-size = 111 205
+encoding = b98bfc319c4aae588e63af712a169737 74eeca9387a0cddec0e28e9c8856a89c
+encoding-size = 8387 8556
+patch-index = 47bd5f9dd937b193cdbcc9cc07a672d4 2e4266eaa798a6658a289dd481fe9c72
+patch-index-size = 596 515
+patch = 683f36c0c9901f22e47505cdfb2b0b3c
+patch-size = 551
+patch-config = db257a4b8ad82362974c1c67aea965c9
+build-num = 8255
+build-name = 8255-beta
+build-product = Agent
+build-uid = agent_beta
+
