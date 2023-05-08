@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 2090a2ab8d444cc4935621d5d33fb97a
+install = 29e1c8a79a8c237cc47fba37ec3e1b91 e46fbacf44d7aecf5d0f85ad25e8e8b8
+install-size = 333 402
+download = a5ca7a5d8cadb62c33f51e359483ddc7 31f7da1efbc8f1391aa530b4ba36b9db
+download-size = 161 255
+size = 2c9e2c3fe9beba8cc1ecefd4bbbf5fa5 77226bd88b7bbae104dfdf4db153ef33
+size-size = 111 205
+encoding = c259b70bc7447bcf37f461a1de7bde6a 91e757e20fa43f16d48c415817eef445
+encoding-size = 8387 8556
+patch-index = cdd0c2194b63f888fd566c311443837d f5c608f0f7e75ad02a5c80932ed15dc7
+patch-index-size = 657 561
+patch = c291c1a2a3bb284c62bbe251c393be39
+patch-size = 593
+patch-config = 3ce8b3a9814efc617b0a9a783bb48e94
+build-num = 8260
+build-name = 8260-beta
+build-product = Agent
+build-uid = agent_beta
+
