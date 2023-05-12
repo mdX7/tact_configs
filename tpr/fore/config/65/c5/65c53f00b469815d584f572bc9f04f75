@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 845ce71f9f689838dda5ca45f77db669
+install = c202c4815a4d54a3b502bd0bc81f53af 37561ebee63dd6aee55b8b561ef3e8ab
+install-size = 5993 5698
+download = 02be8daf1ff0d92b3e404bfdfa3b6d8a b4fbc1b6bc8ba42496b808d030bc69ba
+download-size = 247635 219942
+size = 5a571b27e58c1897f54c96a524f16411 16e2bfa661cb79c1aa71d9ca144037be
+size-size = 158116 134893
+encoding = 2a7013a1f062d7498101d9a82cdcb2ba 75d509e4348433bdda3c972c1dde4826
+encoding-size = 12536 12701
+patch-index = cbe97dbc501583174848c36962d1754c cefbdcf8145e31dd64c1ce56c9793f92
+patch-index-size = 307 205
+patch-config = ceb10771cf2f956c72e47e4495d57526
+build-name = s4rel_13860558J_tu25_laze_s4_signed_r_ship
+build-product = fore
+vfs-root = b9252dc90c065e80eb5e3b99297bb15a 3588e4daad3f3d0fb486f3400a52cda6
+vfs-root-size = 697609 397644
+vfs-1 = b9252dc90c065e80eb5e3b99297bb15a 3588e4daad3f3d0fb486f3400a52cda6
+vfs-1-size = 697609 397644
+
