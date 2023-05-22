@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 7a51fe038d2cc878fecd55d7f4c0a731
+install = 1edbd73765a7f2e33111f41abe885af0 9952897fbf065a09fae17a2c4d6d6715
+install-size = 68 135
+download = 7650649703cfd5a79585aa7eaefa1f39 8f95a84a660ba640eba805ee8e7c4e87
+download-size = 73 167
+size = 8fa2e968fd45184abcbba389e81661d9 7afc3f4f12a96e8d81456a79d88a783e
+size-size = 59 153
+encoding = 11b628a27484e3a3702ecb374d826c0b 96bc1d1e701ccd233f1f96e652406833
+encoding-size = 8377 8550
+build-num = 3124
+build-name = 3124_fenris
+build-product = Bootstrapper
+build-uid = bts
+
