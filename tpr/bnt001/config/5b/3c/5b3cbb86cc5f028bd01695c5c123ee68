@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = afe5fc6853dcf6ef23db5a9637846825
+install = 446a18b21f5e41f61c9b4bb5540470ee d96312269b100f8d2a216c2bb8fdb82c
+install-size = 333 402
+download = 24c67be84aac756b19beb77d2374742f c4c9bf678508c9c572298f8edb874ca8
+download-size = 161 255
+size = 25c0fb89381876afa1991842494e7c06 56100f4227a1cc85417e9e1da537c177
+size-size = 111 205
+encoding = ff7959a28b7579369fb64b578936c035 d737f141351854ac4be58ed894029110
+encoding-size = 8387 8556
+patch-index = 8c147c97b4e6fda92a6af56f66cf8a70 cc5c1e31cbceea3db5ebe296ff1ae8d9
+patch-index-size = 657 561
+patch = 279d309370d5ff8bbd49af5e54da4dac
+patch-size = 593
+patch-config = 28174e19330baaadbd168b044cd6c47a
+build-num = 8279
+build-name = 8279-beta
+build-product = Agent
+build-uid = agent_beta
+
