@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 1d085b30f3797d062bb93be3609ad092
+install = 92e494ab26d241ad66ea251c8a30891e 2e730ac0fb451b85fb1dd25bd0b9d2fb
+install-size = 40585 39592
+download = 9a7c9a54c5c99688a6d65a0a94dd6b75 787bd1dfc8e2ad394e07b12c83de7cd0
+download-size = 7810432 7261420
+size = 48cf598f99767ee5dc1cb1dea6ac6bc7 f8798840f1fc31a3a9e97289094ed5d5
+size-size = 4184224 3888490
+encoding = 9145ee4e58f7315fbbbe973e0b95ee01 a66a84ad4d08afe7976d0d82ea0b7b7c
+encoding-size = 17829045 17829189
+patch = 423e0328eb27a046ee46d203a75d2180
+patch-size = 7342937
+patch-config = f10b1eaa9ce81744cfe792cff320901d
+build-product = Diablo3
+build-name = 55235_Win32_2_6_1a_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = mgrenewetzki
+build-comments = 2.6.1a RC2
+build-branch = 2_6_1a
+

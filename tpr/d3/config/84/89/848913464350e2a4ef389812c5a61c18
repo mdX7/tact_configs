@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 8608dce116f58294ae8b49225b6bbf6d
+install = 10409717682dadc29b1682678cd9a6f5 66bcdbf59fd2ddec83c6f463fc4a3e60
+install-size = 40945 39953
+download = 9cc808d7e74875b1190ef11348e993b3 386bcf0c48c759e8359201b11e3af439
+download-size = 18438237 17144729
+encoding = 1385ec70bd8295cda7e7f8387cfe7cb4 985ec5356af7b9e50509d681d1f62b1f
+encoding-size = 42085153 42085310
+patch = 89bc9da1e27bfe2c7d36ef0e283b8e2e
+patch-size = 26922833
+patch-config = 5ce04443408062c3956d7ac73f3fe157
+build-product = Diablo3
+build-name = 49286_Win32_2_6_1a_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = dgivone
+build-comments = Retry 2: Aegis Phase 2 Build
+build-branch = 2_6_1a
+

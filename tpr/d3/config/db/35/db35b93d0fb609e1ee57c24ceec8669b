@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 3c55e1d37257d0d7f1a4435dca257206
+install = 33c1b4bedbe6bbc941df41e0025164ed 63c70d74690847c90c2a46cc250df4e6
+install-size = 40585 39592
+download = 3e189534e8bba9caf24df72bc5e38f09 f81935aa18c4f5c0da431da7aae4df04
+download-size = 18438331 17144831
+encoding = 20641e3270c68357ff5ef081f5a10793 be7841e1d8e8be5684c2f1ca9835b948
+encoding-size = 42085153 42085311
+patch = d70d8290bb96e6981cfa6df7062e0775
+patch-size = 24701291
+patch-config = 1765c0011fa9719f1773692e2164ead7
+build-product = Diablo3
+build-name = 50649_Win32_2_6_1a_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = MCederquist
+build-comments = Patch 2_6_1a Updated Aegis/Chroma/CN DB Cutover Try 5
+build-branch = 2_6_1a
+
