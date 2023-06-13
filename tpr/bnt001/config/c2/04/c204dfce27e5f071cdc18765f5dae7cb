@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = afe5fc6853dcf6ef23db5a9637846825
+install = d78acd9284467d78651773599c78d545 77927a5598ed885f18c7066b66ece176
+install-size = 4014 4072
+download = 471042947d8d294cc27050476840cf46 341f4874a9b1254846ee02e0bc94a760
+download-size = 889 980
+size = c2d03261a99e642960a40050edbd6dd9 6b0458c09a9eeb02cc7889b3e850b51f
+size-size = 551 645
+encoding = 59ca51373855d1378c5e42215576cffe 109ef5e40558cdc08d7b4abb15a96381
+encoding-size = 8390 8561
+patch-index = 17065965d41b8d89aac92b8be0dcb128 cf3fd573a94a66aad44e0f93d524fc02
+patch-index-size = 1084 891
+patch = 25f76005de5dd15512e44d12c936cdf1
+patch-size = 953
+patch-config = 82ab59bf05db8ab4215ea890db8d2604
+build-num = 8279
+build-name = 8279-agent-2.30.7
+build-product = Agent
+build-uid = agent
+
