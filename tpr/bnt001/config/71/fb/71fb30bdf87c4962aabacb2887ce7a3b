@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 46336390c72f2b45b59bf354b8aee044
+install = 1098d6f1f6cfbf70cdf98db29e087e8e cfb23c656d8a3e3797623910c8bca070
+install-size = 4014 4074
+download = 1f2da2abe16fec0a3adbca174344902f b1e7b1bbff5e0eb8b54469cb3212cb70
+download-size = 889 978
+size = 68d0b14ba71336fc8bef9b14091810a1 0e25f3781b930fdcb0cfdb909c9f9bac
+size-size = 551 645
+encoding = d66a03e5a01d66934e5ed0e1377b323a e606a2410c05ccbbc596b77a5da1bc4d
+encoding-size = 8390 8561
+patch-index = 2798d4c24b54d2aea7b38b35cfebe2f0 cba8a1a4b20cb80f341b69d6ed9f86ef
+patch-index-size = 1084 906
+patch = aa25f1fcbb1ed68ac8a76afe18ed74d5
+patch-size = 953
+patch-config = 9a67b4fd833d5d15d5a295a88aafabcc
+build-num = 8320
+build-name = 8320-agent-2.31.0
+build-product = Agent
+build-uid = agent
+
