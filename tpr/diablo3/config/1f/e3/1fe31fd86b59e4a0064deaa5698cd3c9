@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = ab087b71475ba608316d9205a81c304d
+install = 34472adf3041b1e043ed48b1418b4bac c81c8ee0cd0b681a5ce854ce264f28a9
+install-size = 41191 40183
+download = d4114c9cf2c7f1871cbc331e9282bffa f2588ed2f379d59b77a448a426632595
+download-size = 15893561 14592471
+size = 243cba6d6347df4be1079501d8626045 fe3b31c2449efbc5d6c02899378d34e8
+size-size = 9933531 9582576
+encoding = 7bbed1d13271887e6860afe32de2f4f0 a961d2bca96a56dde99c01a1196fd3d9
+encoding-size = 42324613 42324749
+patch-index = 8644db5f4ecbb898465416d7264a298f 81cc0f458de5bee671d45768e34444d1
+patch-index-size = 229285 169917
+patch = da497d7ad29ce18957f611076a25b04c
+patch-size = 238141
+patch-config = 864e8ac8ec5c8978cb5427661d87b869
+build-product = Diablo3
+build-name = 90101_Win32_2_7_5_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = cholland
+build-comments = Pc build on Production branch for Osx update.
+build-branch = 2_7_5
+
