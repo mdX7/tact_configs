@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0b56cbe85e9e681022474cc3a9c329fd
+install = 21a7e2106dfd8cbb259556f151200cfc bb8a2b278ddfda31b3e161d81439b78e
+install-size = 4014 4072
+download = e4b019a26ad6b31815989693e2cec7fa 52584463f5efa8867fe127cec919d11a
+download-size = 889 980
+size = d1560afadfa860f5ad0c4065adaee707 7b43b1f984b9162c073fd5dd1564d5b8
+size-size = 551 645
+encoding = 31ffeff44b8180c5109cedc7ade4d002 28f07c5731516a3da48074d1ffecb60a
+encoding-size = 8390 8561
+patch-index = a69ca5a8f99045facf6431b254de084b 032869929a8b50d1b85e155877d31283
+patch-index-size = 1145 955
+patch = b23a3029587e658b3429a27a949978b8
+patch-size = 995
+patch-config = b6fe1dc6ab283fb94942f4c5b0cad40a
+build-num = 8370
+build-name = 8370-agent-2.31.1
+build-product = Agent
+build-uid = agent
+
