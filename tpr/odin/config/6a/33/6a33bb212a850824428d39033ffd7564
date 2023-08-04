@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 95c22e5ad65376a4191944fc61a3514d
+install = a79d9feac489062aca59a08e718ac759 64101723d1738d37d2ced1ae26e98774
+install-size = 6333 5989
+download = 94442801d741ca444b1621531272eda6 a974eaaa070fabbd8dca469a948d0b49
+download-size = 1615481 1416972
+size = d74d287b0a93d13fcbeb4ee1d690ccf9 af08af008dcd0f64d55af4d2565ae263
+size-size = 1036884 860694
+encoding = 54b91fc2ffc73b472fbaf8833b0c1d38 bdf9992c105ddfa8f427b1f39b2a518c
+encoding-size = 4111655 4111820
+patch-index = 5413b48fbbf9fecebc566b3c38a3887d cc4527dde93c7ba9bd28988f722159ee
+patch-index-size = 312 219
+patch-config = 367cb61184af21d736edb465b5375fef
+build-name = live_15321234_TU_LAZE_2_21_Q_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 610c2c16c40d6f8abaecbbe4b94428cb a32b92d5149ef567f563e0df905a0a82
+vfs-root-size = 4373014 2449803
+vfs-1 = 610c2c16c40d6f8abaecbbe4b94428cb a32b92d5149ef567f563e0df905a0a82
+vfs-1-size = 4373014 2449803
+
