@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = d1dcf7945cb03db850b1c231266bccf6
+install = 6b0b483c2164bd7e2ed5f3c37c7b5ed5 f4e58986b903e123acce7150c750c005
+install-size = 77 144
+download = 90756ce6089a23c50fdac863bdeffc2f 57e21bf120bd62afcfd81c53e57ad890
+download-size = 73 167
+size = 6dc7d00719ede924382b7e1b54ca2685 2752af945c15c7b7d91e597fd5884e56
+size-size = 59 153
+encoding = a5d31e4a8438d5e588f686cedcb8ddb6 cbda4f1d9cd16279f616d6ab272f1d47
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_zeus
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 2c65e414d58820ad2dc1fc64c5fa9ce0
+install = 9194568e34ee9fe41683655c855e413a 73c7a8136a2b1b57ba82b7a299a7c7ff
+install-size = 70 137
+download = dfb54d4e6f6d113b565c01f66e6f81f7 d5591b229f7a3ca21630f9b89d1912b0
+download-size = 73 167
+size = f607c4b09fa857782df7c2a7e104e5a8 682756d96dee467c9f855fb2f126a908
+size-size = 59 153
+encoding = 0cbefbff96228ecf79f12e4029a1f66a c750dd8712523c0fc397982586ab5398
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_viper
+build-product = Bootstrapper
+build-uid = bts
+

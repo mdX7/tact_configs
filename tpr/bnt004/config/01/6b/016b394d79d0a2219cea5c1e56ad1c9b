@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = e4156cfa290e5be087a8f23f7f65b533
+install = 82671818ed18177289b8ffac78a4b163 eeebbe47a71bfcf458726225c3f19ad7
+install-size = 4739 4801
+download = 14d8ca0f378b4ab514380b5217c37dd2 0c3e50b95e0ecaf3b1a18477853aca00
+download-size = 1163 1251
+size = 260dab7f42a98cbe49128c0a651d1661 f52545ee246dc6597d1679c30597e44e
+size-size = 708 796
+encoding = aa50e20144dd52374bb999c7ceb1c222 59d2b248bd40b3fed9a6c0769690501e
+encoding-size = 8381 8554
+build-num = 3141
+build-name = 3141_hero
+build-product = Bootstrapper
+build-uid = bts
+

@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = b272bc79ffed77d5bcd901042f8dde03
+install = 8ae09371ac072c2bed7630b3facb2ee9 5cc4309256453d329fce897192a6f3e6
+install-size = 82 149
+download = 7c77686b435f6e91af0be0375ecdf803 a8d8beaa0abd1099816c25898977aa25
+download-size = 73 167
+size = 9cd92fbba1931fcaf33c479ddf68e639 bfd8c8a7f8162878dffa65bd91c62f76
+size-size = 59 153
+encoding = 4aba17acf068072f3c836c3e93618ad8 34f89665c74c21b4b204401132e54bed
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_lazr
+build-product = Bootstrapper
+build-uid = bts
+

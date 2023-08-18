@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0b5b9fb9ebecfd5f7fb15c7ed96328b0
+install = dda9861497f1278212b7cbfdd641fc63 9d1cca5dfce379b9c707846db862bb23
+install-size = 4014 4072
+download = cd3366c59bd2ac418c9a8f97667e0f06 12edc789bbb27ca64430b819f9d7ffed
+download-size = 889 980
+size = f30b16ea9d8f68f62b80923764c042a1 846f36bdc2e3149048654173fb0244de
+size-size = 551 645
+encoding = e5d67f0aa48791e2763d2aa925832a45 2513698fb887e8635fdce7814799d422
+encoding-size = 8390 8561
+patch-index = 3abf4119e15fbc9df6e754adbe07db55 569334da0aa477d8d8f9c1e2a049c4e8
+patch-index-size = 1267 1063
+patch = 7ed10920e878182d132bd734300c7ade
+patch-size = 1101
+patch-config = 9153c65eb9830690d80ea4a808ad3103
+build-num = 8390
+build-name = 8390-agent-2.31.2
+build-product = Agent
+build-uid = agent
+

@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 3a803795c3203cb2b28c7893c93532ef
+install = 60516b5587f72c9fd81cc13d1e6ce061 f485f3cfc7f6f6db7a67501dd0d29f51
+install-size = 45933 44340
+download = 21a492dc5bacacbb8695c2a09c94463a 7afcada003a303c84f77bec40e587433
+download-size = 3927 3608
+size = 1a7836ca7c8978f9cd8167915ed1b8f8 a493d60ffe967ab4626c2b56d17ac29c
+size-size = 2617 2353
+encoding = 9dcb42f03b902b2a657ba03e1b93f43f f2ae7d7ce8cadd4b2ed972209407ce29
+encoding-size = 12514 12694
+build-num = 3140
+build-name = 3140_launcher_merged
+build-product = Bootstrapper
+build-uid = bts
+

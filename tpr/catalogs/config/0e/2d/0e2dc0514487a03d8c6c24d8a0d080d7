@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ea1683ddcc18c2d7283828cbed471c02
+build-version = 29
+build-num = 2397
+build-name = ea1683ddcc18c2d7283828cbed471c02-2397
+build-branch = 2.24.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = e1cc12578e1d29ce1aabb43839cc3def
+

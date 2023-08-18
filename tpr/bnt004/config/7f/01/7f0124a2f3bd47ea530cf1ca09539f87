@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 579ac196ca83fc47b63bcbc7fe7fdac4
+install = bf12bd9d5513e4477ed5c478be298e3d 83cc76091b65c9cadf581538523d8d07
+install-size = 4357 4419
+download = 01b56d6859c2270b4aca5f362d5ccce5 9c3313ccd89b4090977ee55a494df0b7
+download-size = 1163 1251
+size = 3b1ec60a374a9277d970aff9cf18b2ca 7815388ba578644a1711a1072319c319
+size-size = 708 796
+encoding = dcdc1663b00c7b4f55c51d5f56da2679 8a6eac5e708a2402123c9f1705e1fc6a
+encoding-size = 8381 8554
+build-num = 3141
+build-name = 3141_w3
+build-product = Bootstrapper
+build-uid = bts
+

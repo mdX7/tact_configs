@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 61e7b667a9fa46b5507518f57868e074
+install = f3462ba3f510d05dd762cccb3bcff488 968b9f2ef43fe12735d21c51b754637a
+install-size = 85 152
+download = 24a87bec67460c9823e682e22e31d8a8 310decd446477d1c0f6a9a970c69d764
+download-size = 73 167
+size = be64cb4f31af43c125d2f913ad990488 c407cba013271dd685f1247f3bba2d5a
+size-size = 59 153
+encoding = a7523e775d6c5abc256f1e7d7c6039a6 b7bd8c3f97702c66b32a327d1b24d505
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_rtro
+build-product = Bootstrapper
+build-uid = bts
+

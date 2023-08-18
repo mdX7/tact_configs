@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = b101d87624deac64660057bd46439046
+install = 9a348fa603407044cfc752182c55b855 f403a679a9d09cd159f2926a93be225c
+install-size = 80 147
+download = 809e2f79612677d80d8c7c495b9a4ad7 efd7ab1ca884e56eced8f19a16662778
+download-size = 73 167
+size = 9153ee460f30f32d0b944554db1bc097 63631173108088b84779aff4fa1ee5b2
+size-size = 59 153
+encoding = 024188a0307a79c6adfcb320d2537fe7 aece1b5ea3e3123e0e3992c9cc3f5b55
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_osi
+build-product = Bootstrapper
+build-uid = bts
+

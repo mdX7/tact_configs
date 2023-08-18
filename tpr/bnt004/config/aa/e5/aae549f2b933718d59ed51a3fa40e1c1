@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 1aeea8b46634d64984c13e37ca607f5c
+install = 7059aa05b028f8f6e18ee50fb2918554 cf3c017c38a67b677604ea3b1feb10d0
+install-size = 76 143
+download = a8f7ecb89184d71b7f2e2b480da726b8 741bd4ccd3345ed84dbc8c7c2a094053
+download-size = 73 167
+size = 8ffd33b0015f6179aff8f626ade9bb3b d46a0164c7e127477dfbdfa23ceb683e
+size-size = 59 153
+encoding = b661812975c447c243990c92f9f956c0 e7366bddb011df2248cea3e6171cc7ea
+encoding-size = 8377 8550
+build-num = 3141
+build-name = 3141_wlby
+build-product = Bootstrapper
+build-uid = bts
+
