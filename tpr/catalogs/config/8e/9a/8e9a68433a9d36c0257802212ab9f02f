@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 90c42d2ee4a162d8d9317e13e57fb2da
+build-version = 29
+build-num = 2400
+build-name = 90c42d2ee4a162d8d9317e13e57fb2da-2400
+build-branch = no-branch
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 5acedae1c0ead5a9053fd5ea9d995244
+

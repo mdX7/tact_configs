@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 9529d53525e0f6d12feb70dc9799c32c
+build-version = 29
+build-num = 2408
+build-name = 9529d53525e0f6d12feb70dc9799c32c-2408
+build-branch = no-branch
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 092a88dc16bcaec3173c4e0b648c3ae9
+
