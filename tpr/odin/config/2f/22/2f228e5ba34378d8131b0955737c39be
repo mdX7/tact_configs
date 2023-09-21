@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = e9f3e9970755fccad2017feaca1de547
+install = 402233b8308a070f05dc8682c51e7628 ddf60854e6b84b9fc1601983e75fc237
+install-size = 6333 5989
+download = faa9fce9c90b4059b8ec0e405f7f9bea f77e2cba2b35472159716ab8c220f5d3
+download-size = 1615434 1417185
+size = 32e6ea536fa37e357a03ca730918d5fc d3959bcc8ca14165a74e2276862da047
+size-size = 1036846 860118
+encoding = 90c5e5491b0ca9b7f9a8d2cf3a1393d8 88961134d8dd7e3879f4d80efd945505
+encoding-size = 4111655 4111821
+patch-index = e4b49ef892a5a2d026ab01b16ab17a15 fd8f8cdee24e493a9d742d1421271cad
+patch-index-size = 97902 54288
+patch-config = bd8ed704cfae4fc0afbb61e1edebc802
+build-name = magrel_15967738_TU_WZSUNSET_9_12_DWLIVE_patch_r_signed_ship
+build-product = odin
+build-uid = odin
+build-type = Release
+vfs-root = 95b061eb55512c2845ec74ef493184d6 ffc376ae6203a1fe7f70e257c7ef92fb
+vfs-root-size = 4372946 2450686
+vfs-1 = 95b061eb55512c2845ec74ef493184d6 ffc376ae6203a1fe7f70e257c7ef92fb
+vfs-1-size = 4372946 2450686
+
