@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4cecf2ed28f7cfb2969cf209e382a375
+install = 1b5ccadeae6856b6173372a8e2e4de9c 28dc663f73d1c17fe284b71694f1e35e
+install-size = 5993 5698
+download = 7341b6dd92f00b7823fd769bacb9c907 ffa6bd57838e71a0dd051b6f7fb47a94
+download-size = 247944 220218
+size = a07deb56c10c9d04c662d3af730a58a6 32ead72d7c6c8d783ee428990bbb3b80
+size-size = 158308 135056
+encoding = f8f5cc4ea5412208f3dd1b4b39bcbf1f 24f98324413f17a8e11d4750b2322bc3
+encoding-size = 644128 644295
+patch-index = d38efc190e43efb6d7633645dd432c92 f318dbeb7646ebfbae636a11a26b2d55
+patch-index-size = 558 452
+patch-config = 75ee41adefa64038d099af964a463204
+build-name = s4release_16090784_tu26_mike_s4_TU_signed_r_ship
+build-product = fore
+vfs-root = a3b3bd8f5523bf9e9398d2fe7fc78837 90c71fd876d968af744e1a76c7a142d1
+vfs-root-size = 698345 398106
+vfs-1 = a3b3bd8f5523bf9e9398d2fe7fc78837 90c71fd876d968af744e1a76c7a142d1
+vfs-1-size = 698345 398106
+
