@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 53ffc21355fb5576841d59e453b040b2
+install = da6fa06fe06ad498053e87ae6e97c8cd 25fdfefa8bcf23cc1c19c2af447c4cb2
+install-size = 4014 4072
+download = feb1f1924ded25480a7db4994c2ad7f9 6a7816ef1a416adfbaef6c32c00d0c9a
+download-size = 889 980
+size = 127f7ef27e4a1925ccd77e8a627caf29 4a36910bc1cbb39665748bac34343985
+size-size = 551 645
+encoding = ac6db47a7b714871ee2e6f0bdfeadb73 e142b49921cab7bde7cdadc72856e03d
+encoding-size = 8390 8561
+patch-index = c9e629c27f8d63b39af9f4154f9b84de 60d50961bfdb301cafde4993fc9ce765
+patch-index-size = 1337 1111
+patch = ba6a2a0ad2ecfa790f76a6a456b3af86
+patch-size = 1143
+patch-config = 7a145b498551ef6a499557e2cc608fb5
+build-num = 8445
+build-name = 8445-agent-2.31.3
+build-product = Agent
+build-uid = agent
+
