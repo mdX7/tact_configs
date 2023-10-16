@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 6d864749053457d71f3660ad1fafae04
+install = efd720218d5ac3008fb917fcf2819143 23ed5c4d5f0a336fd8ad87af2a28ecac
+install-size = 210856 206667
+download = 05605c0c720f551d006d64f3485cab09 b780cfffa0aaecd0f30dce682fe6eaa0
+download-size = 24003 21797
+size = a268af3b574e6c7e34a616e1a5de76a6 cb4d7ccc8e192315ecacbdf6afc446ac
+size-size = 15205 13091
+encoding = 47630b50fe92c15eaac5039880282621 78f7d9aa187f8138d8681dc6e5c572e0
+encoding-size = 70324 70499
+patch-index = d99c51b978ff013f63b51db78bb49e28 057fe6b79f7029eaa3a137012c7f1c69
+patch-index-size = 17066 12120
+patch = 4e03644f6a18574880ede6099aa88495
+patch-size = 18191
+patch-config = 756d8cbd038b4c2e5a7af8917ddd2cc1
+build-num = 14486
+build-name = 14486_2.26.0-beta
+build-branch = 2.26.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 15
+build-num-retail = 14485
+
