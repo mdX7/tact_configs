@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = e2f29dfaac016faed91ae62e6dc12ca2
+install = f4c6b93f1a90957fa773526d067ff42f 8b60bfe50c7dcdddf818105f0382b35c
+install-size = 333 402
+download = 06255166e6c818b2c0ba5d104837a653 803b3feb544e457b1a3f9848739f0e4e
+download-size = 183 277
+size = 56b7f375673bfb3d6b8c6edc4cd1b65d c285f7637439cba61ba41b9eebe06603
+size-size = 124 218
+encoding = 70d1eb9416c24b1703229e9919d6f64e 9e8dfd7cecd78ce106f0f2b5b60024b2
+encoding-size = 8389 8558
+patch-index = a6ab5427fb64e2eb6c4c8369131fa37c 70c0e450a70319850bea7016f56dbe19
+patch-index-size = 657 560
+patch = 33a060d73eb53c3135a363f0aaaf107e
+patch-size = 593
+patch-config = a825b0da95bf4b2864f20256bc36470f
+build-num = 8475
+build-name = 8475-beta
+build-product = Agent
+build-uid = agent_beta
+
