@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 223d8c715515bcfd5e90b0433433b033
+download = aa9c0e26b64bdff781b85d4a5112032e 284472d4fde4d3fd10f3cb77aa049ab6
+download-size = 814347 707859
+size = 0f1dfb6bd79ab86bcd4821bd8794b85c 87cabc650e763972ee3e0ddd8ead2a07
+size-size = 525613 445357
+encoding = 7ad9ca60c6c9d792012ad42f29b80cc1 cb6c2fb07674528c931afd2dc6309653
+encoding-size = 2440276 2132104
+patch-index = 47c56012f2e73d3dbf0f1d44934252af dfbb35c3376d4a5261bc7dfeac01a8bb
+patch-index-size = 20218 13437
+patch-config = bdf1502e744916cd09ee8950164fffee
+build-name = pre_sub_16427308_cod_tus6_5_1_signed_r_ship_fixtape_ebgdl
+build-product = auks
+build-type = BGDL
+
