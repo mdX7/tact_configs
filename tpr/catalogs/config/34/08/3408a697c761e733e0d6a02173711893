@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = a67f78710f011df1bbae209655c59013
+build-version = 29
+build-num = 2441
+build-name = a67f78710f011df1bbae209655c59013-2441
+build-branch = no-branch
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = f8292a05fc0a227799b27c9c524caa27
+
