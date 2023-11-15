@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = b96213f265684e16db5a8552eba1be09
+install = 79e13b87a50df916b1046f427aedac61 479f561167cf287273f5a6c9f521b024
+install-size = 104535 100161
+download = 281f104c4ddfe9ae16baf79bef546df5 f326a9d6c2a1f429b0610139a01ac576
+download-size = 1265787 1121189
+size = ac935d32c2c919d63a36d3df6e5f0155 0a3ad394a4de794744e23e08393114ce
+size-size = 705720 616094
+encoding = 7920272b7ec4248b74c1a1d5791bd74b ae32fb3ce3df575d9a89277c033c5648
+encoding-size = 2757663 2757833
+patch = 2006a44bcc5d094784681b2b758f06d0
+patch-size = 11017
+patch-config = 155eeeba0eeaa0ab2ec9682b81582a6e
+build-name = 1.23.10.12409-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = Retail RC Build with SSL Cert update (including old prod cert)
+build-playbuild-installer = ngdptool_casc2
+
