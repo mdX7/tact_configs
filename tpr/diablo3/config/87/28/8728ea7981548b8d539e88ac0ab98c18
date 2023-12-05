@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 25779643b72fab846f4ce79db4fbcba2
+install = 502ab7e13ec89b5d4b02b03509e3cda4 cd10cb12bdc6ba9ca30e819c5870acd5
+install-size = 41191 40183
+download = 47cba1232d257d8160cc71c3163dc252 6e4d9320349edd19194bda7692a9eb95
+download-size = 15909629 14607108
+size = be9d0bf36a2c426ad844db9bb816fdf5 300a560743af3073e72484d70ccd5e64
+size-size = 9943569 9593082
+encoding = 37fd0a97bdd88b71e88d11539c35eed5 847d4623d1b7c20a1167efa5c6fadc2f
+encoding-size = 42365893 42366027
+patch-index = d78f7be970dd962855b06639ccdd9885 54f624c8c1c7a1182da0858a10b5f48b
+patch-index-size = 413749 266864
+patch = e23f21040c9b7256b417e90ab2c5e167
+patch-size = 369801
+patch-config = 30a4836e3fa471d67b821a923c018f41
+build-product = Diablo3
+build-name = 91234_Win32_2_7_6_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = Mcederquist
+build-comments = 2.7.6 Mail Bug Fix RC
+build-branch = 2_7_6
+
