@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = be5042deca0685b38b5240eec48c7db3
+install = fceffa914feb442570bf04fe01f163b2 26678236e8069aba59beb52e285b1787
+install-size = 333 402
+download = 6088477a26ddd1c4d31c74ca3352df68 083a6856908cc1d960e92d7d0be0a058
+download-size = 183 277
+size = c88b332c1a4994716e0a7bd97b38674a 9fc1b6682754e78e247d02befa780c80
+size-size = 124 218
+encoding = 1bbcad931c5027d7f2dc2d3f0501d197 bc0ca0f5eee9e29cf9c562013133c317
+encoding-size = 8389 8558
+patch-index = f6e901558d216b58223bb6ff3e5b92b2 8bb89ad946251aa4f360ac4d54dec39e
+patch-index-size = 657 559
+patch = 0c3710d9b4d48121b73e78400b755373
+patch-size = 593
+patch-config = 22ff1e9571466f2fb03d35c85591ad59
+build-num = 8528
+build-name = 8528-beta
+build-product = Agent
+build-uid = agent_beta
+
