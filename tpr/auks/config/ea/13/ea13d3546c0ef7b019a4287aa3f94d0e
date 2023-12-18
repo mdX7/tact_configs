@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 1ffc311b8a6f4ec6a6446c7410d1e4c9
+install = a95edbd21c10362b216b3e6682db8d7a 6f84fc9b30599f0ff6f192290d83f5d9
+install-size = 17642 16486
+download = 87ae25e6f0f93e92b7dace911fbbcb6f 426e6a7f2ed13926f09054e8051ea385
+download-size = 1197583 1035462
+size = 4e16666646b64a93a3690d68b0fd10db 251817e0122c062a7df863177dac3e09
+size-size = 775010 660188
+encoding = 13d6c57e3f3036f7e20f540321280671 95f05bc7fa3eac1947aaf551b73c74b4
+encoding-size = 3005352 3005514
+patch-index = 4069b42fc39c9815fc17e282842e8316 1007e3a838a5e36ed44d1ed332ead23f
+patch-index-size = 18561 11092
+patch-config = 784b3831eca4cf13b6836ad818af4d8b
+build-name = cert_16857029B_cod23_tus1etu2_signed_esp_ship
+build-product = auksesp
+vfs-root = c86de325d4b953890fcea79fa8b51169 9172ce7cc0aa372b52d845121c3745d7
+vfs-root-size = 3145492 2000231
+vfs-1 = c86de325d4b953890fcea79fa8b51169 9172ce7cc0aa372b52d845121c3745d7
+vfs-1-size = 3145492 2000231
+
