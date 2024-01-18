@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 7ee99b6aab401f1c0968175accbb9f1d
+install = ba5a50e6f21efb411f88bda9a68fc33b fde745884b1255d4b09e723a29a127c3
+install-size = 4014 4072
+download = d9e305924d4ab5afe97a8a5fc7f6604a b935e9b5be3c54d7b3da74dc4c8a01ee
+download-size = 889 980
+size = 98a932a444f57e1898c33acb23f78a41 f2593044f489c0945fcee116a3bf1fff
+size-size = 551 645
+encoding = 7bc1a6316a3943780fad094bcf9a8325 8e7f0d343a9d02bfcaf9ae9061bd68a0
+encoding-size = 8390 8561
+patch-index = d4a2425d35ef3b5caf096652a6183b56 92a6ab844100ac423efb1f74b41144f1
+patch-index-size = 1328 1088
+patch = e1d1da5bb6d34046473e3fe48e728d1e
+patch-size = 1121
+patch-config = 324f25fe26a6d3727325cee3bd5d93a8
+build-num = 8550
+build-name = 8550-agent-2.32.2
+build-product = Agent
+build-uid = agent
+
