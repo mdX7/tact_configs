@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = ef7d1cfbb89bbf92aaea62f074625f41
+install = c1001b60094be92d9de27e6e192a4ebb f7725a37274eeeb3a0fd5452872efcdd
+install-size = 4014 4072
+download = 99306f07acc20afd4f85b36afcbe1144 ed112ee3f9451270c4aad0556ce7276b
+download-size = 889 980
+size = 26451072874cb4b59b47b56f8c0744ab b5e7974ab78ba622164122783735af71
+size-size = 551 645
+encoding = 07982312b36d9cab1a06d6befe319b5e d313907e7de0ab90c6190cb73e6a192e
+encoding-size = 8390 8561
+patch-index = c57e7f14a1dd93772a64c4fa15a99664 b7d13f68d3958f013c158312c63ba1d6
+patch-index-size = 1328 1088
+patch = 892cefef482016eebf90f86e11acf9bd
+patch-size = 1121
+patch-config = a8fed7a82f42c087e10af08121e85fe2
+build-num = 8558
+build-name = 8558-agent-2.32.3
+build-product = Agent
+build-uid = agent
+
