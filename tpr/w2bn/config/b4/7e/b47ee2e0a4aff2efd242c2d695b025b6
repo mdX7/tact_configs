@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = b11926604625622901f6557df57f35de
+install = f04bb6a31586a1b551e3744c1d7c85d8 b8224f899d07a8bbf091757be6727b13
+install-size = 14573 14608
+download = 94304c3ae05e48aff5b2ca5bf02d1680 e41492578fe7e84c01f8e4fff31cd364
+download-size = 6347 6409
+size = ab95862ec41274fc5575ac8c5afd3a4b dce3cdd79b422386814aca5c3f600b16
+size-size = 3777 3839
+encoding = 8e54dd2ae9fc3b689d09630a43608b25 861ecb4ff7b8f01c764dc1f0b39628a1
+encoding-size = 20773 20950
+build-name = war2bne_2.0.2
+build-product = w2bn
+
