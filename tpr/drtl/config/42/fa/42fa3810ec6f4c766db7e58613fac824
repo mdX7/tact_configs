@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 76ee8f3222887e4e37c75911d6c73d43
+install = 80fc459387614a4803bdb1e25de9281b a76e4ca63ce309182907ad4cfac29aac
+install-size = 18665 18695
+download = 7a266084f9c797e26d41ead60f208767 8305158472c0ba6ae6f88243e8f089fa
+download-size = 3958 4033
+size = 8ab981a01f7d40b5d81e50c32013b35a 8be3a2637e68a661ead49f44dae64d9e
+size-size = 2360 2435
+encoding = 7b9728781af8f5e8c951202e9faf807d 6951f54b855fec57e456c90ddfddafe1
+encoding-size = 16644 16814
+build-name = diablo1_1.0.9.2
+build-product = drtl
+
