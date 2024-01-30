@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 52df542f594c0f0a27b855b18903b1e9
+install = 7986b1904f93fb52ceabba82a5599786 839586ec4b106ce48a487707bae01b6e
+install-size = 4049 4111
+download = 674a3e490405781c4ede676796a44970 14d4fe2b6b8e9a0ebfd557c04acfbe89
+download-size = 1745 1832
+size = 1cebb29045a6782cf59c54276263f15f 7f329fab48ac5fa8fade193349da61b9
+size-size = 1047 1134
+encoding = ea2c5df167fd980ac6a1927c5fd17608 8b20a6e228e8c4b5d7c29cc683a21582
+encoding-size = 8387 8556
+build-name = war1_1.22
+build-product = war1
+
