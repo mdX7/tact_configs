@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = e9f3e9970755fccad2017feaca1de547
+download = 34b280864eff874cb5c056da261706d1 754fbe64f2f4b0b8f750fe5cbacf4655
+download-size = 1612466 1414653
+size = b697c8c7da647be61b526aaa5b586ce3 95d3fb365d0590dba362f855852ccbfa
+size-size = 1034949 859149
+encoding = ccf33288a6cdfe0726c90844de11e328 c12c06fb2f7fe39fe7062e1338a04b41
+encoding-size = 4157285 4115188
+patch-index = a58bdd68c6515dd7b5abce7a76149556 b844bf858c209319e67f4713046bcd2a
+patch-index-size = 2815 1967
+patch-config = c68cb8ab481f0179ec2ba9344d0ed502
+build-name = import-magrel_15967738_TU_WZSUNSET_9_12_DWLIVE_patch_r_signed_ship_ebgdl
+build-product = odin
+build-uid = odin
+build-type = BGDL
+

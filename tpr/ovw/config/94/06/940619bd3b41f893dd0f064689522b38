@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 71b51553642408fcdf3df77f96c1b6b4
+install = c7fb82b69be73d16ced14b480b16cc57 54cc042c2e6cb38793639e927ca3371e
+install-size = 163 134
+download = 26f18248e7799f2dd7d650fe559ea47d a33c83a6fcc51644f4e396eb2ac46436
+download-size = 13018970 11833542
+size = 313289e6b30a0b33b6859bd94ed54af5 de6944a4f119d0e18eb479ea0dc7b6c4
+size-size = 7106504 6560121
+encoding = 75b5e62ed549677e6bea601ea54997ef 73495ae0f85106aaa8484bd764a18e2a
+encoding-size = 29140183 29079861
+patch = 824f8ccc088f7b8f27665e90d84df61f
+patch-size = 162651
+patch-config = c4a0cfca79a8897f9ddeb1232e8d262e
+build-name = prometheus-1_58_1_0-80111-BGDL
+build-number = 80111
+build-branch = 1_58_1_0
+build-product = Prometheus
+build-uid = pro
+

@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 119e91d3eb37599b6955fa594168cad9
+install = 1861afb28e38a29869dede528ee5c23c cbc65ab084f78f8a51044f9fe806f248
+install-size = 41839 40831
+download = 0941ca3542e85200b0ec25f97aa2f470 663e14234bf40db64136baafc1b71c81
+download-size = 15909585 14607038
+size = 608084656b79a24edb5b25648cb54022 2400133920a9c90e10e97e787a09f580
+size-size = 9943543 9591374
+encoding = b3b593837301c2fc66bb76b0a396ce97 ad892159a458f5a9929e98b9dc65f8e6
+encoding-size = 42365893 42366027
+patch-index = ab48557be417ba10ee44c9921d73100a c06ea29d1a2d25a359890870c6c20ca8
+patch-index-size = 452423 296110
+patch = c2a54e38d2ba5c6219160b4affc32e62
+patch-size = 402867
+patch-config = 3aa9348644c3b07321dbcc3195333bb0
+build-product = Diablo3
+build-name = 90718_Win32_2_7_6_PTR_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3t
+build-creator = MCederquist
+build-comments = 2.7.6 PTR RC Patch Portal Fix/Achievement Fix/Monster Set
+build-branch = 2_7_6
+
