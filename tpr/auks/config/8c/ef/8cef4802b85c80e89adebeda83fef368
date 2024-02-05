@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = a72049b99d2cb0100d25d0aa2035864c
+download = 3d412b87f9ff71408e93f16d26dbaf52 6283dce57c91a447bd7aef82ebecd601
+download-size = 1214333 1049926
+size = a6413be67956955daef4934cce3dd97b 98cd85382a5436b7e4b957b153579684
+size-size = 785847 669668
+encoding = a58edec00fe9f2ebf86cf4579e8cf5f7 0375d56b007234ebb34526df3c638b2a
+encoding-size = 3788067 3197769
+patch-index = 3c793ffe52f687a4aa3875030d589987 61f25276f15ce17c068201d5ddb78363
+patch-index-size = 4558 3209
+patch-config = 59860681b896774411bba35bbe5a254f
+build-name = release_17186171_cod23_tus2_signed_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+
