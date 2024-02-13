@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 67037b59fe408a658ef0fffb269402c1
+build-version = 29
+build-num = 2488
+build-name = 67037b59fe408a658ef0fffb269402c1-2488
+build-branch = 2.28.0-beta
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dd073dcc22e7b75d9c24034a44f28a5f
+
