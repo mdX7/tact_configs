@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = c8a86512ac0579508e91d2d499239b51
+install = 43ab4589432ff372914b04cb2d144df3 8a9fb5bce67ffd4b88a73f409545142f
+install-size = 4050 4109
+download = c9105d5bb934c34c1b629b4dd3ebcf5a f41e56c57f38e7662f0b5ce0925b6ff3
+download-size = 911 1002
+size = bcc692ab657eaf842bbf6d986873ec94 c549f2db4060662dec8e605317bf3488
+size-size = 564 658
+encoding = 558720412726a4dab409d6ba0fbacbb7 c14b2098c82ed9e01aaeaeb142ad500b
+encoding-size = 8390 8562
+patch-index = 2ace10399eb55cba24b247018e536cb0 b4b29648b154900bac0e275a1778d5d0
+patch-index-size = 1267 1030
+patch = 6ca71588a21ab84180c99504f4431e0b
+patch-size = 1057
+patch-config = 908fa94920827996102ca4f949ac1faa
+build-num = 8589
+build-name = 8589-agent-2.33.0
+build-product = Agent
+build-uid = agent
+
