@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 12153652acbd75863e27b58404f5f68d
+install = 76e8f07d8dfe3e22215174a81f8e977e a67c30ccc4ccf802a2ba3210d1ce5bd5
+install-size = 4050 4108
+download = 6ae15578cf285aa3df1c6464a54a978b c3ea5424f29442a9508776429b7ebc77
+download-size = 911 1002
+size = 6417a80ca4d02d5ffc785a7ca3365bcb 0e4986ce5a5f4440125ced4ec0603e90
+size-size = 564 658
+encoding = 9c162366662daf10629bd64fcd5327d2 9c62bf2076bce05636b61eaac7d9f4a7
+encoding-size = 8390 8562
+patch-index = dab3dadc368becfbdc6883426d3ace73 76f5c58eb4b91e0ccbe89c888961462d
+patch-index-size = 1328 1089
+patch = 975e3ae5faa80c4bc74c7a67401571ab
+patch-size = 1121
+patch-config = c919d631a7176dd51f30b20c8cd93824
+build-num = 8594
+build-name = 8594-agent-2.33.1
+build-product = Agent
+build-uid = agent
+
