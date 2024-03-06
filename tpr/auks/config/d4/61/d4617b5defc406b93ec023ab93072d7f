@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 19a3ac834d194077fe063729b3ea782f
+install = d4b4e07a7b35e3ccc04229ea428fc888 27d12a3a7523e4253d1958209458cdef
+install-size = 109 164
+download = 0800b5b691561eed7b29ef45371c5bed 579e2f41f5de7114076dff3d7905a13b
+download-size = 99 180
+size = 0190892f9d442b98b380ce8547f47bf7 34ab535f4c51810465f6f97ad4e872eb
+size-size = 94 175
+encoding = a62824d0edd64802e3915d856dd66637 4828f6aeaebeb6585ca58c3a803b32c7
+encoding-size = 8393 8556
+patch-config = a60eab745a724c2ba562e3e04e04b977
+build-name = 17303349_08_02_ship_r
+build-product = randgridauks
+vfs-root = a670ee4fa880fa2f1c4fb94682013439 72719019175788531268b38afd018ddb
+vfs-root-size = 124 151
+vfs-1 = a670ee4fa880fa2f1c4fb94682013439 72719019175788531268b38afd018ddb
+vfs-1-size = 124 151
+
