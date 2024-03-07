@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 10e3d7c30382390f744b9736577908cc
+install = b9a8e665277fc55925ce004b856645d7 b305055cf4dfafe36eb3aee9609b94f8
+install-size = 4050 4109
+download = a618c4a4daa4af1e67a93bc0ac877aa5 84e541c2d2509185a178d0793ac85894
+download-size = 911 1002
+size = 63bbc2c2e90ace02b524a2dacb30a577 2cc2b76a0756ba704203264fa99e2d0a
+size-size = 564 658
+encoding = d6d63b4eb99870ddf71c41a3271b1ae5 5196402edd366af37d9e2639cfc8c690
+encoding-size = 8390 8562
+patch-index = 0235152df5ea797fa5a66600a6a2894c 718a77d1ea4bdaa5eec75fd330af5e01
+patch-index-size = 1389 1107
+patch = a04465e4c36771e5b675176d1143304f
+patch-size = 1163
+patch-config = 24734ebf377075b68750101b9017c6e0
+build-num = 8621
+build-name = 8621-agent-2.34.0
+build-product = Agent
+build-uid = agent
+
