@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4df401531df2f9446ea8253e9206d0b8
+install = d37400b2a7aab0d9260df6d2e2862293 6472458a1cb779ca4bfb6168b96f8baa
+install-size = 16866 15769
+download = 2b48423ba3bb40ae1755a3e3579a14aa d0e3a63f6151ea71f4ddf0ec1551fcc1
+download-size = 1234755 1067632
+size = f82c19152b4a3989d2f1040778cff094 b041115e652d631a856572e22f8af529
+size-size = 799060 680910
+encoding = 5322f3d922cafc1462208dac2bbd8b44 b92635716207cf13c57674c2f2308edb
+encoding-size = 3100296 3100461
+patch-index = 5103e4497f85d9a9afde4cdb50fef7e0 cdc121c1973fa94441c951aa060faec3
+patch-index-size = 6001 3929
+patch-config = 54a4c013600c4de4e617835d5342afc7
+build-name = release_17432081B_cod23_tus2_5_signed_r_ship
+build-product = auks
+vfs-root = 60bb63ed560e021cf2bc94d71205c6ea 319d14729a34efda7347f315c48dc834
+vfs-root-size = 3248082 2068352
+vfs-1 = 60bb63ed560e021cf2bc94d71205c6ea 319d14729a34efda7347f315c48dc834
+vfs-1-size = 3248082 2068352
+
