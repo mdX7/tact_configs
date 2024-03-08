@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 8eeca5d597710abe5ba3bbad931d0e7c
+install = 63915f747304f3add606c7e153b83acf 7f29ebb13063c4828223beab2ac7bd31
+install-size = 209263 205112
+download = 1c3fdda04da58b6304d5091c2f747d90 059581ccb853fce2c77d01323f293ba1
+download-size = 22487 20422
+size = ceba26a4c492ba58815ca8717d7ae4eb 1f1d490dc5ecc3f6354fc14a009a480d
+size-size = 14247 12273
+encoding = 8d6598d9e5e2f8b2514b752ea46dff62 e734c99405005f84f9592f2aa20664d4
+encoding-size = 62068 62245
+patch-index = a3dab8c53ad55e3bee4b38b178d3eba3 aa82c7a6d5f665adcebfaf7f167a4a3e
+patch-index-size = 12918 9124
+patch = d51a2afe45942c049353a79cc3a37dd9
+patch-size = 14433
+patch-config = 83c2604cffad8f4d3ba6229879661f5b
+build-num = 14691
+build-name = 14691_gce-beta-test
+build-branch = gce-beta-test
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 15
+build-num-retail = 14647
+
