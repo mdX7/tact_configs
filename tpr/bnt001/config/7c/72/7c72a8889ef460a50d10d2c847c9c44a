@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = e6a54447777613bd949bcb1facee6800
+install = c83298aac2c4db591a1ccd507db8db1b bdd6b9c079f51ce8e144d3afc6d37506
+install-size = 4050 4108
+download = 012286bb77a1352a4bf55cd2d17a67e1 a155590ac7a07f574edf2c60a2d23710
+download-size = 911 1002
+size = 3cc51a1cdf9d8aec4c24e31136d43db1 5372d3258a71760c78a2267fec094c5d
+size-size = 564 658
+encoding = 12ed877cfa01c15dd9438cedc1060015 1b9ef12fc925ea2ca237065c937dbcf1
+encoding-size = 8390 8562
+patch-index = 141e26ffe22b0401e194286a9ac18937 36eac8e85ec99b1649ffee485f8366ee
+patch-index-size = 1572 1240
+patch = 282af101c1862de66549c5dc421224ed
+patch-size = 1289
+patch-config = ff2a2495d6af36a4b797d3af3661047a
+build-num = 8656
+build-name = 8656-agent-2.34.4
+build-product = Agent
+build-uid = agent
+
