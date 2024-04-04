@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 4b377dea5ce79612ba0d4796cf58533d
+install = ad0ec1e37478796398f1ca9bf0907cbd 48147465a1aeebe6b214b2a583282395
+install-size = 345 414
+download = 2dfddfdc8695cd961850bdc0d5e3ecce 74907871ba850f96e99a3b4dcf162679
+download-size = 195 289
+size = f16478e8c9058f74487bcd16cbce3642 348b10fcb00a896df86006bb8f4fe085
+size-size = 136 230
+encoding = 488bf10a59e6170e5e4e14c3a0df4ee6 eee2479d442ebe95ceaaa457364fdbd2
+encoding-size = 8389 8559
+patch-index = 62d07025f7ecad88575e5de13f6e2465 4d53691b85ddbc397c4248a7746ec5c4
+patch-index-size = 657 560
+patch = e6608e73c681f5522d6c80364c3f88ce
+patch-size = 593
+patch-config = 23eeedeb3a16bad58e5cfcd3718db255
+build-num = 8663
+build-name = 8663-beta
+build-product = Agent
+build-uid = agent_beta
+
