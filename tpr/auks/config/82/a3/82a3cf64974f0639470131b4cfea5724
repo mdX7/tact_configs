@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0d602056fcaa3ed9d9247d0cce0c7e32
+install = 683f72d23090179c4977015524d49421 1c2db44f456cc3f27286eaabfa1ae950
+install-size = 16866 15769
+download = cf2d3d21991b5bd7b1dddf4e3759e6b9 ba45b0c91442f758d2bd78da339d99ff
+download-size = 1262047 1091318
+size = 1c45cc0f4c88650fb6bf83bf2a511f21 1850239177484ff12a4783777bbbc752
+size-size = 816722 696472
+encoding = 4a27d33fbaf5a8c20ead0daab4f0ebda bff66f1c298fa65265e9b953233ede96
+encoding-size = 3166344 3166511
+patch-index = f054302fd401ad6e0935090d58059ce5 94907cb51ccba33a70edc0040b8ddb88
+patch-index-size = 14194 9439
+patch-config = fb8e1d617974b02a53c43c43764bf80c
+build-name = etu_17827567_cod23_tus3_etu1_signed_r_ship
+build-product = auks
+vfs-root = 4ed2f784f479bdfd26500b5524f1a81f 6284eddf5306354647e872d72113917a
+vfs-root-size = 3320293 2115919
+vfs-1 = 4ed2f784f479bdfd26500b5524f1a81f 6284eddf5306354647e872d72113917a
+vfs-1-size = 3320293 2115919
+
