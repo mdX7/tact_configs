@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 0a01f9bc90c78b3affc7f9b20907764f
+install = 7324dde44608e4b05facd3c198116ce3 bd3765886638914ead26db69c68501ec
+install-size = 6333 5989
+download = 104534618e496f60945da5d94b318fe5 7ebb47daf3cc3d29902fd52e425968f1
+download-size = 1615434 1417185
+size = e071025aba9be74cd5df67ad0aedd1a6 5dbc022696c39c3d1fe457de9ef7155e
+size-size = 1036846 860118
+encoding = 35bb402dac37557aeeb8efb1df52923b 0c4a2bd6b39f3857b3beae163c63c86f
+encoding-size = 4111655 4111821
+patch-index = 83d9fdea040df514f823f28d5aa6fefb e53d9643e1c5d5fb306d66abf708a4a7
+patch-index-size = 3073 2107
+patch-config = fe0d15641d7d00c2dd2cc76a7cbb4a90
+build-name = live_17942981_TU_WZSUNSET_1_8_B_r_signed_ship
+build-product = odin
+build-uid = odin
+vfs-root = 698dc3d8b73676f2992709e45ef0518a 6b9f975c04e2f5e58c9114321e1f9437
+vfs-root-size = 4372946 2450635
+vfs-1 = 698dc3d8b73676f2992709e45ef0518a 6b9f975c04e2f5e58c9114321e1f9437
+vfs-1-size = 4372946 2450635
+
