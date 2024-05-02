@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 416f95771b6baded03b3610751f59936
+install = bf2acaf220bcb70dcbe8e3a292efa116 1c86c5a68e59ae1b7e603c85ea39b573
+install-size = 4050 4108
+download = dd1642835683994ee0788b9debf61b8a 23034d593ea77038ae7900a4c4d3ac86
+download-size = 911 1002
+size = 9bc4300ffb5929ae519b7eed5c5c63a9 a89803e8ceb383daf6c2ae3ca58197e4
+size-size = 564 658
+encoding = 1834e540922d0c360cb0198e40d55909 6d561ceb5e81f0fd05ef17cfa46f20d6
+encoding-size = 8390 8562
+patch-index = 335079a5d20f46112bbc75afca243d90 2f381f46f6a6cb31bb59b05f4da8a35b
+patch-index-size = 1572 1233
+patch = e923f7c046388a3a2f05cbaf6dbaa6fa
+patch-size = 1289
+patch-config = 8fb6533ebb4f179b01a94066bfbef10f
+build-num = 8697
+build-name = 8697-agent-2.34.7
+build-product = Agent
+build-uid = agent
+
