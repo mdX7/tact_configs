@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 500015b4c6515698ec823e6fc89c51e1
+build-version = 29
+build-num = 2533
+build-name = 500015b4c6515698ec823e6fc89c51e1-2533
+build-branch = 2.31.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = dba20f9894e786486b635f651584b651
+
