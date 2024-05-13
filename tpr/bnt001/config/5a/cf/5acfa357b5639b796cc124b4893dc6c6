@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = b02978b5970e29f154845d1c2010afbe
+install = a0ca22e8e441054f883c58663fcc7584 486222a30abffa6e2b595e0079936112
+install-size = 345 414
+download = 29b8608c972b9b41ec2df38e722d5cb1 5271ccc4e7e761376f8d132e34edfef7
+download-size = 195 289
+size = 687f3381d059b0ca26040713c7e59778 aa92bf665b4870c72eb7a0f1f8564183
+size-size = 136 230
+encoding = 7badfaa6ed67949bd3b7d710004d99f3 02a68ce46b8114cd684fab3f5993cfdd
+encoding-size = 8389 8559
+patch-index = 6ebf56d433a3aff123b9870c83f6b479 451c5c5ddc743065d359559428aaaf33
+patch-index-size = 657 560
+patch = 8c594357746f0609dacacd7f693bf070
+patch-size = 593
+patch-config = 6198f4f557d191b894efb7cb52f47998
+build-num = 8714
+build-name = 8714-beta
+build-product = Agent
+build-uid = agent_beta
+
