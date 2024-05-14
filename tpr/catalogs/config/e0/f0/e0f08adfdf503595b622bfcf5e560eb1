@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = cfc45be5c9ca96e10684cf3901bbb96c
+build-version = 29
+build-num = 2543
+build-name = cfc45be5c9ca96e10684cf3901bbb96c-2543
+build-branch = 2.31.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = d0a9157a81cc141581c45dfb08627aad
+
