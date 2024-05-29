@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0c4858b28b589cc62d726d0ac811d06c
+install = 43f9945647e1dcd7a1844ea5ee0bd031 2cd7a2e18084f17033cdb2a32f8d3e7d
+install-size = 4050 4108
+download = a27007e2ce6cd8d284a0f9f7bd94bd67 99e3da7fd38fb385a4beb1a32d15da72
+download-size = 911 1002
+size = 4998802ba14346363b63bac0d9bc4682 e144b7387cac5e944fb432a395fec7bc
+size-size = 564 658
+encoding = baf3e14afacf433961adc0c86775f4db 266d2acf766ad065db924361126b9f4a
+encoding-size = 8390 8562
+patch-index = 4985cf4527954461ab48446324ffa2b2 017b895a5e3ceff318ec402ce0f068f5
+patch-index-size = 1938 1577
+patch = 95fcd426705cbabe008975bcf105a330
+patch-size = 1673
+patch-config = 93fd1466b8ae86bce85a6c8764bc2014
+build-num = 8741
+build-name = 8741-agent-2.35.1
+build-product = Agent
+build-uid = agent
+
