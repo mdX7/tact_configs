@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 2fe92c92800b35fd97dba84ac5a19684
+install = 65f6f06d0c384f2ae20064a236e86622 912c3e4bdab5d489f65c6b153c6d6028
+install-size = 16866 15769
+download = 52824af88b60572d00f2e5db9e1b687a 4af1584461727fd271e4f976c9100ba3
+download-size = 1292647 1117668
+size = e1bae915591fca266884d630b006ae28 b2dfef6398edd0386dc0efea80d40457
+size-size = 836522 713683
+encoding = a754a7e981f424f5e18db77cd0f686ba ea1688a6babc04b8e9b8d4e510cc2795
+encoding-size = 3240648 3240815
+patch-index = eb57aa67a257936569b18e3c07bd5e7c 2d007b600bc806f0b1352723c3a7fc79
+patch-index-size = 11884 7528
+patch-config = d380a4e33176ac8abd6f402c69840dbc
+build-name = release_18328070_cod23_tus4_signed_esp_ship
+build-product = auksesp
+vfs-root = c1f38c5060c43c5c7b444fc5ea49465a 7b7b7d6b3ec0239ae3668eb6e286c740
+vfs-root-size = 3403148 2169264
+vfs-1 = c1f38c5060c43c5c7b444fc5ea49465a 7b7b7d6b3ec0239ae3668eb6e286c740
+vfs-1-size = 3403148 2169264
+
