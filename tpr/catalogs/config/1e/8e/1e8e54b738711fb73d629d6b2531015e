@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = dbd5d66da7d1226932b2187222db5963
+build-version = 30
+build-num = 2574
+build-name = dbd5d66da7d1226932b2187222db5963-2574
+build-branch = 2.33.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 74647000ba8a6a2af40204331c55fe8c
+
