@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 8307362e323d08b742dade69cd64ca1c
+install = 3f2b6293bb51ddcb99d5334a39fef433 3a9d744f946b506e183134f32b573306
+install-size = 4014 4072
+download = 7ce2cf525a21d739a42c5e608b812cc9 3579978612ea424998581161fe7e62f1
+download-size = 889 980
+size = 7253b752d15fb54f550694b388c63f34 0e64a8b5b7c33a618654293dea64c20c
+size-size = 551 644
+encoding = 27da337e668e2db1cd58ca2f231a1007 2232a290e1833d2b0377c589d5a8fee4
+encoding-size = 8390 8561
+patch-index = e7aa19986c6e249409ce6e5e1bda283d 410e4933d5fec1e26abe806bbd38d531
+patch-index-size = 1633 1370
+patch = 9671511a2ec3b7d86b42895ba42efdd9
+patch-size = 1441
+patch-config = de5293f12e036745eaf850b11d100211
+build-num = 8767
+build-name = 8767-develop
+build-product = Agent
+build-uid = agent
+
