@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 18185e5a8ca67edb1e33beb4e9d27f3a
+install = 40529e9e92a13cb3c8fe98d47f20f5ad 4633c7848481ad7a3665eca68fe51b71
+install-size = 4050 4108
+download = f7faf3c495c6df003e13d25e836f86bc a98b85fb7f46c80406286a58c2850c49
+download-size = 911 1002
+size = f14899a5523f78551840ddd786c5a2cb 025f1441475e99a0b5379a4bb6f64843
+size-size = 564 658
+encoding = 69b7cdb1d1c78d8a547ea0937c4b34c6 11b76e9221111c33e06cb7b669112ee6
+encoding-size = 8390 8562
+patch-index = 6717add0bfe2bc0e009e47ef752bc759 96892104aef8b5daf2a4a7a66334dce2
+patch-index-size = 1877 1539
+patch = e570fab10dceda9bb94d73f86b4a75e9
+patch-size = 1631
+patch-config = 2f393837044170d9abd86e9102831914
+build-num = 8784
+build-name = 8784-agent-2.35.3
+build-product = Agent
+build-uid = agent
+
