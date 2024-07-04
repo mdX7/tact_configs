@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = cc3505ea4a483412d19e87ca37f0af7b
+install = a1b6b7d8aa4ee36b9c3c9ed0a85ba68f 1ddfbe7b3c8d2fb322fb127fbe1bc78a
+install-size = 14421 13462
+download = 8cd6d9cf18df26aa1c3e5063d95a3dc7 75609207bde8e3b1b8c6dcc1b7594a7a
+download-size = 1320413 1141650
+size = a372afcf88e4f040c876651152a9c100 4012044bad92fc63897750650d2cf84c
+size-size = 854487 728388
+encoding = c9fb29dbbf7fe37e6f4595d363f79490 e081664a3fcbe3c4499e23ba7da05ae7
+encoding-size = 3310825 3310991
+patch-index = c0338d9819ca1ea9db5f3ba75f3e2e79 553161992e89150d55a0b0683348ce9d
+patch-index-size = 14980 9659
+patch-config = 62efc2d435902ef23678539557409f47
+build-name = release_18628491_cod23_tus4_5_bnet_signed_esp_ship
+build-product = auksesp
+vfs-root = 01e06addddf3900851c4c5c40e89173b 5d96a87f71f582ffba0cda1879ed3479
+vfs-root-size = 3470599 2211918
+vfs-1 = 01e06addddf3900851c4c5c40e89173b 5d96a87f71f582ffba0cda1879ed3479
+vfs-1-size = 3470599 2211918
+
