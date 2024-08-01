@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a15ed24dc921059644d6e3f94f23d5b9
+install = cac1f4254b2d753c442ff3b6815ecc7b 11806add84b8ac674e06a8245974dadf
+install-size = 4050 4108
+download = c1fe8e8738e8715d8143221d29ab49b7 eb278e902db4866ae84c59d46467ee6b
+download-size = 911 1002
+size = f58e36779bb2c96eaf67abd353f45459 fb2a5503b9399932163bafe0813dfed3
+size-size = 564 658
+encoding = 2e5844bb61ab95bd9844b52d997ebf2a e6c5062620bc47f6018bc11722607fc0
+encoding-size = 8390 8562
+patch-index = 185176e37bb65d973233b3dfa89ba584 2525dd7f2c776dcf7290f69dfbfddb99
+patch-index-size = 1877 1536
+patch = 60366ca3191bef65500034673fdacaae
+patch-size = 1631
+patch-config = 0111187fb6d4a53283c8136ea69bfa64
+build-num = 8806
+build-name = 8806-agent-2.35.4
+build-product = Agent
+build-uid = agent
+
