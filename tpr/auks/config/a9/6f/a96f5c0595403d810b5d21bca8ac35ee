@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 85e15478e1718a1281aa112ee1e5af9e
+install = 5408a9374e534e24d92560def1752468 992c8c2012241d25a11eb565db0db1aa
+install-size = 18862 17420
+download = 4b0c242c6dc82ab87dad705b97803e84 336b47ce2d8d51f7321572ac5a927c2a
+download-size = 1322589 1116424
+size = a46e2fcf62a71cc511bd38d153300d87 a189b88deff33f4e6022315ed0728001
+size-size = 867076 713648
+encoding = 1f44736f7129f9a8575ad2a7233f9c09 ef76a39b3a583c586eb4b0ed50650d3c
+encoding-size = 3240648 3240814
+patch-index = ff4ef7ce4d5a22d33c0d54892d357714 6af5badf3ab69b06072ae0f7383971c4
+patch-index-size = 2364528 1304661
+patch-config = 00fb521c0e1cc4f7a13b572d2eb55ea9
+build-name = release_19373551_cod23_tus5_5_bnet_signed_v2_cod22PathAdd_ship_rel
+build-product = auks
+build-type = Release
+vfs-root = a80fa4a29e20fbedd94b49105baa712e ecaf573ca17974c92dabb8aecea9dff3
+vfs-root-size = 3411926 2172377
+vfs-1 = a80fa4a29e20fbedd94b49105baa712e ecaf573ca17974c92dabb8aecea9dff3
+vfs-1-size = 3411926 2172377
+
