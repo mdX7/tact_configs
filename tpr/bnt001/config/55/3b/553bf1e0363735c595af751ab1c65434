@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = b2b8923c506a6a57aa53982a6e1ea20f
+install = b3f5619471cd7015f8fa538c01e483c1 8cc23100467e9f58fb1cd726004ed278
+install-size = 333 402
+download = 6b55abfb526c50482fbbee21e0e9e6c9 73a828135d2764637e449e5c85a7e7f6
+download-size = 161 255
+size = b142891eb6f70aea731a099ae34470cf 57a05b1fedd4ca2a181b0d6bdef0f4e5
+size-size = 111 205
+encoding = caed4b3a30ff06c860e0d956297272cb 3df4bb83ac1e12808aa0679e02d79f59
+encoding-size = 8387 8556
+patch-index = 81b77e22d276a0b062946f7a6f1f7107 563ff03fb4b313d997c58babde00349f
+patch-index-size = 657 561
+patch = 7e486945eb3f842a83162b0400182e72
+patch-size = 593
+patch-config = 114435ae39a8d9bb9f30cb2f83877f86
+build-num = 8844
+build-name = 8844-agent-beta
+build-product = Agent
+build-uid = agent_beta
+
