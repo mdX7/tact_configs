@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 71b51553642408fcdf3df77f96c1b6b4
+install = a306b1298d9a32918d9e51e80c08fb60 5436c2723126b17b6e11bd5a5e943b56
+install-size = 177 169
+download = 9284ebcb6d33f5eef4fdd7ddce0bf97c 4f3f2f8180d395ab930b185a2fe1a5c5
+download-size = 23488679 20799231
+size = 5504d65adfb1f072d3b9e95cc79aa3ff 253889637f6d816bfc126ac8c7820d0a
+size-size = 14990334 13679487
+encoding = 9f62116672611f1360b1683eed004c5c 0a707a0a3f1472b5c62596d2b8312d11
+encoding-size = 60464363 60373119
+patch-index = 38fc33b3cbe824a2061ceb10f95e5eca 46ce49480bb2c6a830436c25c063f5a7
+patch-index-size = 1407317 1141670
+patch = 06a97662eb40c450fe36d0d1699c4edc
+patch-size = 1524565
+patch-config = 5d51735f5fad71bd46013ce1b07f5978
+build-name = prometheus-2_12_1_0-129701-BGDL
+build-number = 129701
+build-branch = 2_12_1_0
+build-product = Prometheus
+build-uid = pro
+
