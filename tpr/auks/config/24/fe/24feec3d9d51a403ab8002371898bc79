@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 163f00ad8e2948bb6d78411d954cd4c9
+install = f0b8b476322d1b01cf7cd2796cc51abb 5259a159d091a2c6e5e2d9bce1849231
+install-size = 484 383
+download = f460630495fe9a4f8c0b62dba3d93976 4bce43ee277b5cb3c22c9b493b75e8e6
+download-size = 1413317 1193027
+size = 9e3dd537a30e3efe3b5906a2f9bfa591 e0d6416e36dceb2ec6ec8710303f169a
+size-size = 926547 765784
+encoding = 9cff216a7b8afd794acd34541f409005 dca1cca1a82ccf9598b53dc736c9ce71
+encoding-size = 4417384 3653807
+patch-index = cb2676825691d8417fd149d010da5459 8bfd1d7302965f49501f12df38bfc17d
+patch-index-size = 4164 2911
+patch-config = 14fafd4a00bc52d197e65f73297c9b77
+build-name = release_19750334_cod23_tus6_bnet_repack_sp22_r1_signed_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+
