@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 163f00ad8e2948bb6d78411d954cd4c9
+install = 62710e2170850586cad9742c12434ed7 ec72e9dbfa6165fcf44c734a8f6c83f7
+install-size = 14407 13262
+download = d35f49055dd332d2740691771fe5277f 3f633070017b0e87f3c8ad6bcf582c62
+download-size = 1417431 1196558
+size = ffa6f7087b986e6b894e6c1e850017a1 231d137211de211ac79789be107e5814
+size-size = 929248 767574
+encoding = 483bee77f309a44c00bbbb59e3b85fc0 376f0df378f508b2379f53d4fd5d24c2
+encoding-size = 3467689 3467856
+patch-index = 39002f9f6a1e745b8b19653dfe9bf740 3cb4441ec720bd5e58905a8437bda825
+patch-index-size = 1710595 944325
+patch-config = c3457049c0bbef0efa5a6dc1688f6cba
+build-name = release_19750334_cod23_tus6_bnet_repack_sp22_r1_signed_r_ship_rel
+build-product = auks
+build-type = Release
+vfs-root = f809b71813ff5fea2a268d73960f1cd2 6a5521feca5506dd4773e9b37851da06
+vfs-root-size = 3636405 2317654
+vfs-1 = f809b71813ff5fea2a268d73960f1cd2 6a5521feca5506dd4773e9b37851da06
+vfs-1-size = 3636405 2317654
+
