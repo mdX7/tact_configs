@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 500ca89f3b366e56e9d0b8953d92c086
+install = 942ee94636aad46a18310a93e55152b2 8d00538c0cec2cde9b914542afef49c2
+install-size = 4050 4108
+download = b69fd8ccee19448e89547c13e8703395 81ed95743aadb094fd711fb23524020a
+download-size = 911 1002
+size = 3265d4c1d5bad40d078946e90d9e1ff0 a3414ef5d6aee20510434b4fa54b9db7
+size-size = 564 658
+encoding = 74ed83816b48ecb02d35e975bec68d4d 4b54a15c6dbd0a99600cdb1446737d58
+encoding-size = 8390 8562
+patch-index = 955c7dccb4d30746fcac1b89541369a0 57ae425476487422a1b4eb4dd7a15c72
+patch-index-size = 1511 1199
+patch = 6ce95e1471603d0a8b9202d70b2d8f8e
+patch-size = 1247
+patch-config = 6ce54da6707ca3911ca6197f00806c24
+build-num = 8868
+build-name = 8868-agent-2.35.5
+build-product = Agent
+build-uid = agent
+
