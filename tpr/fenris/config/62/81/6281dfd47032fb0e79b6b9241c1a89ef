@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+install = 0473160849bb50574caeb96a48745fa2 8393a50ca8cb26a19d09877ed2b1a36c
+install-size = 5531 5097
+download = d60dbc4a5b8bfa2c22646f7bc2c977aa 304a5648269a7a7e70c6e8f05f0206b8
+download-size = 45082950 38514429
+size = 65bad06e4e123bfeb83a95d5f2f43dad 02ef1daef7e619a002db7355c7b6b41f
+size-size = 29477404 24333817
+encoding = 925b5ae3100e2033989f943ccfaf5487 04dbf2076423f701068b0e12bbc1d801
+encoding-size = 176937697 123222713
+patch-index = 1293b14d07877c9639fd02edd9482b52 a72afb8d30cb4591b29b49b42ddc4076
+patch-index-size = 42469773 21660785
+patch-config = 54589996abc47b3296b12c143e99bd6d
+build-product = Fenris
+build-name = 58145_Win64Client_2_0_1
+build-playbuild-installer = ngdptool_casc2
+build-uid = fenris
+build-timestamp = 09-19-2024 12:50
+build-creator = rclaudy
+build-comments = [19998406-19998404]2_0_1 - X1 Day One Patch/Season 6 - RC7
+build-branch = 2_0_1
+build-type = BGDL
+
