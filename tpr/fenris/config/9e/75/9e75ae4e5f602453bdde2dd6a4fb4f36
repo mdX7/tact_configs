@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+install = a62e90ec90afb73123129cafc929606b dca6db9c4a5e63a2cfc69a83d669787a
+install-size = 5531 5097
+download = 706f49e69d0d6a72e30394805110d1a8 4d93715784b002f8784ae67edc743442
+download-size = 45108742 38549485
+size = bb277b05dffc4381d8da74c225eb93ac 3d33534d8df73b0fde5b10b7bef56742
+size-size = 29494268 24347549
+encoding = 5c4aabe2260ec355c71a006c1ea3d4ce 81f2b6d31920d3c5e58f00562184c0df
+encoding-size = 177063043 123294960
+patch-index = b7a9595118bf0a8d363bcb4c7f12a6bc f5b90a6c8bcee4835c25f5a3dc9c3180
+patch-index-size = 42389469 21621573
+patch-config = bd83ca49785911df811baec824207da2
+build-product = Fenris
+build-name = 58474_Win64Client_2_0_2
+build-playbuild-installer = ngdptool_casc2
+build-uid = fenris
+build-timestamp = 10-02-2024 13:08
+build-creator = neldridge
+build-comments = [20061854-20061849]2_0_2 - Season 6 Maintenance Patch 1 - RC4 rekick #1
+build-branch = 2_0_2
+build-type = BGDL
+
