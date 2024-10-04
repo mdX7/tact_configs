@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 0a0aa1be675c1862bb0fea8eebd85bca
+build-version = 30
+build-num = 2623
+build-name = 0a0aa1be675c1862bb0fea8eebd85bca-2623
+build-branch = 2.36.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 0df809ef5d67b2ab9e2cc41f1cb73c8d
+
