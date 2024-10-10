@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 275a70d72dc8ed371a1c100bc334059c
+install = 33dd53cf58d3d608c84f0a2369b8e637 318c1e74797acf1c25b36a28802839c6
+install-size = 333 402
+download = 4ff2b88ef814bacbe4747efa9d405be9 7eca8078726958a5d42ba3663d6b512b
+download-size = 161 255
+size = f06fd5a755a07f4bcee6fa8c8496ff58 0e46bc45f55fdc3fbbacba3a8204caa6
+size-size = 111 205
+encoding = 3ce34419965fd81e173b005cf8f41a67 d044ec61ed1613af6253090c7e110217
+encoding-size = 8387 8556
+patch-index = c0359224157fef32fc7fd2470b27fb6f e1f5b499c7b22714b736f3dd3ed4099d
+patch-index-size = 657 558
+patch = 75a8ac9d0410f16ad4c2ecd5c5077621
+patch-size = 593
+patch-config = 6f18b737faa69ef67581c4a4b23704d7
+build-num = 8883
+build-name = 8883-beta
+build-product = Agent
+build-uid = agent_beta
+
