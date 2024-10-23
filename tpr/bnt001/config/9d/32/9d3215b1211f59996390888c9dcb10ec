@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 76bb74a5cc05edb74782d05c7944f066
+install = c87a5d0cbe6b08e5429a6fa3654da0df 69c808eb1da57b695d4a0827f9deae02
+install-size = 4050 4108
+download = 47d5554a554ca2c14abf35e0e60bdd24 4b5a76e42159093bd46435b7c868bcfe
+download-size = 911 1002
+size = beea9a6cfc7cc95711f3ab5d3913ca8f 93a4434e89fd121e90b97b95340e5f38
+size-size = 564 658
+encoding = 6793140d1558d0633b28a03edf0c9f21 cefc92c4cb66357360e0ed00c7de0955
+encoding-size = 8390 8562
+patch-index = d26332b917f58f98f407dd60924a5ec8 1757b0ded2da794c572f49d581986652
+patch-index-size = 1511 1204
+patch = 5466ce3491a77b9c2eab9fd28b77095e
+patch-size = 1247
+patch-config = 9e31c2ac4a8b591c32a1af95247235e2
+build-num = 8901
+build-name = 8901-swhiting-crashfix
+build-product = Agent
+build-uid = agent
+
