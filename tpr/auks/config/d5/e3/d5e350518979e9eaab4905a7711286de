@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 36ca0fbb40ee0e4f5f83f4d8134bc64c
+install = fdd8c940fe9405f2aa01fb91fa0f4e1a 3efeeea55c66c7a362655f6d00f037ca
+install-size = 23395 21553
+download = e72b76f06630c976507b9d47f9243034 b3aaf31d035f3f7c3c1581cfdf738da4
+download-size = 1559551 1316971
+size = 466a24221e3d498a6f77052d9c1e29e5 204c8ec0e8f72769feef02afb0abe54b
+size-size = 1022408 847164
+encoding = 021269d25964838401ccd8a8651a6059 f09a5ba97a98ba7f61bed095e47a7cff
+encoding-size = 3818580 3818739
+patch-index = 4406f84dceef1593708940edb400d61a 06190a2a5501778187ab838465df08f9
+patch-index-size = 8699 5721
+patch-config = b90f83f1b318b98be7fe31107e8ba6d1
+build-name = cert_20309444B_cod24_tu2_signed_r_ship_corsair
+build-product = auks
+vfs-root = c517bdd172add2c02adff189dd888271 87edde97e03c8b92827ca1208d4aee73
+vfs-root-size = 4005251 2554236
+vfs-1 = c517bdd172add2c02adff189dd888271 87edde97e03c8b92827ca1208d4aee73
+vfs-1-size = 4005251 2554236
+
