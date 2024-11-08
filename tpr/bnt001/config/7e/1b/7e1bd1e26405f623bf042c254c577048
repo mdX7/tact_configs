@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = d11bde443382d67b982f2230771896da
+install = 7dbbd9b97d041dca56e1048f91d0d7ce a0f91a9665ea16b3b594061f5f95332f
+install-size = 4050 4108
+download = dc59e0042fe74acba008d72972b60445 4a3668bda8c98bebd6c9c762ac92e74e
+download-size = 911 1002
+size = f811c3e7a6d97deeb48f276e4dfeda97 a19daec2352cb26fffb5e8e92fdd8e27
+size-size = 564 658
+encoding = 366b14d51c554f9eea0e929cfe224782 e7280238594ff5491983813953278b4f
+encoding-size = 8390 8562
+patch-index = d4ae803d93eba275c23a3d91ca93c7dc 726eb54b23e1ed8037c70f13ec6319ec
+patch-index-size = 1511 1212
+patch = 4566437616aee624266dc0869a49edd5
+patch-size = 1247
+patch-config = bcca869428fb372aa1f26fbe62365673
+build-num = 8916
+build-name = 8916-agent-2.36.3
+build-product = Agent
+build-uid = agent
+
