@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 09e432833c3d5ec205096ab481cb7d15
+install = b2e17ad8f27ddbe7e5763e3f2aed456d ea51c14ce3597eb3b9bfa72bcc8b001f
+install-size = 40908 39548
+download = 513a007039100f38154d80fa602c2331 8bf473f670b542c962f1c419f821a998
+download-size = 17886 16576
+size = c9a28dec78a5e9c921ff5451584461f2 e2bbde8a171576e65ff74b1d0817265b
+size-size = 11194 9884
+encoding = 0e195c4f75753a4e7397fc5c6bff763c ea34a89131f3146b01c4a6c391c994d0
+encoding-size = 49689 49855
+build-name = 1.0.0.2129-retail
+build-uid = w1r
+build-product = War1
+build-comments = RC8 - RETAIL
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 9bfd5bb8765bc15f02446bf34e6b41698ee0e9ab
+build-source-branch = master
+vfs-root = d53bcd38a43c5cc4ee2d8e565f25fa6d e3109a32a2664f0a87c6bfb0aebf3c0a
+vfs-root-size = 34455 20321
+vfs-1 = d53bcd38a43c5cc4ee2d8e565f25fa6d e3109a32a2664f0a87c6bfb0aebf3c0a
+vfs-1-size = 34455 20321
+
