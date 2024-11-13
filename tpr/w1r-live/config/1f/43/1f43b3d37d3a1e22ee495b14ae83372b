@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = 77ca3fae7082379ecfd7aed4dfb5cfc0
+install = 7d2c99063bb810f58c2a891bebc79667 1c648b5a0bb97b71364feface18eb1b6
+install-size = 40908 39548
+download = 320e17c8d3a7cefbceb5cbcdaa223a53 4bf358ac08e8fd1641018be369d74952
+download-size = 17886 16576
+size = a67aef5f0573b4904f1659fe53dd2d15 c07e4171168c9483c82371baab48612c
+size-size = 11194 9884
+encoding = c87ea45ebb5235241eeaf926c5be4658 5359176c87bf241b4ff0d7f699ac6fc1
+encoding-size = 49689 49855
+patch-index = 2cdf09cba7bf057b45847cae646a3a4b d050e4d402dd95b951e3468ece6b54ec
+patch-index-size = 230 253
+patch = 86becf399df1999b3c54a3dac873a1ec
+patch-size = 325
+patch-config = 37583e13a18ca8a42049f561960cd58e
+build-name = 1.0.0.2130-retail
+build-uid = w1r
+build-product = War1
+build-comments = RC9 - POINT TO PROD
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = d7e9f103f2764605b5c2d331160e51e459611074
+build-source-branch = master
+vfs-root = ec76c70b82e8b272bbb0888aa8756d9b 2a94991bf1bfe1887ffcc282d19ddc28
+vfs-root-size = 47184 33390
+vfs-1 = ec76c70b82e8b272bbb0888aa8756d9b 2a94991bf1bfe1887ffcc282d19ddc28
+vfs-1-size = 47184 33390
+
