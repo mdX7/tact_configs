@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = ebcdc3471d58bfe8765eb69a8d76d23a
+install = 6106b0a25a96bb1130ee31c7722e8dc5 07008a976ae313afbe4875a25f992048
+install-size = 107474 103998
+download = e4502d0dc9055334c3c353632fac4caf 8efc06206dc56beb6728267fa88331e5
+download-size = 42797 39526
+size = 2f8fbe6ccda0a1b53ded4aed52cc1d61 d7a808531b1beb595457a2b058d978f3
+size-size = 26718 23447
+encoding = 6fb2a0f63674658ffd13b6192e88f3b4 a868dc4b8486ce57017c62d2639718ba
+encoding-size = 115738 115905
+build-name = 1.0.0.2150-retail
+build-uid = w2r
+build-product = War2
+build-comments = RC 4 - RETAIL FINAL
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 06930bd00ca40f1aec0caf2cc9639f676d355764
+build-source-branch = master
+vfs-root = c73cf03f56e25cdea2c4cd04773b1f26 89955d52a174ba9ae944fc1179847888
+vfs-root-size = 86916 51453
+vfs-1 = c73cf03f56e25cdea2c4cd04773b1f26 89955d52a174ba9ae944fc1179847888
+vfs-1-size = 86916 51453
+
