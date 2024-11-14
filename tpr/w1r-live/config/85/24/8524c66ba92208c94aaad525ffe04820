@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = 1c42bf1cbb7883b12a10a6fa1d8744eb
+install = a4516980e3c1d31bc7f536555135b400 4e418bb83782d015bc68f5ddc19fad1e
+install-size = 40908 39548
+download = 5dc8a2ea800266f4d82e896fd77f7c59 5f3e21be0d1974ff167e35c851ea3292
+download-size = 17886 16576
+size = aa6dacd7983fb43b7c62f4e55d138cfb 1242f0fe0c57caf2e6f0f8626365c747
+size-size = 11194 9884
+encoding = fca2a636013ae6a32bc247297521a6ac f189a4372f284426b6fa2fad4eb43662
+encoding-size = 49689 49855
+patch-index = 54be7e29d3874528f7e298a787be0ea6 d42930d01cc70529c493664e8cbb6d63
+patch-index-size = 718 631
+patch = f7cd357d4f7ace20f51b33ec75d866ad
+patch-size = 705
+patch-config = 458b0241813003d2c9251ae00f4d351a
+build-name = 1.0.0.2137-retail
+build-uid = w1r
+build-product = War1
+build-comments = RC HOTFIX - NOV 14th RETAIL
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = acf4a6d2be50759ac969ab9b339892b9a3a0e4b1
+build-source-branch = master
+vfs-root = b86137ec524909194dd08464b40c0af1 9def24b21b616fca302f5376bb11b022
+vfs-root-size = 47400 33588
+vfs-1 = b86137ec524909194dd08464b40c0af1 9def24b21b616fca302f5376bb11b022
+vfs-1-size = 47400 33588
+
