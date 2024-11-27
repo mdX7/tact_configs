@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 6aeb897134dfb1121b07e94ae6f9d010
+install = 6a92c8ac6ebc2885d7cf020ddb45b13e 46d5dee0695319d0f823063571041e19
+install-size = 23468 21623
+download = baf35470f29c8e540b88bf8d8892722a 63e1771e713becd9bf2938d008bcbf9d
+download-size = 1856936 1567447
+size = 18efaf120fe9b8faecfaf580867ea419 46969d29734cebad9da7830859951d82
+size-size = 1217346 1005357
+encoding = 17ea79e8536bc05267db06ca8692722c 114de25a368b93f63d3e592b78a0e9b2
+encoding-size = 4549236 4549395
+patch-index = c8a9663bfb6415fdd7cb82dd723ff6e0 2c44d45d86701ea84e4a6c608afba498
+patch-index-size = 5991 3790
+patch-config = 7e335cf7cc96cb228f9e181723fb7c61
+build-name = etu_20668463_cod24_tu6_signed_esp_ship
+build-product = auksesp
+vfs-root = db7223f3b452c2b9ce06fe14c38a1606 02f6a5315742f3546dde3db7106dab54
+vfs-root-size = 4811999 3065576
+vfs-1 = db7223f3b452c2b9ce06fe14c38a1606 02f6a5315742f3546dde3db7106dab54
+vfs-1-size = 4811999 3065576
+
