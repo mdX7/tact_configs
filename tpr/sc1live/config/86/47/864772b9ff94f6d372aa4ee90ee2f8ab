@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = b96213f265684e16db5a8552eba1be09
+install = 507094afe0cfb221bcd106f26e288cfa 311e6a69ea379077313e68b06d9126ed
+install-size = 105144 100737
+download = 45886a5df9c96d8d5ab6b46a93f60680 f04fd2ace1b4b204eb0b9baf05678e80
+download-size = 1093564 948966
+size = 996dba1b304873d353413d015ec54272 958428bb9ce4416ccfafde3b961a830f
+size-size = 705785 616121
+encoding = 6f0a25d319069d1b09bc4034820e5ae0 b135dde729b026904eeb4b7e76332750
+encoding-size = 2757673 2757842
+patch-index = df4c0ae0d32fe2a538936d2956b8ac09 55b3cbccbdf39e72afb934250933f6d7
+patch-index-size = 5598 4805
+patch = 155d14754816b49d2a6914f37122a718
+patch-size = 9261
+patch-config = 44c6c6219e2d1e94b9e2b815eddd0579
+build-name = 1.23.10.13515-retail
+build-uid = s1
+build-product = StarCraft1
+build-comments = prod build for new 2025 wildcard cert
+build-playbuild-installer = ngdptool_casc2
+
