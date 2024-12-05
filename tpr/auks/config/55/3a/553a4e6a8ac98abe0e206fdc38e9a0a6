@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = e3f021394a4ee3d89bb0459f15e03f19
+install = 5366fde1e4a5db83442509d3af1b2ecb 37b3c63e9d7d477c6b20dd20c50c4bf3
+install-size = 23468 21623
+download = bb189b66c15cf51c443a22f5e038afb3 423835e0ce204b2892255d7662634b9c
+download-size = 1877462 1584787
+size = a77fcb29525c32074179ef3d28ae64e8 91952428522b7907aaed255240b32670
+size-size = 1230798 1017443
+encoding = 31aaee706161d61671ee60fb0aabb630 d6db1b0d71a8518f6038c989e6b16590
+encoding-size = 4594644 4594801
+patch-index = 2a493b2b276d661de0c4c2eaaaaf8f2e 6c2ab84cf719b701d898975195a911cc
+patch-index-size = 1549012 853172
+patch-config = cc3aceb854b1be5797b2f1327c9ff755
+build-name = cert_20763907_cod24_tu7___signed_r_ship_rel
+build-product = auks
+build-type = Release
+vfs-root = b24adc7bc5da6dfe4cc3a90a0c1988d1 6717c9651865db3415bb20334d4c1524
+vfs-root-size = 4866493 3101655
+vfs-1 = b24adc7bc5da6dfe4cc3a90a0c1988d1 6717c9651865db3415bb20334d4c1524
+vfs-1-size = 4866493 3101655
+
