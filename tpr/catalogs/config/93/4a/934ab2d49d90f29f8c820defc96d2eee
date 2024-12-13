@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = a3ff7d86748957e7e623b7e6fe619067
+build-version = 30
+build-num = 2685
+build-name = a3ff7d86748957e7e623b7e6fe619067-2685
+build-branch = 2.38.0-PHX-22635
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = d45143eaa37fd068be4d6a76f9d0d90a
+
