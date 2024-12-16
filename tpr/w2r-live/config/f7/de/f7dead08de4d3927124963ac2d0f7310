@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = 5f4699828823378abbd2d653f77260d3
+install = f5f61796549f72c2575f438f4b0652eb 23f4a8bd9f9c2a52749a6ea400f7ee9e
+install-size = 107474 103998
+download = 9370e69b236e102e3956d99a7d3c8642 4ba767424856ab690dc9f0aad36147a8
+download-size = 42797 39526
+size = a80c7e6d86b4946f1870b40c809ba60a e81911adc35e8d0377a659fa356266c7
+size-size = 26718 23447
+encoding = 79e630c63f38d52228e89fb86f931811 38199b88f9dd73f5210381fafa151967
+encoding-size = 115738 115905
+patch-index = 3c874f070a099eb215b21a1ac21d4882 3d26d23dd7cb398bfa6df650ae2d11f1
+patch-index-size = 6818 5750
+patch = 0f45151174ec7370317150c9f3ef2b77
+patch-size = 10497
+patch-config = 419132dda1cd902e939582da6b4ad4e5
+build-name = 1.0.1.2242-retail
+build-uid = w2r
+build-product = War2
+build-comments = RC - Lobby Fixes
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 24f4889e83a7ddfa4f71807e6766661c33246fae
+build-source-branch = master
+vfs-root = ff18f3da1e1874473f03c0f056fc4869 f3d95b30a8edddcbd850ad9711fa6206
+vfs-root-size = 122181 85773
+vfs-1 = ff18f3da1e1874473f03c0f056fc4869 f3d95b30a8edddcbd850ad9711fa6206
+vfs-1-size = 122181 85773
+
