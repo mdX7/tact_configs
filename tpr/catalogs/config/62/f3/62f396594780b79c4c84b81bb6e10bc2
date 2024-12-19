@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 62dca65cca760b64ecc0ab77a82b0620
+build-version = 30
+build-num = 2690
+build-name = 62dca65cca760b64ecc0ab77a82b0620-2690
+build-branch = 2.38.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 97db49505e899efefab7a53ba6c6bcfb
+
