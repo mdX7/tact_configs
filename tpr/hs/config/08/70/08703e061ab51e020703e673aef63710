@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 49ad977961ed7f78c98deb8a0278bb8c
+install = 85b179ec3f75faeba66d77588be170d7 b4968247cdd14e5d276f91e7ba8fb81a
+install-size = 796460 704641
+download = 2d46c510813fe3831f69854f92e5f41e 83e52583b5b66aaac6fa86845eade55f
+download-size = 297505 206658
+size = 103345da7332a87ff08f70a0f2f801c4 a252042499c6b385f89ee94c8dfb6512
+size-size = 213701 138203
+encoding = 66514ffd06120c1b4faf6fed3d4a4107 984d4df46531dfc1a7ce3b2df840e08d
+encoding-size = 602861 603024
+patch-index = 48bde24ebefef3be7b8e73caedbb9829 7d444c432a69642738e052052e572f91
+patch-index-size = 33048 29858
+patch = 0fe1bee4b7368a7c3319d200da7b5f9c
+patch-size = 36807
+patch-config = 3ba35711d5b8a636bfc9e7160877a9e7
+build-name = 214002_31.2.2
+build-product = Hearthstone
+build-uid = hsb
+build-token = 6d8e22cf-96cb-a5d7-ca6b-4b447cca2e31
+
