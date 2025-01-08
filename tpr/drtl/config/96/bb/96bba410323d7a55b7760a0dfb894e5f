@@ -1,0 +1,10 @@
+# CDN Configuration
+
+archives = 04d826b34fdfc5214f0153b71af8ae2d
+archives-index-size = 4148
+archive-group = a96113b3ba10c5175bc6aef62755574f
+file-index = de89130b327c7f6b545f9c771fa9c1e0
+file-index-size = 4148
+patch-file-index = 08dedbbad7703c7b82eb8f96c0bfb968
+patch-file-index-size = 4148
+
