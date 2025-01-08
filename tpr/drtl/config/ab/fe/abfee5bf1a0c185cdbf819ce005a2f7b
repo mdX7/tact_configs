@@ -1,0 +1,15 @@
+# Build Configuration
+
+root = 76ee8f3222887e4e37c75911d6c73d43
+install = df67335fe9e196833bc1dd13de23974f a023a01aefde6a93cd229f1fe8453090
+install-size = 8816 8866
+download = cef99679c3b4b940f1a4d295f4604b3d f41f3a8a59afd25962ff55cc951262db
+download-size = 3980 4055
+size = 2114a1b19793ebc3ccd680f73058f95b 4e64f4d9cc24a2faa08c187ceb35c5b1
+size-size = 2373 2448
+encoding = 93d68324e3c9793c80e3d9c736509c3d b60b6a93decf74f55572de751da30962
+encoding-size = 16643 16812
+patch-config = fbd30ea0fff39c0f37418b74d14a9a12
+build-name = diablo1_hellfire_1.0.1
+build-product = drtl2
+
