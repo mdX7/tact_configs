@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 606d77eb7b9daf2464f7897e37a82e54
+install = b5b3cadcac3ba05376b9d28fa8a1c4b2 ddfa5e28f81375db04fe0b9e27f12203
+install-size = 210602 206414
+download = 5d639582d513e7a4d847e022c56ae80b ac062832fdd44709c054b2db3d2d6087
+download-size = 22877 20778
+size = 19f361875dd8857bd25ea54f670ec50a c3d8ccce62229d59dbc283e227f18d81
+size-size = 14493 12486
+encoding = 6b3ce51eb8df8471d5c21bc860611c6b b84baba09de98fd0c1b1a02ce0110ffb
+encoding-size = 62068 62245
+patch-index = 6b1d6410e4cd6de7c704f79e13e794d8 5c95c1f8bc39a91c8aba4259f44caf2b
+patch-index-size = 17188 11375
+patch = dda3d22c905c0ad69415e3f93e851bb9
+patch-size = 17417
+patch-config = f91900e2c21e8ee56767e1f96b9ee22f
+build-num = 15213
+build-name = 15213_2.39.0-beta
+build-branch = 2.39.0-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 18
+build-num-retail = 15212
+
