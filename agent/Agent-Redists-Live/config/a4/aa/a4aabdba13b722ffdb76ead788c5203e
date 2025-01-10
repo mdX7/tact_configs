@@ -1,0 +1,6 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+build-name = 9d25e9101bd329d320b77489d4739f38-test
+build-uid = agent_redist
+
