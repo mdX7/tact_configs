@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ee34017b254271f070f3f938d9580b22
+build-version = 30
+build-num = 2699
+build-name = ee34017b254271f070f3f938d9580b22-2699
+build-branch = 2.39.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 6531bc54ccaffd2c3ccd4fdeb056db17
+
