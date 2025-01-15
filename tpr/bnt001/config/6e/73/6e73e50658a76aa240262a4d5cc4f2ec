@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = dad80f62f2d712dd0f9b05e0a6bff1a2
+install = 679548eb01ef6b93a2afb35fb2befe1b e0226a59e2fda50580c22c2f27e8dd56
+install-size = 4050 4108
+download = 0997329dcca9056be1212be8712a81ee 9301f7897ad627c7f81abd30ba40c50f
+download-size = 911 1002
+size = e16b2b24d3f7420b1065fa4be693041f 84b2cb1324ae36efad2626a32f4d9c65
+size-size = 564 658
+encoding = 03401b97d8984c5fedb804bdc4d77c9f 0f2383da8c1724e823f7cbebbffc6c12
+encoding-size = 8390 8562
+patch-index = 65590071b176194c993e28554be8fad8 3679ac47e9345cb40dadb654709141d2
+patch-index-size = 1694 1349
+patch = 7553cb1e5754e0ea761116fdde3e5c42
+patch-size = 1395
+patch-config = 95f5c81e281d4aca2559ba651ee63728
+build-num = 8988
+build-name = 8988-agent-2.37.1
+build-product = Agent
+build-uid = agent
+
