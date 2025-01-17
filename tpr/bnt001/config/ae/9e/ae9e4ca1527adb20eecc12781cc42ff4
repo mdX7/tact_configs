@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = c3a99c7c7d2c559e71ded0eef9d31dfd
+install = 4afc0a89f890f0bff82bd279a8d6c74e 9c0969cc78b083756a88e7d01c1cca93
+install-size = 4050 4108
+download = 3d22bb68fe348b4bbebf9cf32516bf4f 8b6442dbeb160aec2559499804fd14a7
+download-size = 911 1002
+size = c2365305898af0b69f27740c1d58dea6 32029e16e6e65b543707cd9e93787637
+size-size = 564 658
+encoding = 68001ef03ec0b2db9dd48a906b2625c9 3f7e6f39849282d5cde30381bff966da
+encoding-size = 8390 8562
+patch-index = fb5a9a421bed2af3f20ffc9d1f7b4e6c 973d60b453c53163527e7dc7c9c3010d
+patch-index-size = 1633 1306
+patch = c706d9ac2f0a43a4c5ab24804352be97
+patch-size = 1353
+patch-config = c2d2d2d61336393a6f8cabc9dbb8e2f9
+build-num = 8989
+build-name = 8989-no-branch
+build-product = Agent
+build-uid = agent
+
