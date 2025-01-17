@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = bcb8609368536415bde37981a3ac933d
+install = 473a9f58f2d67471e798afc45385c9fe 7a48c30baf1c24a62235b68333fd79c4
+install-size = 88383 88282
+download = 73dabcd1ef6e562878b0aaee101a561a 610be781544717a32df8725293fb5aac
+download-size = 30530 30455
+size = a7524d00b215a7260e7edd7840e8e1cf 67571dd4424a798ed460bb62e457509d
+size-size = 18123 18048
+encoding = 371063d6d1d96ce9452e8924af315f47 f75596ba1d3348bc91c64cef37266fff
+encoding-size = 90956 91133
+patch-index = 6b22958af712a36a7ecf6593ed628135 1e2c9eee8f30056f47b418a4dc5ee68d
+patch-index-size = 9136 8425
+patch = b9d72577c496df748458d0e05a1e8e24
+patch-size = 13325
+patch-config = 43f324015bb72eafcc374db786188e97
+build-name = 2648051_row_submi-3.2.1
+build-product = anbs
+
