@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = cb5a9e88100567fdb8cf1b8476f61b36
+build-version = 30
+build-num = 2712
+build-name = cb5a9e88100567fdb8cf1b8476f61b36-2712
+build-branch = 2.39.1
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = ff7ed4dc6366c929d34c1fcd45a57587
+
