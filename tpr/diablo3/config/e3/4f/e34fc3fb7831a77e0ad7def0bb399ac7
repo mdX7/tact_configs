@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = e40cbb7f63784322bec89b76d722343c
+install = 4da43c8e83fcefcb8c6a245bcc1fc5e3 fb78b396853e7d705ac865e375002170
+install-size = 32564 31781
+download = e99277dc978d7c3fa9302c977406b3ed 26c329bc4b6a94dbfffc97d0e2a87ca5
+download-size = 15908943 14606716
+size = 6d058658d0d4a7a3924628967ae65e82 ce370b7dffb86b9020795aedcc733b8c
+size-size = 9943144 9592339
+encoding = 985ce1d6899bab1f2ea25490dba68823 084e2425ddd8789f89182d65a45f1383
+encoding-size = 42365892 42366025
+patch-index = 3cfd078f6db0a1dcd44b0f6a4016a226 b22fb5176453fb62d74b34b7a8a45cd6
+patch-index-size = 650734 569658
+patch = 363bad65af12411955115b4558e5b351
+patch-size = 686889
+patch-config = 262e611e9484e8e1b71c8d406e6ca3bb
+build-product = Diablo3
+build-name = 99920_Win32_2_8_0_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3
+build-creator = josimpson
+build-comments = RC with Utils V2 change for CS tool.
+build-branch = 2_8_0
+
