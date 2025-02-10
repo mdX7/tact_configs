@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 56529a39cfd62c1ca83a39d04f36a7da
+install = 96c0ad5bb5996b1a842250a7953a2595 f66f301f696a5fda14183c592c61b18e
+install-size = 23332 21498
+download = e752fb1b5781bf535450712b06337c45 6c50d14b3e38029f6a0ef25f3b17825c
+download-size = 1912387 1614251
+size = 7c8d135eb2cc76cc80ca632b6abaea43 ec785cca31882bf34a79674491cdf1d3
+size-size = 1253690 1036167
+encoding = 74005bf12f173a0eb88249681af6f5d2 c9dfb9597daa849e00d29b99e61a4416
+encoding-size = 4685460 4685617
+patch-index = 67d750d150ca60568a9bec28f02691c8 c658567b9db659d3a132cadab5ae71d6
+patch-index-size = 16409 10296
+patch-config = 109fba4812045dbf105ff249a76942b0
+build-name = etu_21243859_cod24_tu12_signed_valkyrie_update_esp_ship
+build-product = auksesp
+vfs-root = 3901f90dad63071b99fd65f154903693 9f8c1735a97a8f0a096ae2ed14f8f269
+vfs-root-size = 4958392 3162428
+vfs-1 = 3901f90dad63071b99fd65f154903693 9f8c1735a97a8f0a096ae2ed14f8f269
+vfs-1-size = 4958392 3162428
+
