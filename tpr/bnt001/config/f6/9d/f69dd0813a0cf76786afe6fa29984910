@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 250a44d232b79e27a273ccad6224faa1
+install = 5dac77499c85d03e854f9de77cc5dddf 4ca6b39f6bd3de42f495912eb86778d5
+install-size = 4050 4109
+download = 4f2dfe28bc6560aa82f8172af6320a6e 73cc4b7bf63d472978db379c8bd2c81b
+download-size = 911 1002
+size = bed175f1d6e326cb941d50422c74fc6c cb33d8f17c97a37f3f50f4d75ed1cb19
+size-size = 564 658
+encoding = 55f8af4ee05981627de04e5eb3bc32cf 5a071d898495c66d6822cfd2ac9070be
+encoding-size = 8390 8562
+patch-index = 33648fc16141afc89b1f49ed7788d806 e8bde4bace9f9dd76e49d0521416728d
+patch-index-size = 1694 1340
+patch = 358ed9dca843fe73be50218f3af12208
+patch-size = 1395
+patch-config = b7046ab7f72c26bbca4ef6e89e8427ee
+build-num = 9014
+build-name = 9014-agent-2.37.3
+build-product = Agent
+build-uid = agent
+
