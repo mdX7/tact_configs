@@ -1,0 +1,14 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+no-frame-encoding = true
+install = 3ea6a137580583fa4132ed0731a1f0b6 aeaa0e5ef2d6cdb75739c900b93ab502
+install-size = 33 76
+download = deacc8b37acdbdf996bd218b74a6be79 17076ba41764044581cb085b0c966879
+download-size = 2045389 1801622
+encoding = 6797cc76c18ab508c99a0b021cfd8b06 d9f4ec20fdbb47a6209a3bca31fbaf57
+encoding-size = 5581143 5581337
+size = d285dd17565d467eb613f754fb44c305 c923de4c1919d1b80e0d3202a937938e
+size-size = 1187711 1035122
+build-file-db = 73afcca151c5e006fe54838a441482e6 492a1f341a5cf1ddcc574bdf546c2f59
+build-file-db-size = 77824 26941
