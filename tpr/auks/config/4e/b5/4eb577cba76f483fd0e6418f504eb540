@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 84b511f89ff9b4c03a11395155497615
+install = 43debdb74f28bc9fea4bac5e9b50e72b 3ee470148c9bd3e54f85428b7958ae18
+install-size = 555 453
+download = 49733c97ea060cc240f2dbca94181437 0d0d46e024d24bf9840774672d8299b0
+download-size = 1850732 1562172
+size = 851c7dc41958a72043a5f70545597e08 d8067218c49c878a3f7c00b5544ae443
+size-size = 1213275 1000619
+encoding = 4c0630d47cb66d243bf35291a401cf32 41a655029e1c2e6fce55d732ba87f005
+encoding-size = 6328247 4888793
+patch-index = 119e6f168977f92a627d86d60a4b9e09 f292a1ce384641cec6b15694618e27a6
+patch-index-size = 12385 7738
+patch-config = 73c9467078f6f0a841e9c24bf4dc704c
+build-name = cert_21445707_cod24_tu13_bnet_signed_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+
