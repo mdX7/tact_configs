@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = d15ea897352564ded79328f27461f753
+install = 0ea6415bafa3b1bdba5c311ab40ad01a ba4b42c492ad168d941db14ab09bb815
+install-size = 107474 103998
+download = 318aa14778daec020a29d16b542b31e5 e3cb2cebbdf7453601c69dde178cd84a
+download-size = 42797 39526
+size = d1d4b09fa6b06c86ca8b1a927e86415f df4d1e8052ae2fca1888ac716fc6f814
+size-size = 26718 23447
+encoding = 9ef24c1b1f8c6b94e37b08213a2db7ae 88332d89abd5d6de2cb836de4decc635
+encoding-size = 115738 115905
+patch-index = 02bd42e86106ffca8b25e63f7b74057f 2f53359252206a0293b12dfdfc7edcba
+patch-index-size = 5925 2396
+patch = ea09affcb453941e6ca5dda97c0ade06
+patch-size = 2587
+patch-config = 8301407a54e72df2c70c6d936283d267
+build-name = 1.0.2.2429-retail
+build-uid = w2r
+build-product = War2
+build-comments = RC 2 - Insta defat bug / map fix
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 1030c55ca1154e2ee9005ab2351c59d1f4836947
+build-source-branch = master
+vfs-root = aa42927385cee1732fd67a0f715c62d0 15be5f54418db4c9686a87bcfbe42d92
+vfs-root-size = 118591 83418
+vfs-1 = aa42927385cee1732fd67a0f715c62d0 15be5f54418db4c9686a87bcfbe42d92
+vfs-1-size = 118591 83418
+
