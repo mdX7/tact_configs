@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 9832c07fcf9b341433de1a9c02fc337d
+install = d35cef16d381413572e09a8556e6620e 07a1660181719899f4d44489723dde22
+install-size = 4050 4108
+download = 9e5febcbaf43e4051aa15f5d05dbe451 15b347497313e20b4310455b7d40af0c
+download-size = 911 1002
+size = 71a61728e96339b925f7560d38624d98 3cda02f72e3e0f86152a3632cd195fff
+size-size = 564 658
+encoding = 49e5212cfb383a016b6db52466a05780 8b4e2df7bd3a5e744288fc0346b8e7eb
+encoding-size = 8390 8562
+patch-index = 42ddb6c6a224d9329d244943281535d4 40b5d922af6a1dce40341f78c8036dc8
+patch-index-size = 3363 1367
+patch = edda7d3f81efe588a1ca1fbdce0eb14f
+patch-size = 1395
+patch-config = 4f585d0703811f51a6548362ad6bfe6a
+build-num = 9054
+build-name = 9054-agent-2.37.4
+build-product = Agent
+build-uid = agent
+
