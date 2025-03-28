@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 301a66520aa842e452183a1cbd9cb24e
+install = 43debdb74f28bc9fea4bac5e9b50e72b 3ee470148c9bd3e54f85428b7958ae18
+install-size = 555 453
+download = 5daf28b6333771f1dc122e0ccd672c4a 3f757977ac891132ba4055b50721e981
+download-size = 1870653 1578872
+size = 44b35eb9b489e4b7e1643dcd84d0b4ab 893c080dbfba31b3747ee5a917387f1f
+size-size = 1226329 1007683
+encoding = 6e1dfaf9d68d3371771188ac528e9649 d39eb88576f4356687183457fc9751a6
+encoding-size = 5562810 4781134
+patch-index = 09dc706f0482f9d5a423852e1cbbd9ef 6c35032cc48854d53ce97209772d3d6f
+patch-index-size = 39797 14327
+patch-config = b7d37c7ba8f02ea2cf345d56cf854dde
+build-name = release_21884959_cod24_tu15_signed_valkyrie_driver_update_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+
