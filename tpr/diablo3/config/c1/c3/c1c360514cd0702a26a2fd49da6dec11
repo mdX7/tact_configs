@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 67b5cda5a6ab878c2645554aa6d7b23f
+install = 2bb7e9a512943ebf9bee9ee15d918e0b 07b4542fb65057267151ef5a3bb5fa3b
+install-size = 35834 34967
+download = ea1212ce7a2df2438287d6b20a3f35bb 83249a2b68d7df1bae30f317d0ac2c72
+download-size = 6797649 6240003
+size = 5d2fc291b1cf2ed5db9592d6e7427393 158ba6fc40657445847131e64883e8b8
+size-size = 4248583 3944544
+encoding = 5c2b8aa7cf6fa9151a33f6efff8afeae ebb725823372a812f5e780178255bed1
+encoding-size = 18105631 18105767
+patch-index = 2ecda63aea1477a347b00c0d59ffe2e2 3b2e1b5c8cf4779a91ca572ea30100b2
+patch-index-size = 2631 1203
+patch = 38476ff47a9104157426d5a37eca651a
+patch-size = 1267
+patch-config = 572fb6f5cbb9eed84a208b0a8adea30c
+build-product = Diablo3
+build-name = 100590_Win32_2_8_1_CN_RC
+build-playbuild-installer = ngdptool_casc2
+build-uid = d3cn
+build-creator = #T3BuildOperators
+build-comments = [RC]PC (2_8_1)
+build-branch = 2_8_1
+
