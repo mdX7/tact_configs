@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = b1076e02f130b6a068bca9c1bba875b2
+install = efe890612dd1264d785065005af1f518 be94ff8f97d9002eb25abed334b2b88e
+install-size = 109 164
+download = fec00f9052b3bbec6ef7104baed13a32 45d88845cd86dd6a0d6045dc13b1d208
+download-size = 99 180
+size = f22da624c511fb3dc4f66eec4c1d3c3c bb03c7c17457f35d50fbcf8c8e6d3c01
+size-size = 94 175
+encoding = fd936b97fc79822a439ffa602974e00f bb77173ebc3d63fe60c17eb12c61802c
+encoding-size = 8393 8556
+patch-config = 77afb78db1d64e2a23b9d39a30bfd237
+build-name = driver_03_19_21896524_valkyrie_ship_r
+build-product = randgridauks
+vfs-root = 6304d1e9fe0dad196ecfcf19b42752ec 290ebac8c6952a1b64060999ff31a9a3
+vfs-root-size = 124 151
+vfs-1 = 6304d1e9fe0dad196ecfcf19b42752ec 290ebac8c6952a1b64060999ff31a9a3
+vfs-1-size = 124 151
+
