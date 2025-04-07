@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = da5d6dc11e35a498209e737e877cb19e
+install = dd8685de193f1118084d1837905f9b9a 53284a51633d6d002f6ac14fa6aee1db
+install-size = 4050 4108
+download = 29f967bcb6779e44f68158753e611e40 a9909b15b8901bd42c1288557155a92f
+download-size = 911 1002
+size = daf7f5f1cff6c9ce9ce95c76bec0c4dc 3c6c8270bdc2b95a377d36e2f221d59c
+size-size = 564 658
+encoding = c46e83891dc0cb9d0028dda6dd005778 100151561465f5b7f8b21c1bea22ca07
+encoding-size = 8390 8562
+patch-index = 23b13e6ad9dd6547087b9bcb9bd91ce7 056dae2090f99dfe4fd5786762dc5954
+patch-index-size = 3241 1333
+patch = 2422c0fd2c22d59aea41937b0d3fc1d1
+patch-size = 1353
+patch-config = 4551b7d1578af0c738107afdf0ee5c2f
+build-num = 9098
+build-name = 9098-agent-2.37.5
+build-product = Agent
+build-uid = agent
+
