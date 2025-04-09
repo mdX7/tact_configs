@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = b8370d8a6bb0b1d0c402a56d7c0749c0
+build-version = 30
+build-num = 2753
+build-name = b8370d8a6bb0b1d0c402a56d7c0749c0-2753
+build-branch = 2.42.0_phx-22992
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = f59849f4c8da19cf2d7c65fdaef25aaf
+
