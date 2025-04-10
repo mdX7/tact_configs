@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = c465665d4e21a5cab86ab8a1867e62ac
+install = 1796c1a0e7a583a22f0891a8e49c5770 35382ea964066c1f12f1c4121a2e0c2e
+install-size = 23086 21285
+download = ae8e5f3640e09a49006533572d1dab40 5ef5380ba6f6381eee3ca231d9ff8f4c
+download-size = 1876142 1583694
+size = 4677fca080d27d20169b96cb2ba76d23 4033e4f6f9dc249a1a6be0c9a855ffec
+size-size = 1229937 1011407
+encoding = 52d42c459253a6df31efa9f944a7a3bb c986a5fb016c2b21472214272e7a7131
+encoding-size = 4594644 4594801
+patch-index = 0b2c61471d54da94198873901470e276 5ba541bfd480f8ddb0c832cd461aa5f6
+patch-index-size = 44703 15617
+patch-config = 68419e63f86658c17c38d9fcf58e445f
+build-name = release_21884959_cod24_tu15_signed_valkyrie_driver_update_04_04_bnet_r_ship
+build-product = auks
+vfs-root = 0e94788a3db6bfaa4459b57cc2f71acb 0582ecdbe4a84a2cbc890d4c71c8b87e
+vfs-root-size = 4896034 3121994
+vfs-1 = 0e94788a3db6bfaa4459b57cc2f71acb 0582ecdbe4a84a2cbc890d4c71c8b87e
+vfs-1-size = 4896034 3121994
+
