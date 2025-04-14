@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = c7b11355f4d549cba3ca796404508380
+build-version = 30
+build-num = 2759
+build-name = c7b11355f4d549cba3ca796404508380-2759
+build-branch = 2.42.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 799b5b18854543b2ba22894d63710416
+
