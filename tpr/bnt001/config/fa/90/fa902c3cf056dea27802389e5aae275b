@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 90b0e84a4c7f33fbeb5752bb3a770708
+install = a8a3e37351847edf60bc5a18fb9015c0 796774e7515aad7e4fc588af31261217
+install-size = 333 402
+download = 8a7ced222834d793310517cca4b2f82c 321afda1535955b64d87a90471a102f0
+download-size = 161 255
+size = 4c0d15f17364ac4c9bf192c1c6e956fa c2a9e5fe46a453856f3d9dcb6b025ba9
+size-size = 111 205
+encoding = cde1cd5a3b716a6c39b81f74d4d54e5c b2ad18a0d1856f57d6c495183bb82723
+encoding-size = 8387 8556
+patch-index = ffdb5be14bc1f3d13fa88ad192cc427d 0b731d1dbb47ac2394425c1cb09d76a4
+patch-index-size = 1289 582
+patch = de1f51aa9962a7702cf8b55be14a7812
+patch-size = 593
+patch-config = a091a4142503f2d2d4141ed1651c76ab
+build-num = 9105
+build-name = 9105-beta
+build-product = Agent
+build-uid = agent_beta
+
