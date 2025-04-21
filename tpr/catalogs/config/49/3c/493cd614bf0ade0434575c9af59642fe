@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 1e8c1a880617d60a873d1c5b85c3f509
+build-version = 30
+build-num = 2764
+build-name = 1e8c1a880617d60a873d1c5b85c3f509-2764
+build-branch = 2.42.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = d35015656b4437cadafd6ad1fafaaf7b
+
