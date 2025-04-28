@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = a36dbd4da2af16ae2c65d4a8974ca935
+install = 43debdb74f28bc9fea4bac5e9b50e72b 3ee470148c9bd3e54f85428b7958ae18
+install-size = 555 453
+download = 9e7cf5b6312292f4217d15e43f8fc8d9 6cb83a70cf559c18b375ae5430306f35
+download-size = 1915038 1616322
+size = 8422d2011af066f751fb9b1173c70f55 08153e0165eb779363aecb9c687b8890
+size-size = 1255432 1033816
+encoding = 66a48e387ea2fcb7b185b1945dd0724f 3390163897018635fc5584ac30c67044
+encoding-size = 5710661 4893289
+patch-index = 3b89403f5b9a6ce7230b778196055528 1b705981325985535ac4678e92343d43
+patch-index-size = 33993 12489
+patch-config = 94dd7b6c6c9edb93d07e6b169fefe702
+build-name = release_22235262_cod24_tu16_signed_rekick2_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+
