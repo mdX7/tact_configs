@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = ceac4801562c12c44235dbb4df8ec4da
+install = 709944c7fa86fb317f12202a703ede39 1655d5228f3a609057d34650188dc9be
+install-size = 107474 103998
+download = 76e10605e68e7fedc76d2e9509811326 9162bc01de03f350dbe7128d8bc55e10
+download-size = 42797 39526
+size = 6a4ff3a557fe12d52162b9f25ef8278b e83b20268b87874686f5a5ca71e3256b
+size-size = 26718 23447
+encoding = 7047d39d2cf62f9097fc1d99d58b727c 65a0c513666d1b07d9047e0a09e8afec
+encoding-size = 115738 115905
+patch-index = a16dba7ae5cc909c673611d5c0c567d0 4ee0e10f7baa5335b62461499b4e3d9a
+patch-index-size = 3241 1302
+patch = cf35844923b2cbdc04d01730a883ddff
+patch-size = 1421
+patch-config = 33668807534c391b971430c066097a51
+build-name = 1.0.2.2505-retail
+build-uid = w2r
+build-product = War2
+build-comments = RC TEST
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 4c311593c3c75033a7698fe931c503388c3c0074
+build-source-branch = master
+vfs-root = fdbb5814b899588e5ef75f9dd8431c4b 9dabb00808ffe20cab0ebe9586c879b8
+vfs-root-size = 117997 82912
+vfs-1 = fdbb5814b899588e5ef75f9dd8431c4b 9dabb00808ffe20cab0ebe9586c879b8
+vfs-1-size = 117997 82912
+
