@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = a36dbd4da2af16ae2c65d4a8974ca935
+install = 3286f7d2e5f0e75f4be61db14c820641 64f5681d18f7a070c39561970677fcf7
+install-size = 23053 21252
+download = 80cb1ec1247c1dc78930ff19896882b6 a849ba346ad450e7251466395db7ddfa
+download-size = 1920494 1621129
+size = 5c76c7ee614bc8d745c0f79cfb1cfb24 4e9138d17610fcb37b11aac679c96c9f
+size-size = 1259007 1036813
+encoding = b0e79b459e10f813fa4c2ddcf0b7bcdf 5e4bbb6732bb518e1631d4e1d0d0b8af
+encoding-size = 4697844 4698002
+patch-index = 30b4a3607106429698b755a73f7a007e 169dfa8464005c86bb8daf08de070b66
+patch-index-size = 1861725 1021833
+patch-config = 0d5f8b3fb4f5109d9bef8c6d822dc5ed
+build-name = release_22235262_cod24_tu16_signed_rekick2_bnet_v1_ship_rel
+build-product = auks
+build-type = Release
+vfs-root = 7c1bef2bd97f8489b8ad1d3435bf6e72 1017062982b82baf40fe13af6c2438a4
+vfs-root-size = 5003842 3192273
+vfs-1 = 7c1bef2bd97f8489b8ad1d3435bf6e72 1017062982b82baf40fe13af6c2438a4
+vfs-1-size = 5003842 3192273
+
