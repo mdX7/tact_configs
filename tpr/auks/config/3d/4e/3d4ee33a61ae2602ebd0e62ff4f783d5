@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a26d602ac70b47f42d860b2374a3f935
+install = 3cf9f226aecae18396ab5689292cc8d5 afd8508685291528830fc002300b195c
+install-size = 23053 21252
+download = 5c3c574b4b0cf3a31549029c228cf3b4 047b344129664ace3647bb5bd656429c
+download-size = 1920494 1621129
+size = 86f5a90ebb6bab86b61548a12df9e35a 7e7a9c63970ed28284f6f5d57fc17fb4
+size-size = 1259007 1036813
+encoding = b1850cd85e1ddd32d2bf979361e50c54 2755803e7617a4effcaa7d962787214f
+encoding-size = 4697844 4698002
+patch-index = 4ab494b3bf6570d4ec629d46b26b7028 e97d6a97b12f07d3e733212d0a5464aa
+patch-index-size = 57421 25189
+patch-config = 3576aaa0fbfb0c173fac88fdc98acab8
+build-name = rel_22235262_cod24_tu16_valkyrie_update_signed_bnet_esp_ship
+build-product = auksesp
+vfs-root = 34dc966ad65e8899e62e32e63997fb03 a0f1a2cc6688631195e3e4f0398801de
+vfs-root-size = 5003842 3192268
+vfs-1 = 34dc966ad65e8899e62e32e63997fb03 a0f1a2cc6688631195e3e4f0398801de
+vfs-1-size = 5003842 3192268
+
