@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = c075eacf0588329dca115027ad9e6c63
+build-version = 30
+build-num = 2802
+build-name = c075eacf0588329dca115027ad9e6c63-2802
+build-branch = 2.42.0-wz-mobile
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 49bfa539c689031dad9aae1ba75bbf1a
+
