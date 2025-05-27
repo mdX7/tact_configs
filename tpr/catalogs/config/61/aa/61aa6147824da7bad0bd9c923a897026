@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = ed18da8e3ecc106391962fa88e1264f9
+build-version = 30
+build-num = 2806
+build-name = ed18da8e3ecc106391962fa88e1264f9-2806
+build-branch = 2.42.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = ac2308b377ae15cfbd283171d0a4d3d4
+
