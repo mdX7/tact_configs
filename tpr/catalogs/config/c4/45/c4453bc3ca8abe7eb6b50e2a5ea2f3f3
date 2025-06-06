@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 3a48a6e1c29009ba764e0494ccc0d65c
+build-version = 30
+build-num = 2814
+build-name = 3a48a6e1c29009ba764e0494ccc0d65c-2814
+build-branch = 2.43.0-cortez-rekey
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = ccc03d9b371ac944b8eee1673b12d343
+
