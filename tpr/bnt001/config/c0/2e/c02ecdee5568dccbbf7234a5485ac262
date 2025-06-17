@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = af1f63b0488f3a6402c42bd0b5a47c3b
+install = 6ef3978087c794d0e24bff8ed0186477 1627cd885e08de5f6982934fc86401b0
+install-size = 4050 4108
+download = 27601bafc110d3cc6dc72f4796817f87 080ff810915583b42f1c3ce5b8a59c50
+download-size = 911 1002
+size = bf9278aaaff908487fed8760d5c5cfe4 efd78c6733348858cac254012dfd1e70
+size-size = 564 658
+encoding = 51a02226b8692c5fcfcf5aa42996806a aa69cf95eb620faacbe701612986b0df
+encoding-size = 8390 8562
+patch-index = fe2897f15852dd197d08e6ec3d2fbfd4 58d7f6a593c66ec7b7887e0d455bc3ba
+patch-index-size = 3119 1284
+patch = d21e9523d269188ba4db2efd971ddf36
+patch-size = 1289
+patch-config = d16f7a9f0b537f90ac6c31c1a9229d70
+build-num = 9166
+build-name = 9166-agent-2.38.3
+build-product = Agent
+build-uid = agent
+
