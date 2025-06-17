@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 57599dd1f2d76a0f869d7354562533e1
+build-version = 30
+build-num = 2820
+build-name = 57599dd1f2d76a0f869d7354562533e1-2820
+build-branch = 2.43.0
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 0f700c8b69861d9e737d9995e7e1d3cb
+
