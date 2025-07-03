@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 90c5d9f93283d0f460a5d0daef6e4933
+install = 718083309694299ce8e51789901c0d56 79b1d0192dc46ff9df56b8a361d5781f
+install-size = 22991 21185
+download = c3abef731d94053cf8f3d352d25574ce 92c4e95917774628b14b5aae129f9491
+download-size = 1949842 1645817
+size = 74d1878f3be4b4912fa75169708479d5 f089435f0ba7d77c4d282bc2630f4259
+size-size = 1278239 1051780
+encoding = 8ca601ee4851bd93181466d9bfe95605 5499677609c6dad725e7fab6a5f8c3cd
+encoding-size = 4772148 4772307
+patch-index = 5bfacf118220e0c14f696808595c0330 0cea86dc6f24c5ed4c233837c785fa2e
+patch-index-size = 34127 12359
+patch-config = bba99a2476644b22514db8ee4ff183b9
+build-name = release_22939634_cod24_tu18_valkyrie_update_bnet_r1_ship
+build-product = auks
+vfs-root = 08e5dadabc1ac21f5554948dccf9ae98 ff70240798975eb0bd7639b259aa6b55
+vfs-root-size = 5083775 3241736
+vfs-1 = 08e5dadabc1ac21f5554948dccf9ae98 ff70240798975eb0bd7639b259aa6b55
+vfs-1-size = 5083775 3241736
+
