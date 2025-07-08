@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = e0e9ac451584b516d39ebabb8dbc514e
+install = c7317832e211448c8e9f7d358b3c6e67 51823f6342eff93631c9f838262888bc
+install-size = 4507 4309
+download = b61161a4944e0ca60d89b1bfe9804212 90aab0570f12837d5992ba9a85790a15
+download-size = 32389361 28815079
+size = 5b90d6fa2b70018a4e848193310aeb66 cc952eb607fb5820446fa30dffd1be7b
+size-size = 20611479 18765733
+encoding = 81a81ead726130e4a61c144838116662 92f66bfd8283812e0aedac275b978803
+encoding-size = 84223720 83756627
+patch-index = 2b06ca54e2a6b5bec99b1897abf4f2b0 c8d9be0724087e6ecfc0ad25e21e4a3e
+patch-index-size = 76441 51577
+patch = 2a0716f93aa18c6da906ba8544a2b8ca
+patch-size = 43611
+patch-config = b212276171d39376a5bb0778322c1999
+build-name = prometheus-140030-NEAC
+build-number = 140030
+build-branch = 2_17_0_1
+build-product = Prometheus
+build-uid = pro
+
