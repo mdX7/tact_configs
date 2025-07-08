@@ -1,0 +1,11 @@
+# Build Configuration
+
+root = 4e554b7acc0db82c847abf9328992f7a
+build-version = 30
+build-num = 2843
+build-name = 4e554b7acc0db82c847abf9328992f7a-2843
+build-branch = hotfix-lbra
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 837577c88e5d67af29499bd2130dd575
+
