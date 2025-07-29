@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 5be65d716c89e59551548cfd7cc100e4
+install = c217bce43cef0241a3342a9936dba1d7 96ca59cc294e7bf2203e6d6cfd7222b4
+install-size = 1540314 1474036
+download = ad2d3d378d076323c4630b259435c946 23e1cd61ae1c7a2bd205faf5dd451949
+download-size = 575445 509737
+size = 8c2946030b7a82644a82899439bbeed8 df5604a4b5c6d6acba1ff7605f51f50b
+size-size = 367324 312823
+encoding = 6076fdf31dd5e7e4213315c860b93e30 f305c5b490fd51826387374a84511765
+encoding-size = 1482128 1482283
+build-name = trunk_23100191_cod23_sep_tu1_valkyrie_driver_update_repackage_signed_fix_bnet_r_ship
+build-product = pinta
+vfs-root = 062757ec12719f96a357aa91c8b8bd30 13f8d79b3006a989409f22e28121b78e
+vfs-root-size = 1213741 632065
+vfs-1 = 062757ec12719f96a357aa91c8b8bd30 13f8d79b3006a989409f22e28121b78e
+vfs-1-size = 1213741 632065
+
