@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 596a476fee272088c251541b2d343f52
+install = dbd0299af45b0e7f9552bcbc4aaa3c83 deb63c3e94f7f83936abf316cfda3d8f
+install-size = 109 164
+download = 8182c2ad76aa580e20598a5fcd871e67 c6a8f2e4053b9e013d2adb36685072c2
+download-size = 99 180
+size = a20a113d52396d8a88c0e44b7eb9dd64 ca342f79444680acef86e63d37377ad5
+size-size = 94 175
+encoding = 366b691b6a78ac4cbbe16ba63b80a29f 132a8da93d7578187dfff146ed6ecca2
+encoding-size = 8393 8556
+build-name = driver_11_07_23137177_cod22_valkyrie_ship_r
+build-product = hristnina
+vfs-root = ae2bddddadf13c99c4be394c1c5baf3d 5a3a8b89050ba7bf616d33f03b61ad14
+vfs-root-size = 107 132
+vfs-1 = ae2bddddadf13c99c4be394c1c5baf3d 5a3a8b89050ba7bf616d33f03b61ad14
+vfs-1-size = 107 132
+
