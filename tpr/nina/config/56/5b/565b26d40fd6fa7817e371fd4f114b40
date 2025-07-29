@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 3eb3554a8b06b11f295fbfae953c2c98
+install = 33336eb1714d85aee54b0d37ddc66f78 274e1e7e865650c124105d8e82330778
+install-size = 1280272 1201663
+download = 0d2ddd00d2385efe126aeed48c23eaf5 4b8b19cfcc91822cf26ab377f7f2a6dd
+download-size = 593708 516078
+size = 5484edc39594077310c37a06091c41b9 9e6ff60b054880eae8722890e2c650f7
+size-size = 383229 320085
+encoding = ccb404ecca48c821f8cccb18b391062b 40ea76d4c44537aeafa03e1bc813cb98
+encoding-size = 1498640 1498797
+build-name = trunk_23130977A_cod22_sep_tu2_bnet_version1_signed_r_ship
+build-product = nina
+vfs-root = 4d49291938fbadbb6476825a5aab2577 d24e53cd8236ad98a14bcf2e78c0e53a
+vfs-root-size = 1151572 569135
+vfs-1 = 4d49291938fbadbb6476825a5aab2577 d24e53cd8236ad98a14bcf2e78c0e53a
+vfs-1-size = 1151572 569135
+
