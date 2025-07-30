@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = bcb8609368536415bde37981a3ac933d
+install = e651d3231d0b82bd41115a89af68e7e9 5aae218002156dff7d9c217d91254d29
+install-size = 68239 68173
+download = 724eff2d226cb31e7867ac82fcc5bf4e 54d9d8f5bc7351de20780b8522b3ebc3
+download-size = 24379 24339
+size = ff16b35756c380fd5d71481e460b5ca1 c97ff481a74cb9a4226015e45062d0dd
+size-size = 14474 14434
+encoding = 36b6ff427ab5f1e60b078180c3eabf02 dfd31955a3b62b1e12c5d6e07ded6852
+encoding-size = 74444 74620
+patch-index = adc5e2c63484440fba7e81d0223ca499 5d5f94bbca02c0cbbb7107f01a915b5e
+patch-index-size = 4461 2108
+patch = 11ed6f5a75c82afce674551ef338d2f5
+patch-size = 2261
+patch-config = 8ccbea51391a81578c995479412ca7a6
+build-name = 3047155_cn_green-SUBMI
+build-product = anbscn
+
