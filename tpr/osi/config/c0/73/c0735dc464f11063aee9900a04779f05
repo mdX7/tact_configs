@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = 0af39e78a8288a74d1106fb7ed507c16
+install = e12e45b1ed90e9a7cb13ca1ba64c5c31 84b11f69c887e42c7acdfbcfff17093f
+install-size = 315 341
+download = d723e3a18616690c64e5031d80435371 9e414597763fcc9498a59f71529ca9cb
+download-size = 3970613 3621667
+size = 8bb64ad62ede1a100d66cf826281349f 71b5e66cedbd1ab0a5547997f9cc5396
+size-size = 2489406 2239604
+encoding = 83d5372bd81895830fb0494551686a4f c2b09959a0d378ddab0a5710b1dc9910
+encoding-size = 10522446 10522611
+build-name = 88723
+build-uid = osic
+build-product = Fenway
+build-comments = [D2][CN Predownload] 08/3/2025 RC
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 80fa97268466a244c760ddff98d7f3f74cb29d5a
+build-source-branch = china-joy
+build-changelist = 216836
+build-stream = //diablo2_stream/no_assets
+build-has-data = True
+build-target-platform = win
+vfs-root = 2450f0adc5249b57dfae96a1c77725c2 3b67afccabf34223f9ad0e5e65d03c8b
+vfs-root-size = 422 393
+vfs-1 = 2450f0adc5249b57dfae96a1c77725c2 3b67afccabf34223f9ad0e5e65d03c8b
+vfs-1-size = 422 393
+vfs-2 = d28d57f1054df291950a89650a7908b7 966c974f9ad9d8733cf49984e4fcff4c
+vfs-2-size = 8392524 4360738
+
