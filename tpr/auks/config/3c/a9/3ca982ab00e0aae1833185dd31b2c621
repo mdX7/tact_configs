@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 4ee95227e95f0be327f9e5931b1e9805
+install = 4fbd729733b7f3057b8486158222d515 b1acd555e921ddd19fe8e7057f79862b
+install-size = 10272 9408
+download = 22158d553cb143a26ed67445c0ff1b8b f15e6205bf01e1793813788f7da5c3d0
+download-size = 683049 576632
+size = 4d6efa966612dab1306d772e44d20515 4418cbd24b796fee29c7a990a21f0153
+size-size = 447856 357590
+encoding = e0f9b2b981458a6e9ff64269fde15c1d 79c9513cc11e8679dd9091ad63dbd361
+encoding-size = 1676143 1676300
+patch-index = dae7e6d9a27ab6509043fd96b1c78770 b72234bfc92e838888649026b0fc0961
+patch-index-size = 2079433 1137366
+patch-config = 1a8b808e361a6c3873fceccc4be75939
+build-name = release_23316564A_cod24_tu19_signed_bnet_r_ship_rel
+build-product = auks
+build-type = Release
+vfs-root = 763988983b258938b0ad9ccea30dfabd ebdba472150b48d97e047b84b3b31282
+vfs-root-size = 1811277 1153969
+vfs-1 = 763988983b258938b0ad9ccea30dfabd ebdba472150b48d97e047b84b3b31282
+vfs-1-size = 1811277 1153969
+
