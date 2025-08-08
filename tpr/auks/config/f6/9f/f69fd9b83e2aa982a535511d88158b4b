@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = f6c0cedb86c5aedf16871d3761fb3031
+install = b79a9795c94202f85bdbab985cbae0bc b9450b80e0519f1947590f82cfcd9096
+install-size = 10272 9408
+download = f9e9acf0217a4f1f36e25f01ea3710aa 45e4ebe3c2318f6e99d5f1505f566550
+download-size = 683049 576632
+size = 36a505c53c8abb4ab3109435955cda43 00729089fe0e72b8e04065d0126a981d
+size-size = 447856 357590
+encoding = 35dc71a02b39ee6a7898a03c1d882cd1 97aad2b8de2413eb948122fc9a73bb05
+encoding-size = 1676143 1676300
+patch-index = 133ff711f95e6620c61010cce200e901 0fb4ab0a09ffec367b5f5055211f5a28
+patch-index-size = 28463 10797
+patch-config = 46ce02dc2d5e52856b25a2fa48c0256b
+build-name = etu_23381992C_cod24_tu19_signed_bnet_r_ship
+build-product = auks
+vfs-root = e6d5e58197dd9f2be299319715ab864c 4370f03390b55351ebedee7ebcec661e
+vfs-root-size = 1811277 1153861
+vfs-1 = e6d5e58197dd9f2be299319715ab864c 4370f03390b55351ebedee7ebcec661e
+vfs-1-size = 1811277 1153861
+
