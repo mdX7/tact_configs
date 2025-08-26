@@ -1,0 +1,35 @@
+# Build Configuration
+
+root = ef15718751e8453adf90a7039b681320
+install = f010a785a9c1d273d4ded771cea3ee00 84c90e1684c7511bf39f2e10276e5418
+install-size = 315 341
+download = bd84a2132ec3ceda5800010ae6b10eaf 2cb309bc3dec0ff5d231e559a9b6880d
+download-size = 3970723 3621768
+size = 902d23b27fd30d41e6016c6daa30f996 21ef2ef38cd227dccf7d582d6874e112
+size-size = 2489471 2239592
+encoding = e4a821d049e5c8b4ec4ee40c29169cb9 5c0bd47fdd86a2dbe6091eba5beb884f
+encoding-size = 10522446 10522611
+patch-index = 4ed92176910b9b7626a7e295816179c0 333a01647890d66aa479f25745978bf6
+patch-index-size = 146591 129804
+patch = 0980b8e0b9df3983a7678683d67123c8
+patch-size = 80961
+patch-config = b02f784b85cc2b3fccf0cdef511d1d7b
+build-name = 89036
+build-uid = osic
+build-product = Fenway
+build-comments = [D2][China]2_9_x RC2 Save File and Crash Exceptions Fix
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 3df3a6ff936b6574a6707823438f1d444224bd1a
+build-source-branch = 2_9_x_china
+build-changelist = 218446
+build-stream = //diablo2_stream/2_9_x_china
+build-has-data = True
+build-target-platform = win
+feature-placeholder = true
+vfs-root = 4b1c1edddf102e8b4052d94e348b9bc7 33011ec014c6254dfd0dd64e5d53f9fd
+vfs-root-size = 575 556
+vfs-1 = 4b1c1edddf102e8b4052d94e348b9bc7 33011ec014c6254dfd0dd64e5d53f9fd
+vfs-1-size = 575 556
+vfs-2 = 70e3facdfec7bb870fac1b0bec353fe2 f893463ab2463e593fadebb2b4afadb5
+vfs-2-size = 11222327 7194635
+
