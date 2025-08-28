@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = c68d7b37414852619202b76979e928e4
+install = 3af13fc99fb330a8609b2aca47827726 ec5a568c29e0e6cbabffc5c3e6b1e37a
+install-size = 4050 4108
+download = cc1eb30d5184eae664e9d2714adf9f0c 5c5d50d7ee1969c65e07a6b7dabbf973
+download-size = 911 1002
+size = 223d910537975d58930d73014a378226 eec67c97ea80b3e41bffa5032ef188a8
+size-size = 564 658
+encoding = 4f6c0805c95be0ad56a1a5b6d479eee9 37078f2d6ffcce540b52b71d8c1fa0c7
+encoding-size = 8390 8562
+patch-index = 5dd9abf6cca1648a5d9a2a6539dacd1d b45f2136776e1c2fdc988cca4506f2ff
+patch-index-size = 3119 1274
+patch = d2c6bb8cfb0774078ccf6487e2a1ab61
+patch-size = 1289
+patch-config = 96cac53c298422ebce23f96cf1c52e2d
+build-num = 9246
+build-name = 9246-release-agent-2.39.1
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
