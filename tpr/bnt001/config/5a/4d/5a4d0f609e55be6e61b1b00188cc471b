@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 6e4ab5fa5b19f424442cf7d363aed068
+install = c3baf6603d51da9bdeff601a5ecbb0a1 01dcdfc17b672b002dd683fda4bc7f28
+install-size = 4050 4108
+download = eed1ef7511fc366f4b59066bc2008618 0cd61692ec5af306ea19e064f6676f1f
+download-size = 911 1002
+size = 88a58d9355b1a295a1524e2a5ced9c3c 324ce8587d29084ff27783185622cad7
+size-size = 564 658
+encoding = 8a1ec94740a8056a4c46cc2ce871dbb5 e0946eb414cc3a632e823c22c2d43552
+encoding-size = 8390 8562
+patch-index = e4e74c78b0792f8a6c191c5207f9ca9d c9d13180737b78e36b64526c30f7f500
+patch-index-size = 3241 1343
+patch = e3d4188ab4b27f538a17a35478d5499c
+patch-size = 1353
+patch-config = 673c35e7cde72d39a1de7c65db500af4
+build-num = 9262
+build-name = 9262-release-agent-2.39.2
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
