@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = e31c038f397791ce75b67f1c17cb3ac5
+install = 0e004beef235ba49074697a37a1d7bb4 a13bf12f34458e9278042d8525477c70
+install-size = 14736 14044
+download = ccf922b0cab8bd9c5cf900db992e75a3 b0c02dfcc0b04c72d7a3193965c83b94
+download-size = 15202617 13400218
+size = ef6507c45438498480a1a241bee3da5d a8a7a21ff45a4afcda38625c3ec4e439
+size-size = 9729748 8725341
+encoding = 912c14fcd8af920ba3d631e53fd2e143 6e907b33bf01bb3969f44a2892bff769
+encoding-size = 46304384 46152230
+build-name = B95033-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = 8bbbf2705c82ba8e0cc358ebcf0e13fb
+build-replay-hash = 12a8edbd4179ee7495ae537988aae043
+feature-placeholder = true
+
