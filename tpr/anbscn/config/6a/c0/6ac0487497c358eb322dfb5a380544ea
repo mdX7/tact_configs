@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = bcb8609368536415bde37981a3ac933d
+install = 18f2e27ac7f05ccee9e0d2c1c9133ba5 00beaef868b472f37092a2d022705c2b
+install-size = 70263 70193
+download = 1ac43e952df54bc90df7d4f4911c622e 8e8ee74e83f885ad44bf661deba3cbdd
+download-size = 25087 25043
+size = a581f24bc9455e6c99d38d3ff01eb05f e618c33a8485f23d6d2375f250b81ff5
+size-size = 14894 14850
+encoding = e84a2fa9a2865030f9593cd9a813f458 aa2e0a58bf087a82dfba02118cdee3fe
+encoding-size = 74444 74620
+patch-index = 917f9330f35ced14517fcbff4cbdccc0 c391db8be726558391cfe55f744fdbbd
+patch-index-size = 5071 2313
+patch = 0c4ef81205311caa348cfe0086ada2c9
+patch-size = 2471
+patch-config = ae4e082691dc5334bd23ebd3d8e119ae
+build-name = 3165638_cn_submi_4.1.0
+build-product = anbscn
+feature-placeholder = true
+
