@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 5c245a39e42941e1064db38dbff7f593
+install = 115070bbf876023d0990b6de98494cd7 d04233c64e47655339232d715af2ad3d
+install-size = 59752 57888
+download = f44fb9359c13973a3e3c103ad51555a0 e7b6992f29dcde559b9d45c1cb018020
+download-size = 15210683 13407086
+size = 93e3fa3b3d7911e6a12cb3244c3d9224 e660bb406634d00064945f77f195e440
+size-size = 9734907 8731401
+encoding = 7a9e996d2f1002c16e11ae023e088f6d 20648ce2384bac2d215fc240ad155d04
+encoding-size = 46320907 46168749
+patch-index = e78bc9f008ea98fa64bd23507360dff5 dcf1df92643957284b88446b3b90898b
+patch-index-size = 6291 2530
+patch = 647111a4c599f22416fee02fb10ca7b7
+patch-size = 2709
+patch-config = aefbfee863164e13c31d125d3a2bd502
+build-name = B95197
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = 17da25bb12c6372c4e5944b5e4303906
+build-replay-hash = 5563dc35ec51d0464dc16b56b424c9df
+feature-placeholder = true
+
