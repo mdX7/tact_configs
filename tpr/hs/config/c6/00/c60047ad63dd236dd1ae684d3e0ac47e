@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = dfbf87008f9b133e3da9e8e03ce45a75
+install = 44c30cd8a1baa4a31138f42864c7650a d6d1737cd72bec73a8328bf374d94c3d
+install-size = 3566058 3167155
+download = 6e0d59a3d7140d42a60ca31c042d91b0 768fd2c40e2ec68311d422fecb99ef40
+download-size = 1264443 875820
+size = af98a650397688eda85992936ef73a4f 61306d7799bcd4fcbddc31a19414463e
+size-size = 907624 577652
+encoding = 1d7b62a96033a058869f87190dffec04 74a4dd694abb93ac2ea46014a316bfc0
+encoding-size = 2538899 2539062
+patch-index = 9b71bfd0de8eb0fb5a66800dfb84b507 ac6fbacec5e8eda46577f1b4d623fdf5
+patch-index-size = 4879215 4520566
+patch = 8d1b779ae0d4651b8ea9c848815217bd
+patch-size = 2542269
+patch-config = ae1b44a479559aca94d40b940a6571b3
+build-name = 228587_33.6.0
+build-product = Hearthstone
+build-uid = hsb
+build-token = cee702b8-62c1-1dcd-86bf-ce62a1570770
+feature-placeholder = true
+
