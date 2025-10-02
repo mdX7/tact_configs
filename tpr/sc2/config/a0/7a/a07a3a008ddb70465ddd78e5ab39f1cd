@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 3bbcd18727e5cf11f2b0463df805f79e
+install = 176f1873e7bd5c5aa40637b3bbc7f710 4282a8106c9f13e02e60e8224a5fd95b
+install-size = 14736 14044
+download = fb739324f564f0ddd71f88edeb9dfeb4 ccee8cac2b1cc891f645079107db079b
+download-size = 15202617 13400218
+size = bf7a8299fdf5a2eb86ee50593f25ee9a 5d2d6ab82c6b09e796a42f4298382552
+size-size = 9729748 8725376
+encoding = df56876c1663f426d887345ddc890efd b612a572071b29c552a810291bc6733f
+encoding-size = 46308522 46156365
+patch-index = 80bece6a41bc640b435d8c995dad43ea 039bca4c6cb2265c2b7c5962464cba32
+patch-index-size = 2509 1024
+patch = f0790efa8b98700cdc5eee484d601866
+patch-size = 1077
+patch-config = dac4482d094924572640284ec125e236
+build-name = B95276-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = 3068fc09ca1f5b632c54e44a4a6090a5
+build-replay-hash = 12a8edbd4179ee7495ae537988aae043
+feature-placeholder = true
+
