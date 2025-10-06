@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = e109c0905fd68534f71367f083cb0efa
+install = b89fb6a0a24730e2afa280eb01914128 8139665fc1274005a5f629e7aabec83f
+install-size = 421 307
+download = 27d65a21e542c00b52e74bf2dcce496f 890f8304eff0e4252bd39b891900656e
+download-size = 715749 601302
+size = 2a07dd50baff17df0bb820f1ef28fb03 381bc34e2c4b51d41c01b19445379f84
+size-size = 470467 372687
+encoding = bf4c1ef6e6c13b6237c3fd260a454473 c2bf255cf658a19fc568e2a4de400f6b
+encoding-size = 2907520 1981126
+patch-index = f03876118d5df944b69746f766405e5a da1f0da0ccf47a923235f88d64206ea2
+patch-index-size = 59345 29058
+patch-config = 04f97863a287ba50e5157c5fff48ea84
+build-name = release_24145903_cod24_tu22_signed_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+feature-placeholder = true
+
