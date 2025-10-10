@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 8c7b62f923ee85605cd46386914fdeab
+install = 74f26fd646fe372fd314b6d545681b58 ad6d8783b071a0407f35f2afcb50c2fc
+install-size = 112287 109985
+download = b0e9b040edcf2179601a6f950e3e3806 a8381d64dec346f45d7e93cdd5df134d
+download-size = 23701 21521
+size = 1a9cb81d3d8d781fc7aefc818faffa9f a16f7f9caa779a58f30271828b28c4bd
+size-size = 15011 12934
+encoding = ed6053b6719f6bf9f86958b10b797ea4 09d7939394f528fdf057cefd4a069d84
+encoding-size = 66196 66372
+patch-index = 44914e7ed87b3a6526c8165b2623a888 fd21e9179e3a1976cd3c8ea1047b2fec
+patch-index-size = 22639 8233
+patch = 481273b187a655d0ae363c9d282e8202
+patch-size = 12681
+patch-config = 93adc1b217f26e06efb0dd573801acc6
+build-num = 15840
+build-name = 15840_release_2.48.2
+build-branch = release_2.48.2
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 18
+feature-placeholder = true
+
