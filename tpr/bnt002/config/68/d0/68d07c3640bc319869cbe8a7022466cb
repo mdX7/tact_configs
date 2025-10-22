@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 6a654216f7a7c1f22ded05d9c98a140d
+install = e647d2edaa46a42e4e01b2b6ea55f75c 64a4cf770a379ba87e7e145319d83480
+install-size = 117007 114705
+download = 3da7e60d382f5371b4cfa93d63a57f15 95716a81daef09c594d455cbdcc554ab
+download-size = 23701 21521
+size = 66bfed21244c54b12abd8d571fea0866 6b3c6f207dadc0794f69e4360b0f750f
+size-size = 15011 12934
+encoding = de16bd7e17cb20df60278b1c0c9a4810 91ade4a46dc6ec69c4427da70acf2991
+encoding-size = 66196 66372
+patch-index = 53fc2854d9786d6cd009ac109e8a1a6e 36d46eefe26c803d8959c901a9601022
+patch-index-size = 22639 8233
+patch = 2e55279020d325c38e240f501fbde9a3
+patch-size = 12681
+patch-config = 23c3c07c07969327fd42731e1d11e3ca
+build-num = 15885
+build-name = 15885_release_2.49.3-beta
+build-branch = release_2.49.3-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 18
+feature-placeholder = true
+
