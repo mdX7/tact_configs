@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = afb7d6a54000e983b78c6b680d71302a
+build-version = 30
+build-name = afb7d6a54000e983b78c6b680d71302a-3084
+build-num = 3084
+build-branch = master
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 8da926895ca4403b772894aa3abb569e
+feature-placeholder = true
+
