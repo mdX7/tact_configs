@@ -1,0 +1,35 @@
+# Build Configuration
+
+root = e53bc0755c43dad77257ab492a40a1b3
+install = 5f9d7788af39162abd1de4f646c0bd06 76cb0d98913b49be320e6aa6a44801cd
+install-size = 315 341
+download = f8368aae151f29577f6e93a1f367545e 4ffded039869f93cbfcce027e12325ff
+download-size = 3970701 3621744
+size = 8d89b5436e93aa59ac22d1a2676b4196 39c88a815cd13b1408e0fb1ff3a551d3
+size-size = 2489458 2239735
+encoding = d862c9e848d1eeddcd120030308d98a2 7f5bf651b283bb818171812acae9a398
+encoding-size = 10522446 10522611
+patch-index = 13e1e026ac04dba1d0988891110314b4 ebbc8d83bd8ec16846ac0e5780097827
+patch-index-size = 302141 241928
+patch = 9a413a904bd0bd89e68e22b0393cc93f
+patch-size = 142043
+patch-config = 4d6bc8ed114e6e12f6e92b95cef1bdec
+build-name = 90131
+build-uid = osic
+build-product = Fenway
+build-comments = [D2][China] 2.9.0.2 RC 2 15:48 10/30/2025
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = bfce59f3a38247889f6391f741fbf5ffbc9c39a1
+build-source-branch = 2_9_x
+build-changelist = 219606
+build-stream = //diablo2_stream/2_9_x
+build-has-data = True
+build-target-platform = win
+feature-placeholder = true
+vfs-root = 7536594ee7be2e6296c809cc297d8dcd fbc52556e6ee0c275e3ef40286c48bf0
+vfs-root-size = 575 555
+vfs-1 = 7536594ee7be2e6296c809cc297d8dcd fbc52556e6ee0c275e3ef40286c48bf0
+vfs-1-size = 575 555
+vfs-2 = 48eaf5e5baed929c3a436b4b474459d3 24dbf848bcdd0e02ab8478ae4f24e229
+vfs-2-size = 11257789 7226939
+
