@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 2423bf9db4c0412cc32abca0b7509c3a
+install = bd0ffc1ca5f0f21478142356acc99af8 7de7de5be4fdcf9ae3b66051eacc9fd3
+install-size = 112287 109985
+download = 4884698d120d0781cd52ba7074cc6f6e cb6ff79ae5c8fb1441dad55f392d9f62
+download-size = 23701 21521
+size = 1646b00537eac38b8a7515248b918316 fedbbc4984b3e611d528e7f7f1a4c906
+size-size = 15011 12934
+encoding = 3651bf6c7924b983ad3de2076fb6aad5 f4701d4967ad92ca3e0e521cc0abf576
+encoding-size = 66196 66372
+patch-index = bbff1da8e80c3efefdeb8dd93bd980c3 4f60e515b23a2e7bd6750aa8011890a9
+patch-index-size = 22639 8236
+patch = 6516ea2ecae2a4625a837308d0e7b091
+patch-size = 12681
+patch-config = 4246d2f0d237805f9609ee9577b495ee
+build-num = 15928
+build-name = 15928_hotfix_2.49.4
+build-branch = hotfix_2.49.4
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 19
+feature-placeholder = true
+
