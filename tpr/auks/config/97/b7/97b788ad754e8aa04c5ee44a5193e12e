@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 1f7a60ffdd90e83649cdd89f4b07878a
+install = a17d0085b77184cb625d16c74e6c8424 f66e749c6764a0b6eee8b484f4b084df
+install-size = 2386722 2275232
+download = 6b4157e1d4b73319f4d66585944371df 99823a20fb41d046389f415bb8b7fdb1
+download-size = 841456 731169
+size = 01cbdc6c200b92a4c2bb95e5fa8b4854 655bce6aa3bd4b0f9a1c91fda28eb7f9
+size-size = 543101 455896
+encoding = 86f46b079b8fbdfcddf6dfc5502d214a 5428af50640ee5662462a8c41d652424
+encoding-size = 2121972 2122133
+patch-index = 020a1ecc3e73edb89fc76bfb3059786b 6a7c2036c2a1676976d13a691d76f2a1
+patch-index-size = 2948085 1614239
+patch-config = 8615af8221c4b6cf838e9a41a6b8be04
+build-name = cert_24536827_cod25_tu1_bnet_signed_r_ship_r2_rel
+build-product = auks
+build-type = Release
+feature-placeholder = true
+vfs-root = 59c42f09bc1031cd4f926729acdf99fc 15426ea72aa56c256e6e81dbd18de421
+vfs-root-size = 2293692 1457728
+vfs-1 = 59c42f09bc1031cd4f926729acdf99fc 15426ea72aa56c256e6e81dbd18de421
+vfs-1-size = 2293692 1457728
+
