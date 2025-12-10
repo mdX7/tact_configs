@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = c0dd8d45c021645b5e01a867987c3b97
+install = 148f22c2126636fe88ee39c1adaa5801 f61533fbf74159aca955c6f02c3b5bb9
+install-size = 3197076 3050663
+download = f9bf7f3d45f67234f387ed25de1956d8 cbfc2b6604df3441c32aedacee0a1d21
+download-size = 1106168 961038
+size = a6f17d8c8aa6ac942ce513703551177e dc9555ff436ab426440008a07228315d
+size-size = 713925 599424
+encoding = 366342a1adc4454c0290d49a2e15abdf d1676f1e587508675facc44e227f13be
+encoding-size = 2790710 2790869
+patch-index = 2f8e15141b2294030d24f58d30ae785b 2e3cb2db1dd341d2bf461503dab89f27
+patch-index-size = 26381 9338
+patch-config = cf90363a3ab134d2cbf1e2baeddf48bb
+build-name = release_24934332_cod25_tu3_valk_repack_bnet_signed_r_ship
+build-product = auks
+feature-placeholder = true
+vfs-root = 91efbb0d1bd7fe6280715b3228afb025 8c8edb31bc2135df0108a5a68e93cae2
+vfs-root-size = 3026683 1924087
+vfs-1 = 91efbb0d1bd7fe6280715b3228afb025 8c8edb31bc2135df0108a5a68e93cae2
+vfs-1-size = 3026683 1924087
+
