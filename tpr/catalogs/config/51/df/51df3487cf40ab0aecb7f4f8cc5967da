@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 206f203dabe6de7ee25c60a8c154aae2
+build-version = 30
+build-name = 206f203dabe6de7ee25c60a8c154aae2-3200
+build-num = 3200
+build-branch = twsmith_catalog_test
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 3129ae3fb90293ff177d4c2a6012f886
+feature-placeholder = true
+
