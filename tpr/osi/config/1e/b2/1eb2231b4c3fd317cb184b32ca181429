@@ -1,0 +1,35 @@
+# Build Configuration
+
+root = b672c720c50cb2c85ab6f0d92379f022
+install = b657c8eb295d5ee4fb8d253a76e058e5 6af0ca3f709777c8adb99c76e3062b9a
+install-size = 315 341
+download = a7aa82b5a86194bf9c8917bd2186025f 9e19a7c32568ea62550bd7b2cff5a54a
+download-size = 3997164 3645887
+size = c5a66840304dd11bf281c88a8e4fe7c9 5100a710045f230cf58e969409cc3071
+size-size = 2506048 2254501
+encoding = c99b2cb864d60dcdb788a838c629e5a5 8a6a3810e2398f44b4d94cb65cff6d5f
+encoding-size = 10592622 10592786
+patch-index = b0f6cb86d48b6feda4960a71d4fe3b86 935b3c3823fc22feb6a87243ee93ceb9
+patch-index-size = 724383 566257
+patch = f685a9672bd3354e90b427bb38914707
+patch-size = 318993
+patch-config = 7a0c7bd28fcf6f2739c97e78fcdca9d3
+build-name = 90898
+build-uid = osi
+build-product = Fenway
+build-comments = 2.9.0.1 RoW Fix Patch RC 1 14:53 12/15/2025 - Child
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 6663977b711e2520c2472436d9cd590400f25b13
+build-source-branch = 2_9_x
+build-changelist = 219953
+build-stream = //diablo2_stream/2_9_x
+build-has-data = True
+build-target-platform = win
+feature-placeholder = true
+vfs-root = 98308c80ac93768fc31ae8bd6c1e6811 4dcd1edcea4f5e4f927f1045444debdf
+vfs-root-size = 575 556
+vfs-1 = 98308c80ac93768fc31ae8bd6c1e6811 4dcd1edcea4f5e4f927f1045444debdf
+vfs-1-size = 575 556
+vfs-2 = fa05d24f00c24ce87363c323a07d0651 48e0e47bd599b2d4b45bc07f75c1cdb8
+vfs-2-size = 11425782 7360466
+
