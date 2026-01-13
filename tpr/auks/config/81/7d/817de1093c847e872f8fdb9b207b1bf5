@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = f0c4adddded9d9d7de537752ef1e9a29
+install = f8b7005a657fab0f66eb91aabbb8184e 2b7ecaf8f8e1a828407f6f8a4fabd87a
+install-size = 3298973 3147159
+download = 4e9248f9c9fff9a37faed2b68364638c 291218ca5a178555d4495c8d955bfd8b
+download-size = 1146565 996206
+size = 487affcd99acda11c881d4e5f63c270a ccf4a3a90b862971a8cf7a2aa05c93ca
+size-size = 739994 622084
+encoding = d67afcb322a09592611dcb80db8a2e53 e14f273224e2e18001a21ece0c6f86d4
+encoding-size = 2893910 2894068
+patch-index = 1f58281be2cdeeecaee9a9c3d66e5998 624844a4c6c1e1cedb111d0ffc51a5a5
+patch-index-size = 25503 9423
+patch-config = 42730ea26d26a03631ed8914b43eba03
+build-name = cert_25210069B_cod25_tu4_signed_bnet_r_ship_r2
+build-product = auks
+feature-placeholder = true
+
