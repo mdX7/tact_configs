@@ -1,0 +1,35 @@
+# Build Configuration
+
+root = 7ad51bddbca7e4dd85691ca798eec220
+install = cba394b352f6cfefe86261bcdab47c1c f294862d11ed223e8f81760be0206710
+install-size = 350 376
+download = 64cdf1b96070190b5cca125d330893de d717dc1e15203c73342a621b38df722f
+download-size = 3997032 3645760
+size = abbd02f8b802f8c2f25744bbaad21c5a 75562c56d3076dbe2f829ccda9ff4350
+size-size = 2505970 2254339
+encoding = bc13937751eab68d9fce8a32d1d7640c 0faf5b98aa92ddadb9b4e7281a99bc3e
+encoding-size = 10592622 10592786
+patch-index = a0b732606b18b54fa15d2bc793eb4bb9 fdb552e9f773fc25be657d32617548f1
+patch-index-size = 704741 553172
+patch = 603b7d27dcda6b333e9a8ef60a9a36d6
+patch-size = 312057
+patch-config = 0005812d1cce8eb3bfef8e0c71f99fd6
+build-name = 91403
+build-uid = osi
+build-product = Fenway
+build-comments = 2.9.1 RoW Eidolon Patch RC 1 15:04 1/13/2026 - Child
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = c345dd4d003c46ccce8f03f036022971e157e40d
+build-source-branch = 2_9_x
+build-changelist = 220318
+build-stream = //diablo2_stream/2_9_x
+build-has-data = True
+build-target-platform = win
+feature-placeholder = true
+vfs-root = 82434b599754ee31091550f7f649ed95 509bf6f1ebf2f02c916311d85824a9de
+vfs-root-size = 644 615
+vfs-1 = 82434b599754ee31091550f7f649ed95 509bf6f1ebf2f02c916311d85824a9de
+vfs-1-size = 644 615
+vfs-2 = dfd6e8d1bd1501f874906562abddf6f6 ef2f24e710beef77024549df12e6134c
+vfs-2-size = 11421320 7356444
+
