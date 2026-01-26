@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 517cdf074b2abb3328f513926c7d2305
+install = e1cf05e7ac19e26d673f772ed48e4d3a 8927570f8b85be3fcad8f3a5e375ed58
+install-size = 112287 109985
+download = 877a93719fe39b16a28231dfe267892f ab3b218abf500b1d06502549e55f0cd1
+download-size = 23701 21521
+size = bcf06c831189c327268bbf7bc1eb58af a07780c6ca6906b381469b951c075195
+size-size = 15011 12934
+encoding = 820df653a772c5d0e8920b54127427d5 349aa3fb51c1ac63b72aea04732574b8
+encoding-size = 66196 66372
+patch-index = 2ef0f189a59e81440a65e1b7e67cd578 795de26432ea4171a0ea055097f585ac
+patch-index-size = 22639 8201
+patch = 00f2a9bf3f81668adffbfcb28cbc9d59
+patch-size = 12681
+patch-config = 513463252c20a82d894d99823e0c41cd
+build-num = 16056
+build-name = 16056_master
+build-branch = master
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 19
+feature-placeholder = true
+
