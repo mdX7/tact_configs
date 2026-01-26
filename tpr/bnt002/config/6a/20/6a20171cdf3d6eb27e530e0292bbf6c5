@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = a8af2ec29fac1babe789f660608d2158
+install = 7b152351eee9bc93f166fb1fb413a4c8 3e1f11fe5c538d70030127f83def581f
+install-size = 112287 109985
+download = bf9b8ce0af5a05016dc688a6b8b3456a 8d8ed636d94acfb38ac3038bc0f25e57
+download-size = 23701 21521
+size = 5e350476b301894c15e99771e10ae1b7 dd3d4f5f6a973ed60d7eb0d6e908d298
+size-size = 15011 12934
+encoding = ff2708b26e0aadf8033d45a2aa91b1f7 ff228e6b072f05582770453851377956
+encoding-size = 66196 66372
+patch-index = 2ea180b1bd237597ae8e2878d5688fda 56fb407cb3cd700e35bd2a3522f1e7be
+patch-index-size = 22639 8252
+patch = 40cc4aaa42f0e737f0da8fef8fce41a8
+patch-size = 12681
+patch-config = fbe62e845b8659e5d197b643c392fbb5
+build-num = 16059
+build-name = 16059_rollback_2.49.7
+build-branch = no-branch
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 19
+feature-placeholder = true
+
