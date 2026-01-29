@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 958040fdefdcb87d1e7c201818e58ad9
+install = 9fac3688642b4474c43b2bb36109957c 2dac1b58a1e406f7edb9d0bf86f40581
+install-size = 1545146 1478563
+download = 1aba20ae6c51790bac5ccfd33238987d cf46e5ee076bafea9fa71068e139096f
+download-size = 577988 511987
+size = faa1781c46a00cfd9411b2f076094111 56fc8bdfa035e5d2765640e2d0f6d24b
+size-size = 368949 314411
+encoding = 787cf753d4f09e91b460f76cfacd9c82 91f1f7f2248025d75d39700b4ddcff53
+encoding-size = 1490384 1490542
+patch-index = f15a5b066491a17695c2383dd3bc0b88 f9f598c648cd4cec57db1a5864372851
+patch-index-size = 1773582 1532868
+patch = 125d746961eee725b8c0eb03e312d32e
+patch-size = 933441
+patch-config = 7fa01d0b506db6ab896412f48ac2fa48
+build-name = trunk_25233570_cod23_sep_tu2_xsub_repack_signed_bnet_r_ship
+build-product = pinta
+feature-placeholder = true
+
