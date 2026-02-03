@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = ec596d49175abb65783a31028b0f7911
+install = fdc2768f2fd5c60cb3bda6d7817be7ac 24770d75103611acbc49a36894eaa5e5
+install-size = 4050 4108
+download = a086852591ac49c350d35880cdb7e518 1f9db34f6532087297349344f6a35f09
+download-size = 911 1002
+size = d5c6708be577017952efae24f7f451a0 af738c4b0bbc3ef887b88e076c2c385e
+size-size = 564 658
+encoding = bd9ed75bdf0f13765ea89d622473268c bb4bdc2907c7c6bde318750235ebba29
+encoding-size = 8390 8562
+patch-index = 90e603d026572fee2c5a5658d0bb73b6 ce65f1617c7340bbbf8cd71be0fe5b3d
+patch-index-size = 3241 1333
+patch = 38fac705d31c0faf372c8c86591958e2
+patch-size = 1353
+patch-config = cfcc586fce40382917dec3e765ca3e27
+build-num = 9370
+build-name = 9370-release-agent-2.39.3
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
