@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 28039151b8ed153232a4eb9179b4c4c0
+install = 91ffade7e4c42bd4e4bac7cad622472b 57b5e126e0d57e87021b435b590eb074
+install-size = 3278514 3127920
+download = 0db4e82dd64cd6bf1576fd401c343269 2d8a509a11ee59f13663b924f60db142
+download-size = 1158679 1006668
+size = d8ac02b922874673bcc49e7a76176d1b 28d255561c19b37976059309c6b70873
+size-size = 747815 627876
+encoding = 6fbec62d579e0b8ac9dfb22f06845fa2 bac08a958225a956ab7e23189fabc754
+encoding-size = 4545213 3248287
+patch-index = 5ee06a469f508cc37cff59a453f1b774 13b94f6560a831d935e0fcca4c060849
+patch-index-size = 20687 8475
+patch-config = 0ebe7f25a806ae3ada045f9b5d9cb0fb
+build-name = release_25575269_cod25season2_signed_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+feature-placeholder = true
+
