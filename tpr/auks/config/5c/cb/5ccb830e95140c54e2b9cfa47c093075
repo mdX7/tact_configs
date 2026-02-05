@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 189736c98550e6486cdd323ce0461caf
+install = 3b59246b223c27fe3d8f939f2414c377 4df47f80367a42cf6ce1d260c2177fa9
+install-size = 3404719 3247239
+download = c78e56447e3fcf440603778b794bc576 40557be8df00047da1471201c2492d25
+download-size = 1163282 1010653
+size = df46f254872ee6da7daca33d6a46ee11 d10e0ca1570e090b51093f3a446fe0a5
+size-size = 750789 630779
+encoding = 1d36bca87c7a8d6f96cb375df0d200bd 2f0d9712e479dcf8b5d7ae05e5ceccfc
+encoding-size = 2935193 2935351
+patch-index = 6c394b61dd5cce374d8dd0267e973386 58a7b5e698b16a6f06ec75e24d7c3211
+patch-index-size = 2911381 1593186
+patch-config = f08ceac3c26ff0d808f08b3e9451c4c6
+build-name = release_25575286B_cod25_tu5_bnet_signed_r_ship_rel
+build-product = auks
+build-type = Release
+feature-placeholder = true
+
