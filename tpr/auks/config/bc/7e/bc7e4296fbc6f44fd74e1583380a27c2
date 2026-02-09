@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 189736c98550e6486cdd323ce0461caf
+install = 3b59246b223c27fe3d8f939f2414c377 4df47f80367a42cf6ce1d260c2177fa9
+install-size = 3404719 3247239
+download = c78e56447e3fcf440603778b794bc576 40557be8df00047da1471201c2492d25
+download-size = 1163282 1010653
+size = df46f254872ee6da7daca33d6a46ee11 d10e0ca1570e090b51093f3a446fe0a5
+size-size = 750789 630779
+encoding = ac2519ff4709b3d5873a3eada0744dd1 5f7ea653ea25a3e21536885740bc0a0c
+encoding-size = 2935193 2935351
+patch-index = f83bb27f9da799ef6e9ebfca545f487f 25eb57ae01b84a85ff07985eb7a95ffd
+patch-index-size = 17663 8176
+patch-config = 1a9d4609a735726cbff8bda995cd3e60
+build-name = release_25575286B_cod25_tu5_bnet_signed_esp_ship
+build-product = auksesp
+feature-placeholder = true
+
