@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = a1fa0a0525f916ef116709843fe6a3a9
+install = 637027b4a74ee58c35b311e4e9ab78dd 04373e9508a588fd9f02ddea9003b629
+install-size = 3404719 3247239
+download = 9e30c3f7439306535ce9f92d93541c77 ac7d3953440b0c57b83e49491d511ac7
+download-size = 1163282 1010653
+size = 532871c648222f9ebf860c4bebf329cd 203fc216876083ec899cac41315e1665
+size-size = 750789 630778
+encoding = eff34209a83a2feaf51ccba31500f3cb 45865613dcc7c8d0b5e5b2c6ab97feac
+encoding-size = 2935193 2935351
+patch-index = 0b1ecc2afb6136c3d0619eb775d14e2f e589b95596fe21c77080d33eba30c852
+patch-index-size = 24271 9458
+patch-config = b31844e9659eaaa705d691716bfb5cb9
+build-name = etu_25575286E_season2_signed_bnet_r_ship
+build-product = auks
+feature-placeholder = true
+
