@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 1d0057d22754e3c8af7837c9ed3c6499
+install = 1042a17a39dee3454a390ddbb81d3154 0042027c11f93973059f11233e5a6b80
+install-size = 4050 4108
+download = 1e7b8dd50212bb8579a52c89b1b40b74 26041c24d6dab01fb096b1a370988f12
+download-size = 911 1002
+size = 5afb1b11b59cba6aecc2c3721cf13e4b f12d8e93d7fa5cf4752c36c8fe241998
+size-size = 564 658
+encoding = fe5cbb02d684c11daa3ee6921a7c68e3 bef6eb12bfe447412ea9e5c26920c8aa
+encoding-size = 8390 8562
+patch-index = 30615aab97abcfb198d357fc6b6e3135 5d970fc382abad4692a7eb0fc8ad6d6c
+patch-index-size = 3241 1329
+patch = e11737d8f96eb4b670568f3db16cb533
+patch-size = 1353
+build-num = 9390
+build-name = 9390-release-agent-2.39.4
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
