@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = bcb8609368536415bde37981a3ac933d
+install = 4154085060f11dcae7fb3dd786343737 1bbdd1103b838dc1919a5ad280f2cd06
+install-size = 111566 111419
+download = 27acb3626a0026d80fcd2d64ba7ab298 0664b360e469229dc4cb9c83cdca3592
+download-size = 38628 38507
+size = c410e92504b54ee749c9eab257bf8835 e16833f5d5183b5e7223655c786004ca
+size-size = 22927 22806
+encoding = 2aa7d0f283910dfc8f1a8589ca8b7572 93386eabc4cc48810797f2c81d9f5394
+encoding-size = 115725 115903
+patch-index = 187bdb485657068be2f25a4ab856ef72 46c2f6c9f36b492d7661dd34f98b716b
+patch-index-size = 1777 794
+patch = 9c3850a41f503e85547c4acea5b91522
+patch-size = 831
+build-name = 3443100_row_submi-4.2.3
+build-product = anbs
+feature-placeholder = true
+
