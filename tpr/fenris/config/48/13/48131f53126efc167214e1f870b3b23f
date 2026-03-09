@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+install = 7e07ac53082e847a44694367424ca4a6 a78fe13fd12e7a3561aeba552ca04bc4
+install-size = 5837 5384
+download = 194b14c4e65c884441c06d060a4bd014 50ab50a28d457007c5d1c2dbf84c0b24
+download-size = 35259823 30049680
+size = c4418ba413f2cd9ac5dacb920fea63b7 8da579f917e4a0eee11806e250cd0e13
+size-size = 23170838 19634800
+encoding = ade0008373999134d49b0a71dd9bd787 8729932f66482df233b78a668d7df6f8
+encoding-size = 93976477 87424351
+patch-index = 886363a37e7152b240f4d83ef0724c46 6959700c56e0afba8197407328063177
+patch-index-size = 19342777 13591495
+build-product = Fenris
+build-name = 70982_Win64Client_2_6_0_ebgdl
+build-playbuild-installer = ngdptool_casc2
+build-uid = fenris
+build-timestamp = 03-04-2026 12:09
+build-creator = rclaudy
+build-comments = [24103192-24103211]2_6_0 - Season 12 - RC4
+build-branch = 2_6_0
+build-type = BGDL
+feature-placeholder = true
+
