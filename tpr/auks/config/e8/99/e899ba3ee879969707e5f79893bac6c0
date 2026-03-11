@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 4638de49ba2ef0aea30e1d3e5c01f962
+install = 576f18dfce34e3f64397f29eb2d446d2 1d154f01cde8c3cca19a0b0311ae2016
+install-size = 3705331 3533485
+download = f6aa7b4c9d30fd33c6e861a1456cea44 3cc4c0597cca5405bcbb770852477fc7
+download-size = 1268140 1101660
+size = e0d70d7c10b5c2d07e570c1b53c83bc0 2d7eca384f6471364412f1878e716c83
+size-size = 818450 687167
+encoding = 5d744b0fc536cd329c4fa4a1bd1ccdc5 9cb3c92784931cf9f43a46ece68827fe
+encoding-size = 3199385 3199542
+patch-index = 5f0e22b4c53fd322a596f0e060aa6267 e79d4cd832676d10877afab7e45c4f01
+patch-index-size = 3287740 1802903
+build-name = release_25925051B_cod25season2_5_repack_signed_bnet_r_ship_rel
+build-product = auks
+build-type = Release
+client-version = containerless
+feature-placeholder = true
+
