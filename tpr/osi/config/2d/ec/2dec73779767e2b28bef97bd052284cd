@@ -1,0 +1,35 @@
+# Build Configuration
+
+root = b53f674623e6e99db75dfd742372e63a
+install = e77690402b5e91cc4f07ea7a5c2c1c06 1993da5cb1c5d20e4729ecba80dbf626
+install-size = 350 376
+download = 5ec26a4732bd5393397d6a00b322234f b11d44bb7becdd8ec93f255fa37b9a13
+download-size = 4068056 3710518
+size = 99e3ee5f62920360372a22853d44c751 3dfcfceb2e54857dea21b3429f30bcfb
+size-size = 2550498 2295788
+encoding = dfd9f4584fa5d278d4141803b6294514 1080d37dcea6b9d4b430502f66598495
+encoding-size = 10778382 10778546
+patch-index = 9a9d49607b69df41722911d47ee15305 3b2729fbc50b9eaeb296130b6b5db2ae
+patch-index-size = 851385 701769
+patch = a112f0340d1751dab4c64b58e344a244
+patch-size = 406967
+patch-config = 21bfb9cf5f5427b9b0afbbda9c8e35bb
+build-name = 92029
+build-uid = osi
+build-product = Fenway
+build-comments = 3.1.1.5 Hotfix RC 1 15:25 3/12/2026
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = b3e6eaddb2023d628b14adf8aee305c70523481c
+build-source-branch = 3_1_1
+build-changelist = 220844
+build-stream = //diablo2_stream/3_1_1
+build-has-data = True
+build-target-platform = win
+feature-placeholder = true
+vfs-root = c3b3994c5ac08d63f73d29b946b0f889 6766d337f7e9ef2a2ca219869f84c298
+vfs-root-size = 725 698
+vfs-1 = c3b3994c5ac08d63f73d29b946b0f889 6766d337f7e9ef2a2ca219869f84c298
+vfs-1-size = 725 698
+vfs-2 = 633119c2e59c1e18b5294f906d0670f0 98a7763e1e7268e1b84f3e91a574bca0
+vfs-2-size = 11727148 7542926
+
