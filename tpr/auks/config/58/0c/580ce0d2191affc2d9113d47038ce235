@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = bf887b2bc6f11d2f59dbcb67a91e119e
+install = af95b2444865c43251599b6be0dea356 0fcce36334b05929c3a6a78f1e19887b
+install-size = 3705331 3533485
+download = ad51162c89d0b951988bafb04d91d403 fe9dc5e46b9c4615d599a24809fd6101
+download-size = 1268140 1101660
+size = 8e67c031bfdc39ed1e569af3819759a5 374e2615809af0d86ab0e3d266f6d639
+size-size = 818450 687167
+encoding = 708f66b85240739c64a1cdf01c1c3101 83ca92177dacb0f8a92a6c37ebe995bc
+encoding-size = 3199385 3199542
+patch-index = ac4fdde9fa5f4a73a565df12b99e76e6 209e03d146c06f2e19d0544a1c4276d4
+patch-index-size = 27425 13375
+build-name = release_25925051B_cod25season2_5_valkyrie_repack_signed_bnet_ship_r
+build-product = auks
+feature-placeholder = true
+
