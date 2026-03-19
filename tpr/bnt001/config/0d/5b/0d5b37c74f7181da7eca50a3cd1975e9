@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = fa4714f403f7f500f1cc4ee55bcbf8b8
+install = 885ffc533ef5c025095b325a4e3f6543 415324bf644d5d5b936de616c6d6d3ce
+install-size = 4050 4108
+download = 81f24683dc14c2d99a067428e02d5eff a9705e848252b5c6c20c65aa489a4f2d
+download-size = 911 1002
+size = 04809e016d151ae6b4a69442bb349798 a990469e15a8c3d38187aa8c1907e192
+size-size = 564 658
+encoding = a5417d1a0905449d5c95bd4491fb8d53 c31044a9a74af5937da57fb3d18f865d
+encoding-size = 8390 8562
+patch-index = 7c7c0adcdab400a320dd928111c0c3e0 3f5f2907c1c9d0214dc4e9f39e340e00
+patch-index-size = 3241 1335
+patch = 725be4bcd8faa27ce2ab2f7387a15982
+patch-size = 1353
+build-num = 9414
+build-name = 9414-release-agent-2.39.5
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
