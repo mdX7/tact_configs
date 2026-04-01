@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2572d55de49cf0650c8e4207d9997322
+install = a004df7c37cce5e5d20d7cfbed26815f c05c9c05fda764288572e7106eebe804
+install-size = 245 242
+download = 0aaed9c804ab19384b98f074c673753b 5858f3a75bbadc6556d7a8efe560bf8a
+download-size = 234 257
+size = 7f44e35122c73776be0be621dbf5433d ba2b411604782197d0cb568f0eccc58d
+size-size = 229 252
+encoding = 74e9d0a58b8ee25af33a5d97634d2491 fa4e1fec73e766f989171a7177e4bf13
+encoding-size = 8396 8557
+build-name = magma_22330203_vk_valkyrie_brynhildr_r_ship
+build-product = brynhildr_odin
+feature-placeholder = true
+vfs-root = 41091a34bd892d0b6bdcce849b5e82de a24bd5cbe1bac467d247d37324b9539b
+vfs-root-size = 125 152
+vfs-1 = 41091a34bd892d0b6bdcce849b5e82de a24bd5cbe1bac467d247d37324b9539b
+vfs-1-size = 125 152
+
