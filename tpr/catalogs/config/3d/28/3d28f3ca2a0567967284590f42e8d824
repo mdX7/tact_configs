@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = dfc750cccb8408ceebc3ceec825da01b
+build-version = 30
+build-name = dfc750cccb8408ceebc3ceec825da01b-4725
+build-num = 4725
+build-branch = main
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 517514a268848cbacb3949053c9cf926
+feature-placeholder = true
+
