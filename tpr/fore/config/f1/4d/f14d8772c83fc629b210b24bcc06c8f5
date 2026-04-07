@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = e2bf978f659987201842911dde54973f
+install = 93a444b0a7ca53bb3538ba28cc68a9f9 ab2bac43f752feadaaa4ef54d021d5a2
+install-size = 6151 5836
+download = f371159d4d496ae7f474f338bf55f589 a7016dd3bfd15f3ae742f09d00e5562c
+download-size = 248055 220335
+size = 3c6b5d41fc500ad768427a11ec267238 567f708d21468827b85ade99f0b12f03
+size-size = 158383 135419
+encoding = 299f672330a71623916f5bce14d84c02 5d06955c1b5fdae00e887104b26f76ee
+encoding-size = 644128 644295
+patch-index = 9d738d2cbfdd231f593091225da5acbd 86d87270eef480de1cd8cb09c97cf8ef
+patch-index-size = 6251 3575
+build-name = 20260225__S4_TU27__v26122688__BNET_Signed_r_ship
+build-product = fore
+feature-placeholder = true
+vfs-root = 6e2dd3d674bf09403dc89532594cdda2 0dd3226e430dffa0cbb23b6e828ab329
+vfs-root-size = 698644 398378
+vfs-1 = 6e2dd3d674bf09403dc89532594cdda2 0dd3226e430dffa0cbb23b6e828ab329
+vfs-1-size = 698644 398378
+
