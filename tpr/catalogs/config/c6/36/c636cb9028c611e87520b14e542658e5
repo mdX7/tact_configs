@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 201a0feb24d1f247888a09e6e0f99742
+build-version = 30
+build-name = 201a0feb24d1f247888a09e6e0f99742-4739
+build-num = 4739
+build-branch = twsmith_fix_wow_backgrounds
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = f735ffed6c503a657b9940a3e855fb36
+feature-placeholder = true
+
