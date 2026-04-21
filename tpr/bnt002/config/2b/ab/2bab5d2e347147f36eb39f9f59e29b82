@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 7b63f7b1575c77fac7e21f21cb97fe58
+install = 3f763017232e052287ee883900820b5c b3085fd0e1c60df9adfb001d0ae624ee
+install-size = 125859 123196
+download = cc8b3cf2a3fcfaf05a99f858f5a1702e 59f63051ac50a06279d92b8f7ae7b99f
+download-size = 23396 21234
+size = 247d99739f0077ed15a2e5e16224237f 83b05fe21b732f06882853e5ab7fc0d1
+size-size = 14823 12756
+encoding = 90294d8b0362330941fc546f4daeef29 4e9667745ac06e2c64b7225e72dcd957
+encoding-size = 62068 62245
+patch-index = 1e2bdae542c7ca8cbeb632e8fefb0f2d 09cf828a66912e6330be69d3910c43a1
+patch-index-size = 35693 13077
+patch = cfb38b12d7034b4efb76a34f4655fe38
+patch-size = 17857
+build-num = 17379
+build-name = 17379_release_2.51.4
+build-branch = release_2.51.4
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 21
+feature-placeholder = true
+
