@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+install = f924cb38fe6fe4e2589d72e3dd578a5e da8fcaa59aa7a47981ae6b8b1a627151
+install-size = 5854 5412
+download = 155a094449ad59d1fd5fa63a45917caa 6f4a9ea2152695d72ed1da61b1f19d34
+download-size = 44723488 38258265
+size = 41ecd64f17bf72d117c62b98ddf0f93e e144d58e357a255ee4e60fffb2303067
+size-size = 29316446 25069005
+encoding = 93d81076246d636a40d545acdaa1ca74 a255e492e4374c7e60da0ac8a302a646
+encoding-size = 146650437 116520521
+patch-index = 038001c0fce11647740bd7246cca2156 a6bc0741114571bdf1191b6a656e22bd
+patch-index-size = 47132790 27768950
+build-product = Fenris
+build-name = 71566_Win64Client_3_0_1_eBGDL
+build-playbuild-installer = ngdptool_casc2
+build-uid = fenris
+build-timestamp = 04-14-2026 15:39
+build-creator = cbispo
+build-comments = [24216535-24216647]3_0_1 - RC 5
+build-branch = 3_0_1
+build-type = BGDL
+client-version = 3.13.1
+feature-placeholder = true
+
