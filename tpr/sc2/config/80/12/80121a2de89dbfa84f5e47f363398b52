@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = c83ecff50a077219461434cf97bb5497
+install = a93f9986c01c572a3f69c73245c23817 8b9b121b9e13418b5d3931ea6609c2d4
+install-size = 14736 14044
+download = 5c1cd9d3d043933e6d2d428231c9ae18 c3df1e6e813aaf57dbb388b5892f4fda
+download-size = 15203217 13400539
+size = 655086c96f55578e3c865036cbe11853 b38c4a5a522b910f529dbf776349f783
+size-size = 9730132 8725730
+encoding = d155d5e2dba3f63e4e198f2dd2a027dd 42c74e6e782d264073e0b17b87cf071f
+encoding-size = 46325289 46172897
+patch-index = 22dd30802f20bf481ab6e4372caab748 b2bb2e8bcb8d4c58ccaccbf21bea474b
+patch-index-size = 3851 1652
+patch = 916360cc07f491624660d5335b1d60d0
+patch-size = 1781
+build-name = B96921-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = ac7f194bbcc53430259ddd5283379831
+build-replay-hash = decad85d0321c68118adf9610164dc17
+feature-placeholder = true
+
