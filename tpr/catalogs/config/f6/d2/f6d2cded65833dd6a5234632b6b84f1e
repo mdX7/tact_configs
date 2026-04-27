@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 25f9da82cd3745569de9bccaef5868d6
+build-version = 30
+build-name = 25f9da82cd3745569de9bccaef5868d6-4774
+build-num = 4774
+build-branch = twsmith_catalog_hotfix
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 3b21ee7767a393557e68918eef467849
+feature-placeholder = true
+
