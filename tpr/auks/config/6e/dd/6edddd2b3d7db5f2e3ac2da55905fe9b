@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = df600d1db39276069543d9e185496e30
+install = 86f1ed7c6f47665c3c68ddee6ea11f97 1d3848674edfbcb0fa1d37e833934017
+install-size = 3905390 3724984
+download = c0bc0c23f59b5d004f373fac29f4c9d4 f4fdc370d0be5b3995d6a6ebd213983f
+download-size = 1361520 1182881
+size = c583f066fa3d3e020770c70863371fc4 ba07254d6139ee3ab957aba264b62e1c
+size-size = 878710 738995
+encoding = 82412f5475d51d5d3a74513cca5f3c1d 309b65102279746137146a0029124585
+encoding-size = 3434680 3434835
+patch-index = 25165a2d32ce4d53689cc5d5f4db7fce 33dcb0a9b12003cc5a6e2838272eb833
+patch-index-size = 3634509 1991770
+build-name = release_26714606_cod25_season3_5_signed_bnet_r_ship_rel
+build-product = auks
+build-type = Release
+client-version = containerless
+feature-placeholder = true
+
