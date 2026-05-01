@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 14be0e6b62f890ebffef1353ed0162a6
+install = ff895ae091c92402a8f23c8a99f6c7ae 9ede42287c42a2b2cff14bcd5fab8b2e
+install-size = 14736 14044
+download = d9d95479125421efd1d4e78e22fe97b3 df9b811b5a8aafbd07d1112206b34c76
+download-size = 15203217 13400539
+size = 21373dcade72fd2b95f083dc895f8d5d 142a887776e9028acaefbd23b6541a61
+size-size = 9730132 8725730
+encoding = 9b5a5292f9e7bc255df8ad051a2a7d20 1fdd7d28aefb5848938196736d35845b
+encoding-size = 46325289 46172897
+patch-index = 91e6057f677423c5739ef1c2f8989298 5195fe9c49c34ea06f80da1ba30d26a0
+patch-index-size = 3851 1657
+patch = 25b24665a3866ddd02cd53384a3746e7
+patch-size = 1781
+build-name = B96990-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = ac7f194bbcc53430259ddd5283379831
+build-replay-hash = decad85d0321c68118adf9610164dc17
+feature-placeholder = true
+
