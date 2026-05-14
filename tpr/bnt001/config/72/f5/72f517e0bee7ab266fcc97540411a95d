@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 0170d014d4567d3599cf96825949a276
+install = a9a6416f4cf791ca3280e3e3bb17a0a5 c6d50e4f21fbf11101a600cb701369b9
+install-size = 4050 4109
+download = c325d0f67d69941772e84ab7223e94e1 faed67d2fa21416923917587126676d4
+download-size = 911 1002
+size = d76445c2d75b323bad3b18f9d91bd3d5 edc9a5c8101c657c3e3dc5d51616c1e0
+size-size = 564 658
+encoding = 7779d628c97f8750d37c85628efc66a4 d28d9ef66b881f5724808ed87494e027
+encoding-size = 8390 8562
+patch-index = f270e2c8d6dd3dcd6f8ab528f3cb09d3 47689a777572ecffa33278d925c6020b
+patch-index-size = 3241 1332
+patch = 4df07ee62d37786a07eb1d927fda4669
+patch-size = 1353
+build-num = 9450
+build-name = 9450-release_2.39.6
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
