@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = bba6dbc3bf0de5448baa41174c849625
+install = eccd3317b1a7c18399443becf6d6623a da912f026376ca24180989dde19d1f27
+install-size = 6333 5989
+download = 1fc0539d298e3b43d8a5009896a4b8ac 453219f16f486331b18bc348ef0c5d20
+download-size = 1615503 1417221
+size = 535012aa549996eeece2101450ee4f74 d2293f0a7120ae9620b699123a425a97
+size-size = 1036897 860353
+encoding = e6ba80b3ed789531852c1ce1e450ebbc 41b5499281a56c551a9b4dd5d78e5f6f
+encoding-size = 4111655 4111820
+patch-index = bd8aba8f307822dfaf95b42e9c188758 eebb1ccc8c09bd767862f973b3c83a66
+patch-index-size = 11515 5546
+build-name = magmarelease_26668155_TU_OTRN_04_13_patch_r_signed_ship
+build-product = odinv8
+build-uid = odin
+feature-placeholder = true
+vfs-root = fa4c311992ab5425006ae9fd0f9528d2 98ed7ab38eea9a5bf615b0950c59bee9
+vfs-root-size = 4373101 2451422
+vfs-1 = fa4c311992ab5425006ae9fd0f9528d2 98ed7ab38eea9a5bf615b0950c59bee9
+vfs-1-size = 4373101 2451422
+
