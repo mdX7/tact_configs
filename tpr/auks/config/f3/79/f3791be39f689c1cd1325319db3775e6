@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 3e04d0bce7c7733e24a9584b60a7cb0a
+install = 86f1ed7c6f47665c3c68ddee6ea11f97 1d3848674edfbcb0fa1d37e833934017
+install-size = 3905390 3724984
+download = c0bc0c23f59b5d004f373fac29f4c9d4 f4fdc370d0be5b3995d6a6ebd213983f
+download-size = 1361520 1182881
+size = c583f066fa3d3e020770c70863371fc4 ba07254d6139ee3ab957aba264b62e1c
+size-size = 878710 738995
+encoding = 177c15fde86402f1b162e5a50ede4c08 d4a6530627d92f76afdbb0bc5b083864
+encoding-size = 3434680 3434835
+patch-index = 2dfbe6646eaed71180461c024a627cf4 7e203a2ca9695cc31503a9e680ce5274
+patch-index-size = 36590 23743
+build-name = release_26714606_cod25_season3_5_signed_bnet_esp_ship
+build-product = auksesp
+client-version = containerless
+feature-placeholder = true
+
