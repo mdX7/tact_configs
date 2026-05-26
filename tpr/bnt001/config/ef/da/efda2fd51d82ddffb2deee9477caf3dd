@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 33410ff54f8a0c9cf947d094a970c66c
+install = 6aaefa495ce3b546a383a73e7b560a16 9b9eb89b3a88c147577e9ee710dae1b9
+install-size = 4050 4108
+download = d941c85a4772d6122ca2ca775456a3bd 61eae42a05a885128c928341357c0771
+download-size = 911 1002
+size = cd8ec6e9c3144917e8b05c18b0feb686 c440b7acba6438d34e6fed9d12a72d08
+size-size = 564 658
+encoding = 8cdee9b665493ca86e4dce788d320f05 d84886558fb90b28ffd6ca570f171cf8
+encoding-size = 8390 8562
+patch-index = c0652c4b0a2c82d9533712ffe45e50c1 955a4202a555d5d4fb26e8af4a5564b5
+patch-index-size = 3119 1274
+patch = e33bd158f133d2c4785bdabc8627a9e6
+patch-size = 1289
+build-num = 9464
+build-name = 9464-release_2.39.7
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
