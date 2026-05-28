@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 695836c59ad80f4493eea7dfd71d38be
+install = 380c90093d1e7efee2065a50cdad7edb 26d893f24c34179fcdfd85240403283d
+install-size = 3986751 3801189
+download = 3e3d6a510050cb2b02557c332c6be65e dd5814cd1ed023a00009a21f91d66a21
+download-size = 1364521 1185477
+size = 5792f08194c571cb6addcdcd5f63935d eb1b838b3d7fd6713789cffa647ef6ff
+size-size = 880649 741033
+encoding = 1e5d81605ece4c5c8ec2629bbfe70242 2e681d5892210c6127e7fd436d6048a1
+encoding-size = 3438810 3438967
+patch-index = ecd3ebc59360c8aa0fe3499049123f8c fdcc3de206c617f64213426c9ed86f70
+patch-index-size = 37565 25170
+build-name = cert_26981714_cod25_season3_75_signed_bnet_r_ship
+build-product = auks
+client-version = containerless
+feature-placeholder = true
+
