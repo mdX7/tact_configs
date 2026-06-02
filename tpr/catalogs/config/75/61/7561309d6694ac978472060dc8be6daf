@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = fe265cdb3fc1b354adc623b4aff2b337
+build-version = 30
+build-name = fe265cdb3fc1b354adc623b4aff2b337-4836
+build-num = 4836
+build-branch = main
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = a4070b430959978b8fc9eaaa78f2c686
+feature-placeholder = true
+
