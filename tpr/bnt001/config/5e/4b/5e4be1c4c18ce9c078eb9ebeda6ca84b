@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 333d55a966d5f5a1294caa15a2a87a37
+install = e5c0be18bdf7f7dcbd1a2592ea0e132d ccee25d57f6b010142f3faae3ae8c91f
+install-size = 333 402
+download = 0074cbe02aa27b2797e9cf26f2d38399 70e4625a8e84e3da0615f5eb87b4001f
+download-size = 161 255
+size = 7890d9f0f07c9d0452a26f70d1d20ee4 a1a8b3489b02a57f2f0eb723b1f23aaf
+size-size = 111 205
+encoding = c025fb824ee4bcc248c81a6b6cc6ba59 c6583570c8582b5c8a9b6a029a1921df
+encoding-size = 8387 8556
+patch-index = 2a74f68fda9cbfe384b9e34e999cd456 f023cec9e4e63e1e81998d6eaf5400fd
+patch-index-size = 679 336
+patch = 54b0050ca7632e57d71b9b7fbde79604
+patch-size = 361
+build-num = 9680
+build-name = 9680-beta
+build-product = Agent
+build-uid = agent_beta
+feature-placeholder = true
+
