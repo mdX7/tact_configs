@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a4bb8a78b8444c782761334799672c2a
+install = 1f4b500478785cd415a03f5f6bf9511f 9752ad32edbeb2cb06f5b6a86797bac3
+install-size = 5090 4656
+download = 71c258500ee0d233e8d2087bedad38e5 ed89efaa96d6a06ae5218c5418b06bf3
+download-size = 166751 141294
+size = f1a9fb1e015541a8b3b6a511e99a276b ff554af29d7fd47adc3290973a33b9ad
+size-size = 109416 93319
+encoding = 83ad5d0a1c782544fdfce100cfa089cf 3724aa3ed6a0884d1f09455fc752668f
+encoding-size = 412959 413123
+patch-index = 1df7f2f7f7cc2f76f4a27eb2d37f59e2 399d3cd4d538a58e11dec413b9116489
+patch-index-size = 11039 4484
+build-name = 2026_05_13__TU35__v27007542_Bnet_r2_signed_r_ship
+build-product = zeus
+feature-placeholder = true
+vfs-root = 7eebe987064b3dee366de6a7670620c1 e7c5428895e9567c9cbe1617343c70e5
+vfs-root-size = 403675 266708
+vfs-1 = 7eebe987064b3dee366de6a7670620c1 e7c5428895e9567c9cbe1617343c70e5
+vfs-1-size = 403675 266708
+
