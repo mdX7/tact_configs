@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = a8acdc1ea45454f1ee329e3bbe1e11a1
+install = 0a67eddc3177cb5a2816556b373b11d5 6bdde7473f6c67e7abc21369659c1db9
+install-size = 333 402
+download = 2d8c760334fbaeb292c4fedaef9ba9ac d068ec2aaa6cd87cc67b34eec8c67efd
+download-size = 161 255
+size = 73a263ebd0475f00ef5d3c559af7601f 28bb696c68326f2bef6975903cb90d08
+size-size = 111 205
+encoding = 0502539215e5d6f10cb0939597a37aa0 4a5e2ddfacf4ab668d1210d7dcff3deb
+encoding-size = 8387 8556
+patch-index = 64eb0d93f4f639d68745c3f6157c986b 3a598a0de64c54935df5062e17db0060
+patch-index-size = 801 396
+patch = c35380723a2a7e1278ee11641f97e18c
+patch-size = 425
+build-num = 9691
+build-name = 9691-beta
+build-product = Agent
+build-uid = agent_beta
+feature-placeholder = true
+
