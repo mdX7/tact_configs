@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 6ceb35d18be11efde9e4c17991dc97d6
+install = ca0ba2c37c7acd70aeade41d3afefb9e 9ecdfbc9bb6add2f1ff84b1183fd9db1
+install-size = 4050 4113
+download = bbc7896d8b66d1159b89e7e002ab1661 a2f916fddc1ffb3e7258a06a2a69c9e9
+download-size = 911 1003
+size = c7c449b7903935b43c3de6e0c9c6fc82 99957ad4fb8a819925d065bd5409d096
+size-size = 564 658
+encoding = 4bf89d883a645c64cf9627b7c44bfd6d 198a56edf17220f7cc364ea04a76ffc8
+encoding-size = 8390 8562
+patch-index = a3c254948fc34c4e8cad12918f2dfda2 c2ebb9a81a562ac01f08223b24f1aa74
+patch-index-size = 1289 565
+patch = 18a64d70855e21d6d6fb4d482e0c0872
+patch-size = 593
+build-num = 9695
+build-name = 9695_release_2.40.2
+build-branch = release_2.40.2
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
