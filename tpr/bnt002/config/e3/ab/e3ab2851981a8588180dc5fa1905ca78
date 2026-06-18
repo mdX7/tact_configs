@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 3225fd7f11b56ce5f12c6bdbb2c4ea79
+install = 1af6ce213dd68581486333eac690e97f 5ad92730ed8c60fa8d6f89eb63c26d1e
+install-size = 125951 123288
+download = 8373c66ed269c5ee42766f40df952771 23aaee6acd22d13fbfabfb9e2300a37e
+download-size = 23418 21256
+size = eeb183a3dad3ac39b0b23889b1607f58 1e2a3b985bc608479866f2ad25b7aed9
+size-size = 14836 12767
+encoding = 72e302d0510f9d2d59deb015ea01cf03 82e1ff879fa34a1d72a7a42806e02649
+encoding-size = 62068 62245
+patch-index = d074b9f6afa29c207a712a02b206ff69 966c2a234a08b9ad3b918d8f157bd18f
+patch-index-size = 37157 13497
+patch = 08bfdeeec134c63c7468b42f161564e1
+patch-size = 18361
+build-num = 17477
+build-name = 17477_release_2.51.6
+build-branch = release_2.51.6
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 21
+feature-placeholder = true
+
