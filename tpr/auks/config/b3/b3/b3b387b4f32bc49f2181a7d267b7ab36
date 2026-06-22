@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = c33bcae8c67281ecf6d027113848106c
+install = ab8c33a213136a238894e916727ce643 1d490de98fc2c5f10c937a8ece7f77ab
+install-size = 4071124 3881583
+download = fe73f0f188508ded23a7024beb8bb4ca 5518b5a4bbb4a0e28909a3eaf9498693
+download-size = 1435708 1247316
+size = 5c8db3008c597b51dc61eba9c4191bd7 347c8d94ebd51aa58d225b2fb7cbeda4
+size-size = 926591 780133
+encoding = 7e18e7acae59f1868f7f236989a467f9 ad49a5253f3d57ae9476827e8580d848
+encoding-size = 5724696 4039991
+patch-index = 35af9c706bac6a18290b71d67e5ef9d9 ad51405ec508f53e95ff2125c6cce93a
+patch-index-size = 42238 26161
+build-name = release_27503355_cod25_season4_5_signed_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+client-version = containerless
+feature-placeholder = true
+
