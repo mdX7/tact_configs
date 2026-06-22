@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = f8bc2ff9b1813f6de20c446ef3f80656
+install = 45bd7139932968308eb80e9085a3d914 a482fa00314c31b1646557dece36ef83
+install-size = 4050 4113
+download = fa60f4b6e29e46cac95161de189d3e08 91e0c60939c3c89d10af946627a3f3c8
+download-size = 911 1003
+size = 7b9e9766a429b813b3a38e418d61df5e 599ab384594f070f8cbf5ea84534aad7
+size-size = 564 658
+encoding = e64b6c6f2680cbfd3da92bcc46add4a6 9705c84bdb4c0a8dc3b94c001ee4c5d0
+encoding-size = 8390 8562
+patch-index = 9abf4633930e4c7c5ba5ae5d52a5f2bf 7779aea94cc42f4d1643e257b06eda2a
+patch-index-size = 1655 758
+patch = 0770507ab62df4af0488f37d9f3030f4
+patch-size = 785
+build-num = 9700
+build-name = 9700_release_2.40.3
+build-branch = release_2.40.3
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
