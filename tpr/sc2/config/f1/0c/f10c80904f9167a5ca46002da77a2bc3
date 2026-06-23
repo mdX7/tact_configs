@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 63f7f03b5c81b65e34dfa7f9d61b136a
+install = d1014764f80783ec7ea4954d04afeb99 9dc7cd20a3f346c8f6501dd97dbb8343
+install-size = 14736 14044
+download = 80dbc99ccf983bc35942f51680e68a78 37a4403c145870a652bc671ced71a90b
+download-size = 15203239 13400653
+size = ede39de86029f8fe546f3ca770f9a1dd 63d333d64124699272a45862958d85cd
+size-size = 9730145 8725835
+encoding = 62f97b2507663c4247322bda294a1b15 ab93e433f7602523f2c5bab884c85556
+encoding-size = 46325289 46172897
+patch-index = 64ca907c264849c0d503c01e4af1b598 6240b969549a2868c3f47cd070c8c5e3
+patch-index-size = 3851 1661
+patch = 50de4e2a42219647a000fd72717122e4
+patch-size = 1781
+build-name = B97377-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = ac7f194bbcc53430259ddd5283379831
+build-replay-hash = decad85d0321c68118adf9610164dc17
+feature-placeholder = true
+
