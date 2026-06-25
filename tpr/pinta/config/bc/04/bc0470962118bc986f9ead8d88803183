@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = bcb0cbe3f18387b4ff1520ef1e483262
+install = 922188d4545e8fe203e336969cbe59c3 2f14150c893d8d5a92edba23c807dafb
+install-size = 1711846 1636087
+download = 53325d6756ffb2952dd7be84ca6578af cbcb7781a64a2498798a38dd3131af92
+download-size = 577966 511951
+size = f2c9079da8a63759cd394dab37b0de39 716572772baf5e9816b53c39423d36da
+size-size = 368936 314350
+encoding = 86a7f2c217d872f4791ab8aa59c721ff 93e306098c8b59d783f2b1934faa166d
+encoding-size = 1490386 1490544
+patch-index = fb8a31df4e6b413daa485a609c6125f1 c73d35eab20e24baf6a88fd35fafccfa
+patch-index-size = 887590 767406
+patch = a954cca4e3eef5a2d501a40fa90985bb
+patch-size = 933889
+build-name = trunk_27531944D_cod23_sep_tu3_signed_bnet_r_ship
+build-product = pinta
+client-version = containerless
+feature-placeholder = true
+
