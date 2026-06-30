@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = c3de662d9ca80bb03970fddc112b5723
+install = 76b7033ba04f69c1cd5898d7b83ff52f 095e15ef6371d086572d33715cf2ad0f
+install-size = 14736 14044
+download = 6cb3cd6b9f2feab1c820e32a806532e6 52a4b012df5f4c3d47320ab90f0008d5
+download-size = 15203239 13400646
+size = 5fd606dfc7bd68d9ee42889ceb673a66 2fff4d7f3a78bd130c7e6439361dd314
+size-size = 9730145 8725723
+encoding = 6ebf6322aa15f72bf08065e45be55963 d197485e1fc53ef586d103eb0e60372b
+encoding-size = 46325289 46172897
+patch-index = 095e348607aeb342d4a886f0082a317d 854481ae783f66b066fc8d544ca4c046
+patch-index-size = 3851 1662
+patch = 0e0786952c95b91f5d001220411aa3e1
+patch-size = 1781
+build-name = B97426-WIN
+build-t1-manifest-version = 2
+build-uid = s2c
+build-product = SC2
+build-fixed-hash = ac7f194bbcc53430259ddd5283379831
+build-replay-hash = decad85d0321c68118adf9610164dc17
+feature-placeholder = true
+
