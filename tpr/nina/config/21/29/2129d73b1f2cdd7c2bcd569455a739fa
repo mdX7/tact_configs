@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 24b3a7ebf6138d7f5a61a1e03df2078a
+install = f6da9ac927de916ccbab649358548f68 126d8aef09692f2c6d3b85d6518ff0ae
+install-size = 1359540 1274770
+download = 599a38c94a0b8e4eb3cbc44b68e2e1f4 b0178e97d05e560c499438d9ac6a8f58
+download-size = 593730 516099
+size = b4570c03190f45c7c2177ddaa07f6303 0d3368f504dad00b461ec66281c8738c
+size-size = 383242 320160
+encoding = aa430e56bc7825ba9d8f44bc5900c310 c18b8e72637cd2814c7b9c206bad7cff
+encoding-size = 1498642 1498799
+patch-index = 2d34b2394b3d46f9e2299536a0d0f2fb a81f1728c8bcbbf7b67deb3023e3594c
+patch-index-size = 4311 3948
+patch = f88ecaac265f100bef386530990d5a29
+patch-size = 4080
+build-name = trunk_27582470B_cod22_sep_tu4_v2_signed_bnet_r_ship_r2
+build-product = nina
+client-version = containerless
+feature-placeholder = true
+
