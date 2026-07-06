@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 839172a10c8be301a78a1d36003c05ef
+install = 55c63351f1009d1b699ae9b0e9f4547c 20771f6816fed2517bb5097069038e5c
+install-size = 910083 875907
+download = 973e0aac1fbc89e7b5bc45c7a99ec2c1 a4d3ebc7078618ce89ce23162ea294c5
+download-size = 309335 275508
+size = 5b0dd1016e51aabdfd823521b3c8021d 1c12b24fbb40fb996e8f5d4dece8c330
+size-size = 196929 167716
+encoding = 562b6f35acdcd077905875bf6db9b95f d8cbef8c886eeb3118e0073bc8ff07fb
+encoding-size = 801007 801166
+build-name = main_27638726_cod24_sep_tu1_signed_bnet_r1_ship
+build-product = btlr
+feature-placeholder = true
+vfs-root = 18cc3749e6567fd273d194ff9ca07505 b7d69c21620a7f77bca9b7d3c59c33f3
+vfs-root-size = 656544 331088
+vfs-1 = 18cc3749e6567fd273d194ff9ca07505 b7d69c21620a7f77bca9b7d3c59c33f3
+vfs-1-size = 656544 331088
+
