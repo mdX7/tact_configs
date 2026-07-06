@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 8c8ddf3be05b51110cdb6d94c63a87f0
+install = c92be38f1c25cabf7c81614d6bda8e93 ba48ee4c3bc960e70cc39f6a8f9d8e5b
+install-size = 106 161
+download = b8369eac2f09fca4c827953743fd5e51 3e60bc103e6f2caf7765576d296524c0
+download-size = 99 180
+size = a901851ed6b1b8d57bf53d439857ad5a 791efbc9e182649dfc4c3f016952bef4
+size-size = 94 175
+encoding = 97199fa4967247105fcaf6514a3d6d3e cf8afb3b204c9bf94432141b3c70aa5c
+encoding-size = 8385 8551
+build-name = driver_03_25_2026_26405199_cod24_valkyrie_ship_ship
+build-product = herjabtlr
+client-version = containerless
+feature-placeholder = true
+
