@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 95fc61e3371e9aeeb99a6f434c0e410d
+install = a43ccbd4a3a808a01b3b9cc28ee4bebd 7424395afa330faf4669a99a23ce2206
+install-size = 3221631 3070459
+download = 6c7c0c9bffbbe36f1b76fcfadfde101c 1e247d26edb7d3bb9ce0e85fc80d23fe
+download-size = 1125612 977797
+size = 32a5d3fdbcfd59d0bee421a253bbc745 3327eb8f1d01db2813e1967d0fa0ea20
+size-size = 726475 605215
+encoding = 302f916e2a6a3f729c5ac6a01804f0a9 7bddd96a2843a2cc5bbdefa691dd71c0
+encoding-size = 2840248 2840408
+patch-index = 3c1ade5071bbd1440b04108a4adac016 5f1d9c2a3847b42b7d2be2a26179243b
+patch-index-size = 29570 22459
+build-name = release_27684429A_cod25_season4_75_signed_bnet_r_ship
+build-product = auks
+client-version = containerless
+feature-placeholder = true
+
