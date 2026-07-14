@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 9e4bbc5496cad12f82ba8d36c6780730
+install = 0afd0332a20fad383e00a8bf332d31c3 c0bd590cfc8b49ec307d51b6c9b7eb9b
+install-size = 4852 4599
+download = f1864846def295564c946152f7f49758 a0b4414168eaaa938edb3541303e6a53
+download-size = 40788375 35619720
+size = fa101cc10cf738e627e73e2db4a6f27d 357f5e6783e2989f1207abcce6505744
+size-size = 26250022 23315499
+encoding = 4e2813fdb32ebe497bb2bd7ae84ab20a de74cb2106f81777c5c86d5fcca5e667
+encoding-size = 103599614 103311546
+patch-index = c6c2ff42ad8001efaf4837b17a2f6671 98a170d81cd77482734db9128a8d3c16
+patch-index-size = 9965639 6318802
+patch = 25d1fb9bf5d3cc177348de7498933468
+patch-size = 4447155
+build-name = prometheus-2_23_1_0-151293-NexVal
+build-number = 151293
+build-branch = 2_23_1_0
+build-product = Prometheus
+build-uid = pro
+feature-placeholder = true
+
