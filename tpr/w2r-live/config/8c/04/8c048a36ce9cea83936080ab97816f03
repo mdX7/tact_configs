@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = 2954972bd8d3d6e68acde203ccd0b182
+install = 488a8ba7ddb076bee24fd379bcaaea01 bdd7cdf0043558856c97d3b54aecaace
+install-size = 107474 103998
+download = b3f2351ebe5643a7d8a244a34b1f7637 734d924bcfcc4a08c98df8c2aa22bc91
+download-size = 42797 39526
+size = 8639685c843e5399421cad7a9cd940d4 c74bb2ad2791a563de4a2a34a4140d9c
+size-size = 26718 23447
+encoding = 634c3bd39a3cb576f4fa81d3ed12cc0b 4793907f4179cf6be55094d8d13ed731
+encoding-size = 115738 115905
+patch-index = 41ee8497cb8409dac4a7b00340170732 91167226069b5a0fe981fda3b4bafbad
+patch-index-size = 4705 1984
+patch = d501492408d09324863642c188cf10fb
+patch-size = 2167
+build-name = 1.0.2.2818-retail
+build-uid = w2r
+build-product = War2
+build-comments = ubisoft build candidate
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = dbf40c31a74a3583aa5886d8494d11a6c1ecf695
+build-source-branch = master
+feature-placeholder = true
+vfs-root = e18a84e0a74464e1bbe02f19facad210 bc078df7ab7822e3cec39847ffc6f3b0
+vfs-root-size = 118348 83154
+vfs-1 = e18a84e0a74464e1bbe02f19facad210 bc078df7ab7822e3cec39847ffc6f3b0
+vfs-1-size = 118348 83154
+

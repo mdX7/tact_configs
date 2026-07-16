@@ -1,0 +1,29 @@
+# Build Configuration
+
+root = f3820b2de4f28a38301626c8232cfc69
+install = 97af142980c55cff26d380feed2a0b29 0225e88067da52dd33fad74c22a63a40
+install-size = 41023 39645
+download = ded86aeef650bb15c831e37cf714fd3b 70db2f261a11bb36a4d20bea1fe002d7
+download-size = 17945 16620
+size = e22dbf493ee7e4255203bdb3187b4305 6ec658848b1eca1545e440ea536a7b8f
+size-size = 11235 9910
+encoding = a36dfa06fd76b7e6af4b51f2f6cafb46 b10928ecc6c2b43be6e165ec7e762d98
+encoding-size = 53817 53984
+patch-index = 1b2acf3b2d54caeec751721f8c16c4fb 91c32570779c43897af53d564ad0d793
+patch-index-size = 7389 2818
+patch = 044f8b0814dfcca7780ec36354eb272c
+patch-size = 3225
+build-name = 1.0.0.2762-retail
+build-uid = w1r
+build-product = War1
+build-comments = ubisoft build candidate
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+build-source-revision = 05cfc0b3eb2927c3be1bd72e545a67200281d2ab
+build-source-branch = master
+feature-placeholder = true
+vfs-root = 33da478bde841a1bf300afa03cbf62ff ebf09eb8fa847c276ec2c6c1ef4195c3
+vfs-root-size = 48861 34795
+vfs-1 = 33da478bde841a1bf300afa03cbf62ff ebf09eb8fa847c276ec2c6c1ef4195c3
+vfs-1-size = 48861 34795
+
