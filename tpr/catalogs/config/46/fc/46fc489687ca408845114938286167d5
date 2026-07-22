@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 24b4fcd2abfa90a523e0592e0fbd9dfc
+build-version = 30
+build-name = 24b4fcd2abfa90a523e0592e0fbd9dfc-4914
+build-num = 4914
+build-branch = main
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 7b2c534257598c14cb3cc08c2a22afcf
+feature-placeholder = true
+
