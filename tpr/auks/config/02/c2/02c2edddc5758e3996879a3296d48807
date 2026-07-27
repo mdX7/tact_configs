@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = cec8cb451caac2e6285111e1cb500c56
+install = 898033db0f836e68ccbcce7afa660628 7c030c3c9fe153cccdb3c8180bcb4177
+install-size = 3249003 3096826
+download = 245eaacd6fffda6e74d56ebc6df7d8f3 9e6948e59ad821de11f9294a1524a655
+download-size = 1143454 993284
+size = e87b5445e9e5d47b19753565820ee382 be5cb07aaa74280f29225b3331b1dec4
+size-size = 737990 614905
+encoding = 66293cd77447b9533e6c821902dd403c 68db0b78eed7bd3841a5982eb5936642
+encoding-size = 2885656 2885814
+patch-index = 0a729a634f257ef7fbb56249d777a2de 55516b52dc5f96f1ab1c69c8601f9574
+patch-index-size = 45755 26821
+build-name = etu_27898773A_cod25_season5_signed_bnet_r_esp_ship
+build-product = auksesp
+client-version = containerless
+feature-placeholder = true
+
