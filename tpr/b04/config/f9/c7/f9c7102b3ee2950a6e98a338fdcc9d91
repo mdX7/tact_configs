@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 5de2ca163351459a004c16fecc486767
+install = 64c6f65c76a19c74a53612565529219b 693facef91b38122c51182d3e28924ed
+install-size = 4382 4203
+download = 02cf63edc04eb8c00f0f5c94596fab8d dde2b1e1bbf00741ad3450175bb97243
+download-size = 145435 132862
+size = 382139a797ed013ea971883b1683bbb4 efe116848ca7fee9df7a875eca0b8c61
+size-size = 91799 83567
+encoding = 89b12b45f2eccda6fc04bb18f1b2e63b dd7526c3a69e74597c9417bc02809a01
+encoding-size = 384062 384228
+build-name = live_27458377_rce_patch8_r_signed_ship
+build-product = viperv1
+build-uid = viper
+feature-placeholder = true
+vfs-root = acd01ddac028800df3122e665f2e71c5 1098ef3e4b2ab92dc6aea7f530f085e5
+vfs-root-size = 362863 154827
+vfs-1 = acd01ddac028800df3122e665f2e71c5 1098ef3e4b2ab92dc6aea7f530f085e5
+vfs-1-size = 362863 154827
+
