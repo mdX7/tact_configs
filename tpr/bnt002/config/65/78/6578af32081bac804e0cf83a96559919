@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 328b5e9f163dfc085a055912379beb92
+install = 16a8d1cf33e8158c1a9e1768e4ccfe47 6d9055abd9a0587e8a262b28aaeac9e2
+install-size = 131431 128768
+download = 9cd9f481a37fc748b5b801d2b185decb 478d8f82dd41577268251265cfa97ea6
+download-size = 23418 21256
+size = e4bbef5f931b09dd1a852885a6b198da 957e0e884c27be62d3ce2e72fdb8a71e
+size-size = 14836 12767
+encoding = d3604e523d15089f144e42227d1e3544 0e58c26dee05822d326faec05f704215
+encoding-size = 62068 62245
+patch-index = 83120954387cbf71b0e025fc3ccdfc32 34aa62b91ec278c837d92e299b311e07
+patch-index-size = 35693 13077
+patch = 3c08e8d2b0d6bbc30ae907a9de92d728
+patch-size = 17857
+build-num = 17652
+build-name = 17652_release_2.52.8-beta
+build-branch = release_2.52.8
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 20
+feature-placeholder = true
+
