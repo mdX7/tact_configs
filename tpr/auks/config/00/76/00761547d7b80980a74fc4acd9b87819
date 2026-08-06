@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 0e79a6b6c82e7138163425eb5568dee7
+install = 4c95d45b6ea95064004c7e12d4c47c86 2046e7ec0c7fae9dce2f7138711dbcc6
+install-size = 3249003 3096826
+download = ae6e3f28b987d73f207ef0363563d7c1 ed654f63e00a02a7d42fb9a1e1444690
+download-size = 1143454 993284
+size = 1019423ae6446b2bd715d51d1eccf671 aefe65da972a9f39e367b18f92135c72
+size-size = 737990 614905
+encoding = 8ff985273f222b3fbd4bcd9705ef9119 a3984af378e580b63b412b225a6f10d8
+encoding-size = 2885656 2885814
+patch-index = 20772f3d841c27593bb8b8fcd8b9caaa 1a8cf45521bb1a1513458761444f3878
+patch-index-size = 17415 15583
+build-name = etu_27898773E_cod25_season5_signed_bnet_r_ship
+build-product = auks
+client-version = containerless
+feature-placeholder = true
+
