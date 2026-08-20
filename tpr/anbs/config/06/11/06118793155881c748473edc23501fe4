@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = bcb8609368536415bde37981a3ac933d
+install = a1656f7cd08c475e999745962bbb4e77 166b167fdb8a6e217feb1625ef47da8c
+install-size = 153524 153300
+download = aede0daa7bb5a9d35c3676c56beffbd4 9ffd868f6fd22b36687d983df327b2d9
+download-size = 52367 52170
+size = fdb79af08193322590483b0cfc8977fb 58bc54d62fc55a4a46b34003fe3a2d61
+size-size = 31077 30880
+encoding = 786d626d66eeb678e6aa284962c492a9 c844d9dc85ad28f0692192920b3ff0dd
+encoding-size = 157005 157183
+patch-index = 40354d86d937d3db19148216135512f2 e358a610bd0024dc8c3dfbe2a1eec3e1
+patch-index-size = 1459 1339
+patch = 558d5db797c6600ba1971b3ddd89a978
+patch-size = 1429
+build-name = 3766396_504_prod_row
+build-product = anbs
+client-version = containerless
+feature-placeholder = true
+
