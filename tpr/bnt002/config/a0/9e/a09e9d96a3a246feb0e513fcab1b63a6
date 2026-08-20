@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 59641139d8f27651781e435c75b0df59
+install = 8f918e6cc7b952f38bc7352e4229a96f ee8f070d04fef2ad370748e7b0a90666
+install-size = 125951 123288
+download = fdcb10164a1695185b93805020983579 8397e633e8a466e6341218b80640726f
+download-size = 23418 21256
+size = b04a0ed1334d775a76013a96f37d8ec7 4a99bee9d9a4ea784d7744b85a18e629
+size-size = 14836 12767
+encoding = e3a7575c26958fcefa49d208f3f3ac68 e11512af861c7449b605846a72967aba
+encoding-size = 62068 62245
+patch-index = 7dbeff8cbf8d8e86aaf454d65f7f5249 bc7cd7b114647ad8b1da118b55da1a98
+patch-index-size = 35693 13086
+patch = 8071a21063b2e216be20190b33ef4aa2
+patch-size = 17857
+build-num = 17709
+build-name = 17709_release_2.52.9
+build-branch = release_2.52.9
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 22
+feature-placeholder = true
+
