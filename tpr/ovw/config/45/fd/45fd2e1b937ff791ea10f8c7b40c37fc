@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 3ca8ddd787dc5d173a6ad63f391e064d
+install = e657ab80916fc08e6326ae4d31686318 744d04fb1c872595843e96adad122afd
+install-size = 4495 4271
+download = 33b1a53061322184685d80b5b71ea640 512e5def2ea1799250520c039ecac821
+download-size = 41261251 36383916
+size = 35bf326df4af6c80546f60ea8d328e7a e6c35ced241d0c01c936cccc01b290ea
+size-size = 26407277 23811374
+encoding = 513212f7e14d058805ca61b50d6a2ed7 5e851e89f21feeb0cf43504fa83016cd
+encoding-size = 106764469 105739107
+patch-index = 25e558f83c03352c5b314ebf42bfd551 86a5f467e84fbaeacca3bb7b3028ea91
+patch-index-size = 27519 12154
+patch = 73a4f62a87156c9d66867ea287d50681
+patch-size = 17463
+build-name = prometheus-2_24_0_3-152850-CN-NEAC-BrowserUpdate
+build-number = 152850
+build-branch = 2_24_0_3
+build-product = Prometheus
+build-uid = pro
+feature-placeholder = true
+
