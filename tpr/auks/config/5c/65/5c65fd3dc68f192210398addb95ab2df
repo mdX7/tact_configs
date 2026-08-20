@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d698d43afc1af6d56d2752d7ab318143
+install = 36068adf3aa99f9a0cd516184c5ef94c 3c1e070e1319df73db4992c15cf42de3
+install-size = 259 272
+download = eaf070aa38081aa64984943247bbf2c5 0609e9f2a94d9b1c3ae7a020df7f664c
+download-size = 57665 52290
+size = 49ade659187d035e1fe3f4807a4c78d6 7d0a44cf99cfc0059c9924f2f4248769
+size-size = 36438 32670
+encoding = 30a99c7fd167bf57d6ab60cd9b7f1edf e38e49d6c485f80140a4ee8e6a268d72
+encoding-size = 274947 182203
+build-name = cert_28338667A_cod26_beta_tu1_signed_bnet_r_ship_ebgdl
+build-product = auksb
+build-type = BGDL
+client-version = containerless
+feature-placeholder = true
+
