@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 5481038652454f9d016e3c8e14fc80a9
+install = 5d2f085f33c6e030a94cff4c0420d3d0 9d74e354ae9e524ac9bdaf7d8a60b60b
+install-size = 106 161
+download = 97a7820f543a91d9b3f59830da59f729 37a230e2c5479e39e7941bb8b7a2e7b6
+download-size = 99 180
+size = c76abf385c4167a87a2d24175bfb51d2 a957c0b69c86d0d2f0cd5e4c65cb7607
+size-size = 94 175
+encoding = 265725b57b4b05e277166e8724af75f2 57fec8cb1f3152f848fe16c7fbe3e3f7
+encoding-size = 8385 8551
+build-name = trunk_driver_06_08_2026_28347379_cod26_beta_valkyrie_valkyrie_skuld_ship2
+build-product = skuld_auks
+client-version = containerless
+feature-placeholder = true
+
