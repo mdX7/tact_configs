@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 0846f24fb17c2322c05d9fe0b4cfe636
+install = 01ba12951b7ce192785c2720835cf7b8 39a23f206f2692c77d14089636016e31
+install-size = 125951 123288
+download = 72bc14440c8a0d89e7f3bad7087fc9cd 1f9719710d5f4060d3a9a9a2c1388072
+download-size = 23418 21256
+size = acc36b333e093248fa18ae62b538e511 be7fe175d937fd7b63fbd1d676a2b456
+size-size = 14836 12767
+encoding = 44e64af385961e02b78af4ee87360739 d0efaa71a67c13c5698ad3aaebecefac
+encoding-size = 62068 62245
+patch-index = 18350c8864ba538163fa228854abc431 b4d2bb09f8c70f4a11ceaa1d988c7485
+patch-index-size = 35693 13081
+patch = d7190961f3a7319ebd97b0a4a22487c8
+patch-size = 17857
+build-num = 17731
+build-name = 17731_release_2.52.10
+build-branch = release_2.52.10
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 22
+feature-placeholder = true
+
