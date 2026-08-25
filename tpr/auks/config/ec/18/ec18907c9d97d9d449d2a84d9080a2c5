@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 6df88915c997fb7dd7e3a7b506aa3996
+install = 6d8b462ca2d27130e69da883910e907c 0d4d380ff07d3b112d45805483f5557a
+install-size = 256968 247285
+download = 27831ef1059d141a4143d05663d7891a 1422b0031788551503e8a29de8cf9273
+download-size = 87953 79641
+size = 5a6213dd99c8394fb8eed32921f5f34a cc5f895056f587689c123c2c7bb8c47d
+size-size = 55548 49879
+encoding = 926f65764cde3d4678cc97489eac5cc7 585c8033a9e56b25ea8107577a42a338
+encoding-size = 235468 235629
+patch-index = 8bb7085579d8f060225fe6cff6aa306e e0c58172d78e14e8cc2406420ceba293
+patch-index-size = 515 516
+build-name = release_28484794_cod26_beta_tu2_signed_bnet_r_ship
+build-product = auksb
+client-version = containerless
+feature-placeholder = true
+
