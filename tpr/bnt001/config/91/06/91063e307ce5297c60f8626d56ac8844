@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 63e10fcb4bd9fdc7a96459e2e9236046
+install = 1beb9dcd6469ac23fa341aad70d558f5 3e314cbbc988759fcdfe629a2b0e98f4
+install-size = 4050 4113
+download = 5546661567ec7f3335481f1d28e659e3 c597ff4dc5d36ebafde5e661793a3de2
+download-size = 911 1003
+size = 128fd96b5eee910d7798381cb7fd1bc1 f30026cdeea2b5c9f11995f731f74932
+size-size = 564 658
+encoding = d93a9b87458526e7a3d4be9be7d5a28c c5125977590c4d95ea707ccf8ae6c7f3
+encoding-size = 8390 8562
+patch-index = 2a4916f4684e89d84a122d327d97d5f8 b5d58c3aa7be58c24087d195d825660a
+patch-index-size = 2021 895
+patch = 85a1ca570f1e57f4d1b758807c0d9193
+patch-size = 911
+build-num = 9775
+build-name = 9775_release_2.41.0
+build-branch = release_2.41.0
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
