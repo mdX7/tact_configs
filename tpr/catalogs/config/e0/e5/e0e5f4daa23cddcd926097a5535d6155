@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 3ade10e246ceed7ab5f12687ed8ef7c9
+build-version = 30
+build-name = 3ade10e246ceed7ab5f12687ed8ef7c9-5035
+build-num = 5035
+build-branch = main
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 6a7439f3488022a059c6f672eda783a6
+feature-placeholder = true
+
