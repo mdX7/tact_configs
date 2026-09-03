@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 4c7975a6172ff3519e649cbd79d2be09
+install = 2cc817adc3f34fd50945e47490576212 ea198d70cfd0631ddf95c275c9ff4b7b
+install-size = 125951 123288
+download = abb606de9dce30421063b5c1363d2f72 6026dfdf644583488fd20f2d30d86369
+download-size = 23418 21256
+size = b8349eda91beadd370bbd192667de053 e6aa6e7b6d21a40c1d2a1afa3bc8fe7c
+size-size = 14836 12766
+encoding = 8e8c2fc898d186068d7adc5f053d1a19 2353067424f692c830a3075d622d7605
+encoding-size = 62068 62245
+patch-index = a3c2945824bcba204c98f82cab8ff090 613c47d02a140685202e499c972652a8
+patch-index-size = 34229 12421
+patch = b0f4e1beaccc3b248532489dbdf2a488
+patch-size = 17089
+build-num = 17778
+build-name = 17778_release_2.52.11
+build-branch = release_2.52.11
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 22
+feature-placeholder = true
+
