@@ -1,0 +1,8 @@
+# CDN Configuration
+
+archives = 8d66ac32866c4b1a8f01be91442daf37 8e3c15778fa04317f7a0299fe73f27ae
+archives-index-size = 37108 8268
+archive-group = 46dd14eea83263927acc14dcdfc43ffb
+file-index = aff6762f33c4010cb80985d18463464e
+file-index-size = 4148
+
