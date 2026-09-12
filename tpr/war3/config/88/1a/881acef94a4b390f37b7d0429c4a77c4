@@ -1,0 +1,26 @@
+# Build Configuration
+
+root = b7796018a8297938db27c958a8bc79cb
+install = 4564199e73d42b4d46a2fbdc0c717fbf 71d74e376cedc2a3d5183494a1672b6d
+install-size = 119735 115801
+download = 43145510cb04ff11828d9d4e58ea6fd2 c52c49e194ea726e43f024787c92cdcd
+download-size = 45972 42373
+size = 88348b2a02de17c5e76eb249a1c00bb4 6b9a4f967fcdb6b069ce6ca1116ae0a8
+size-size = 28795 26372
+encoding = ffc09ca8a1252dad643c92b13a6d026a 8552488fa0b61c6b9f873b7393993a70
+encoding-size = 123994 124164
+patch-index = 2ca0984054b9851f24a30e42b7449ac0 2c573332135dd5407b7d77af68a51596
+patch-index-size = 923 516
+patch = 00f8a33dedf9dfd6cd8db0b6d42564b6
+patch-size = 581
+build-name = 1.29.2.9232-legacy-tft
+build-uid = w3-legacy-tft
+build-product = War3
+build-status = 0
+build-playbuild-installer = ngdptool_casc2
+feature-placeholder = true
+vfs-root = 05c8c9a3382ac00ba70178cabe3594e0 b2c3a46edcdde7b3f5c5db9ed4e2c784
+vfs-root-size = 140377 86426
+vfs-1 = 05c8c9a3382ac00ba70178cabe3594e0 b2c3a46edcdde7b3f5c5db9ed4e2c784
+vfs-1-size = 140377 86426
+
