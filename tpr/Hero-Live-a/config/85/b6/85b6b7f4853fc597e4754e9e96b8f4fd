@@ -1,0 +1,28 @@
+# Build Configuration
+
+root = 511141a38b06a0b3824d9cfe0532f551
+install = ff48872622a9cdbef6be657022f06ff8 ae727a2d4c65ae9195decd2e05515030
+install-size = 55581 53886
+download = e5d9a00544dedecfcc590d488b6e7a5e 44eee7adf2155193fead8e01d6072de2
+download-size = 25932483 22860819
+size = 66d92db9a8949e4e939d1e0f5a85dc81 d05c66e4e7b0e851ec1222734f9df696
+size-size = 16596859 14674160
+encoding = b55eb677f3da78f7239a8d33ff996595 b60b6bb70980210132f1b99ca50acbeb
+encoding-size = 92395205 92325697
+patch-index = 665dada5e2a8294700b1bdcf5688af1e cb26167b379afc8fdae81daf7c846f60
+patch-index-size = 1899 780
+patch = e616d372d600a8ad8b9c6d42d6f7008a
+patch-size = 844
+build-name = B98025
+build-t1-manifest-version = 2
+build-base-content-release-manifest-file-id = BaseContentReleaseManifest.xml
+build-base-content-release-manifest-hash = 6e37315ccefe5676a75733eb08b9de88
+build-content-release-manifest-file-id = ContentReleaseManifest.xml
+build-content-release-manifest-hash = d130b9d92a366daebbe4b60269922860
+build-release-name = Heroes.55
+build-uid = hero
+build-product = Hero
+build-fixed-hash = 85da18484dbea3f85d54d925434fcf20
+build-replay-hash = 417671b923a5ca0bad0f5bec63c2a68e
+feature-placeholder = true
+
