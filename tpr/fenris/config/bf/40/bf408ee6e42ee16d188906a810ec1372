@@ -1,0 +1,25 @@
+# Build Configuration
+
+root = 00000000000000000000000000000000
+install = 6be215badaa5e0b4c8cbc852f1d28a8c febe0a987af7bbcc846b45cd1149385f
+install-size = 5878 5423
+download = 1d5f05f44cb46432bd8d83e80ee858a4 6a844a6edf8327fe076433d4de90482e
+download-size = 42799077 36183417
+size = 4552e7cf5d154cae2dd7f2c904fe9f92 4a35030eb2987100411c3e0f9ea44afd
+size-size = 28125202 23102262
+encoding = 763c137bbf17582d0f2e3bbfa19b4fc2 f734e5acf0a2cc62699f28ea0eebf74a
+encoding-size = 110949893 105507975
+patch-index = f122bfbcae0503ece0086871d8470f7a c5e2fa1f30aae0f2f89a2552a55fddf9
+patch-index-size = 8433057 5125649
+build-product = Fenris
+build-name = 73552_Win64Client_3_2_1
+build-playbuild-installer = ngdptool_casc2
+build-uid = fenris
+build-timestamp = 09-01-2026 15:48
+build-creator = cbispo@blizzard.com
+build-comments = [24484053-24484129]3_2_1 - RC 5
+build-branch = 3_2_1
+build-type = BGDL
+client-version = 3.13.1
+feature-placeholder = true
+
