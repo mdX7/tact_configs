@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 40dc8efdd4ccdb723eb3fb8d68c4b9a3
+install = 331ce0ce16efd0da28771f62b478dc14 59bae2c63b34e88f73f63ac5639c10cb
+install-size = 4116847 3641478
+download = ae486ab174a22e5c5c594be1c45073af 0dd6148d527b68c27fd89c0cc6647d60
+download-size = 1473489 1009765
+size = 8060e2fb1bc51ec88b8069005af42293 694c211136d67f4575d2e277813e6b5c
+size-size = 1062508 656399
+encoding = 6fb85ba1a3b71edc46126bbc60ef99bf a830280d0606b79052b1e2137693b7e3
+encoding-size = 2922805 2922964
+patch-index = 915406da44a4510b8e465d7bdbfe7115 881cb86fe0dd5642d457313c452a8507
+patch-index-size = 443343 384352
+patch = 3f7c56ebada544f538338349d25e4876
+patch-size = 431839
+build-name = 251952_36.6.0
+build-product = Hearthstone
+build-uid = hsb
+build-token = ad0e14c4-9760-af73-d8ab-fa8450637a93
+client-version = 3.12.4
+feature-placeholder = true
+
