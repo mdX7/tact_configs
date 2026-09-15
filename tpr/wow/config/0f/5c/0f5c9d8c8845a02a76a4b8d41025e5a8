@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = 48df58caf57b35c2ab63785f4b6cd592
+install = 94b28ddd986e9464fe5dfbdc8ffc0ae1 f42f3a84768e48ca1a31044a03a7a597
+install-size = 5000 5059
+download = 97ae41b812d5e1472e7f370c932cf9ae 5001d72d8bad537a0d447b6fb65c8d1d
+download-size = 2232 2316
+size = e8f8fdd215af5bef1357f02cb6868633 f2b551faf4d96d0b3798fafc1f942f06
+size-size = 1336 1420
+encoding = ca96b148017118b792f4625ac466d6a1 21e6382086e06801ea0d5755b7ca1cdb
+encoding-size = 8387 8556
+build-name = dummy_build_wow_live_classic_beta
+build-product = wow_classic_beta
+build-type = Standard
+feature-placeholder = true
+
