@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2286ef8575e35ea8ded71e4981fabd9e
+install = cc4ad76f04c48e8c5fbd91152e92feaf e2b7dc152e68a0aefa6359442479acdf
+install-size = 3369678 3211486
+download = 43191b8806ca0686641df1e7aca4c159 d4b5a8c2ada58b31b98feace9490cbac
+download-size = 1164023 1011076
+size = 5cd11e85264b573a89bf9ff238440395 67c1e6f433a2db1a3a8dec2ad7357af4
+size-size = 751260 625713
+encoding = 686f8dbd903380cc8eabab8970714d8e 3fde4ba30b172467b583a40508f7bd43
+encoding-size = 2935193 2935348
+patch-index = 1ca656d7ba24b1526733e5964fd0e929 86aa2d0a2596ee2ee3594bc32a3fded8
+patch-index-size = 3991373 2190552
+build-name = release_28787707_cod25_season6_signed_bnet_r_ship_rel
+build-product = auks
+build-type = Release
+client-version = containerless
+feature-placeholder = true
+
