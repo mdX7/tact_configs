@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = a80d1da2f361a111e08babbe80f72a40
+install = 999f08c9bf0fd2c1710771600ea3e082 0ba4f1eacd7f3218b67e6563d8e1ff20
+install-size = 109 164
+download = 41bde381cc7af7f5a75045898e4049ea 9116e56afae539f4b848603f21c26aeb
+download-size = 99 180
+size = ee1c28fdf602f3c7c4affe955f0955a9 138f63d7c1c5bea43fa476187fbbde28
+size-size = 94 175
+encoding = ffb98895d49a8a59c7ff9fb49dc7baa2 a35368f60c4938f34b362a55373c0f8b
+encoding-size = 8385 8551
+build-name = release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship
+build-product = randgridauks
+client-version = containerless
+feature-placeholder = true
+
