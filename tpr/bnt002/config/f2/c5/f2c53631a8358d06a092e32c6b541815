@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = f3076638f7a8743c29db11480a190b5f
+install = 09974f1d39a42cec803027896389af12 314511a192632b065171201dc72f1315
+install-size = 131431 128768
+download = 9f132cef01b293e7ed7634890f43ccfc 245e31a83989d9e93ff9e1abe9de45d3
+download-size = 23418 21256
+size = 5e5172c9b6f9b12b5013efabb8c1a39d be9cfa372afe77032f6544c91c50310b
+size-size = 14836 12767
+encoding = f18792be32fa6c354646902f0b4e2dcd 25c6a7f6230c21d350008d5b6523c056
+encoding-size = 62068 62245
+patch-index = 02430e2e9384c7d195c1607256533a87 1a433968bc232d780b61fd9a1594aeac
+patch-index-size = 34229 12401
+patch = 19623ab6317ce39290549f56714de8ac
+patch-size = 17089
+build-num = 17822
+build-name = 17822_release_2.52.12-beta
+build-branch = release_2.52.12-beta
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 20
+feature-placeholder = true
+
