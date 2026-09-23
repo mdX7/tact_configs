@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 3ec2f7c98db33949ca419e8692f68022
+install = fb26cd8580cc4245b084135ef7dd90ca 85854e615abb5b27febd1c671c78e143
+install-size = 131431 128768
+download = 9b854f42291cb6d51b8bb5093f37a35e f2dbb8a07831df49458a609f5c6dc126
+download-size = 23418 21256
+size = 64f447430ee06f0aa9cd37caf2ce8c9e cdca8e82e6dbccb3c618ee334a3ba1ad
+size-size = 14836 12769
+encoding = ef921f8142b542727d5354f90759d301 721bde30d69bd5df332e5beb1784d85a
+encoding-size = 62068 62245
+patch-index = beb52c5f38c6bd713289dd108e095330 897f74644a8f076ca1e3e64acd905177
+patch-index-size = 35083 12810
+patch = 59061ea22e36bb78dbf8b56ba1202a0d
+patch-size = 17537
+build-num = 17841
+build-name = 17841_release_2.53.0-beta
+build-branch = release_2.53.0
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 20
+feature-placeholder = true
+
