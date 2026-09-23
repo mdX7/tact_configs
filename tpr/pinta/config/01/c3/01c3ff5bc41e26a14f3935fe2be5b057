@@ -1,0 +1,20 @@
+# Build Configuration
+
+root = 88c62fcbafc2ab412f8a7396641f60d3
+install = fdae59386811ceb28175a1c710eb5b51 9f6cd3fc39837c18a6a91105359225e1
+install-size = 1711846 1636087
+download = 2ee017081dcdf10188cdcb7cf4c2077a 623e945de0e5bcff202a435dc5fc5153
+download-size = 577966 511951
+size = bfe24d0be149885e28d30bff5eeeb034 3a82a9c39ea1f8a79e5d735938aef2d4
+size-size = 368936 314287
+encoding = 74543d0556043b8245ae2480dcf925ca af433b9c1fc4dc93bceae477666bb67e
+encoding-size = 1490386 1490544
+patch-index = 8a0eaac491807ba552af522fa206cd3a 280a0d7b6c29fe8e887011cea6ee5d0e
+patch-index-size = 888277 767779
+patch = 97f1f98a371c1141d0cf4d3d54aa3701
+patch-size = 934337
+build-name = cod23_sep_tu4_exe_patch_01_09_v2_signed_bnet_r_ship
+build-product = pinta
+client-version = containerless
+feature-placeholder = true
+
