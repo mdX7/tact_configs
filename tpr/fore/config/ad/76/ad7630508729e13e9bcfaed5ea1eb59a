@@ -1,0 +1,21 @@
+# Build Configuration
+
+root = 6dac7c7b069a071e2d82457ce680680a
+install = f15fa9b0cc5a4bdbde1f9f4a54d1e4c3 41d20bb8979e65002abb08e091ca3ac8
+install-size = 6391 6077
+download = dc89c8f27ef56011e971707d2d43b34f e81b7472e714f662e461768fe00e74df
+download-size = 248320 220579
+size = f2badfb83e14919865e94424f95a49f3 7e95f726d08c5c3ef3550449e6830a5b
+size-size = 158549 135756
+encoding = 4c8d9f0edb3d64e1ed1c82ae5ea34eef 59e4249deb498a8cb5619079bae90921
+encoding-size = 644128 644295
+patch-index = d0c91cb23cf853418da8cdf996a16771 20ca55096c68c2d4bb3854d34fe562f4
+patch-index-size = 6400 3661
+build-name = s4_tu28_08_18_signed__r_ship
+build-product = fore
+feature-placeholder = true
+vfs-root = fe3c2c4d647b30f32484d6fec48b4f04 ffc14db3fbea1927903bbc391538a7b2
+vfs-root-size = 699425 399002
+vfs-1 = fe3c2c4d647b30f32484d6fec48b4f04 ffc14db3fbea1927903bbc391538a7b2
+vfs-1-size = 699425 399002
+
