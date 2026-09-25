@@ -1,0 +1,16 @@
+# Build Configuration
+
+client-version = 9.99.99
+root = 00000000000000000000000000000000
+no-frame-encoding = true
+install = 5a1d62a08b00ad634f16146bca57cb49 2ff50e575bb7a803e1e4ac227d534356
+install-size = 39 81
+download = a5c940d430a301b05f0f1299f52d7041 a1ee82e7bac0645e1128b02bdbbaa8de
+download-size = 40821 29417
+encoding = 224e3421b7603cf53f692715ce1a8c51 4c729018562601d6f0a0b66d5cf27963
+encoding-size = 95023 95219
+size = f92d0f713b4c4f05ff33dd4c267be924 e1de6bab662d1a1c5a608c5625db17c5
+size-size = 23769 17280
+build-file-db = a392077f361c0ccf8dde4585bf42c3b8 dbf25c035bbbaf21170b70ff7319d886
+build-file-db-size = 45056 6315
+feature-placeholder-feature = true
