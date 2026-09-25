@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 42ad034ca466e66527fea342d817555c
+install = c989e0f52fb00891cbf83b9bdace0952 95c91d1f1f1d437944203475eea5a770
+install-size = 125951 123288
+download = f953ff8737077a1b804984ba12d10a47 f7f47740ea4ad420e98a1add9fb043a0
+download-size = 23418 21256
+size = 666bc2101c86dea3d35e1c13096c9e30 5243f9e6e865e518e2105d7973dd2a84
+size-size = 14836 12769
+encoding = fe97c999b1281994d6780f42f3ae9ea2 ffdf871292291c8d39be32238a4b011a
+encoding-size = 62068 62245
+patch-index = cd87330eff6710fe48ebee4306e1f30e 9b6dfe31e9c296e9680433c216795824
+patch-index-size = 35083 12819
+patch = 045f76e65d2af51cc0f12f4d87400cbc
+patch-size = 17537
+build-num = 17862
+build-name = 17862_release_2.53.1
+build-branch = release_2.53.1
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 22
+feature-placeholder = true
+
