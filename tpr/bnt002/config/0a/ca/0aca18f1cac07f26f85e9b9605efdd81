@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = 99986734c90e72b997273fbf88de0bb7
+install = 5838de47c06b8e6962edc98ddfc674d4 b6e96734a473b8d7bdd312656733adbf
+install-size = 131431 128768
+download = 8c4e5ae3180d3ea8dfcad914a4c6ba07 4d5f55230af2e907f234ffcd9000c1f8
+download-size = 23418 21256
+size = 1b39f190456cf4b6af50457245e1be2d 71f962a4bc1aaba761e9cc27ce09d7ab
+size-size = 14836 12769
+encoding = bd82c3dfb1403e37f5066aa510b8e010 e0f5bd407aab006329d0a2d6c801c275
+encoding-size = 62068 62245
+patch-index = 920e5afc4e8a351f090a553c3c0de592 ed92b6c589fdf5f2e98f2043ac8dee49
+patch-index-size = 35083 12803
+patch = 5cec6c1264246bbb55dd5d8969f63e86
+patch-size = 17537
+build-num = 17892
+build-name = 17892_release_2.53.3-beta
+build-branch = release_2.53.3
+build-attributes = public beta
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 21
+feature-placeholder = true
+
