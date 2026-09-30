@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 59da18e78b075029cfdd747ef366bc83
+install = 15dec1fd9cd4ca2b01ed7c6662352432 93ecdef31963512e8d98c4444b45bd99
+install-size = 4050 4113
+download = dfebf0f462e39f468a60bfd140c2105c c8840dd7c27737b2b2ee99259d158070
+download-size = 911 1003
+size = a6ebde7bfaa4ae76f3141f6f65087859 b2947c4073624655dc2a0870c6c7060e
+size-size = 564 658
+encoding = 1d1e433423fd555578bd7baad33cdaf3 5726228105e1de5038bab04316834e35
+encoding-size = 8390 8562
+patch-index = 89c0dfe0cdc36b9bdefdde220287a0b9 9124efa1a2c85ef23db7e66907254923
+patch-index-size = 2387 1031
+patch = 6cdb55cc219fcfe1f7785b0d617d0bb1
+patch-size = 1037
+build-num = 9824
+build-name = 9824_release_2.41.1
+build-branch = release_2.41.1
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
