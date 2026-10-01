@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = b48c4d2fb9a3b5b37bc7606d7d897543
+install = 391d8b6fc08788792bac3ce00e30ae2b 9a62b37e358d175c4621ea9cdb25f576
+install-size = 125951 123288
+download = fbdc2ac14bb6a823be0096f40e0458c4 ec9d247149154cd7775ac577b53dce88
+download-size = 23418 21256
+size = 8d87b9ad629d36b0e9aa2d77b809e970 efd28e5fe15920ead49b19bc63df8601
+size-size = 14836 12768
+encoding = fef55352bc8687dda1a9d3ce6d18b9fc 78a2d2c8296bf27cd357abcdeb2f0832
+encoding-size = 62068 62245
+patch-index = 5d6fb4a6d4887dfeceecd23d63974ff3 dbf23fc4960182e7dc23518c2d4467fc
+patch-index-size = 34229 12420
+patch = 752ff484f39aec6a9eee9ac324b60783
+patch-size = 17089
+build-num = 17896
+build-name = 17896_release_2.53.4
+build-branch = release_2.53.4
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 23
+feature-placeholder = true
+
