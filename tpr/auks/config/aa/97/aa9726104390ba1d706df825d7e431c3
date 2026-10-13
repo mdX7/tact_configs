@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 3dad100fdac8928bb2093f2e516b5168
+install = 6c132ef23367824142ffda102c59bd11 a491cef1f505abc7ad10e198e00b2c61
+install-size = 2680746 2550353
+download = 5c722a62fde5e888ffb06360f1c57e50 ec92e6a3b82f713e13d27572c4e6b10a
+download-size = 1364135 1179217
+size = 38978df0e07b2ecb3cea2aa7bc3941b6 a5880c9d143574fc34146929265e8030
+size-size = 882774 737586
+encoding = 290c5a517ee48b1092c80efbb34d9a4e 8f1173e0f27b5b23f55dc6946fa03aa1
+encoding-size = 6019502 3937401
+patch-index = 9468cd82a4b968ed910be65a56c7aec3 3c2b209705273714e3cd67ba7bd230b3
+patch-index-size = 51244 31449
+build-name = cert_29269881A_cod26_tu1_signed_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+client-version = containerless
+feature-placeholder = true
+
