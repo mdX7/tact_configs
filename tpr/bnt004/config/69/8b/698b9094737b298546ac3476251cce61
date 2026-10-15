@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = 5ddada285548098c61c01858419911f7
+install = 952a81933ef99b558af9cc5427daba50 f970bf66cc3c5be2d31bb14243f02ee1
+install-size = 4347 4409
+download = 1ad6da964113bb6ca38bbad68c45c925 82aff8f80a350a1b4ef3cb98fa5f12a5
+download-size = 1185 1273
+size = 06c14a4dbb5220c2b11f7bb487797095 b93108d325399b987dacf943e93a514a
+size-size = 721 809
+encoding = 09f7395d0f96ee5e68a80417b591a6b5 1d7c0bf6bc618c9536ea4cbf7e209a2b
+encoding-size = 8381 8554
+build-num = 4232
+build-name = 4232_bna
+build-product = Bootstrapper
+build-uid = bts
+feature-placeholder = true
+
