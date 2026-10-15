@@ -1,0 +1,17 @@
+# Build Configuration
+
+root = d04db87677365d32077dd276f75081e6
+install = 1543244dd13574d5dca5ddba39c8329d 88c9c0a87862d882a2e4714fb8260ce8
+install-size = 4813 4875
+download = 210242d0490fed62fa47fbb50846e375 199a7175cf614d69511815c63e6264f6
+download-size = 1207 1295
+size = ed743247ee68cba69a477944eeebd146 722ed04354f3f1a02f39cbb69fba4c74
+size-size = 734 822
+encoding = cb0d17623a62134123a12805c3a1e014 28524ad2b507a10acf6128e792b5e86a
+encoding-size = 8381 8554
+build-num = 4232
+build-name = 4232_wow
+build-product = Bootstrapper
+build-uid = bts
+feature-placeholder = true
+
