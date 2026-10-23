@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 09ade9996540c0abe9f6481f8ae3dbcf
+install = 04e0b4c77a3960b49e3eac89bd792a33 cac11bfe4a1e727cdb21129ebcc5e16f
+install-size = 3998926 3801366
+download = 86a5951674329b5ceb1ddcbbe2d58e00 5ba7f3eabfeeed289ae4481e4c490ec7
+download-size = 1397525 1208161
+size = 827f9e1412cbf438b88eff604d0afad6 b44c8b5d7af5e8cdc0d5d7313508752d
+size-size = 904383 759035
+encoding = ea733b0d6e96be6cfb98e6812579b470 43b1a27c5c1d385290aad06b6180d8ea
+encoding-size = 3508986 3509142
+patch-index = 093225686575d5e67a4d35c59c3f1fdc 247ba910e05b1003927633f702c64157
+patch-index-size = 15400 13748
+build-name = release_29444703C_cod26_tu2_signed_bnet_r_ship
+build-product = auks
+client-version = containerless
+feature-placeholder = true
+
