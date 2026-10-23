@@ -1,0 +1,12 @@
+# Build Configuration
+
+root = 31b9d5fa5dbbf40d4c5ee4d8d0040da0
+build-version = 30
+build-name = 31b9d5fa5dbbf40d4c5ee4d8d0040da0-5198
+build-num = 5198
+build-branch = main
+build-product = Catalogs
+build-uid = catalogs
+build-signature-file = 18278d421828956006061a232842093e
+feature-placeholder = true
+
