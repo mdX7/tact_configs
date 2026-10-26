@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 93b3e0a2eb8ae0f16748f2ee1a2e1937
+install = 52ba226ea1893dc464265f8db62dc8df 8356c6d09a4453879ba5e5f022b5df24
+install-size = 4050 4113
+download = a7906cc93044b3ba367d8df9d2448117 930a9d740386b45dbd52b9fbebbe43d3
+download-size = 911 1003
+size = 0fe66c25a018c861c2a483cd7eeb06c7 1c0c7f053ede297be16c13edbeb446be
+size-size = 564 658
+encoding = 311af97e4245f3e8218b6e16bf9cc384 8bdd19e70147ac873d6391c7fc0d133a
+encoding-size = 8390 8562
+patch-index = e6fce9ce4ec6e20a4cdb3250da35203f 0272734ab9ee995ba54e83d78239dc41
+patch-index-size = 2753 1158
+patch = ca2a1c75b1be7b01834600e9044b1f48
+patch-size = 1163
+build-num = 9852
+build-name = 9852_release_2.41.2
+build-branch = release_2.41.2
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
