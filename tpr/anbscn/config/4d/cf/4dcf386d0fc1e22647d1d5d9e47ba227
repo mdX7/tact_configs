@@ -1,0 +1,13 @@
+# CDN Configuration
+
+archives = 0be5c7775131eca9c7ea50490be4fd54 1e14b2e60e2cf445f18cc04e005471a0 1e45c64d51f718a863fc6ebb2f386419 403aa5869a7cfe784941f46f9547a1f8 567e07ba05c362c08d9fcea6e2d2bcc1 71c35ad3f8c68a45789aa32c7dc51cf9 76c80ffea5d6ff6f46c265ce67879302 fc5a58377441404b909cd9e20e5ed596 fe0f40317864af4eb03753759263d157
+archives-index-size = 12388 8268 4148 4148 4148 4148 4148 16508 4148
+archive-group = 2dfb42a1f99b50a74e56e9da6cfe812a
+patch-archives = 4031c5e9f6863b1ef688b1205b8ffd04
+patch-archives-index-size = 12388
+patch-archive-group = 0903e9aba2f80289bed8bfb6478f7937
+file-index = 0ad84323b214f10cb46c61732297c725
+file-index-size = 16508
+patch-file-index = e7d0ed9c231b177f0ce75914d22a93f4
+patch-file-index-size = 8268
+
