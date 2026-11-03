@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 40f0d3934675f168043febd151505c36
+install = ba1299151356696243345400e0dce27f 975e47284bbb4a4055cc55a9f3fb970c
+install-size = 20578 19680
+download = 5f88f3dd2bbdd6f292357bc0f3b928bb d6cbcca838b0e84b5d06c5a16245e6ce
+download-size = 42651789 37940777
+size = e44f1e9a193eae97e27ba4c3a8cc3b06 9a4b9072809e352c736478f9fb240f63
+size-size = 27142120 24772133
+encoding = 92fdb544900361a03c4da19ca3528414 dfe591c525eb9cd47d5dfb19e5da381a
+encoding-size = 110445304 110198564
+patch-index = 8db00f731e12ff7da38ce7a4d03552ab 5a49307b77d3f3dca812ab9033510fcd
+patch-index-size = 11288363 7314132
+patch = 04d66d0a15d30ccdb4c74323371e4080
+patch-size = 5051323
+build-name = prometheus-2_25_1_0-154905-KR-NGSX-BNET
+build-number = 154905
+build-branch = 2_25_1_0
+build-product = Prometheus
+build-uid = pro
+feature-placeholder = true
+
