@@ -1,0 +1,19 @@
+# Build Configuration
+
+root = 2bdc9252a0689eea480affa0e286918e
+install = 824f021ede36dd08a24801f6d508c0f9 cfc83393ad0b69fc30d7c8cf773b8705
+install-size = 2135767 2021863
+download = 4c26c5318718687c051f0e81cad68e47 0dff5a834b6c9a3c33ba07063d76e760
+download-size = 836309 719999
+size = 30895bbbb59131cfae276510b75fe175 bfb7d6d2aeaac681f2db29c40a667437
+size-size = 542688 458025
+encoding = 24ab09cdb5efcd5e07b5f2e7a921f805 7b6153621746b0e1594a423d358d4139
+encoding-size = 3572704 2387378
+patch-index = 4ecd164e045a5f8efee6230b0532b47f 533e3df46358c3660685fcc0f25e3b2b
+patch-index-size = 43036 27850
+build-name = release_29668454_cod26_season1_signed_bnet_r_ship_ebgdl
+build-product = auks
+build-type = BGDL
+client-version = containerless
+feature-placeholder = true
+
