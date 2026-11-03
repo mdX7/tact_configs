@@ -1,0 +1,22 @@
+# Build Configuration
+
+root = 401c83956b573b8b40e49dc800b4cc56
+install = bfea44d9c1d8c67135516d787f0a904f bfce923591ad3ff705894215e94fee72
+install-size = 4497 4299
+download = d27238d4935a24719917251cd4dffa23 25e7c8a90214dc5ae350a0cca4b70c1c
+download-size = 42744387 38022714
+size = 4a95352e706f2a56f24fe2cf42ae888c cebbb78a548aea68278e9657dd20183e
+size-size = 27201040 24825438
+encoding = a23698c448c3b9e472614909169d8cfc 414a1b36463310026e9e39d60f56909e
+encoding-size = 110684726 110437977
+patch-index = 453e1f5d1880bdbf0ac7ad90003343f5 12f49681e5e7d15a39fa94218677d5a9
+patch-index-size = 11267501 7291517
+patch = 6602a138e723cc1f356ea3dbec2a3425
+patch-size = 5036217
+build-name = prometheus-2_25_1_0-154905-CN-NEAC
+build-number = 154905
+build-branch = 2_25_1_0
+build-product = Prometheus
+build-uid = pro
+feature-placeholder = true
+
