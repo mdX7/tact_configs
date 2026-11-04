@@ -1,0 +1,24 @@
+# Build Configuration
+
+root = d4047eca5bb3928c7fa12fcaca0424c2
+install = 5816cfb04cc705fbce8fafc78ee9d48c b21b83e95bc67df0321a84c6d2067ab5
+install-size = 126010 123347
+download = 93d2e3195c882538e23f6c07eaff42be 14feacf16c7b6bed59fc86429bb079ec
+download-size = 23440 21278
+size = 44d957cfdf1f4b8f41ac2cf32e6cffe4 226425bb2d0622a234c9daab4a46f147
+size-size = 14849 12787
+encoding = bc8da4d21f2d264c2b939ffeb057c92e da5886d5117ebb645135281632b68c66
+encoding-size = 62068 62245
+patch-index = 269dba2f60066419cf08dd7e291f3b19 9f57ded15db5fef953e70dda66551f5c
+patch-index-size = 35693 13027
+patch = 997e26e0710eec1dbadbd5028931d7bd
+patch-size = 17857
+build-num = 17986
+build-name = 17986_release_2.53.8
+build-branch = release_2.53.8
+build-attributes = public
+build-product = Phoenix
+build-uid = bna
+build-critical-patch-seqn = 24
+feature-placeholder = true
+
