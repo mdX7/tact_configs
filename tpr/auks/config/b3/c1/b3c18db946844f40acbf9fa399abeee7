@@ -1,0 +1,16 @@
+# Build Configuration
+
+root = b1fff3a81a517cf371b3d6169593b03c
+install = 740e341650e766e530a5199bb5346759 331552ee4d6eae4cc827e22c97c11716
+install-size = 109 164
+download = ffa7063719e35a6f03aeadd61932b988 221114c4a045e498f8ea9dbaaaff46f2
+download-size = 99 180
+size = 1df0453a76aa6b50a53a77b6110c4e5b 0156ddd34063e92751871c1b1310ccfa
+size-size = 94 175
+encoding = e426f548d739a2710bc3284416c140e7 a23ce2e18623319e59251f6c2d520df5
+encoding-size = 8385 8551
+build-name = trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_ship_r
+build-product = randgridauks
+client-version = containerless
+feature-placeholder = true
+
