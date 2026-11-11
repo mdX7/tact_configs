@@ -1,0 +1,18 @@
+# Build Configuration
+
+root = 69c7d4eae752c7a0425ed4ef4d08cddf
+install = f4ecf57e613fe0751fb3069252e726d3 8a832df8817848c73efd1517ddfc0d80
+install-size = 2333350 2208558
+download = 5af705b94e3d360a8629328deb49fb03 31c3ee898baebf07c2764331de0878b7
+download-size = 861019 741290
+size = a0d740e9f397775c72664849a09be73c 3781aac6177350831211c2fc83e3a558
+size-size = 558713 472953
+encoding = 6dc3d2ac054a3e396fc4eca710672be4 9b7458575b55056d80b107fd76e2dfd0
+encoding-size = 2150871 2151029
+patch-index = 12a43255e3e308133f57fa415575b087 7bd327a95c2851cb22919b812bf8700b
+patch-index-size = 47510 26488
+build-name = etu_29836004_cod26_season1_0_1_signed_bnet_r_esp_ship
+build-product = auksesp
+client-version = containerless
+feature-placeholder = true
+
