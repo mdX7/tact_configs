@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = b675b8adedab1d1685ae1888fc1f070a
+install = 19d916a4adf8c1c4148fea931740542a 1ada36dc214a8d715651244b3558dbf2
+install-size = 4050 4113
+download = acfbc133bc83ab37d7102c9ea859da90 5e9d4394d11911c162c003342a02244c
+download-size = 911 1003
+size = bd6b5c3afab514744e9a15dfa29c9bdc 8befcaadc0f3e1e74697d6542e9b4670
+size-size = 564 658
+encoding = 42bec8c6e6a9a0b69058c4fb344d4c27 239b87291ad353f58b3306d265f5c096
+encoding-size = 8390 8562
+patch-index = 3e38c28c6a5993cf77940eabf7a46e3b 7fa271989e26dc507a108b4146248c5d
+patch-index-size = 3119 1284
+patch = 90a7df813af77ed0c5a515464f3a1a31
+patch-size = 1289
+build-num = 9873
+build-name = 9873_release_2.42.0
+build-branch = release_2.42.0
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
