@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 4ddc81375ae76d544d2d922623743e1a
+install = 17ba52f7e97e03206e2a28bf9bd8e5dc dee82b589bd1eb59a570aa5d3f0a254f
+install-size = 4050 4113
+download = 3d7796a78903875bcd60c11b98f02df3 7d3eb54bd52c0e53a5b260333b452859
+download-size = 911 1003
+size = 5569608def389224c92bfbf04fb7ed69 3e520b47e0a0a77aa2ae0f978a550949
+size-size = 564 658
+encoding = 1c7a564c348c5946daaa5df60c932227 9c8eb8b459ffe4fdae1ec54373cf8f46
+encoding-size = 8390 8562
+patch-index = caeec7d0ca6b084f5bb1e20bafb604f9 094428f641ff25711ebf99d5c8e890cb
+patch-index-size = 3119 1285
+patch = d4400869f21a94b93370720271bcc9f3
+patch-size = 1289
+build-num = 9886
+build-name = 9886_release_2.42.1
+build-branch = release_2.42.1
+build-attributes = retail
+build-product = Agent
+build-uid = agent
+feature-placeholder = true
+
