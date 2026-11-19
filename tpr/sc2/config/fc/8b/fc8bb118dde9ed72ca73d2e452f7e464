@@ -1,0 +1,23 @@
+# Build Configuration
+
+root = 630e8085137210b398cabb6029b996a7
+install = 5b4b8ec562f7be32b8e2f4b82f6ee946 53bbde19086cf479d64ee5dfcf683e03
+install-size = 71752 69672
+download = 69a4309f359ebb0ce0a51ace97247484 00080a6768b12f8754e3c6ca26d38f4a
+download-size = 15210771 13407180
+size = 9b960873190438364e94772fe407a7c8 a5eb02ce65d4c0e80d9124da5019ccbd
+size-size = 9734959 8731623
+encoding = d4dec3ee9f23337965fea5ead50f6cbd f8ead2f65b05692accd95323789cf82b
+encoding-size = 46345930 46193536
+patch-index = d570de7671385be31fab7410c9f02437 7f4e82c445e81920fae17fa918758559
+patch-index-size = 6779 2753
+patch = c51946e490c680468883c84df16f6fbd
+patch-size = 2965
+build-name = B98725
+build-t1-manifest-version = 2
+build-uid = s2
+build-product = SC2
+build-fixed-hash = bd6fe8ffef083c991c4166cdde56f4f3
+build-replay-hash = 5563dc35ec51d0464dc16b56b424c9df
+feature-placeholder = true
+
